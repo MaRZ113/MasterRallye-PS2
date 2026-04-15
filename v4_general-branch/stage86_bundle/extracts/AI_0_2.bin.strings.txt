@@ -1,0 +1,52 @@
+<AI No="0"+Z
+am'T
+enUIFormattedTextAI+
+Font#
+Frontend/QuickRace/Currentl
+ ID3p
+Offset
+Vector3'
+Horizontal Justification
+Vert\
+Max. Width 
+Heigh'
+Colour
+</AI+ 
+</Egg'e
+Ghostl
+Use en2 
+Freeza 
+#Hit 
+*F-45
+,@- 
+ype%P* 
+=4-?04 
+Erase 
+$-#<$,
+Y&lZ1h
++lZ'|
+ 0lZ>o!3d  
+iZf%lL
+\buttons\curved_smaller+pB+
+Z"ZX="
+ 6qb2
+B13 (
+'$H$(U-HX"
+Z6HX,h
+Z1$Nd
+ ID9AZ4 
+$UZX&
+\$tXx
+ng" Value="gaFrontendStandardButtonAI"/>
+ Name="
+ ID" Type="Int" 
+="5/
+Up Path2
+Right7
+Down7
+Lef 
+Enabled
+Bool'
+True>
+Pulse 
+</AI+

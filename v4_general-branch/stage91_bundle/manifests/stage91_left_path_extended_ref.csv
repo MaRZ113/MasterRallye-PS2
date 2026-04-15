@@ -1,0 +1,3 @@
+slot_owner,block_hex,classification,interpretation,reason
+AI_0_1.bin,1aec0104,extended_ref,non-local back/escape or parent scene link,Shared unchanged block across owner+companion; differs from u16 form used by Up/Right/Down.
+AI_0_2.bin,1aec0104,extended_ref,non-local back/escape or parent scene link,Shared unchanged block across owner+companion; stable despite different Up/Right ids.

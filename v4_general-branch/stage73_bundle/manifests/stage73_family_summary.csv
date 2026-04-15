@@ -1,0 +1,11 @@
+canonical_family,members,exact_clean,operational_soft_clean,alias_sibling,evidence_only,name_only,canonical_member_path
+challenge_preview_family_01,3,0,1,0,0,2,
+early_branded_preview_family_01,4,0,1,3,0,0,FMV\ELF3.PSS
+inventory_or_intro_fmv,1,1,0,0,0,0,
+late_branded_preview_family_alt_01,6,1,2,2,1,0,FMV\MASTER03.PSS
+late_branded_preview_family_alt_01,6,1,2,2,1,0,FMV\GO3.PSS
+late_branded_preview_family_alt_01,6,1,2,2,1,0,FMV\BFGOOD2.PSS
+microids_logo_fmv,1,0,1,0,0,0,
+page1_low16_bankroot,3,3,0,0,0,0,FMV\CHALL04.PSS
+page1_low16_bankroot,3,3,0,0,0,0,\FMV\TROPHY.PSS
+page1_low16_bankroot,3,3,0,0,0,0,FMV\BFGOOD1.PSS

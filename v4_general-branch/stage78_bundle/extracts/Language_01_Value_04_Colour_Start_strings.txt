@@ -1,0 +1,16 @@
+<Value Name="Colour Start" Type="Vector4"
+="1I
+End6P
+0.90 (
+Active*
+String'
+Frontend/Language/French/T
+</ga
+BackgroundFaderAI+
+</.@
+AI No="2"+
++L
+ame5
+(null)-T
+3 >
+_List'@

@@ -1,0 +1,21 @@
+file,token,approx_order
+AI_0_1.bin,enUITextButtonAI,1
+AI_0_1.bin,Font ID,2
+AI_0_1.bin,Null,3
+AI_0_1.bin,Index,4
+AI_0_1.bin,Offset,5
+AI_0_1.bin,Horizontal Justification,6
+AI_0_1.bin,gaFrontendStandardButtonAI,7
+AI_0_1.bin,Up Path,8
+AI_0_1.bin,Right Path,9
+AI_0_1.bin,Down Path,10
+AI_0_1.bin,Left Path,11
+AI_0_1.bin,Draw Priority,12
+AI_0_2.bin,enUIFormattedTextAI,1
+AI_0_2.bin,Frontend/QuickRace/Current...,2
+AI_0_2.bin,Font ID,3
+AI_0_2.bin,Offset,4
+AI_0_2.bin,Horizontal Justification,5
+AI_0_2.bin,Max. Width,6
+AI_0_2.bin,Height,7
+AI_0_2.bin,Colour,8

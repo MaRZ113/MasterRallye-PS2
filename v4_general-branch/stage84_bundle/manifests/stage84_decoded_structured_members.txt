@@ -1,0 +1,18 @@
+RaceResults.UiSelect
+  header: <Value Name="UiSelect" Type="Int">
+  default: 0
+  save_flag: SaveOptions
+  selector_chain: Index* -> String -> Null -> List
+  path_ref: Frontend/RaceResults/Points
+  layout: HeightSpac = 17
+  tail: </enUIBrowser -> </AI -> AI No="1" -> </Egg>
+
+RaceResults.List*
+  header: <Value Name="List*" Type="String">
+  inline_path: Frontend/RaceResults/Time
+  property_chain: Options -> HeightSpac -> Int -> 17
+  tail: </enUIBrowser -> </AI -> AI No="1" -> </Egg>
+
+Language.en2d FileType (reference transfer)
+  header: <Value Name="en2d FileType" Type="Int" Value="1"/>
+  gap/tail tokens: Image Bank Index -> Draw 2D -> Bool -> True -> Interpolated -> Visible -> ZBuffer -> 2dGlobal

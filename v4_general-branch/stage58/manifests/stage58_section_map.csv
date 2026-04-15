@@ -1,0 +1,5 @@
+section,start_hex,end_hex,size_bytes,marker_count_lno,clear_string_count,pathlike_count,note
+header,0x0,0x180,384,0,1,0,structured header / mode strings / scalar control words
+prelude_control,0x180,0xfd3,3667,0,2,1,dense numeric/control region before first clean path
+early_dictionary,0xfd3,0x1760,1933,41,10,6,first readable path fragments and small metadata islands
+main_entry_region,0x1760,0x21184,129572,2557,554,256,main marker-rich node/entry region

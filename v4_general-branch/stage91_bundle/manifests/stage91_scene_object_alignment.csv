@@ -1,0 +1,6 @@
+scene_object,kind,ai_no,role,supporting_signals
+QuickRace_AI_List_AI_List_02.bin,AI_List,,list_transition_root,"literal AI_List anchor, tiny container edge, used as shared Down candidate"
+AI_0_1.bin,AI,0,canonical_selector_owner,Index|Null|List|enUITextButtonAI|full nav quartet|Enabled
+AI_0_2.bin,AI,0,path_text_companion,Frontend/QuickRace/Current...|enUIFormattedTextAI|shared nav tail|Pulse
+AI_3_3.bin,AI,3,selector_button_variant,Null|List|ViewC|Font ID|Draw Priority|render extras
+QuickRace_AI_0_4_AI_06.bin,AI,0,formatted_text_or_title_variant,Null|enUIFormattedText-like tail|GS_TitleText-like token

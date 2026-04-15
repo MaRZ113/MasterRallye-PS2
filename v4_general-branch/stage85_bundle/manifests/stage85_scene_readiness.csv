@@ -1,0 +1,4 @@
+scene,result,best_decoder,notes
+QuickRace,partial_transfer_success,selector_button_member_v1,Selector/list semantics transferred into AI members; not yet a clean value member like RaceResults.UiSelect.
+RaceResults,canonical_reference,selector_list_member_v1,Still canonical clean structured member model.
+Language,supporting_reference,typed_int_render_config,Supports render-config companion branch for QuickRace en2d 2dGlobal.

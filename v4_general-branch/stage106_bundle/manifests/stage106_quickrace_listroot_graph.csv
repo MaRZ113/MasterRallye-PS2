@@ -1,0 +1,6 @@
+source,edge,target,status
+AI_0_1 owner render bridge,render_input_handoff,2dGlobal,strong
+2dGlobal,namespace_to_container,AI_List,strong
+AI_0_1 Down Path,compact_target,0x00F5,resolved
+AI_0_2 Down Path,compact_target,0x00F5,resolved
+0x00F5,scene_root_anchor,QuickRace_AI_List_AI_List_02,promoted

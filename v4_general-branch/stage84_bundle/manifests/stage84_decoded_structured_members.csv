@@ -1,0 +1,21 @@
+member,field,decoded_value,source,confidence
+RaceResults.UiSelect,member_name,UiSelect,header,high
+RaceResults.UiSelect,declared_type,Int,header,high
+RaceResults.UiSelect,default_value,0,inline literal,high
+RaceResults.UiSelect,save_flag,SaveOptions,gap token,high
+RaceResults.UiSelect,selector_key,Index*,gap token,high
+RaceResults.UiSelect,selector_value_type,String,gap token,high
+RaceResults.UiSelect,selector_null_policy,Null,gap token,medium
+RaceResults.UiSelect,list_source_member,List*,gap token List + list sibling correlation,high
+RaceResults.UiSelect,path_ref,Frontend/RaceResults/Points,gap token,high
+RaceResults.UiSelect,layout_property,HeightSpac,gap token,medium
+RaceResults.UiSelect,layout_scalar,17,gap numeric literal,medium
+RaceResults.UiSelect,tail_class,enUIBrowser,tail anchor,high
+RaceResults.List*,member_name,List*,header,high
+RaceResults.List*,declared_type,String,header,high
+RaceResults.List*,path_ref,Frontend/RaceResults/Time,inline path,high
+RaceResults.List*,property_token,Options,gap token,medium
+RaceResults.List*,layout_property,HeightSpac,gap token,medium
+RaceResults.List*,value_type_ref,Int,gap token,medium
+RaceResults.List*,layout_scalar,17,gap numeric literal,medium
+RaceResults.List*,tail_class,enUIBrowser,tail anchor,high

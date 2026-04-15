@@ -1,0 +1,8 @@
+file,a4_offset_hex,local_context,interpretation
+AI_3_3.bin,0x305,between GetSaveSize and en3d ZBuffered/background_path,variant owner render/value hoist zone
+AI_0_4.bin,0x226,after Colour/Vector3 tail near trailer/version bytes,variant trailer/render subblock
+AI_0_1.bin,0x123,between Up Path and Right slot,canonical nav-tail subtype compact owner-state
+AI_0_1.bin,0x12f,between Right and Down slot,canonical nav-tail subtype extended owner-layout tuple
+AI_0_1.bin,0x2ff,after Image Bank before Vector3 zone,secondary render/value subblock
+AI_0_1.bin,0x44d,after Colour before embedded True/value area,secondary value/trailer subblock
+AI_0_1.bin,0x642,between Image Bank Index and 2dGlobal,secondary 2d/render subblock

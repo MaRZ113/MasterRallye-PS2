@@ -1,0 +1,5 @@
+hypothesis,support,reason
+scene_root_prelude_assigns_shared_root_id,high,SceneRoot prelude tail contains 0000f5030000000b and 0x00F5 is shared Down target for owner/companion.
+owner_companion_ids_are_local_ordinals_not_strings,high,0x00EC/0x00ED/0x00F8/0x00F9 occur as compact LE u16 values immediately after nav tokens; no string-like material follows.
+AI_list_fabric_is_mid-layer_not_origin,medium,"AI_List object is only 14 bytes and looks like transition/root marker rather than full table, but shared Down target points through it."
+left_path_uses_extended_ref_family,high,1aec0104 is shared and structurally unlike u16 slots.

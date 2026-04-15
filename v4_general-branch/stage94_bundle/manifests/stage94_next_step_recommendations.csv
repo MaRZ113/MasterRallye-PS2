@@ -1,0 +1,3 @@
+next_step,reason
+Stage 95 = standard slot control_a/control_b semantics pass,Standard slot shape is now stable; remaining ambiguity is what control_a/control_b encode.
+Stage 95b = extended Left Path decoder,Left path now clearly segregated as extended back/escape ref and can be decoded independently.

@@ -1,0 +1,7 @@
+component,status,note
+standard slot header,resolved,[slot_tag][ordinal_le_u16][slot_class] now stable for Up/Right/Down.
+companion backlink mini-records,resolved,Companion Up/Right tails explicitly backlink to owner ordinals with mode byte.
+owner Up state triplet,structured_soft_clean,a40902 isolated as owner-state triplet; exact semantic labels still tentative.
+owner Right layout tuple,structured_soft_clean,a4072dc41001 isolated as owner-layout tuple; exact packed_ref meaning still open.
+shared Down root control,structured_soft_clean,3ee302 / 3ef700 tied to shared list-root ordinal 0x00F5.
+Left extended ref,structured_soft_clean,1aec0104 stable as back/escape family but not yet table-decoded.

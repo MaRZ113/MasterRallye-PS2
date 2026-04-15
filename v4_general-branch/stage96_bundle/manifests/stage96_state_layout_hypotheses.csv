@@ -1,0 +1,6 @@
+hypothesis,status,support,note
+owner tails encode state/layout payload rather than target ordinals,promoted,high,Companion tails already carry backlink-like ordinals; owner tails differ in both length and byte family.
+a40902 is a compact owner-state triplet tied to enabled/active mode,supported,medium,"Sits in owner Up slot, short fixed form, plausibly boolean/activation style."
+a4072dc41001 is an owner-layout tuple with embedded scalar 0x10,supported,medium,Longer form unique to Right slot; likely packs layout/render metadata not present in companion.
+0x2DC4 inside Right owner tail is a packed local layout/ref value,tentative,low,Looks ref-like but not yet mapped to object ordinals.
+Down owner/companion tails form a shared-list root control pair,promoted,high,Shared ordinal 0x00F5 and root-level evidence from Stage 93 support this.

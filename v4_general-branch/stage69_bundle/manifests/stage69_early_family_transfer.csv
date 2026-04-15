@@ -1,0 +1,4 @@
+name,decoder_family,field,transform,target_hex,pack_start_hex,snap_delta_bytes,status,duration,streams,codecs,dims,contact_sheet,notes
+GO2,early_u16_rootlink,pre_u32_m28,swap16 - 0x20000000,0x34554A3F,0x34554A3F,243,soft_clean_alias_sibling,5.161022,1,mpeg2video,512x256,GO2_pre28.png,Valid video but visually ELF-branded; likely sibling/alias rather than GO-specific exact match.
+FUJ3,early_u16_rootlink,pre_u32_m40,swap16 - 0x60000000,0x34310A11,0x34310A3B,42,soft_clean_alias_sibling,4.398033,1,mpeg2video,512x256,FUJ3_pre40.png,"Strong valid video with tiny snap delta, but visual content is ELF-branded rather than Fujitsu-labeled."
+ELF3,early_u16_rootlink,pre_u32_m28,direct - 0x90000000,0x38303030,0x38302B25,1291,operational_soft_clean,35.686767,1,mpeg2video,512x256,ELF3_pre28.png,Operational route with coherent Steel Monkeys / track preview content.

@@ -1,0 +1,1 @@
+<AI No="0"+X | String' | enUITextButtonAI+ | Font ID# | Int' | Null  |  Index3 | OffsetX | HJustification2 | </AI+

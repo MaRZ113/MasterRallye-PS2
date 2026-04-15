@@ -1,0 +1,5 @@
+major_family,occurrence_count,carriers,subtype_bytes,cluster_labels,zone_classes,best_read
+owner_nav_tail,2,AI_0_1,0x09,owner_nav_compact_state,nav_slot_tail,owner-side nav-tail A4 forms only on canonical owner AI_0_1
+owner_render_value,3,AI_0_1,0x09;0x13;0x33,owner_render_2dglobal_bridge;owner_render_curve_bundle;owner_value_trailer_bundle,render_or_value_subblock,secondary A4 owner bundles in render/value zones of canonical owner
+companion_embedded,1,AI_0_2,0x0A,companion_embedded_value_id,render_or_value_subblock,single incidental companion embedded A4 value/id block
+variant_owner_render,2,AI_0_4;AI_3_3,0x0C;0x32,variant_owner_render_hoist;variant_trailer_version_subrecord,variant_render_value_subblock;variant_trailer_subblock,A4 semantics hoisted into variant render/trailer carriers

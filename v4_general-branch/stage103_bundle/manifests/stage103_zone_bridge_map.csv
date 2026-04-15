@@ -1,0 +1,6 @@
+carrier,offset_hex,zone_before,zone_after,a4_position,best_read
+AI_0_1,0x642,file/image-bank zone,2dGlobal/list handoff,bridge center,canonical owner render bridge
+AI_0_1,0x2FF,image-bank/render state,formatted/font tail,bridge center,canonical owner formatted bridge
+AI_0_1,0x44D,curved_smaller style token,style/value trailer,trailer center,owner style trailer
+AI_3_3,0x305,GetSaveSize,ZBuffered/background_path,hoist center,variant render/value hoist
+AI_0_4,0x226,Colour/Width,s_Version,trailer center,variant trailer/version bundle

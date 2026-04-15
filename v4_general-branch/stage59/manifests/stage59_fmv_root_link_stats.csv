@@ -1,0 +1,13 @@
+path,string_offset_hex,era,best_root_link_delta
+FMV\FUJ3.PSS,0x5422,early_u16_reachable,6
+FMV\GO2.PSS,0x6d35,early_u16_reachable,1
+FMV\MICROIDS.PSS,0x786c,early_u16_reachable,0
+\FMV\CHALL02.PSS,0x8f62,early_u16_reachable,43
+FMV\INV1.PSS,0xd0d4,early_u16_reachable,106
+FMV\ELF3.PSS,0xf311,early_u16_reachable,53
+FMV\MASTER03.PSS,0x10f75,late_overflow_needs_bank,
+FMV\CHALL04.PSS,0x15fcb,late_overflow_needs_bank,
+FMV\BAGOO3.PSS,0x185aa,late_overflow_needs_bank,
+\FMV\TROPHY.PSS,0x1b34f,late_overflow_needs_bank,
+FMV\FUJ2.PSS,0x1c7f5,late_overflow_needs_bank,
+FMV\BFGOOD1.PSS,0x1d362,late_overflow_needs_bank,

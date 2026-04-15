@@ -1,0 +1,7 @@
+carrier,a4_offset_hex,zone_correlation,transfer_note
+AI_0_1,0x2ff,render/value zone between 2d Image Bank and formatted/text styling,owner canonical only so far
+AI_0_1,0x44d,late style/value trailer zone near curved_small(er),canonical owner only
+AI_0_1,0x642,2d file / image-bank-index to 2dGlobal handoff,closest match to transferable owner_render bridge
+AI_0_2,0x318,companion embedded zone,non-owner incidental
+AI_3_3,0x305,variant render/value hoist between save/render blocks,strong variant transfer
+AI_0_4,0x226,variant trailer tail behind colour/version markers,weak/late variant transfer

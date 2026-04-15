@@ -1,0 +1,19 @@
+file,decoder_class,field,value
+AI_0_1.bin,selector_button_member_v2,ai_no,0
+AI_0_1.bin,selector_button_member_v2,selector_key,Index
+AI_0_1.bin,selector_button_member_v2,selector_null_policy,Null
+AI_0_1.bin,selector_button_member_v2,list_ref,List
+AI_0_1.bin,selector_button_member_v2,tail_class,enUITextButtonAI
+AI_0_1.bin,selector_button_member_v2,frontend_button_class,gaFrontendStandardButtonAI
+AI_0_1.bin,selector_button_member_v2,nav_fields,Up Path|Right Path|Down Path|Left Path
+AI_0_1.bin,selector_button_member_v2,ui_fields,Font ID|Offset|Horizontal Justification|Draw Priority
+AI_0_2.bin,path_text_member_v2,ai_no,0
+AI_0_2.bin,path_text_member_v2,frontend_button_class,gaFrontendStandardButtonAI
+AI_0_2.bin,path_text_member_v2,path_ref,Frontend/QuickRace/Current...
+AI_0_2.bin,path_text_member_v2,tail_class,enUIFormattedTextAI
+AI_0_2.bin,path_text_member_v2,ui_fields,Font ID|Offset|Horizontal Justification|Max. Width|Height|Colour
+AI_3_3.bin,selector_button_member_v2_variant,ai_no,3
+AI_3_3.bin,selector_button_member_v2_variant,selector_null_policy,Null
+AI_3_3.bin,selector_button_member_v2_variant,list_ref,AI_List / List
+AI_3_3.bin,selector_button_member_v2_variant,tail_class,enUITextButtonAI?
+AI_3_3.bin,selector_button_member_v2_variant,variant_fields,ViewC|Font ID|Offset|HJustification|Draw Priority|Image Bank Index|2dGlobal

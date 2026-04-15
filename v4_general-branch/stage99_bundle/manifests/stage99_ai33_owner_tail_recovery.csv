@@ -1,0 +1,4 @@
+carrier,a4_family_seen,owner_tail_forms,status,evidence
+AI_0_1.bin,yes,a4 09 02 | a4 07 2d c4 10 01,confirmed_owner_family,Direct raw windows from Stage 97.
+AI_0_2.bin,no,none (3E backlink family instead),confirmed_companion_non_owner,Companion tails decode as backlink mini-records.
+AI_3_3.bin,not_directly_recovered,no raw A4 tuple recovered,indirect_variant_transfer_only,"Field/order transfer matches owner family, but raw tuple still occluded by variant-specific fields."

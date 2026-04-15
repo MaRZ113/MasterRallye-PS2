@@ -1,0 +1,4 @@
+submodel,decoder,status,notes
+swapped_bankhint_hiword_root/BFGOOD2 branch,post_u32_m4.swap16 -> nearest pack,strong_local_decoder,best visible branded preview; likely correct branch-local payload edge but not yet exact
+swapped_bankhint_hiword_root/CHALL06 branch,pre_u32_m28 - 0x50000000 -> nearest pack,sibling_or_alias_decoder,valid MPEG preview but semantics suggest branded/track-menu sibling rather than challenge payload
+swapped_bankhint_hiword_root/BAGOO3 branch,cand_u32_a - 0x40000000 -> nearest pack,degraded_evidence_only,evidence of same late bank fabric but visual output remains mostly black/degraded

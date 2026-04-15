@@ -1,0 +1,4 @@
+family_subtype,canonical_owner,variant_support,transfer_status,note
+render_2dglobal_bridge,AI_0_1 @ 0x642,"none exact, but semantically closest to AI_3_3 @ 0x305",partial semantic transfer,"canonical subtype remains strongest anchor; variant shows hoisted render/value semantics, not same field layout"
+render_curve_or_formatted_bridge,AI_0_1 @ 0x2FF,weak via AI_0_4 trailer,weak transfer,variant side carries trailer/version bundle rather than same formatted bridge
+value_trailer_style_bundle,AI_0_1 @ 0x44D,AI_0_4 @ 0x226,medium transfer,both look like late style/value trailer families

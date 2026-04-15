@@ -1,0 +1,7 @@
+hypothesis_id,name,status,detail
+H1,page1_low16_points_to_subgroup_anchor,supported,"For CHALL04/TROPHY/BFGOOD1, page_lift_target = 0x10000 + low16(cand_u32_b) lands inside a page1 subgroup span rather than behaving like a final TNG offset."
+H2,trail_u16_a_is_member_selector,supported_for_subset,"trail_u16_a is unique-ish per late FMV member and echoes elsewhere in the fabric, suggesting it acts as a local member selector inside the subgroup anchored by page_lift_target."
+H3,trail_u16_b_is_subtype_or_class_control,supported_for_subset,"trail_u16_b clusters at 0x0900 and 0x0600 for the page1_low16_bankroot subgroup, behaving more like a subgroup class/state than a payload size."
+H4,chall04_is_seed_for_page1_decoder,strongly_supported,"CHALL04 is the cleanest seed because its page1 anchor lands immediately before its own FMV record, allowing a first parser-grade subgroup decoder to be bootstrapped from a local forward resolution."
+H5,trophy_and_bfgood1_require_selector_transfer,supported,TROPHY and BFGOOD1 share the page1 subgroup model but do not resolve by nearest local string alone; they require a second step using member-selector semantics.
+H6,exact_named_fmv_to_tng_bridge_for_page1_still_pending,still_open,"Stage 61 upgrades the late-FMV model from page1 bankroot hints to subgroup-anchor plus selector semantics, but exact TNG start/size extraction is still one step away."

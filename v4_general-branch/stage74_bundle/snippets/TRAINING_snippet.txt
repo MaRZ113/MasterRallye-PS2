@@ -1,0 +1,82 @@
+XML key: TRAINING
+PAK path: SCREENS\PS2\TRAINING.XML
+TNG offset: 0x17ca2f6f
+Cluster: 2
+
+able,
+M& ""
+58L?"
+,XM|
+>$@M 
+"158+
+#R(="
+,D+l
+)?"x&*;<"
+Training
+a73+4
+"4=\s
+c7293 
+~`7:4.
+0s="$L;
+$L1"4P
+?"|R/
+?H; .
+757" 1
+<2 0
+&(=8`= /
+*D6h
+"l4,@
+QoLC
+A?$>9T
+A ;X
+A</'
+_#dA<,6
+'.6I
+GameOp"
+Format"
+"(x(A6
+A6d 
+A64&@6 
+?L6"
+35nF20
+ted~
+ ID3
+721 
+!%0C
+Horizontal J&
+Vert\
+Max. $
+335>a
+~G</>|
+Chooser*P
+Popup2
+$En"
+/MemoryCard/$
+4H)?p+#
+P|9-
+Current:
+FlashTrigger 
+bEgg
+Dummy
+8T3?x
+Arrow X ,
+U56"
+H00?G
+-23"lP
+ShowSelec6
+R~_</<
+Box+
+%*i(1 
+##Tk"Pk
+new/p
+s/%fUOr"
+N$8S
++p:#
+9"0q#
+R'p($tt
+Amr$
+Tx11
+Num Source )P
+Tes'X
+0@&JSs
+en2d

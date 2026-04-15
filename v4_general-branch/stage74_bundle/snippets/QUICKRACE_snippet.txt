@@ -1,0 +1,78 @@
+XML key: QUICKRACE
+PAK path: SCREENS\PS2\QUICKRACE.XML
+TNG offset: 0x17c9ebb3
+Cluster: 2
+
+51?(,"4)<X3 
+0l1-
+:;]35>
+(tI&
+n</'
+s_Version4>
+</SceneD
+  "8Q
+List(
+  <t
+"'Ie=""
+Select"
+QuickRace(t
+" %"8E
+"/'`
+'|6)aR
+Egg)
+R#M_0"L_
+"#H_
+1.0>
+3="16
+AI_`
+="F/
+1':6ONt
+$=" 
+6$4-
+Drop Shadow
+RpWiz
+RallyeCup*H
+z753'
+Rx7?h$"y: &@7a
+h8 ;X
+Master$
++8; 
+(Pg#&l
+226'
+A"`A"
+="a]
+*$Q62,
+#C4=
++0D"
+,PB#
+8$d&
+p0+4
+Enabl 
+Unlocker<
+ 16`
+Progress/OpU
+d"\x
+s/T1
+ t&-
+1 OR 23
+Cheats/
+Control AI5
+1?2m
+Invit
+n`u)?
+#,0*
+t)X;
+3d yql
+>D'1
+Row0*
+7#x7p
+63d   
+\new\b#
+4s\t"
+>$L0
+@199 
+@,P+1
+@5+L#1
+8*,h1
+@2$D*
+Challenge*

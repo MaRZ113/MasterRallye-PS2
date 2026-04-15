@@ -1,0 +1,6 @@
+hypothesis,evidence,status
+scene_objects_prefixed_by_32byte_big_endian_header,46 scene-like objects found with repeated header immediately before <Scene> marker,supported
+header_magic_is_0x3E0D0A11,"{""0x3E0D0A11"": 45, ""0xFFFFFF11"": 1}",supported_except_first_truncated
+fields_const_0101_200000_000B_are_structural_constants,"unique const_0101=3, const_200000=1, trailer=1",supported
+scene_blob_boundaries_can_be_approximated_by_next_header,Object samples are internally coherent and preserve text anchors when sliced from current header to next header,supported_practical
+cluster6_is_composite_frontend_bank_not_single_xml_file,"46 scene objects, duplicates for 10 scene families, mixed names like QuickRace/VehicleSetup/GameController/Debug",supported

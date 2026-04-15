@@ -1,0 +1,9 @@
+file,decoder_class,slot_name,offset_hex,raw_payload_hex,slot_tag_hex,ordinal_hex,control_a_be_hex,control_b_be_hex,slot_form,extended_ref_hex
+AI_0_1.bin,selector_button_member_v2,up_path,0x118,32ec003fa4,0x32,,0x32ec,0x003f,extended_non_u16_record,0x32ec003f
+AI_0_1.bin,selector_button_member_v2,right_path,0x126,37f80030a4072d,0x37,0x00f8,0x30a4,0x072d,standard_u16_ordinal_record,
+AI_0_1.bin,selector_button_member_v2,down_path,0x135,37f500343ee3024c,0x37,0x00f5,0x343e,0xe302,standard_u16_ordinal_record,
+AI_0_1.bin,selector_button_member_v2,left_path,0x140,1aec0104456e6162,0x1a,,0x1aec,0x0104,extended_non_u16_record,0x1aec0104
+AI_0_2.bin,path_text_member_v2,up_path,0x337,32ed00343e,0x32,,0x32ed,0x0034,extended_non_u16_record,0x32ed0034
+AI_0_2.bin,path_text_member_v2,right_path,0x346,37f900303ef800,0x37,0x00f9,0x303e,0xf800,standard_u16_ordinal_record,
+AI_0_2.bin,path_text_member_v2,down_path,0x353,37f500363ef7004c,0x37,0x00f5,0x363e,0xf700,standard_u16_ordinal_record,
+AI_0_2.bin,path_text_member_v2,left_path,0x35e,1aec0104456e6162,0x1a,,0x1aec,0x0104,extended_non_u16_record,0x1aec0104

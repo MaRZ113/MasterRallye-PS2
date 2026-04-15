@@ -1,0 +1,4 @@
+step_order,decoder_stage,source_field,read,result
+1,subgroup_anchor,cand_u32_b.low16 + page_index,page1 low16 anchor,shared page1 subgroup anchor for late FMV family
+2,member_resolution,(trail_u16_b << 16) | trail_u16_a,exact packed member key,exact named late-FMV member in TNG.PAK
+3,post_member_edge,pre_u32_m24,direct TNG pack start,exact named member -> TNG window bridge for page1_low16_bankroot subgroup

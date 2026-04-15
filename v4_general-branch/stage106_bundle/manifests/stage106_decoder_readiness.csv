@@ -1,0 +1,6 @@
+component,status,details
+2dGlobal role,resolved at semantic layer,"Best read is namespace/bank-scope token, not direct nav target"
+AI_List role,resolved at container layer,Concrete list/container family inside QuickRace scene
+0x00F5 target family,resolved,Shared list-root compact target anchored in scene-root prelude and Down Path
+byte-level A4 bridge internals,open,Exact byte semantics inside owner render bridge still undecoded
+exact 2dGlobal namespace byte decode,open,"Semantic role is clear, but byte-level internals still not bit-perfect"

@@ -1,0 +1,4 @@
+next_stage,focus,reason
+Stage 96,owner_tail a4-state/layout decode,owner tails are now the main undecoded local state carrier after ordinals and companion backlinks were stabilized
+Stage 96,down-path shared-root tail exact mapping,0x3e-prefixed down tails likely bridge from shared list-root ordinal 0x00f5 into scene-root/list fabric
+Stage 96,extended left payload structure,0x1aec0104 is stable but still opaque beyond back/escape semantics

@@ -1,0 +1,6 @@
+hypothesis,status,support,note
+"A4-family owner tails are state/layout records, not target refs",promoted,high,They do not repeat companion ordinals; instead they add owner-only metadata.
+a4 09 02 = compact owner-state triplet,supported,medium,Best fit is enabled/active style state record for the primary owner-side Up slot.
+a4 07 2d c4 10 01 = extended owner layout tuple,supported,medium,"Best fit is owner-side layout/state tuple with family, local selector, packed_ref, scalar, and mode."
+0x2DC4 is a packed local layout bucket/ref,tentative,low,No direct object/scene ordinal match yet; probably not a payload pointer.
+0x10 is a small layout scalar or policy code,tentative,medium,Stable scalar-like byte inside the extended tuple; worth correlating with Justification/Offset/Draw Priority next.

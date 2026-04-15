@@ -1,0 +1,5 @@
+slot,owner_slot_tag,owner_ordinal,slot_class,owner_tail_hex,tail_shape,state_layout_role,decoded_fields,confidence,evidence
+Up,0x32,0x00EC,0x3F,a40902,compact_triplet,owner_state_triplet_v1,state_class=0xA4 | state_id=0x09 | mode=0x02,medium,Short 3-byte owner-only tail; pairs with companion backlink 3e ec 00 02 and sits immediately before nav quartet.
+Right,0x37,0x00F8,0x30,a4072dc41001,extended_tuple,owner_layout_tuple_v1,state_class=0xA4 | state_id=0x07 | packed_ref=0x2DC4 | scalar=0x10 | mode=0x01,medium,Longer owner-only tail; structurally unlike companion backlink 3e f8 00 01 and likely carries extra layout/state payload.
+Down,0x37,0x00F5,0x34,3ee302,shared_root_triplet,shared_list_root_control,marker=0x3E | root_hint=0xE3 | mode=0x02,medium,Shared ordinal on owner/companion; owner and companion tails differ but both stay in 0x3E-prefixed shared-root family.
+Left,0x1A,,extended,1aec0104,extended_ref,back_escape_ref,family=0x1A | target_like=0xEC01 | mode=0x04,high,Stable identical payload on owner and companion; clearly not part of u16 ordinal family.

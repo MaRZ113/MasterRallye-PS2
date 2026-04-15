@@ -1,0 +1,33 @@
+<Value Name="Hitable" Type="Bool"
+="True"/>
++
+Draw Priority
+Int'
+Tick
+Egg Group2
+en3d Model
+String'
+Null>
+atrix
+Row0="0.00 ,
+" Row18i
+28i
+3/k
+1.0>
+22D
+Interpolated
+Visi
+ZBuffer
+frontend\new\language\flagsheet:
+`4:
+3="18
+I23
+Filex
+8*]
+Image Bank Inde'
+2d\
+2d
+2dGlobal
+0+
+Fals-l
+AI_List)

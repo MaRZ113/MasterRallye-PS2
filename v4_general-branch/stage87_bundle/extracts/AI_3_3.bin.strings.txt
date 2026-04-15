@@ -1,0 +1,67 @@
+0000: <AI No="3"+X
+0012: am'@
+0018: String'@
+0022: Null-@
+002f: _List'
+0038: </Egg(7
+0046: ViewC
+004c: Zts*L
+0056: Use en2 
+0065: Freezp3 
+0073: Hit 
+007b: Draw Priority
+0095: Tick 
+00a0: Group2
+00af: en3d Model
+00c4: atrix
+00cf: Row0="0.00 ,
+00de: " Row18i
+00ef: 1.0>
+00f6: 22'h
+0102: Interpolat 
+0114: Visibl'l
+0122: ZBuffer 
+013a: s\curved_smaller8
+0157: @`4:
+016b: 3="2
+0170: I89'`
+017c: Filep
+018c: Image Bank Inde'
+01a4: 2d  
+01b3: 2d  
+01ba: 2d   
+01c2: 2dGlobal
+01d3: *;#<AI,0
+01ec: ="< 
+01f2: enUIText$
+020e: Font ID#
+0231: 92+`
+0239: [Kdex3
+0249: fl="
+0250: 2="1
+025e: OffsetX
+027d: HJustification2
+02a3: ",&+
+02df: GetSaveSize*`
+02f7: 347 
+031c: 3?L> 
+0324: 3</)
+032d: %:NBG(
+033d: ackground(x
+0359: h"x^ ,
+038f: 'Value Name="en3d ZBuffered" Type="Bool" Value="True"/>
+03d2: 2d Model
+03df: String'
+03ea: frontend\backgrounds\bg_newnetwork>
+0410: atrix
+041b: Row0="1.00 0+
+042b: " Row1="
+044d: Fileh'
+0455: Int'
+0460: Image Bank Inde'
+0477: Draw 2D
+0485: Interpolat 
+0494: Visible 
+04a3: Fals>
+04ab: 2dGlobal3
+04ba: AI_List)`

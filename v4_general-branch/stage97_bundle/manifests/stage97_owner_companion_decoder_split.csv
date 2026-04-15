@@ -1,0 +1,4 @@
+comparison,owner_tail,companion_tail,inference,confidence,owner_tail_forms,companion_tail_forms
+owner vs companion Up,a4 09 02,3e ec 00 02,owner carries state triplet; companion carries backlink mini-record to owner ordinal 0x00EC,high,,
+owner vs companion Right,a4 07 2d c4 10 01,3e f8 00 01,owner carries layout/state tuple; companion carries backlink mini-record to owner ordinal 0x00F8,high,,
+owner family shared marker,,,A4 and 3E are distinct local record families: owner-state/layout vs companion backlink/root control,high,a4 09 02 | a4 07 2d c4 10 01,3e .. .. ..

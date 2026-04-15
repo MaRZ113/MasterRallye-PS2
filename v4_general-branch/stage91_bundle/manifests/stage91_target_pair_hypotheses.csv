@@ -1,0 +1,7 @@
+compact_ref,pair_family,proposed_member,role,confidence
+0x00EC,selector_pair_A,AI_0_1.bin,owner,medium
+0x00ED,selector_pair_A,AI_0_2.bin,companion,medium
+0x00F8,selector_pair_B,AI_3_3.bin,variant_owner,medium
+0x00F9,selector_pair_B,QuickRace_AI_0_4_AI_06.bin,variant_companion,low_medium
+0x00F5,shared_list_root,QuickRace_AI_List_AI_List_02.bin,list_transition_root,high
+1aec0104,shared_back_escape,scene_parent_or_back_action,extended_nonlocal_ref,medium

@@ -1,0 +1,4 @@
+priority,next_stage,focus,why
+1,Stage 75,XML cluster-local boundary / extraction pass,"Stage 74 established strong semantic PAK->TNG anchors for XML names, but not yet exact payload starts or blob boundaries."
+2,Stage 76,XML duplicate-bank differentiation,Several XML keys appear in repeated textual banks; need to determine canonical vs duplicated/frontend-cache copies.
+3,Later,GXI or PSB first non-video transfer after XML,"Once one XML class is extracted cleanly, the same addressing bridge can be tested on image/UI classes."

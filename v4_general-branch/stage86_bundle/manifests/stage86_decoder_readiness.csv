@@ -1,0 +1,7 @@
+decoder_class,status,readiness,notes
+selector_button_member_v2,new_primary_decoder,high,Best local AI/UI decoder class for QuickRace; runtime classes align with SLES and token fields are coherent.
+path_text_member_v2,supporting_decoder,high,Companion text/value member with explicit Frontend/QuickRace path and formatted-text tail.
+selector_button_member_v2_variant,variant_decoder,medium,Likely same family as selector_button_member_v2 but with view-controlled/render-config extras.
+list_transition_member_v1,supporting_transition,high,Tiny but stable list transition marker; good anchor for future local list decoder.
+null_tail_member_candidate,weak_candidate,low,Too sparse/truncated for reliable structured decoding.
+render_config_member_v1,known_companion,high,Already validated render companion; not selector/list primary.

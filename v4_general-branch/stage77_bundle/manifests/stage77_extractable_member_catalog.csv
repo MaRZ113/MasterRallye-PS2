@@ -1,0 +1,16 @@
+scene_name,member_kind,member_name,blob_file,strings_file,blob_size
+Language,Value,Hitable,Language_Hitable_Value_01.bin,Language_Hitable_Value_01_strings.txt,433
+Language,AI,AI_0_1,Language_AI_0_1_AI_02.bin,Language_AI_0_1_AI_02_strings.txt,584
+Language,Value,Colour Start,Language_Colour_Start_Value_03.bin,Language_Colour_Start_Value_03_strings.txt,1437
+Language,Value,en2d FileType,Language_en2d_FileType_Value_04.bin,Language_en2d_FileType_Value_04_strings.txt,188
+Language,AI,AI_0_2,Language_AI_0_2_AI_05.bin,Language_AI_0_2_AI_05_strings.txt,489
+RaceResults,Value,List*,RaceResults_List_Value_01.bin,RaceResults_List_Value_01_strings.txt,1310
+RaceResults,Value,UiSelect,RaceResults_UiSelect_Value_02.bin,RaceResults_UiSelect_Value_02_strings.txt,3235
+RaceResults,Value,en3d Matrix,RaceResults_en3d_Matrix_Value_03.bin,RaceResults_en3d_Matrix_Value_03_strings.txt,347
+RaceResults,AI,AI_0_1,RaceResults_AI_0_1_AI_04.bin,RaceResults_AI_0_1_AI_04_strings.txt,407
+QuickRace,Value,en2d 2dGlobal,QuickRace_en2d_2dGlobal_Value_01.bin,QuickRace_en2d_2dGlobal_Value_01_strings.txt,59
+QuickRace,AI_List,AI_List,QuickRace_AI_List_AI_List_02.bin,QuickRace_AI_List_AI_List_02_strings.txt,14
+QuickRace,AI,AI_0_1,QuickRace_AI_0_1_AI_03.bin,QuickRace_AI_0_1_AI_03_strings.txt,1648
+QuickRace,AI,AI_0_2,QuickRace_AI_0_2_AI_04.bin,QuickRace_AI_0_2_AI_04_strings.txt,920
+QuickRace,AI,AI_3_3,QuickRace_AI_3_3_AI_05.bin,QuickRace_AI_3_3_AI_05_strings.txt,1223
+QuickRace,AI,AI_0_4,QuickRace_AI_0_4_AI_06.bin,QuickRace_AI_0_4_AI_06_strings.txt,580

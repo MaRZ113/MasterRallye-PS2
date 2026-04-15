@@ -1,0 +1,7 @@
+field,primary_id_semantics,secondary,evidence
+up_path,scene-local compact target id,aux words likely state/layout coupling,"AI_0_1=0x00EC, AI_0_2=0x00ED; near-adjacent ids suggest paired selector/text companions"
+right_path,scene-local compact target id,aux words likely state/layout coupling,"AI_0_1=0x00F8, AI_0_2=0x00F9; again +1 between owner and companion"
+down_path,shared scene-local compact target id,different aux words per carrier,Both carriers expose 0x00F5 after token tail
+left_path,compound/extended scene-local target id,wider form than other directions,Both carriers expose stable 1aec0104 block immediately after token
+enabled_flag,bool state flag id,paired with literal True in both carriers,Enabled window leads into True literal and not into path/name data
+pulse_flag,ui animation/state flag,text companion only,Pulse appears only in AI_0_2 after enabled/true sequence

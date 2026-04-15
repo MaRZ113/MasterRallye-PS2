@@ -1,0 +1,3 @@
+name,status,reason
+GO2,alias_sibling_needs_family_context,"Valid video found, but current best route resolves to ELF-branded sibling material rather than GO-labeled content."
+FUJ3,alias_sibling_needs_family_context,"Strong low-delta operational route exists, but the visual payload appears ELF-branded."

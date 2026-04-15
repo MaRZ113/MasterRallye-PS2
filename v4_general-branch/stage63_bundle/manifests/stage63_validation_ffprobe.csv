@@ -1,0 +1,4 @@
+path,tng_window_start_hex,tng_window_end_hex,duration_s,codec,resolution,status
+FMV\CHALL04.PSS,0x32E14A2F,0x333D4A33,25.000,mpeg2video,512x256,exact_clean
+\FMV\TROPHY.PSS,0x3D9EFE11,0x3DC0FE15,24.960,mpeg2video,512x256,exact_clean
+FMV\BFGOOD1.PSS,0x31164E1A,0x315E4E1E,25.000,mpeg2video,512x256,exact_clean

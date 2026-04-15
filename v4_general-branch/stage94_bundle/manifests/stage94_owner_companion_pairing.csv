@@ -1,0 +1,5 @@
+slot_name,owner_slot_tag_hex,owner_ordinal_hex,owner_control_a_be_hex,owner_control_b_be_hex,owner_slot_form,companion_slot_tag_hex,companion_ordinal_hex,companion_control_a_be_hex,companion_control_b_be_hex,companion_slot_form,relationship
+up_path,0x32,,0x32ec,0x003f,extended_non_u16_record,0x32,,0x32ed,0x0034,extended_non_u16_record,paired primary ordinals (+1 owner/companion); local selector/text duo
+right_path,0x37,0x00f8,0x30a4,0x072d,standard_u16_ordinal_record,0x37,0x00f9,0x303e,0xf800,standard_u16_ordinal_record,paired secondary ordinals (+1 owner/companion); variant selector/text duo
+down_path,0x37,0x00f5,0x343e,0xe302,standard_u16_ordinal_record,0x37,0x00f5,0x363e,0xf700,standard_u16_ordinal_record,shared ordinal to list-root with carrier-specific control words
+left_path,0x1a,,0x1aec,0x0104,extended_non_u16_record,0x1a,,0x1aec,0x0104,extended_non_u16_record,shared extended back/escape ref across owner and companion

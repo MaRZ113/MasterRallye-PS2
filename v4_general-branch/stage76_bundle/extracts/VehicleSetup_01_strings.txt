@@ -1,0 +1,1169 @@
+<Scene>
+  <EggLists_Version4
+  <t
+ Name="VehicleSetup"
+Screen(
+  <Value
+Use en2d" Type="Bool" 
+="False"/'
+Freezable3
+Tru9
+Hit 
+
+Draw Priority
+Int'
+Tick;
+Egg Group2
+en3d Model
+String'
+Null>
+atrix
+	Row0="1.00 0+
+" Row1="
+-25.22
+Interpolate4<
+<H	
+Visi 
+ZBuffer 
+2d Fileh
+2d Image Bank Inde'4
+	L  
+	2d   
+2dGlobal
+AI_`
+  <AI No="0*r
+gaFE
+  </AI3
+</Egg'd
+="DescriptionText+
+1.93 
+3   
+ 
+enUIFormattedh
+  <1
+Font#&p#*q(2+
+Frontend/*
+ ID3x
+"".="
+>1d$h
+Offset
+Vector3'8:
+Horizontal Justifica"
+Vert\
+Max. Width2&
+56?-
+Heigh'
+Colour
+l6-t
+Drop Shadow
+"d)+D
+&p0+
+)<p0
+(null)-
+D3d@
+.9"dm
+"L, 
+Player"
+}*t_+h% 
+eezable" Type="Bool" Value="True"/>
+ 
+ Name="Hita 
+
+Draw Priority
+Int'
+Tick 
+Egg Group2
+en3d Model
+String'
+Null>
+atrix
+	Row0="1.00 0+
+" Row1="
+Fals90
+$	Interpolated3
+Visi 
+ZBuffer 
+;88'
+2d Filet
+2d Image Bank Inde'8
+	H  
+	2d   
+2dGlobal
+AI_List)4
+	  <AI No="0"+Z
+enUIFormattedTextAI+
+Font#
+
+Frontend/VehicleSetup/Playerp
+ ID3`
+~o="
+Offset
+Vector3'
+Horizontal Justification
+Vert\
+Max. Width2$
+Heigh'
+Colour
+20 /
+Drop Shadow
+</AI+ 
+</Egg'e
+="Ca
+Use en2 
+Freez 
+j1.2
+H",#-
+%.8 
+&.</)	D<l
+#@V	="Multistate(
+Screen"
+-9.48$l^/
+Z:lS 
+]f%$O
+\new\buttons\tiled
+]1#o]364 '
+]1=x
+]ga&
+]Tl]2
+I1H-"
+]6H- 2
+Suspension/
+ext+p
+$)^X&HW 
+ustification" Type="Int" ValuL
+1"/>
+ +
+	 Name="Width2
+Height3
+Box HJusti 
+Pulse
+Bool'
+True>
+Drop Shadow3
+</gaFrontendTextButtonTiledAI+
+</.@
+AI No="1"+
+  +D
+am'X
+String'`
+	MultistateAI/
+Enabled
+Up Pa4-
+5/|
+Down7
+List*
+/VehicleSetup/
+Suspension/Screen|
+Current`U #
+ForceUpdate6
+Null>
+	Lock Movemen7\
+t Chang'`+
+_lZ'
+</Egg(7
+Use en2 
+Freezx
+Hit 
+
+Draw Priority
+Tick 
+Group2
+en3d Model
+atrix
+	Row0="1.00 0+
+" Row1="
+-6.55
+Interpolat 
+Visibl4T
+ZBuffer 
+\new\b#
+"s\t"
+>zz=" >
+42cJ364x
+2d Image Bank Inde'
+2d :
+2d  
+
+2d   
+2dGlobal
+AI,L
+o="0 
+$@+%l.+
+Font ID#
+~n="
+#Z+="/d
+OffsetX2
+9V !
+Standardx
+Active AI2<0
+*$D9
+(null)-
+LeftArrow*
++\" 
+x4,(
+10.59 
+;}4ajss\
+B &,4$
+ 6w<326"N437#T4
+<2d  ?h4>x5 ?h4 
+enUIT'
+ ID =
+3Ic4
+" '+
+($B
+ Status6
+#sjend,
+).\s-|
+
+[$LK
+ility6
+A*X2
+v6Xv 
+       </AI>
+ 
+_List'L
+</Egg(4
+Egg Name="RightArrow"'x
+  <Value
+
+Use en2d" TypH
+Bool" 
+="True"/6
+Freezable 
+Hit 
+
+Draw Priority
+Int'
+Tick;
+Group2
+en3d Model
+String'
+Null>
+atrix
+	Row0="1.00 0+
+" Row1="
+3="-0.02
+
+11 `
+Fals9$	
+Interpolate 
+Visi 
+ZBuffer 
+frontend\new\aess
+577nI37
+2d Filex
+Image Bank Inde'
+	H  
+	2d   
+2dGlobal
+AI,$
+<AI No="0*
+enUITextButtonAI+
+Font ID#
+ IDWKdex 
+bl="
+2="/x
+ OffsetX
+HJustification2
+V !
+
+Drop Shadow
+=hb
+" '+
+gaF
+ Status6
+/VehicleSetup/)
++*x
+?h
+#U' 
+ility6
+</<8
+(null)-
+*B2</)
+DamperRate(}
+23+4
+-9.18$
+*3d :
+2b#L'
+s\tiled
+
+#d-&
+:42"
+$i!Tl]<,%/
+<T%:E31?
+#p 
+6I37+4
+9I35 
+)="3
+ ;X3,(Q1(
+ eX3
+Width2
+Box  "
+Pu"hP#
+/="+P5/
+"l+,@
+Co=" %
+Standard|
+x"+H
+$0M544,(
+505,
+Active AI2L	0
+5  )X4
+Slider 
+`4,,
+?`4,
+-20.75 
+e45#Vg26
+ Zd4
+e="en2d 2dGlobal" Type="Bool" Value="False"/>
+ 
+<AI_List)H
+	  <AI No="0"+[
+ Name="s
+String'
+	enUISliderAI+
+Button ID
+Int'
+Frontend/VehicleSetup/
+Suspension/DamperRat,
+tep Siz'd
+Min Coord
+356?
+X Offset2
+Min?
+ax -w
+Max>
+Real -
+</AI+
+endStandard
+Up Path2i
+Right7
+Down7
+?[Lef 
+Enable'@
+Tru0B
+	2 $
+Text
+Tiled< 	/
+Font ID#20
+Null>0	|
+ ID Index 
+HJustification2	
+Wid4P
+Box  "
+Pu"D( 
+Drop Shadow
+f%`,
+Image5
+15>@
+
+Active AI
+(0P	*$
+</Egg'T
+<Egg
+!Bar*
+Use en2 
+Freezt
+Hit 
+
+Draw Priority
+Tick;
+Group2
+en3d Model
+atrix
+	Row0="1.00 0+
+" Row1="
+-9.21
+Interpolat 
+Visibl'
+ZBuffer 
+\new\b#[=s\t"`%
+356gJ275x
+Bank$`%2
+2d :
+
+2d  
+
+P<  
+(null)-0
+"d,+
+&`M 
+@D 
+]Box 
+0#|&,
+#0/&
+%3d  
+018"
+/262x
+2d  
+%"d26
+a&(m 
+ext"/>
+ +
+<Value Name="Text ID#" Type="Int" 
+="0" 
+ Index 
+String
+Null 
+OffsetX
+HJustification3
+Width2
+eight2
+Box  "
+Pulse
+Bool'$
+
+True>
+Drop Shadow3
+	</gaFrontendla
+ButtonTiledAI+
+</.@
+AI No="1"+
+am'X
+Standardj
+Image ID
+Active AI 
+Up Pa4e
+R|z7
+Down7
+Left7
+Enabled
+(null)-<
+_List'
+</Egg(7
+Stiff*8
+Use en2 
+Freezd+ 
+Hit 
+
+Draw Priority
+Tick;
+Group2
+en3d Model
+/x"1
+atrix
+	Row0="1.00 0+
+" Row1="
+-8.78
++D
+0|
+Interpolat 
+Visibl'
+ZBuffer 
+;$$- >
+583wF294x
+2d Filex
+2d $,!
+Bank$
+	H  
+	2d   
+2dGlobal
+AI,
+#d!"U)o"
+)	enUIFormatte#
+Text*
+ SaveOp"
+4s="
+PlayerState
+758"
+;1 0
+'~u="
+*T< *
+Font3!
+2 + 
+Vector3'X9
+HorizG
+al ?P? ,
+Vertic 
+Max. 7
+Colour,
+3 0.19S
+36 #
++  7
+Loose 
+*,#0
+2:\,$
+U
+633i
+6 , -"!; &
+nt" Value="0" SaveOptions="False
+PlayerState
+/>
+ +
+ Name="Max. Height" Typ\
+Int" 
+Colour
+Vector4(
+.03 0.19 0.36 1.0 
+</enUIFormattedTextAI+2
+</.@
+AI No="1"+
+String'
+Null",
+_List'
+</Egg
+</)i
+Ride
+  <Egg
+Use en2d
+Bool'
+True+
+Freezabl'
+Hit 
+
+Draw Priority
+Tick 
+Group2
+en3d Model
+atrix
+Row0="h|
+ 0.00(
+" Row1="
+-9.88
+Interpolate 
+Visi 
+ZBuffer 
+frontend\new\buttons\tiled
+42bJ21l? 
+2d FL
+Image Bank Inde'
+2d :
+
+2d   
+2dGlobal
+gaFr
+]T_CdAI+$
+Font ID#
+	`-
+ IDWNdex3
+bo="
+ OffsetX
+HJustifica",.2
+Width2
+Box  "
+Drop Shadow
+"l++ 
+Standard|
+I'P#*M
+Active AI
+5+X4
+Slider 
+>`4,
+13.42 
+M,3<L*0X
+#X2 
+rf457$i46x
+d4"<U
+<|" 
+/VehicleSetup/
+Suspension/)
+G"<%-
+Step Siz'
+P*T#?
+Min Coor'
+-Max8
+42I&-,
+0@'-
+#h* '
+x% -
+Real -H
+d
+/
+b 30c0
+Up Pa5
+-q
+R"
+Down7
+Left7
+En" b'@
+Text
+; ILM?D
+0J5@O 
+<HM 
+M$4E
+$ELX2
+3HM?
+ "IIV :HM,8:dk-P
+%Hs1,}?4Q:DM
+t" Value="1"/>
+ +
+ Name="Pulse" Type="Bool" 
+="Fad
+Drop Shadow 
+
+</gaFrontendTextButtonTiledAI+
+</.@
+AI No="3"+
+  +T
+am'\
+String'd
+Standardj
+Image ID
+"Int'
+Active AI2
+_List'
+</Egg(7
+KBar*
+Use en2d
+True+
+Freezabl'
+Hit 
+
+Draw Priority
+Tick;
+Group2
+en3d Model
+Null>
+atrix
+	Row0="1.00 0+
+" Row1="
+-5.3
+Interpolate 
+Visi 
+ZBuffer 
+\new\b
+s\tp
+356gJ224x
+Bank Inde'
+2d :
+
+2d  
+
+2d   
+2dGlobal
+AI, 
+o="0*
+Font ID#
+ IDONdex 
+zn="
+4="/d
+OffsetX
+HJustification2
+Width2
+Height2
+Box  "
+(null)-0
+"d,+
+SliderBox*
+0#|&,
+#0/&
+%3dX
+%3 "
+018"
+/21l?$x9d
+0,0H1
+0&xT
+/VehicleSetup/
+	Suspension/R\
+'l	+p
+UH !
+ 8#<P5
+a   #050
+7`T+,"
+Up Pa4,@,p1|
+-MIR"$@7
+Down7
+Left7
+En"Tf 
+<Up 
+<,d$+
+3'\;#
+-8.78
+1.00"/>
+  
+      <Value Name="en3d Draw 2D" Type="Bool" 
+
+="False"/>
+ 
+	Interpolated3
+Tru>
+Visible 
+ZBuffer 
+2d Model
+String' 
+Null:
+atrix
+	Row0="1.00 0+
+" Row1="
+3="583v	24
+Filet<
+Int'
+Image Bank Inde'
+	2d  
+	2d   
+2dGlobal
+AI_List)
+	  <AI No="0"+X
+am'L-@
+enUIFormattedTextAI+
+y}<1
+Font#
+ ID3
+758 
+ IDKLdex3
+vl="
+Offset
+Vector3(
+Horizontal Justification
+Vert\
+Max. Width2$
+Heigh'
+Colour
+	3 0.19 0.36 d
+Drop Shadow
+r"</>x
+</AI+
+</Egg'd
+<Egg
+="Down*,
+Use en2 
+Freeza 
+#Hit 
+Priority
+Tick :
+Group2
+#8*  +&3d &
+ 6(&d
+)l'/
+-33e;  
+"D(-H3 
+-</)EC<l
+AntiRollStiffness((.)
+.t~(`
+-6.77$
+."('+t
+frontend\new\buttons\tiled
+\42"
+L16(
+2d :
+\1=t
+gaFr
+]Tl]2
+]6![1,
+H/u  $%]X 
+]3?l58}]6>
+Box  "
+y2Tz/
+"PY+ 
+ #l^(
+Standard|
+<Value Nam
+
+e="Image ID" Type="Int" ValuL
+10"/>
+ +
+
+ Name="Button5
+Active AI2
+</gaFrontendStandardTileAI+
+</.@
+AI No="2"+
+  +(
+String'(
+Null-8
+_List'0
+</Egg(7
+Slider*4
+Use en2d
+Bool'
+True+
+Freezabl'
+Hit 
+
+Draw Priority
+Tick;
+Group2
+en3d Model
+>h	1
+atrix
+	Row0="1.00 0+
+" Row1="
+-44.31
+Fals9(	
+Interpolate 
+Visi 
+ZBuffer 
+\new\b
+s\tiled
+457kJ165x
+Bank Inde'
+2d :
+
+2d  
+
+2d   
+2dGlobal
+AI,0
+o="0*
+enUI
+$=#*
+/VehicleSetup/
+
+Suspension/AntiRollStiffness/P
+Step Siz'
+Min Coor'4
+356?
+X Offset
+Min 
+Real 4
+"|)+H
+dG *
+Up Path2
+Right7
+Down7
+Lef 
+En",.'
+Text
+"	8d< 	/
+="Font ID#20
+ ID$
+"2'="
+$=" 
+HJustification2
+?iV !
+Wid4P
+Box  "
+6%\H+d
+0H7xX-`
+Drop Shadow
+M0P	*$
+,D17{JBar*H!+
+?mJ3+
+7.77 
+kJ356"OJ173x
+1? ; 
+(null)-0
+"d,+
+&`M 
+@D 
+ <Value Name="AI
+" Type="String" Value="(null)"/>
+ '
+</AI)@
+_List'L
+</Egg(7
+liderBox"'w
+Use en2d
+Bool'4
+True+,
+Freezable 
+Hit 
+
+Draw Priority
+Int'
+Tick 
+Group2
+en3d Model
+Null>
+atrix
+Row0="0.00 ,
+" Row18i
+1.0>
+Interpolate 
+Visi 
+ZBuffer 
+frontend\new\buttons\tiled
+3="318rJ16(X	l
+Image Bank Inde'
+
+2d  
+
+2d\
+
+2d  
+
+2d   
+2dGlobal
+Fals-J
+AI,0
+o="0*
+gaFr
+TextB
+]T[CdAI+ 
+Font ID#
+/VehicleSetup/
+
+Suspension/AntiRollStiffnessh
+ 
+ IDKUdex3
+uu=.
+OffsetX
+14> 
+HJustification3
+Width2
+eight2
+Box  "
+%0*+
+Drop Shadow
+1 $`
+Standardx
+I'($ 
+Active AI
+Up Pa4d
+R|z7
+Down7
+%xO-X
+Left7
+En"d6 
+:  7
+-8.78
+ OO<583#N<92x
+2d :L<,4
+$,! 
+enUIFormattedText2
+<3$8,p
+6%;7+
+9%;3?
+   (;$
+Vector3'@Y
+Horizontal ?h9?|
+Vertic 
+Max. 7
+Colour,
+3 0.19S
+36 /P
+9>t7
+91,7
+,\Q7
+Loose 
+-)%3<h` 
+-33n
+"Bool" Value="True"/>
+ 
+ Name="en2d Interpolated" Type="Boo 
+Visible 
+ZBuffer 
+2dGlobal3
+Fals-
+AI_List)\
+	  <AI No="0"+Z
+String'
+enUIFormattedTextAI+
+q0<1
+Font#
+Int'
+Null 
+ ID3
+CLdex3
+
+Y=" 
+Offset
+Vector3'
+0.00 '
+Horizontal Justification
+Vert\
+Max. Width 
+Heigh'
+Colour
+3 0.19 0.36 1.0?h
+Drop Shadow
+k/>t
+</AI+
+</Egg
++</)y
+Stiffness(
+<Egg
+liderBox(t
+Use l
+Freeza 
+Hit 
+
+Draw Priority
+*}3+
+Tick 
+Group2
+en3d Model
+atrix
+Row0="'
+ Row18i
+$3d  
+$3d   
+frontend\new\buttons\tiled
+
+it 
+@d4(
+3="318s
+313x
+Image Bank$
+2d  
+gaFr
+]TYCd2 /9
+"@/6X- 
+/VehicleSetup/
+Suspension/-
+d3 0 
+nu="
+$10X 
+14>!
+0?07
+Box  "
+Pu"<? 
+"`,+
+ #|1(
+Standardp
+x"+@
+I' $*
+Active AI2<0
+</6,
+Up Pa4
+Down7
+,x3p
+Left7
+En"\6 
+/.p@6
+(null)-
+8~=  )
+Text 
+3#x4(
+4#h4
+-0.65
++@
++x
+200N0
+<42"
+k(<$h
+"\* I
+<1?T#d
+;?d* "
+     
+<Value Name="Drop Shadow" Type="Bool" 
+	="False"/>
+
+</gaFrontendTextButtonTiledAI+
+</.@
+AI No="1"+
+  +X
+String'P
+Standardj
+Image ID
+Int'
+Active AI2
+Null-8
+_List'
+</Egg(7
+Slider*4
+Use en2d
+Tru,,
+Freezabl'
+Hit 
+
+Draw Priority
+Tick;
+Group2
+en3d Model
+/h	1
+atrix
+	Row0="1.00 0+
+" Row1="
+-17.34
+Interpolate 
+Visi 
+ZBuffer 
+\new\b
+s\t`
+457kJ318x
+Bank Inde'
+2d :
+
+2d  
+
+2d   
+2dGlobal
+AI,0
+#<"H"
+o="0*
+enUI
+/VehicleSetup/
+
+Suspension/Sp"X&
+Stiffness+ 
+Step Siz'
+Min Coor',
+356?
+X Offset
+Min 
+Real 2
+
+x
+/
+"\)+(
+lF *
+Up Path2
+Right7
+Down7
+Lef 
+Font ID#20
+/d*-0	|
+ ID$
+HJustification2
+Wid 
+Box  "
+M0P	 
+,$17[JBar*`1+0
+?LJ,
+GJ356"*J32
+2d  
+12?
+	ontendTextButtonTiledAI>
+ '
+</.@
+AI No="1"+
+  <Value Name="p
+ame" Type="String" 
+="(null)"/+
+_List'
+</Egg(7
+Stiff*8
+Use en2d
+Bool't
+True+l
+Freezabl'l
+Hit 
+
+Draw Priority
+Int'
+Tick;
+Group2
+en3d Model
+Null>
+atrix
+	Row0="1.00 0+
+" Row1="
+-8.78
+Fals9$	
+Interpolate 
+Visi 
+ZBuffer 
+583wF345x
+2d FX
+2d Image Bank Inde'@
+	H  
+	2d   
+2dGlobal
+AI,
+o="0*t
+	enUIFormatte#
+ AI+
+ont#
+ ""*
+ ID3
+ IDCLdex3
+
+Offset
+Vector3'
+Horizontal Justification
+Vert\
+Max. Width2$
+Heigh'
+Colour
+	3 0.19 0.36 /
+Drop Shadow
+</>t"
+Loose*P
+-33m
+-58>t*"
+-?$'
+-</'
+\#$.t
+s_Version4>
+</Scene

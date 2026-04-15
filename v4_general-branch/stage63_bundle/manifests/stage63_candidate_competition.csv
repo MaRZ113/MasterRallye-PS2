@@ -1,0 +1,7 @@
+path,candidate_kind,candidate_value_hex,transform,candidate_start_hex,snap_delta,duration_s,visual_result,rank
+FMV\CHALL04.PSS,direct_pre_u32_m24,0x32E14A2F,none,0x32E14A2F,0,25.000,strong challenge FMV,winner
+FMV\CHALL04.PSS,cand_u32_a,0xE4005F80,-0xB0000000 then nearest pack,0x34004A3B,-5445,22.520,valid Renault challenge preview but not exact member edge,secondary
+\FMV\TROPHY.PSS,direct_pre_u32_m24,0x3D9EFE11,none,0x3D9EFE11,0,24.960,strong trophy/checkered globe FMV,winner
+\FMV\TROPHY.PSS,cand_u32_a,0x04006088,none then nearest pack,0x04006400,888,11.100,mostly black/weak alt clip,rejected_alt
+FMV\BFGOOD1.PSS,direct_pre_u32_m24,0x31164E1A,none,0x31164E1A,0,25.000,strong BFGoodrich-branded FMV,winner
+FMV\BFGOOD1.PSS,cand_u32_a,0x6C005F8D,-0x30000000 then nearest pack,0x3C004A43,-5450,16.200,valid but weaker/alternate branded clip,secondary

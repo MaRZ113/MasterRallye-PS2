@@ -1,0 +1,8 @@
+node,id_anchor,role,relationship
+SceneRoot,0x00F5,allocator_anchor,exports or mirrors shared list root id
+QuickRace_AI_List_AI_List_02.bin,0x00F5,shared_list_root,Down target from owner and companion
+AI_0_1.bin,0x00EC,primary_owner,Up/self-or-primary selector target
+AI_0_2.bin,0x00ED,primary_companion,Up companion-side target
+AI_3_3.bin,0x00F8,secondary_owner_variant,Right target from owner
+QuickRace_AI_0_4_AI_06.bin,0x00F9,secondary_companion_variant,Right target from companion
+LeftPath,1aec0104,back_escape_ref,Shared extended ref

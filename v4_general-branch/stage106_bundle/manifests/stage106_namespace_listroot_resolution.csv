@@ -1,0 +1,5 @@
+token_or_target,resolved_role,layer,is_nav_target,best_support,confidence
+2dGlobal,render_global_namespace_token,render namespace zone,no,AI_0_1 @0x642 places 2dGlobal after A4 bridge and before AI_List; Language en2d FileType also ties 2dGlobal to render config family,high
+AI_List,scene_local_list_container_family,list handoff zone,indirect,Only explicit local list object in QuickRace scene and direct downstream of 2dGlobal handoff,high
+0x00F5,shared_list_root_compact_target,nav resolution zone,yes,Owner+companion Down Path converge on 0x00F5 and Stage 93 root prelude contains 0000f5030000000b,high
+2d File / 2d Image Bank Index,render_asset_input_context,render input zone,no,Pre-zone tokens before A4 bridge in strongest owner render bridge,high

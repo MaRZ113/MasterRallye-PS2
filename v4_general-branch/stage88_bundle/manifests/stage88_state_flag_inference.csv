@@ -1,0 +1,4 @@
+file,decoder_class,enabled_flag_present,enabled_value_true_present,pulse_flag_present,draw_priority_present,render_tail_present,state_model
+AI_0_1,selector_button_member_v2,True,True,False,True,True,enabled_bool_v1 + draw_priority_int + nav_links
+AI_0_2,path_text_member_v2,True,False,True,False,False,enabled_bool_v1 + pulse_bool_v1 + text_companion_nav
+AI_3_3,selector_button_member_v2_variant,False,False,False,True,True,render_variant_state + zbuffer_bool + imagebank/global

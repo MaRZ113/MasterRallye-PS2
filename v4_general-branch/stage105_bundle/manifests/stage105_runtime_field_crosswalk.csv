@@ -1,0 +1,5 @@
+runtime_string,found_in_elf,stage_evidence,best_role,confidence
+en2d 2dGlobal,yes,AI_0_1 @0x642 post-zone,render/global namespace token,high
+en2d Image Bank Index,yes,AI_0_1 @0x642 pre-zone,image-bank selector/input,high
+AI_List,yes,AI_0_1 @0x642 post-zone + explicit QuickRace_AI_List object,scene-local list container family,high
+UiSelect,yes,RaceResults typed selector member earlier in non-video path,selector/list member family anchor,high

@@ -1,0 +1,4 @@
+next_step,goal
+Stage 90A / 91,decode left_path extended slot and align its target with scene-local member ids
+Stage 90A / 91,map Up/Right/Down compact ids onto concrete member indices within QuickRace scene
+Stage 90A / 91,correlate Enabled/Pulse state flags with bool/ui animation fields in companion members

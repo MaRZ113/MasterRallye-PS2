@@ -1,0 +1,4 @@
+priority,next_step,focus,why
+1,Stage 64,apply same post-member edge test to the remaining late-FMV submodels,we now have a complete three-step decoder for one page1 subgroup and can transfer it
+2,late_fmv_submodel_transfer,swapped_bankhint_hiword_root (BAGOO3 / CHALL06 / BFGOOD2),most likely next subgroup to collapse after page1_low16_bankroot
+3,xml_gxi_pivot_readiness,prepare non-video bridge work,PAK->TNG exact bridge is now demonstrated on named late FMV members

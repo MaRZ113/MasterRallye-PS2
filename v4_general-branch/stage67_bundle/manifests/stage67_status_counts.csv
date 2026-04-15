@@ -1,0 +1,8 @@
+status,count
+evidence_only,1
+exact_clean,3
+name_only_unmodeled,2
+node_bridge_only,6
+partial_submodel,4
+stabilized_soft_clean,1
+verified_sibling_alias,1

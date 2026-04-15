@@ -1,0 +1,4 @@
+topic,hypothesis,confidence,support
+BFGOOD2 edge stabilization,"For swapped_bankhint_hiword_root, BFGOOD2 currently resolves best via post_u32_m4.swap16 snapped to nearest pack; exact field was not found in scanned local neighborhood.",medium,winner remains unique and much stronger than nearest direct / alternate candidates
+CHALL06 alias verification,"CHALL06 is a sibling/alias branded preview branch, not a true challenge-specific late-FMV payload.",high,"visual similarity to BFGOOD2, near-identical duration/resolution, and pack proximity 0x44000"
+BAGOO3 status,"BAGOO3 is a degraded branch of the same broader late family or a damaged partial entry, but not yet promotable.",medium,video-valid candidate exists yet sheets remain mostly black/degraded

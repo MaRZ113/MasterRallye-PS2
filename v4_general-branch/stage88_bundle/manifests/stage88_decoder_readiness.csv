@@ -1,0 +1,4 @@
+file,decoder_class,readiness,confidence,what_is_stable,what_is_missing
+AI_0_1,selector_button_member_v2,member_local_structured_decoder_candidate,high,Selector core + nav quartet + enabled + draw/render tail,Binary control-word semantics and exact link targets
+AI_0_2,path_text_member_v2,companion_decoder_candidate,medium,Path-backed text fields + shared nav tail + pulse,Exact binding between path text payload and selector owner
+AI_3_3,selector_button_member_v2_variant,variant_decoder_candidate,medium,Selector-ish core + render/view tail + background/global config,Variant-specific control words and selector/list ownership

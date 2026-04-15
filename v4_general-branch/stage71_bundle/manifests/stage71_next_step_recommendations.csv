@@ -1,0 +1,4 @@
+priority,next_stage,focus,goal
+1,Stage 72,late alternate subtype semantic split,"resolve CREDITS as real credits FMV vs branded sibling alias, and re-check FUJ2 residual branch"
+2,Stage 73,registry-driven FMV router consolidation,merge exact / operational / alias-sibling / evidence into one named FMV decoder registry
+3,Stage 74,first non-video transfer,"prove the same PAK -> TNG bridge on XML, GXI, or PSB to transition from FMV system to general extractor"

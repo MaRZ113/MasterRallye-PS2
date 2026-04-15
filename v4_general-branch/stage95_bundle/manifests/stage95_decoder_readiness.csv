@@ -1,0 +1,8 @@
+component,status,notes
+slot_tag,high_confidence,"0x32 primary pair, 0x37 secondary/shared, 0x1a extended left"
+ordinal_le,high_confidence,bytes 1..2 decode as little-endian local ordinals 0x00ec/0x00ed/0x00f5/0x00f8/0x00f9
+slot_class_byte,medium_high,"byte 3 separates primary/secondary/shared carrier roles (0x3f,0x34,0x30,0x36)"
+companion_tail_backref,medium_high,0x3e-prefixed tails in companion up/right point back to owner ordinals with mode bytes 0x02 / 0x01
+owner_tail_state_layout,medium,"0xa4-prefixed owner tails likely encode owner-side state/layout/metadata, not target ordinal"
+down_tail_shared_root,medium,0x3e-prefixed down tails likely point into shared list-root fabric; exact id still unresolved
+left_extended_ref,high_confidence,0x1aec0104 is stable back/escape ref outside the compact ordinal family

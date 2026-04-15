@@ -1,0 +1,3 @@
+path,best_field,best_mode,best_pack_hex,delta,duration_sec,status,resolved_family,closest_reference,closest_reference_dhash_distance,semantic_label,notes
+FMV\CREDITS.PSS,pre_u32_m40,minus_20000000,0x33454A33,545,13.72,soft_clean_alias_sibling,late_branded_preview_family_alt_01,GO3,16,Bago-branded preview sibling / alias,contact sheet shows branded preview content rather than credits roll; treat as sibling/alias inside late branded family
+FMV\FUJ2.PSS,post_u32_p16,minus_30000000,0x383DEB25,355,10.36,soft_clean_alias_sibling,early_branded_preview_family_01,MASTER03,5,Steel Monkeys branded preview sibling / alias,best residual candidate is visually very close to branded preview family; payload-edge remains approximate but stable enough for sibling/alias classification

@@ -1,0 +1,30 @@
+Stage 87 decoded field scaffolds
+================================
+
+AI_0_1.bin :: selector_button_member_v2
+- ai_no = 0
+- runtime class = enUITextButtonAI
+- selector chain = Null -> Index -> List
+- ui props = Font ID, Offset, HJustification
+- nav = Up Path, Right Path, Down Path, Left Path
+- frontend button class = gaFrontendStandardButtonAI
+- flags = Enabled=True
+- render/ui tail = Draw Priority, en3d Model, ZBuffer, 2d Image Bank, Colour
+- embedded explicit value = Draw Priority Int 38
+
+AI_0_2.bin :: path_text_member_v2
+- ai_no = 0
+- runtime class = enUIFormattedTextAI
+- path ref = Frontend/QuickRace/Current...
+- text/layout props = Font ID, Offset, Horizontal Justification, Max. Width, Height, Colour
+- frontend button class = gaFrontendStandardButtonAI
+- nav companion = Up/Right/Down/Left, Enabled=True, Pulse
+- embedded explicit value = ID Int 5
+
+AI_3_3.bin :: selector_button_member_v2_variant
+- ai_no = 3
+- selector/list hints = Null, _List, Index-like token
+- variant view/render = ViewC, Draw Priority, Image Bank Index, 2dGlobal
+- partial runtime class = enUITextButtonAI (truncated)
+- embedded explicit value = en3d ZBuffered Bool True
+- background path = frontend\backgrounds\bg_newnetwork

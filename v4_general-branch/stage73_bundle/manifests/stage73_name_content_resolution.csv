@@ -1,0 +1,19 @@
+pak_path,canonical_family,canonical_member,name_content_relation,display_state,semantic_label,registry_status,decoder_class,tng_pack_start_hex,best_stage
+FMV\CHALL07.PSS,challenge_preview_family_01,,unresolved_name,no_decoder,,name_only_unmodeled,none,,Stage 57
+FMV\FUJ3.PSS,early_branded_preview_family_01,FMV\ELF3.PSS,sibling_alias,plays_alias_clip,ELF-branded sibling clip exposed via Fujitsu-named entry,soft_clean_alias_sibling,early_u16_alias,0x34310A3B,Stage 70
+FMV\GO2.PSS,early_branded_preview_family_01,FMV\ELF3.PSS,sibling_alias,plays_alias_clip,ELF-branded sibling clip exposed via GO-named entry,soft_clean_alias_sibling,early_u16_alias,0x34554A3F,Stage 70
+FMV\MICROIDS.PSS,microids_logo_fmv,,canonical_match,plays_named_clip,Microids logo FMV,operational_soft_clean,early_u16_payload_edge,0x0963FEDF,Stage 68
+FMV\CHALL09.PSS,challenge_preview_family_01,,unresolved_name,no_decoder,,name_only_unmodeled,none,,Stage 57
+\FMV\CHALL02.PSS,challenge_preview_family_01,,canonical_match,plays_named_clip,Challenge preview FMV,operational_soft_clean,early_u16_payload_edge,0x04006400,Stage 68
+FMV\INV1.PSS,inventory_or_intro_fmv,,canonical_match,plays_named_clip,Inventory / intro FMV,exact_clean,early_u16_payload_edge,0x381F2B25,Stage 68
+FMV\ELF3.PSS,early_branded_preview_family_01,FMV\ELF3.PSS,canonical_anchor,plays_named_clip,Steel Monkeys / ELF branded preview anchor,operational_soft_clean,early_u16_payload_edge,0x38302B25,Stage 70
+FMV\MASTER03.PSS,late_branded_preview_family_alt_01,FMV\MASTER03.PSS,canonical_match,plays_named_clip,Master Rallye branded preview candidate,operational_soft_clean,late_alternate_subtype,0x382B6B25,Stage 71
+FMV\CREDITS.PSS,late_branded_preview_family_alt_01,FMV\MASTER03.PSS,sibling_alias,plays_alias_clip,Bago-branded preview sibling / alias,soft_clean_alias_sibling,late_alternate_alias,0x33454A33,Stage 72
+FMV\GO3.PSS,late_branded_preview_family_alt_01,FMV\GO3.PSS,canonical_match,plays_named_clip,GO-branded preview FMV,exact_clean,late_alternate_payload_edge,0x37DA6B21,Stage 71
+FMV\CHALL04.PSS,page1_low16_bankroot,FMV\CHALL04.PSS,canonical_match,plays_named_clip,BFGoodrich-style multi-vehicle challenge FMV,exact_clean,late_page1_exact_member,0x32E14A2F,Stage 63
+FMV\BAGOO3.PSS,late_branded_preview_family_alt_01,,weak_evidence,degraded_or_unreliable,Mostly black / degraded Bago evidence clip,evidence_only,swapped_bankhint_hiword_root,0x204DF85F,Stage 66
+FMV\BFGOOD2.PSS,late_branded_preview_family_alt_01,FMV\BFGOOD2.PSS,canonical_match,plays_named_clip,BFGoodrich-branded preview FMV,operational_soft_clean,swapped_bankhint_hiword_root,0x3C280A47,Stage 66
+FMV\CHALL06.PSS,late_branded_preview_family_alt_01,FMV\BFGOOD2.PSS,sibling_alias,plays_alias_clip,Branded preview sibling / alias exposed via CHALL06,soft_clean_alias_sibling,swapped_bankhint_hiword_root,0x3C2C4A47,Stage 66
+\FMV\TROPHY.PSS,page1_low16_bankroot,\FMV\TROPHY.PSS,canonical_match,plays_named_clip,Trophy / checkered-globe award FMV,exact_clean,late_page1_exact_member,0x3D9EFE11,Stage 63
+FMV\FUJ2.PSS,early_branded_preview_family_01,FMV\ELF3.PSS,sibling_alias,plays_alias_clip,Steel Monkeys branded preview sibling / alias,soft_clean_alias_sibling,late_alternate_semantic_split,0x383DEB25,Stage 72
+FMV\BFGOOD1.PSS,page1_low16_bankroot,FMV\BFGOOD1.PSS,canonical_match,plays_named_clip,BFGoodrich-branded preview FMV,exact_clean,late_page1_exact_member,0x31164E1A,Stage 63

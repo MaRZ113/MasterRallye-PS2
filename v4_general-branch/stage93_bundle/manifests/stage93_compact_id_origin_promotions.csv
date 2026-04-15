@@ -1,0 +1,7 @@
+target_id_hex,best_origin_layer,evidence,status
+0x00F5,scene_root_allocator_anchor,Appears in both owner and companion Down Path slots and also in SceneRoot prelude tail as 0000f5030000000b.,promoted_high
+0x00EC,primary_owner_local_ordinal,Appears immediately after Up Path in AI_0_1; paired with 0x00ED in companion; not seen in SceneRoot prelude.,promoted_medium
+0x00ED,primary_companion_local_ordinal,Appears immediately after Up Path in AI_0_2; paired with 0x00EC in owner.,promoted_medium
+0x00F8,secondary_owner_variant_ordinal,Appears immediately after Right Path in AI_0_1 and aligns with secondary selector-ish variant branch.,promoted_medium
+0x00F9,secondary_companion_variant_ordinal,Appears immediately after Right Path in AI_0_2 and aligns with secondary companion/variant branch.,promoted_medium
+1aec0104,extended_back_escape_ref,Shared non-u16 Left Path payload in both owner and companion; behaves unlike compact object ordinals.,isolated_extended

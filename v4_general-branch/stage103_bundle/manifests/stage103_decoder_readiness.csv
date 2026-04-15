@@ -1,0 +1,5 @@
+target,decoder_status,what_is_known,what_is_missing
+AI_0_1 @ 0x642,strongest canonical anchor,A4 sits between file/image-bank zone and 2dGlobal/AI_List handoff,bit-exact decode of embedded words after A4
+AI_0_1 @ 0x2FF,secondary canonical bridge,links image-bank state to formatted/font tail,exact meaning of internal packed words
+AI_3_3 @ 0x305,variant owner hoist,hoisted owner-family semantics around GetSaveSize/ZBuffered/background_path,exact correspondence to canonical 0x642 fields
+AI_0_4 @ 0x226,variant trailer bundle,late trailer/version-style sidecar,whether any bytes map to canonical owner style trailer fields

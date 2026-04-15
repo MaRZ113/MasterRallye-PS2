@@ -1,0 +1,87 @@
+<AI No="0"+X
+String'
+enUITextButtonAI+
+Font ID#
+Int'
+Null 
+ Index3
+OffsetX
+HJustification2
+</AI+
+gaFrontendStandard8
+ ID2
+Up Path2
+Right7
+Down7
+Lef 
+Enabled
+Tru,
+</Egg'
+<Egg
+MermoryCardMainScreen*p
+Use l
+Freezx43
+Hit 
+Draw Priority
+Tick;
+Group2
+en3d Model
+atrix
+Row0="1.00 0+
+" Row1="
+Interpolat 
+Visibl'8&+
+ZBuffer 
+2d Fileh
+2d Image Bank$
+2d   
+ g|3
+gaFE
+("T*
+Formatted"t3/
+ont3|2,p
+j|="
+$="1
+"| +
+Vector3'
+Horiz_1al ?
+Vertic $(
+Max. Wid4X.?%
+He"p.
+Colour
+$H7:\
+ h<-
+SaveG"
+-#,,&
+F\b#LU
+s\curved_smaller+
+; &4-
+B189'X6t
+:x-,XP0t
+ ?x->
+/t-"|+"L)$
+P6p+*
+|$ !t+
+Racep
+ Value="True"/>
+<Value NamT
+Draw Priority" Type="Int" 
+="38
+Tick 
+Egg Group2
+en3d Model
+String'
+Null>
+atrix
+Row0="1.00 0+
+" Row1="
+Bool't
+Fals9H
+Interpolated3
+Visible 
+ZBuffer 
+;36'
+2d Filex
+2d Image Bank Inde'<
+2dGlobal
+AI_List)X

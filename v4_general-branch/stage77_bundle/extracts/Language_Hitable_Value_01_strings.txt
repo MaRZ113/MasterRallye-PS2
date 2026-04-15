@@ -1,0 +1,8 @@
+<Value Name="Hitable" Type="Bool" ...="True"/>
+..  +..
+Draw Priority..Int'..38...Tick ....Egg Group2..08...en3d Model.....String'...Null>...atrix..M...Row0="0.00 ,..." Row18i.28i.3/k.1.0>...22D.. 
+D..$	Interpolated ....Visi .P	...ZBuffer ...2 ....frontend\new\language\flagsheet:..x..>.f,..`4:..,|..C+..'|....3="18.I23....l.=...Filex..8*].1=...Image Bank Inde'..*.4=.. ..
+2d\. ..
+2d  ..
+2d   .
+.2dGlobal.0+ ..Fals-l..AI_List)..	  

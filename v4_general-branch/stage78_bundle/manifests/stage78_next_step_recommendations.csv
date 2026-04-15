@@ -1,0 +1,5 @@
+priority,next_step,why
+1,Parse Language Value members with literal tag + typed payload + embedded property blocks,Language scene has the cleanest member-level boundaries and repeated UI properties.
+2,Use <Value Name> / <AI No> headers as primary member anchors before binary control spans,Member starts are stable and human-readable even when interiors are mixed XML/binary.
+3,"Model </Egg> as local boundary marker, not only XML syntax",Many member blobs terminate near </Egg> and cluster transitions.
+4,Transfer member parser to RaceResults and QuickRace after Language proof,Those scenes are noisier but reuse the same member concepts and control spans.

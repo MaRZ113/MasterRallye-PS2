@@ -1,0 +1,3 @@
+next_step,reason
+Stage 97 = owner layout tuple packed_ref / scalar decode pass,Right owner tail still carries the richest undecoded payload (0x2DC4 + 0x10 + mode).
+Stage 97b = enabled/active owner-state triplet pass,Compact Up owner tail likely encodes activation/enable semantics and should be verified against neighbouring UI state tokens.

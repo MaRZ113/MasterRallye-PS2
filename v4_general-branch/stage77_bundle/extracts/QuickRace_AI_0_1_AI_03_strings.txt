@@ -1,0 +1,13 @@
+<AI No="0"+X.-..s.ame..String'..enUITextButtonAI+..q.<...-..-...Font ID#.Int'..1/p.-..a.*..-...Null ...6..92 .... Index3.. ......;...; ....OffsetX.!*..0 .$...Y2..?...HJustification2..?-.V !
+.Ic4..0..</;.
+.</AI+.
+.g1 ...1$.7..2 ....gaFrontendStandard8..8..+...z.R...
+ ID2..3>.	.Up Path2..?.	.Right7..0..-...Down7..4>..Lef ....Enabled..+..Tru,..h.-..Put.2..3..</ .t.7.
+3 ..
+ ...x.,...</Egg'.	.<Egg.M..MermoryCardMainScreen*p.+...Use l.3..1..*`..Freezx43../..+..Hit ...
+Draw Priority..*..,H+...Tick;..,T.+..d,.Group2..,,+...en3d Model.4..>..1...atrix..M..	Row0="1.00 0+..." Row1="..,|...2..,|...3*h.'|.+..0x..22'..+..= 	.$.Interpolat ...0...Visibl'8&+..<<
+...ZBuffer ...2 "..l..;$.# m...2d Fileh..P*.;..
+2d Image Bank$.( ... ..	l. ..	L  ..	2d   .	 g|3.gaFE..Me*../.3x.'..t. #.("T*.Formatted"t3/..  #.5-..+ ...+S.ont3|2,p.|.-.!h. 7.5 ... ID.j ... ..j|="...$="1."| +..$d4.{.Vector3'.:..'..+D.d	-D..Horiz_1al ?.3?...Vertic $(..Max. Wid4X.?%.Mz.He"p..$8..1X..Colour...,4'....,../..$H7:\.7.. ..51..7.. h<-.SaveG".G)..+..;.-<.! ..-9.- |.-'P.(.-#,,&.-,|...+.-'|... 0.-<.	#.* ..-f%.F\b#LUs\curved_smaller+..+..".; &4-.... 6	52.B189'X6t.=..:x-,XP0t. ?x->.
+ ./t-"|+"L)$.P6p+*..)..1.  ..`,..1..|$ !t+..$.+ ..e.`,.R1..9.`?.. ;.`5+..1.. .X.`.Racep. ..`<.  /.3...7...O.... Value="True"/>
+ ...<Value NamT...Draw Priority" Type="Int" ..="38...Tick ....Egg Group2..08...en3d Model.....String'...Null>...atrix..M..	Row0="1.00 0+..." Row1="..,|...2..,|...3*h.'|.=x..22D...Bool't..Fals9H..$	Interpolated3..<X....Visible ....ZBuffer ...2 "..l..;.[ >..29.;36'..hE:...2d Filex..,*.;$..2d Image Bank Inde'<. ...:.	>..h.>.	?.
+L :.	 ...  .	.2dGlobal.0>..AI_List)X.	  

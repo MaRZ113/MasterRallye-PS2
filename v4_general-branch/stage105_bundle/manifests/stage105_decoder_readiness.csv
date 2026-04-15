@@ -1,0 +1,5 @@
+component,status,details
+owner_render_to_list_handoff,strong semantic bridge,"AI_0_1 @0x642 now ties 2d File/Image Bank -> 2dGlobal -> AI_List with high confidence"
+shared list-root target 0x00F5,resolved target family,"Down Path on owner+companion already converges on AI_List root"
+2dGlobal exact byte semantics,open,"Role looks namespace/bank-scope, but byte-level internal words still undecoded"
+A4 bridge inner words,open,"Still not bit-perfect decode of the subrecord payload"

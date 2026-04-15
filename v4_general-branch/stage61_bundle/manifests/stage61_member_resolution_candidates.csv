@@ -1,0 +1,4 @@
+path,page_index,subgroup_anchor_hex,anchor_span_marker_hex,anchor_span_tag,anchor_span_first_clear,member_selector_hex,subtype_control_hex,local_resolution_mode,best_next_local_path,best_next_local_path_hex,interpretation
+FMV\CHALL04.PSS,1,0x15ef8,0x15ed0,n,SMALLCARS\'$,0x127c,0x900,forward_local_fmv,MRALLYE\MRALL,0x15f0b,page1 target lands inside subgroup anchor span immediately preceding own FMV entry
+\FMV\TROPHY.PSS,1,0x15fb6,0x15f82,l,FMV\CHALL04.PSS,0xc4c,0x600,shared_anchor_plus_selector,FMV\CHALL04.PSS,0x15fcb,"page1 target lands in CHALL04 subgroup span, indicating shared bankroot anchor reused by multiple late FMV members"
+FMV\BFGOOD1.PSS,1,0x15d29,0x15cdc,l,fmS\t,0x337c,0x900,hidden_anchor_plus_selector,$S2%,0x15d2e,"page1 target lands in binary subgroup fabric without direct clear path, suggesting hidden member node selected by trail_u16_a"

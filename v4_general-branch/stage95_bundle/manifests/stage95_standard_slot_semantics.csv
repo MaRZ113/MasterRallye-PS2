@@ -1,0 +1,7 @@
+file,slot_name,raw_payload_hex,slot_tag_hex,ordinal_le_hex,slot_class_hex,tail_hex,role_family,linked_ordinal_le_hex,linked_mode_hex,tail_inference
+AI_0_1.bin,up_path,32ec003fa40902,0x32,0x00ec,0x3f,a40902,primary_pair,,,owner_state_like
+AI_0_1.bin,right_path,37f80030a4072dc41001,0x37,0x00f8,0x30,a4072dc41001,secondary_pair,,,owner_state_like
+AI_0_1.bin,down_path,37f500343ee302,0x37,0x00f5,0x34,3ee302,shared_list,0x02e3,,tail_backref_like
+AI_0_2.bin,up_path,32ed00343eec0002,0x32,0x00ed,0x34,3eec0002,primary_pair,0x00ec,0x02,tail_backref_like
+AI_0_2.bin,right_path,37f900303ef80001,0x37,0x00f9,0x30,3ef80001,secondary_pair,0x00f8,0x01,tail_backref_like
+AI_0_2.bin,down_path,37f500363ef700,0x37,0x00f5,0x36,3ef700,shared_list,0x00f7,,tail_backref_like

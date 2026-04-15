@@ -1,0 +1,5 @@
+path,candidate_label,tng_pack_start_hex,status,content_class,duration_s,video_codec,resolution,audio_codec,notes
+BFGOOD2,post_u32_m4.swap16,0x3C280A47,soft_clean_local_decoder,track_menu_preview_fmv,25.479122,mpeg2video,512x256,,best transferable branded preview; likely local decoder branch
+CHALL06,pre_u32_m28.minus_0x50000000,0x3C2C4A47,soft_clean_alias_sibling,track_menu_preview_fmv,25.079122,mpeg2video,512x256,,"valid branded preview, likely sibling/alias branch rather than challenge-specific payload"
+BAGOO3,cand_u32_a.minus_0x40000000,0x204DF85F,evidence_only,degraded_or_partial_video,46.002344,mpeg2video,512x256,,video-valid but mostly black/degraded; not yet a clean local decoder
+BFGOOD2,rel-32.minus_A0000000,0x1EBFF672,alternate_evidence,mpeg_video_alt,29274.753800,mpeg2video,512x256,,alternate valid MPEG window but weaker than main decoder

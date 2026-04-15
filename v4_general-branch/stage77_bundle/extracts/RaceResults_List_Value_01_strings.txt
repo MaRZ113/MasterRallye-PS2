@@ -1,0 +1,7 @@
+<Value Name="List*" Type="String" ...	="Frontend/RaceResults/Timep....Options. ....HeightSpac....Int'&.17 ...
+</enUIBrowser+<..</AI,@..AI No="1"+Z.  +..s.ame5...Null",..7..2 F..3 <..y._tB'...</Egg(7.Egg.N),	.Screen*`.+...Use en2d.,.Bool'D..^*..+...Freezabl'..+...True+..+..Hit ...
+Draw Priority..*..38...Tick;..48..t+.Group2..08...en3d Model.3..-../8.+.....atrix..M..	Row0="1.00 0+..." Row1="..,|...2..,|...3*h.'|.=...22D..+,.= 	...Interpolate44
+<@	...Visi .<
+...ZBuffer ...2 "..l..;.. m...2d Fileh..<*.;...2d Image Bank Inde',. ... ..	l. ..	L  ..	2d   .	.2dGlobal.0>.AI,.."."<x..o="0*h...#`"..="p.8...gaFE..)..AI+..  |.'....t
+ .=..$.).t)..+H.;..<.. ...9.  ..&..f%.7.\new\buttons\tI.d..+..+.."q. &. fz=".. 6.'16#.'335'<)".(=..:] 1=.. ?\ <8..,  .) .Y r$PC.TextB.]Tl]/h .  <ga&.D/..)..". -x@.Font ID#&.$*.)2+.	1..l .DF%dF`p .l.6`.,.,5c. ID$|,3l. ...&x9`./.I/.96 ..OffsetX2.. .....Y2..?...HJustifica".K2..,\.1..V !...Width2..4?..$.M2..,.!1...Box  "..Pu#.R.@=.01...Drop Shadow.. ...</ .L. 4d0(...Standardl.<..,..<....I'.C*..9>l... 4..?@	.Active AI.1*..0..* .9..7.. ..T.Points*@<+(& ..4,..+..?.T,..+.. ..4.2.25 >.,3d  ..K\.  .*3d  ..KH.  .K?D\.dummy+<.+.	#..&$4.... 6_4468"B420..#.4>..2 }.T .O\4)|t+\.".%<)p.<.!8U)4 ..v-x5.UiNo2.!1 +..".75..0 ,7.Sca(.r.Floa).{Sz0007X....!.........ePlayerState="False"/>
+ +....

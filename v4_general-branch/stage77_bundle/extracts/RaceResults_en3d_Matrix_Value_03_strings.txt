@@ -1,0 +1,7 @@
+<Value Name="en3d Matrix" TypH...	Row0="1.00 0+..." Row1="..,|...2..,|...3*h.'|.."/>
+..   0x..Draw 2D...Bool" ...="False=..	Interpolated3..Tru>...Visible ....ZBuffer ....2d Model.6...String' ...frontend\new\buttons\tiled..:..|. K
+.-8.I195x. ....2d FL.`T..Int'..1=t..Image Bank Inde'..*.0=..:.
+>.	2d\. ..
+H  ..
+2d   .
+.2dGlobal.0>$..AI_List)p.	  

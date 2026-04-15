@@ -1,0 +1,12 @@
+carrier,slot,token_offset_hex,post_token_hex,inferred_compact_id_hex,aux_bytes_hex,inference_model,confidence
+AI_0_1.bin,up_path,0x118,32ec003fa409025269676874,0x00EC,3fa40902,tail_byte + u16_compact_id + aux_words,medium
+AI_0_1.bin,right_path,0x126,37f80030a4072dc41001446f,0x00F8,30a4072d,tail_byte + u16_compact_id + aux_words,medium
+AI_0_1.bin,down_path,0x135,37f500343ee3024c6566201a,0x00F5,343ee302,tail_byte + u16_compact_id + aux_words,high
+AI_0_1.bin,left_path,0x140,201aec0104456e61626c6564,0x1A20,ec010445,u16_compact_id + aux_word_pair,medium
+AI_0_1.bin,enabled_flag,0x148,f81e2b07175472752c001768,0x1EF8,2b07175472,bool_flag_id + state_aux,medium
+AI_0_2.bin,up_path,0x337,32ed00343eec000252696768,0x00ED,343eec00,tail_byte + u16_compact_id + aux_words,medium
+AI_0_2.bin,right_path,0x346,37f900303ef80001446f776e,0x00F9,303ef800,tail_byte + u16_compact_id + aux_words,medium
+AI_0_2.bin,down_path,0x353,37f500363ef7004c6566201a,0x00F5,363ef700,tail_byte + u16_compact_id + aux_words,high
+AI_0_2.bin,left_path,0x35e,201aec0104456e61626c6564,0x1A20,ec010445,u16_compact_id + aux_word_pair,medium
+AI_0_2.bin,enabled_flag,0x366,f81e01426f6f6c27cc040154,0x1EF8,01426f6f6c,bool_flag_id + state_aux,medium
+AI_0_2.bin,pulse_flag,0x380,2009f6003c2f20067407013c,0x0920,f6003c2f20,ui_state_id + state_aux,medium

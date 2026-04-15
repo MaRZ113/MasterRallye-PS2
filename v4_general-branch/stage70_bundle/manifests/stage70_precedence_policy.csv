@@ -1,0 +1,5 @@
+policy_rank,when,action,example
+1,exact_clean named decoder exists,emit exact named payload route,CHALL04 / TROPHY / BFGOOD1
+2,operational_soft_clean canonical family anchor exists,emit canonical family route and retain original PAK name as label,ELF3 as anchor for early_branded_preview_family_01
+3,soft_clean alias/sibling route exists but visuals match a different branded family member,"emit sibling_alias status, attach canonical family id, preserve original PAK path for traceability",GO2 / FUJ3
+4,only evidence-only route exists,do not promote; keep as evidence,BAGOO3

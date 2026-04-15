@@ -1,0 +1,5 @@
+target,status,readiness,blocker
+owner_render_value family,structured_soft_clean,medium,exact scalar/control meaning still unresolved
+render_2dglobal_bridge subtype,best_current_anchor,high,need explicit field correlations into 2dGlobal/AI_List handoff
+variant_render_value_hoist,transfer_confirmed,medium,hoisted A4 not yet aligned to canonical secondary subtype
+value_trailer_style_bundle,semantic_hint_only,low,only curved_smaller style token available

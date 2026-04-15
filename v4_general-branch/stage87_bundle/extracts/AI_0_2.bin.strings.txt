@@ -1,0 +1,52 @@
+0000: <AI No="0"+Z
+0014: am'T
+001e: enUIFormattedTextAI+
+0041: Font#
+005c: Frontend/QuickRace/Currentl
+0082:  ID3p
+00a3: Offset
+00ac: Vector3'
+00c0: Horizontal Justification
+00e1: Vert\
+00ec: Max. Width 
+00fe: Heigh'
+010b: Colour
+0128: </AI+ 
+014c: </Egg'e
+015c: Ghostl
+016a: Use en2 
+0176: Freeza 
+017f: #Hit 
+018d: *F-45
+0198: ,@- 
+01a6: ype%P* 
+01ae: =4-?04 
+01bb: Erase 
+01c3: $-#<$,
+01cd: Y&lZ1h
+01d4: +lZ'|
+01dc:  0lZ>o!3d  
+01e8: iZf%lL
+01f0: \buttons\curved_smaller+pB+
+0213: Z"ZX="
+021b:  6qb2
+0221: B13 (
+024c: '$H$(U-HX"
+0257: Z6HX,h
+0267: Z1$Nd
+027f:  ID9AZ4 
+0293: $UZX&
+02b9: \$tXx
+02d6: ng" Value="gaFrontendStandardButtonAI"/>
+0311:  Name="
+031b:  ID" Type="Int" 
+032d: ="5/
+0337: Up Path2
+0346: Right7
+0353: Down7
+035e: Lef 
+0366: Enabled
+0370: Bool'
+0378: True>
+0380: Pulse 
+0390: </AI+

@@ -1,0 +1,5 @@
+component,status,note
+nav_slot_id_layer,operational_scaffold,Up/Right/Down compact ids separated from token strings and compared across owner/companion carriers
+left_path_extended_slot,partial,Stable bytes isolated but exact split between id and aux remains uncertain
+selector_ownership,resolved,AI_0_1 canonical owner; AI_0_2 companion; AI_3_3 variant
+nonvideo_local_parser_fragment,strengthened,Scene-local nav slot model now explicit enough to support further parser work

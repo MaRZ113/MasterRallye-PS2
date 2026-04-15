@@ -1,0 +1,6 @@
+carrier,subrecord_offset_hex,a4_local_offset,pre_tokens,post_tokens,token_offsets_vs_a4,best_semantics,role_hypothesis,confidence
+AI_0_1,0x642,0x40,2d File; 2d Image Bank Index,2dGlobal; AI_List,2d File=-52; 2d Image Bank Index=-34; 2dGlobal=+19; AI_List=+33,render_2dglobal_bridge,owner-side handoff from 2d file/image-bank zone into 2dGlobal + AI_List zone,high
+AI_0_1,0x2FF,0x40,2d Image Bank,Formatted; Font ID,2d Image Bank=-60; Formatted=+17; Font ID=late positive but fragmented,render_curve_or_formatted_bridge,owner-side bridge from image-bank/render state toward formatted/text styling tail,medium
+AI_0_1,0x44D,0x40,curved_smaller,style trailer noise,curved_smaller=-15,value_trailer_style_bundle,style/value trailer coupled to curved_smaller visual treatment,medium
+AI_3_3,0x305,0x40,GetSaveSize,en3d ZBuffered; background_path,GetSaveSize=-38; background_path≈+58; ZBuffered hoisted in same zone,variant_render_value_hoist,"variant owner-family render/value hoist, not direct nav-tail",high
+AI_0_4,0x226,0x40,Colour; Max. Width,s_Version,Max. Width=-63; Colour=-32; s_Version=+19,variant_trailer_version_bundle,late trailer/version sidecar attached to variant render/value carrier,medium

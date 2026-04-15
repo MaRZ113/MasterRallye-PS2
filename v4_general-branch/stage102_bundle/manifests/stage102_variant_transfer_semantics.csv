@@ -1,0 +1,5 @@
+carrier,role,owner_render_family,render_bridge,variant_hoist,note
+AI_0_1,canonical_owner,full,yes,n/a,all three secondary owner_render_value subrecords live here
+AI_3_3,variant_owner,partial_transfer,indirect,yes,"A4 sits between GetSaveSize and render fields, suggesting hoisted owner semantics"
+AI_0_4,variant_aux,late_trailer_transfer,weak,partial,"A4 trails Colour and s_Version, looks like version/trailer sidecar"
+AI_0_2,companion,none,no,no,"embedded A4 is value/id fragment, not owner_render family"

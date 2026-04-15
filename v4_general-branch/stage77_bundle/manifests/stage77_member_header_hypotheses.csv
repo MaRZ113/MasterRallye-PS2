@@ -1,0 +1,6 @@
+hypothesis_id,finding,confidence
+H1,Scene blobs carry a stable 32-byte big-endian scene header before <Scene>.,high
+H2,"Intra-scene members start at tag-level boundaries (<Value Name>, <AI_List>, <AI No>) and can be carved as local member blobs.",high
+H3,Common local prelude markers 2b00000010 and 20c00005 likely denote small in-scene record headers / list transitions rather than raw XML text.,medium
+H4,"QuickRace and RaceResults contain nested AI list / AI record structures, while Language is simpler and better for first per-member decoder work.",high
+H5,Language -> Hitable / Colour Start / en2d FileType are the cleanest first member candidates for local field-table decoding.,high

@@ -1,0 +1,19 @@
+scene,member,step_order,role,value,confidence
+RaceResults,UiSelect,1,member_header,"<Value Name=""UiSelect"" Type=""Int"">",high
+RaceResults,UiSelect,2,inline_value,0,high
+RaceResults,UiSelect,3,persistence_flag,SaveOptions,high
+RaceResults,UiSelect,4,selector_primary,Index*,high
+RaceResults,UiSelect,5,selector_primary_type,String,high
+RaceResults,UiSelect,6,null_placeholder,Null,medium
+RaceResults,UiSelect,7,selector_secondary,List,high
+RaceResults,UiSelect,8,path_ref,Frontend/RaceResults/Points,high
+RaceResults,UiSelect,9,layout_property,HeightSpac,medium
+RaceResults,UiSelect,10,layout_scalar,17,medium
+RaceResults,UiSelect,11,ui_tail,</enUIBrowser,high
+RaceResults,List*,1,member_header,"<Value Name=""List*"" Type=""String"">",high
+RaceResults,List*,2,inline_path,Frontend/RaceResults/Time,high
+RaceResults,List*,3,property_token,Options,medium
+RaceResults,List*,4,layout_property,HeightSpac,medium
+RaceResults,List*,5,value_type_ref,Int,medium
+RaceResults,List*,6,layout_scalar,17,medium
+RaceResults,List*,7,ui_tail,</enUIBrowser,high

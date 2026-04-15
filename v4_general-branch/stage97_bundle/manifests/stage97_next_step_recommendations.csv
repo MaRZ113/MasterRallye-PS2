@@ -1,0 +1,3 @@
+next_step,focus,goal
+Stage 98,packed_ref/local scalar correlation pass,test whether 0x2DC4 and 0x10 correlate with known UI fields like Offset/HJustification/Draw Priority
+Stage 98A,owner-tail cross-carrier transfer,search for more A4-family owner tuples in other selector/button carriers and variants

@@ -1,0 +1,1617 @@
+<Scene>
+  <EggLists_Version4
+  <t
+ Name="Progress"
+Cla*d
+  <Value
+Use en2d" Type="Bool" 
+="True"/'P
+Freezable 
+Hit 
+
+Draw Priority
+Int'
+Tick 
+Egg Group2
+en3d Model
+String'
+Null>
+atrix
+Row0="0.00 ,
+" Row18i
+1.0>
+Interpolate 
+Visi 
+ZBuffer 
+frontend\new\buttons\tiled
+3="318sJ383x
+Image Bank Inde'
+
+2d  
+
+2d\
+
+2d  
+
+2d   
+2dGlobal
+Fals-K
+AI_h
+  <AI No="0(E
+gaFr
+TextB
+]T[CdAI+ 
+}
+<9
+="Font ID#
+ IDKQdex3X
+vq="
+'="/
+OffsetX
+HJustification2
+Width2
+34> 
+Height3
+Box  "
+Pu|}2l'0$
+Drop Shadow
+</AI+|
+Multistate<
+?6
+En"
+Up Pa40
+?4
+Down 
+Currentx
+ForceUpdate6t
+Lock MovemH
+t Chang'H
+/47dL*
+</Egg'$
+Screen*T
++d$;T=0
+ |X="
+3 ,P5#
+#P::@3= 	
+\=/(
+2d :
+"/>o=" 
+  7
+#DT 
+&]42"
+ ]1X!#
+G%X="
+\6+$
+setY" Type="Int" Value="0"/>
+ +
+ Nam@
+HJustification2	
+Width2
+Height3
+Box  "
+Pulse
+Bool'
+Drop Shadow 
+
+</gaFrontendTextButtonTiledAI+
+</.@
+AI No="1"+
+  +`
+am'\
+String'd
+Null-x
+_List'
+</Egg(7
+Cup1l2*<
+Use en2d3
+True+h
+Freezabl'`
+Hit 
+
+Draw Priority
+Tick 
+Group2
+en3d Model
+atrix
+	Row0="1.00 0+
+" Row1="
+-3.7
+Interpolate 
+Visi 
+ZBuffer 
+133wF329x
+2d FL
+2d Image Bank Inde'@
+	H  
+	2d   
+2dGlobal
+AI,
+o"d&'
+	enUIFormatte
+a
+<1
+Font#
+ ID3
+ IDCLdex3
+
+rl="
+,="1
+Offse'(*
+Vector3'
+Horizontal ?x-,
+Vertic $(
+Max. 7
+Colour
+z+</>p"
+Race1Status 
+1.06$H/t
+*:@$ 
+B\new\trophyicons
+sheet:
+ On.46 /l.,
+Multi#
+56`.*
+ #x!#
+6p-	Progress/Win
+/Won_Bagoo"
+J+dh
+Individual$
+8s&d%=d31+
+ Per#
+	*,1,4
+$P'7`
+ZE'2
+4.69 
+F'98"
+ND'6(V
+(ue Name="Individual Images" Type="Bool" Value="False"/>
+ +
+	Num
+ Per Bank
+	Int'-
+H Justification2
+</enUIMulti
+!AI+
+</.@
+AI No="1"+
+  +X
+String'4
+Null-0
+_List'
+</Egg(7
+Cup1Race3Status*X
+Use en2d
+
+Tru,
+Freezabl'|
+Hit 
+
+Draw Priority
+Tick 
+Group2
+,P+
+en3d Model
+atrix
+	Row0="1.00 0+
+" Row1="
+-5.36
+Interpolate 
+Visi 
+ZBuffer 
+frontend\new\trophyicons
+sheet:
+534wJ329x
+Filex
+ Inde'
+2d :(
+<L
+'
+2d  
+'
+2d   $
+
+2dGlobal
+AI,`
+o="0*
+.X +
+#u!*
+	Progress/Win
+
+/Won_BagooCup,d
+2Text*0
+6.13 
+.('/
+# !&p&".$="
+.133"
+&29 (
+Formattedf
+Font#&
+/2/p
+-4&h
+14'
+ ID3
+ ID #
+,=" 
+Offset
+Vector3'
+L#E66|~d
+Horiz^1al 
+Vertic $(
+Max. Width
+Heigh'
+Colour
+Drop Shadow
+U:l"
+U1$49 
+0.58 
+U46 /h. 
+UElf"Pq>
+ation" Type="Int" Value="0"/>
+ )
+</enUIMultiImageAI+
+</.@
+AI No="1"+
+ NamL
+String'
+Null- 
+_List'
+</Egg(7
+Cup2Race2Status*X
+Use en2d
+Bool'
+True+
+Freezabl'|
+Hit 
+
+Draw Priority
+*q
+38
+Tick 
+Group2
+en3d Model
+atrix
+	Row0="1.00 0+
+" Row1="
+-7.97
+Fals9$	
+Interpolate 
+Visi 
+ZBuffer 
+frontend\new\trophyicons
+sheet:
+498wJ299x
+Filex
+ Bank Inde'
+2d :(
+<L
+'
+2d  
+'
+2d   $
+
+2dGlobal
+AI,`
+.X +
+u	<.
+	Progress/Win
+/Won_Elfx
+ndividual 
+ Per
+H Justificatio 
+,&--
+y='3
+;'534"
+}:'ID+
+2.58 
+.HN/
+#@H&
+M"NK="
+U47"w. 36#
+.2d :
+FormattedTextAI/
+Font#3
+1$'
+ ID3
+Offset
+Vector3'
+HorizV1al 
+dO-0
+Vertic $(
+Max. Width
+Heigh'
+Colour
+0.8s
+10 x
+Drop Shadow
+
++$X/$atO$
+T:d"
+]+D(
+p="",^ N,|
+pe="String" Value="Null"/>
+ '
+</AI,@
+AI No="3"+[
+ Name="p
+ame" Type=" 
+_List'
+</Egg(7
+ID2*(
+Use en2d
+Bool'
+True+
+Freezabl'
+Hit 
+
+Draw Priority
+Int'
+Tick 
+Group2
+en3d Model
+atrix
+	Row0="1.00 0+
+" Row1="
+-6.28
+Fals9$	
+Interpolate 
+Visi 
+ZBuffer 
+504wF368x
+2d Filex
+2d Image Bank Inde'@
+	H  
+	2d   
+2dGlobal
+AI,
+o="0*t
+enUIFormattedTextAI+
+Font#
+11/t
+ ID3
+GLdex 
+pl/m 2>
+Offset
+Vector3'|
+Horizontal Justification
+Vert\
+Max. Width 
+Heigh'
+Colour
+10 x
+Drop Shadow
+vO</>d"
+0.97Q
+-,4I"
+-</)
+="MasterRallye(q3<"
+MRStatus(p
+z.85 
+	frontend\new\trophyicons\mr
+sheet+
+D- 4 O
+\85"
+\12 (
+\,4S0t
+Multi
+\Mu(
+[	Progress/Win
+/Won_
++T|
+-(
+Individual$
+fs3PR0
+ Per#
+       </enUIMultiImageAI>
+ '
+</.@
+AI No="1"+
+  <Value Name="p
+ame" Type="String" 
+="Null"/+
+_List'
+</Egg(7
+MRText*4
+Use en2d
+Bool'`
+True+`
+Freezabl'X
+Hit 
+
+Draw Priority
+Int'
+Tick 
+Group2
+en3d Model
+atrix
+	Row0="1.00 0+
+" Row1="
+Fals9 	
+Interpolate 
+Visi 
+ZBuffer 
+133sF128x
+2d Filex
+ Bank Inde'<
+	H  
+	2d   
+2dGlobal
+AI,
+o="0*p
+Formattedb
+Font#
+ ID 
+ IDCLdex3
+Offset
+Vector3'
+Horizontal Justification
+Vert\
+Max. Width 
+Heigh'
+Colour
+Drop Shadow
++l"
+1Status*X
+frontend\new\tT
+hyicons\mr
+sheet+x
+:U.1=
+ "H.*
+C6X-	Progress/Win
+/Won_Master_Stage,
+Individual$
+ Per#
+$L'7p
+TA'2
+A'6$
+     `
+</AI>
+h
+<AI No="3"+X
+  <Value Name="p
+ame" Type="String" 
+="Null"/+
+_List'
+</Egg(7
+MR3Status*@
+Use en2d
+Bool',
+True+,
+Freezabl'$
+Hit 
+
+Draw Priority
+Int'
+Tick 
+Group2
+en3d Model
+atrix
+	Row0="1.00 0+
+" Row1="
+Fals9 	
+Interpolate 
+Visi 
+ZBuffer 
+	frontend\new\trophyicons\mr
+sheet:
+495zJ14
+Filex
+Image Bank Inde'
+2d :0
+<P
+/
+2d  
+/
+2d   ,
+
+2dGlobal
+AI,L
+enUIMulti
+:AI+
+	Progress/Win
+/Won_Master_Stage,x
+Individual 
+ Per
+H Justification2
+</;p
+"$"+
+ jA'4
+C'527 
+A'4/D) 
+A'5 
+#B'59 
+A'5 
+A'6 
+	Row0="1.00 0+
+" Row1="
+"/>
+ 
+<Value Name="en3d Draw 2D" Type="Bool" 
+="False=
+	Interpolated3
+Tru>
+Visible 
+ZBuffer 
+2d Model
+String' 
+	frontend\new\trophyicons\mr
+sheet:
+atrix
+Row0 2"
+G115't	`
+File|@
+Int'
+Image Bank Inde'
+:0
+>
+	2d\
+/
+2d  
+/
+2d   ,
+
+2dGlobal
+AI_List)
+	  <AI No="0"+Z
+enUIMulti
+:AI+
+Progress/WinStatus/Won_Master_Stage6/
+ndividual 
+ Per
+H Justification2
+</;p
+</AI+
+Null-
+</Egg'd
+<Egg
+="MR7
+Use en2 
+Freeza 
+Hit 
+Priority2i
+Tick  
+Group2
+,8+
+=" >
+63.00  
+A'7+x
+A'8 
+#A'9#hN 
+A'8 
+A'9 
+"C'527 	
+me="en2d FileType" t
+="Int" Value="1"/>
+ 
+ Name="
+Image Bank Index2
+Draw 2D
+Bool'
+True=
+	Interpolated 
+Visibl'
+ZBuffer 
+2dGlobal3
+Fals-
+AI_List)h
+	  <AI No="0"+Z
+String'
+enUIMulti
+:AI+
+q@<.
+Progress/WinStatus/Won_Master_Stage9/
+ndividual 
+ Per
+H Justification2
+</;p
+</AI+
+Null-
+</Egg'd
+<Egg
+MR10
+Use `
+Freeza 
+Hit 
+Priority
+Tick  
+Group2
+,<+
+en3d Model
+atri'}
+	Row0="1.00 0+
+" Row1="
+3d  
+3d   
+	frontend\new\trophyicons\mr
+sheet:
+559{J115x
+E'1,
+pJ'</)
+="Arrows(h')
+Left
+-21.19$@)"
+'326"
+'39#
+;   
+1H :
+32 "
+OgaF%
+B$4&-
+C6(O
+/'LO(
+"05&l>*4A?
+Button I'
+#DA$
+ility6|
+/|@b
+</<$
+Righ 
+4.58 
+%57#xM n
+%4=d* ~
+row Type" t
+="Int" Value="1"/>
+ +
+ Name="Button ID2
+Group Visibility*
+String'
+Null/,
+</gaFrontendArrowAI+
+</.@
+AI Nop
+  +D
+am'4
+2" E
+_List'0
+</Egg
+</)i
+CCup)\
+<Egg(`
+Text*
+Use en2d
+Bool' 
+True+ 
+Freezabl'
+Hit 
+Draw PriorDX
+Tick 
+en3d Model
+atrix
+	Row0="1.00 0+
+" Row1="
+22'`
+Fals9 	
+Interpolate 
+ZBuffer 
+133sF269x
+2d Filex
+2d Image Bank Inde'<
+	H  
+	2d   
+2dGlobal
+AI,P
+o="0*p
+
+enUIFormattedb
+Font#
+-8!h
+ ID3
+ IDCLdex3	
+nl="
+2="3p&-
+Offset
+Vector3'T
+Horizontal Justification
+Vert\
+Max. Width 
+Heigh'
+Colour
+Drop Shadow
+z+</>l"<)+
+Z.  ,
+Race1Status*
+\new\tH
+hyicons
+sheet+
+(&(.
+546 /`.,lI0x
+Multi
+:6V.Mu(
+ #p!#
+6d-	Progress/Win
+/Won_BFGoodrichCup,
+Individual$
+$0(A1+
+ Per#
+$^'Mu5t
+@Q'2
+R'98"
+SP'?<V 
+MultiImageAI>
+ '
+</.@
+AI No="1"+
+  <Value Name="p
+ame" Type="String" 
+="Null"/+
+_List'
+</Egg(7
+CupRace3Status*T
+Use en2d
+Bool'
+True+
+Freezabl'x
+Hit 
+
+Draw Priority
+Int'
+Tick 
+Group2
+en3d Model
+atrix
+	Row0="1.00 0+
+" Row1="
+Fals9 	
+Interpolate 
+Visi 
+ZBuffer 
+frontend\new\trophyicons
+sheet:
+534sJ269x
+2d Filex
+ Bank Inde'
+2d :(
+<H
+$
+H  
+'
+2d   $
+
+2dGlobal
+AI,X
+o="0*
+enUIMult&P +
+	Progress/Win
+/Won_BFGoodrichCup,t
+Individual 
+ Per
+H Justification2
+</;t
+"4"+
+,R'</)
+Cup1.x
+-6.91$D)"
+'88"
+'32 
+agooCup+
+1t$ 
+'  ,)'2 
+3.57 
+*'29 
++'Elf 
+ Type="Int" Value="3"/>
+ 
+ Name="Tick Priority" Typ 	
+Egg Group2
+en3d Model
+String'
+Null>
+atrix
+	Row0="1.00 0+
+" Row1="
+Draw 2D
+Bool't
+False=
+	Interpolated3
+Tru>
+Visible 
+ZBuffer 
+frontend\new\trophyicons
+sheet:
+88oJ269x
+2d Filet
+Image Bank Inde'
+2d :$
+>
+	2d\
+ 
+H  
+#
+2d    
+
+2dGlobal
+AI_List)
+	  <AI No="0"+Z
+  +H
+enUIMulti
+:AI+
+Progress/WinStatus/Won_BFGoodrichCup/
+ndividual 
+ Per
+H Justification2
+</;p
+</AI+
+</Egg'e
+Cup4
+Use en2 
+Freeza 
+Hit 
+-1.53$
+("<(+(
+='3 
+Fujitsu 
+1'5 
+0'#0F
+-'0 
+.'Go 
+'</)
+#fo=""|N(dN,
+Text(l
+ <Value Name="en2d Model
+" Type="String" Value="Null"/>
+ 
+atrix
+	Row0="1.00 0+
+" Row1="
+3="133w	239x
+Filex
+Int'
+Image Bank Inde'
+Draw 2D
+Bool'
+True>
+nterpolated 
+Visible 
+ZBuffer 
+2dGlobal3
+Fals-
+AI_List)
+		  <AI No="0"+Z
+  +P
+r
+enUIFormattedTextAI+
+y\<1
+Font#
+ ID3
+Offset
+Vector3'
+Horizontal Justification
+Vert\
+Max. Width 
+Heigh'
+Colour
+Drop Shadow
+z+</>p
+</AI+
+1(7
+</Egg'd
+<Egg
+CupRace1Status*T
+Use "
+Freeza 
+Hit 
+Priority
+Tick  
+Group2
+en3 "H&l
+ >H&
+258$1( ,
+)3dX
+?$3d  
+?$3d   <$?
+frontend\new\tH
+hyicons
+sheet:
+"t/ K
+46 /e.1=x
+Multi
+:6Z.Mu(
+"`!l
+6h-	Progress/Win
+/Won_FujitsuCup,
+Individual 
+ Per#
+$R'Mu5h
+"("+
+HE'2
+F'98"
+UMu(P +</"
+UMu(
+D'?(V 
+E'3 
+	="534.00 239y
+1.00"/>
+ 
+
+<Value Name="en2d FileType" t
+="Int" 
+="1=
+Image Bank Index2
+Draw 2D
+Bool'
+True>
+nterpolated 
+Visibl'
+ZBuffer 
+2dGlobal3
+Fals-
+AI_List)X
+	  <AI No="0"+Z
+String'
+enUIMulti
+:AI+
+aH<.
+Progress/WinStatus/Won_FujitsuCup3/
+ndividual 
+ Per
+H Justification2
+</;h
+</AI+
+Null-
+</Egg
++</)U
+Cup5(\
+<Egg(`
+Text(l
+Use p
+Freeza 
+Hit 
+Priority
+Tick  
+Group2
+en3d Model
+atri'
+Row0="q
+" Row1="
+3d  
+3d   
+133."='0 (<';&
+Formatted`
+6H'-
+$l"t
+Font#
+68(/
+ ID3
+Offset
+Vector3'
+HorizB2al 
+Vertic $(
+Max. Width
+Heigh'
+Colour
+Drop Shadow
+
+<0&p
+$P.:p"@)+
+4^.  ,
+Race1$
+-frH
+end\new\tH
+hyicons
+sheet+
++@""
+< Mf.46 /d. 
+GoCup,
+"-M(I 
+U21'2 
+!2'98"
+E2 )
+ol" Value="True"/>
+ 
+ Name="en2d Interpolated" Type="Bool" 
+Visible 
+ZBuffer 
+2dGlobal3
+Fals-
+AI_List)\
+	  <AI No="0"+Z
+String'
+enUIMultiImageAI+
+e0<.
+Progress/WinStatus/Won_GoCup2/
+ndividual 
+ Per Bank
+	Int'm
+H Justification2
+</;T
+</AI+
+Null-0
+</Egg'd
+<Egg
+Race3
+Use h
+Freeza 
+Hit 
+
+Draw Priority
+Tick 
+Group2
+,L+
+en3d Model
+atrix
+	Row0="1.00 0+
+" Row1="
+3d  
+3d   
+frontend\new\trophyicons
+sheet:
+534sJ209x
+2d Filex
+"$%p
+ Inde'
+2d :(
+<H
+0',T
+p2'</)u5<l
+="Screen4MasterRallye(t',
+Text(l
+/ Og'133"K'175x
+ #d'>T&#
+32 "
+Formattedd
+Font#2
+0?4Nh
+ ID 
+ ID$
+&X@"
+Offset
+Vector3'
+Horiz^1al 
+DP-`
+Vertic $(
+Max. Width
+8t81Y
+Heigh'
+Colour
+Drop Shadow
+U:l"
+Umr$
+ )l. 
+Type="Bool" Value="True"/>
+ 
+ Name="en2d 2dGlobal" Type-
+Fals-
+AI_List)L
+	  <AI No="0"+Z
+String'
+enUIMultiImageAI+
+Progress/WinStatus/Won_T1Master/
+ndividual 
+ Per Bank
+	Int'u
+H Justification2
+</;\
+</AI+
+Null-0
+</Egg'd
+<Egg
+CupRace2
+Use `
+Freezabl'(
+Hit 
+
+Draw Priority
+Tick 
+Group2
+en3d Model
+atrix
+	Row0="1.00 0+
+" Row1="
+	Interpolated3
+Visi 
+ZBuffer 
+	frontend\new\trophyicons\mr
+sheet:
+496{J175x
+2d Filex
+ Inde'
+:0
+>
+,
+H :,
+?<
+  0
+ 
+E'2 
+E'3 
+"G'532"(' 
+E'3 
+F'</)
+="Screen4Invit$
+V5TO 
+' v:O88#
+'43x
+$Pu-YuI 
+
+alue="0"/>
+ )
+</enUIMultiImageAI+
+</.@
+AI No="1"+
+  <Value Name="p
+ame" Type="String" 
+="Null- 
+_List'
+</Egg(7
+CupText*8
+Use en2d
+Bool'd
+True+d
+Freezabl'\
+Hit 
+
+Draw Priority
+Int'
+Tick 
+Group2
+en3d Model
+atrix
+	Row0="1.00 0+
+" Row1="
+Fals9 	
+Interpolate 
+Visi 
+ZBuffer 
+133rF14
+2d Filex
+ Bank Inde'<
+	H :
+2d   
+2dGlobal
+AI,
+Formattedf
+a
+<1
+Font#
+ ID 
+ IDGLdex3	
+Offset
+Vector3'
+Horizontal Justification
+Vert\
+Max. Width 
+Heigh'
+Colour
+12 0.68W
+86 |
+Drop Shadow
++l"
+Race1Status 
+frontend\new\tH
+hyicons
+sheet+
+(&,.
+646#H. *e.1=x
+d.* N+
+ "X.*
+C6h-	Progress/Win
+/Won_Invit#
+Individual$
+$0l51+
+ Per#
+$T'7h
+YI'2
+J'98"
+H'?,V 
+ring" Value="Null"/>
+ '
+</AI,@
+AI No="3"+[
+ Name="p
+ame" Type="String 
+
+_List'
+</Egg(7
+CupRace3Status*T
+Use en2d
+Bool'@
+True+
+Freezabl'8
+Hit 
+
+Draw Priority
+Int'
+Tick 
+Group2
+en3d Model
+atrix
+	Row0="1.00 0+
+" Row1="
+Fals9 	
+Interpolate 
+Visi 
+ZBuffer 
+frontend\new\trophyicons
+sheet:
+534sJ143x
+2d Filex
+Image Bank Inde'
+:(
+<H
+$
+H :$
+?7
+2d   (
+
+2dGlobal
+AI,\
+o="0*
+enUIMulti
+;AI+
+	Progress/Win
+/Won_Invitation,l
+Individual 
+ Per
+H Justific
+</;h
+","+
+%2 F
+ [J'</)
+="Screen4Challenge(-
+y$d( p6(88"
+(99t
+,('H
+/ *-L
+q&(  2`'
+Text 
+iX'/
+B#dI&
+N"rL="
+ 6
+W13#
+N96 '
+Formatted`
++PH"0J+
+Font#2
+K2>D&h
+ ID 
+#<U3
+Offset
+Vector3'
+k#X6'
+Horiz^1al 
+|P-x
+Vertic $(
+Max. Width
+`$-%
+Heigh'
+Colour
+12 0.68S
+86 "hm>
+Drop Shadow
+
++<Y/Pbp
+U:l 
+Egg>
+ 
+<Egg Name="Challenge1Status">
+  <Value
+Use en2d" Type="Bool" 
+="True"/6
+Freezable 
+Hit 
+
+Draw Priority
+Int'
+Tick 
+Group2
+en3d Model
+String'
+Null>
+atrix
+	Row0="1.00 0+
+" Row1="
+Fals9 	
+Interpolate 
+Visi 
+ZBuffer 
+frontend\new\trophyicons\c
+sheet:
+v >>
+@15'
+	lJ=
+Filex
+Image Bank Inde'
+:L
+<l
+K
+2d :H
+?[
+2d   L
+
+2dGlobal
+AI_List)
+  <AI No="0*
+am'4
+enUIMulti
+;AI+
+	Progress/Win
+/Won_(T
+Individual 
+ Per
+H Justification2
+</;d
+</AI+
+</Egg'd
+2q'2
+q'6 
+q'2 
+q'3 
+*q'9 
+q'3 
+q'4 
+0"/>
+ 
+<Value Name="en3d Draw 2D" Type="Bool" 
+="False"/>:
+	Interpolated3
+Tru>
+Visible 
+ZBuffer 
+2d Model
+String' 
+frontend\new\trophyicons\challenge
+sheet:
+atrix
+	Row0="1.00 0+
+" Row1="
+3="52
+15'P
+FilexA
+Int')
+Image Bank Inde'
+:L
+>:	2d\
+K
+2d :H
+?[
+2d   L
+
+2dGlobal
+AI_List)
+	  <AI No="0"+Z
+enUIMulti
+;AI+
+Progress/WinStatus/Won_C
+ndividual 
+ Per
+H Justification2
+</;d
+</AI+
+Null-
+</Egg'd
+<Egg
+Use en2 
+Freeza 
+Hit 
+Priority2
+Tick  
+Group2
+=" >0
+q'6 
+)r'43#q'9"
+/$HPd
+:K32d  
+m'7 
+*m'6 Il'
+en2d Image Bank Index" Type="Int" Value="0"/>
+ 
+ Name="en2d Draw 2D
+Bool'
+True=
+	Interpolated 
+Visible3
+Fals>
+ZBuffer 
+2dGlobal 
+AI_List)\
+  <AI No|-+Z
+String'
+enUIMulti
+;AI+
+e8<.
+Progress/WinStatus/Won_Challenge7/
+ndividual
+ Per
+H Justification2
+</;d
+</AI+
+E1"+X
+Null-@
+</Egg'
+<Egg
+Use `
+Freeza6
+Hit 
+Priority
+Tick  
+Group2
+en3d Model
+atri'
+	Row0="1.00 0+
+" Row1="
+3d :$
+,   
+frontend\new\trophyicons\c
+sheet:
+@9( 	d
+Filet
+4m'8+
+m'9 
+)n'52 
+m'9 
+n'10 
+*q'5 
+10"/>
+  
+     
+<Value Name="Individual Images" Type="Bool" 
+	="False"/>
+
+ Per Bank
+	Int'-
+H Justification2
+</enUIMulti
+!AI+
+</.@
+AI No="1"+
+  +X
+String'4
+Null-0
+_List'
+</Egg(7
+Challenge11Status*`
+Use en2d
+
+Tru,
+Freezabl'
+Hit 
+
+Draw Priority
+Tick 
+Group2
+en3d Model
+atrix
+	Row0="1.00 0+
+" Row1="
+Interpolate 
+Visi 
+ZBuffer 
+frontend\new\trophyicons\c
+sheet:
+@9( 	d
+Filet
+ Inde'
+:H
+<h
+G
+2d :D
+?W
+2d   H
+
+2dGlobal
+o="0*
+	Progress/Win
+/Won_)T
+qv'</)
+Screen4
+ClassID+
+-+0 
+-5.74$l)>
+3d :
+3d !
+/ Or'47d;
+ 368'
+#x$:t'>d&
+FormattedTextAI+
+Font#&
+6t(1
+ ID3
+ IDS
+dex 
+&T+"
+-="T?
+Offset
+Vector3'
+L#<7'
+HorizZ1al 
+|P?`
+Vertic 
+Max. Width
+Heigh'
+Colour
+88 0.10 x
+Drop Shadow
+U:h"
+&H7+L(
+K%p)<H71
+-6.2q
+-504"
+ring" Value="T2"/>
+ +
+ Name="Offset" Typ\
+Vector3'
+0.00 '
+Horizontal Justification
+Int'e
+Vert\
+Max. Width2$
+Heigh'
+Colour
+,4( 
+88 0.10 1.0?@
+Drop Shadow
+Bool'H
+True/L
+</enUIFormattedTextAI+n
+</.@
+AI No="1"+
+String',
+Null-,
+_List'
+</Egg(7
+ClassID+<
+Use en2d
+Freezabl'`
+Hit 
+
+Draw Priority
+Tick 
+Group2
+en3d Model
+atrix
+Row0="lz(
+" Row1="
+-0.97
+Fals,
+Interpolate 
+Visi 
+ZBuffer 
+?368
+2d Filex
+Image Bank Inde'@
+	H :
+2d   
+2dGlobal
+AI,
+o="0 
+Font#
+1?X'"
+ ID3
+vl="
+#[-="T,
+-</)9.<l
+="Backing(}
+)$`<l
+Border(x
+, 8t.,
+"t/+
+"3d\
+
+frontend\new\tiles\simplebox:|
+Scaler+H
+UiNo&
+-*p.,
+h
+-<
+ From
+Floa)
+VuZ0 
+tart Ti(hQ 
+Finish7
+Pulse on Activ4
+IS GXP
+*+$8/h
+First $s>in  
+Tag at Bottom-Left68
+	Top;h
+"tX,@
+Chang6
+|D+Y"U 
+i6?4
+y 1a
+r Ma3
+T T
+-
+Rnd C"
+s_Version4>
+</Scene

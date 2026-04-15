@@ -1,0 +1,1 @@
+<Value Name="UiSelect" Type="Int"  | ="0" SaveOptions | Pla  | Uns E | Index* | String'P | Null +\ | List6 | Frontend/RaceResults/Pointsx | HeightSpac

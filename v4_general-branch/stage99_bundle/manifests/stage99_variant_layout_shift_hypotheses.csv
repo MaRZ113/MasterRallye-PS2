@@ -1,0 +1,4 @@
+hypothesis_id,hypothesis,support,evidence
+H1,"AI_3_3 reuses owner A4-family semantics, but the raw tuple is shifted or fragmented by variant-only inserts.",strong,Stable transfer of Font ID / Offset / HJustification / Draw Priority plus added ViewC/GetSaveSize/background path fields.
+H2,AI_3_3 is a render-specialized variant where owner-tail semantics are partially hoisted into explicit value blocks and render-tail properties.,medium,"zbuffer_bool, Image Bank Index, 2dGlobal, background path appear earlier and denser than in AI_0_1."
+H3,No separate companion-like 3E backlink tail is expected inside AI_3_3 because it acts as a secondary owner/variant rather than a text companion.,medium,AI_3_3 carries selector-ish core and render fields but not the path/text payload of AI_0_2.

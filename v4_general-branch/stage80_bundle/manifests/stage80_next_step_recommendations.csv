@@ -1,0 +1,4 @@
+priority,next_step,why
+1,Stage 81 = UiSelect/List value payload decoder pass,cleanest local preludes and boundaries in RaceResults; likely first precise value-table decoder
+2,Stage 82 = AI/TextButton local field mapping,"AI blocks already expose stable UI fields such as Font ID, offsets, width/height, justification"
+3,Transfer back to QuickRace once RaceResults value decoder stabilizes,QuickRace is noisier but shares the same member classes

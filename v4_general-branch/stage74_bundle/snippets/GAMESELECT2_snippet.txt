@@ -1,0 +1,93 @@
+XML key: GAMESELECT2
+PAK path: SCREENS\PS2\GAMESELECT2.XML
+TNG offset: 0x17c9f489
+Cluster: 2
+
+Width2
+Height2
+Box  "
+Pu`{
+Drop Shadow
+</AI+ 
+(null)-
+Standard
+p0+4
+Up Pa5
+RpW7
+Down7
+Lefth
+Enabl 
+Unlocker<
+ 16`
+/GameSelect/'
+Availh*>
+1 OR 23
+%|.-
+Control AI5
+1?2y
+</Egg'5
+Screen*
+Use "l13
+Freez
+Hit 
+Priority
+Tick :
+Group2
+en3d Model
+73d 
+2d :
+/$#t
+/1x 7
+E\( 
+$m%1"pC 
+-1.88$,Y>@
+25 'p_ _
+)2 "
+) gt_
+enUIFormatte#
+  <1
++( #8 #
+Z#n4=""4_3(\,t
+-@At
+_$|^&
+%or3'
+Horizontal  !
+Vertic 
+Max. 7
+8(_?
+Colour,
+ 0.3"
+v30 x
+>T^/
+n5</>
+",)+
+ #H.(
+BackgroundFad?lS.
+ Ti(
+Floa(
+0.20@
+ Star'
+ End
+Active*
+erAI+
+</.@
+ame 
+Master
+en2'
+ol'8
+abl'
+6Int'
+Row0' 
+Fals9 
+2d F
+2d .
+2"V$
+ &( 
+ SaveOpt
+PlayerStP
+_Sdex F
+?="#4& *
+2" *
+,3'4"
+50 1
+</>4

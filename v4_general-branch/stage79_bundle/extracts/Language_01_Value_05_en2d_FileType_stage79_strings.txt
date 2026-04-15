@@ -1,0 +1,1 @@
+<Value Name="en2d FileType" t | ="Int" Value="1"/> | Image Bank Index2 | Draw 2D | Bool' | True= | Interpolated  | Visibl' | ZBuffer  | 2dGlobal3

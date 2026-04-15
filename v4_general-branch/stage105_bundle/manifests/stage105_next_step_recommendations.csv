@@ -1,0 +1,3 @@
+priority,next_stage,reason
+1,Stage 106 = 2dGlobal namespace / list-root resolver pass,"Best next move is to verify whether 2dGlobal names a bank scope feeding the concrete AI_List root targeted by 0x00F5"
+2,Stage 107 = explicit QuickRace list container decoder pass,"Once handoff is fixed, the next useful object is the AI_List root itself"

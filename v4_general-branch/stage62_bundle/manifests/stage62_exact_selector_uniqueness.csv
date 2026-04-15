@@ -1,0 +1,4 @@
+path,page_lift_target_hex,page_lift_occurrence_count,page_lift_occurrence_offsets,packed_member_key_hex,packed_member_key_occurrence_count,packed_member_key_occurrence_offsets,uniqueness_read
+FMV\CHALL04.PSS,0x15ef8,0,,0x900127c,1,0x15fc7,exact member key is unique in TNG.PAK for this subgroup member
+\FMV\TROPHY.PSS,0x15fb6,0,,0x6000c4c,1,0x1b34b,exact member key is unique in TNG.PAK for this subgroup member
+FMV\BFGOOD1.PSS,0x15d29,0,,0x900337c,1,0x1d35e,exact member key is unique in TNG.PAK for this subgroup member

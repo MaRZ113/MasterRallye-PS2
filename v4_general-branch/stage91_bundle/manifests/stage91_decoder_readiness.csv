@@ -1,0 +1,4 @@
+component,status,stable_now,missing
+nav_target_mapping,first_scene_local_map_hypotheses_ready,shared list-root and paired selector/companion mapping pattern,proof of exact object ID table or explicit ref decode
+left_path_extended_ref,partially_resolved,not a plain u16 member ref; likely shared back/escape link,exact parent/back target semantics
+quickrace_nonvideo_parser,parser_fragment_ready,"scene-local ownership, nav slot layer, paired carriers, likely target families",hard decode of compact ref table from binary control layer

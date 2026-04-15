@@ -1,0 +1,4 @@
+priority,next_step
+1,"Stage 78 should target Language_01 member-local decoder first (Hitable, Colour Start, en2d FileType)."
+2,"After Language, target RaceResults List* and UiSelect because they have clean 2b00000010-style member preludes."
+3,"Treat QuickRace AI_List / AI_No groups as second-wave work: probably mini-index / repeated control records, not plain text members."

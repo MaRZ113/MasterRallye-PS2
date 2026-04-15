@@ -1,0 +1,4 @@
+path,page_index,group,page_lift_target_hex,packed_member_key_hex,string_offset_hex,page_lift_word_offset_hex,packed_member_word_offset_hex,compound_decoder_read
+FMV\CHALL04.PSS,1,page1_low16_bankroot,0x15ef8,0x900127c,0x15fcb,0x15fc3,0x15fc7,page1 low16 picks subgroup anchor; exact packed member key (trail_u16_b<<16 | trail_u16_a) identifies the named late-FMV member record within that subgroup family
+\FMV\TROPHY.PSS,1,page1_low16_bankroot,0x15fb6,0x6000c4c,0x1b34f,0x1b347,0x1b34b,page1 low16 picks subgroup anchor; exact packed member key (trail_u16_b<<16 | trail_u16_a) identifies the named late-FMV member record within that subgroup family
+FMV\BFGOOD1.PSS,1,page1_low16_bankroot,0x15d29,0x900337c,0x1d362,0x1d35a,0x1d35e,page1 low16 picks subgroup anchor; exact packed member key (trail_u16_b<<16 | trail_u16_a) identifies the named late-FMV member record within that subgroup family

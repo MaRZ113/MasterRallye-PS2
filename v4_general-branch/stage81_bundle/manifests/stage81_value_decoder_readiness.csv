@@ -1,0 +1,6 @@
+source_member,status,fields_recovered,next_focus
+RaceResults_List_star,operational_value_scaffold,"declared_type,embedded_token,layout_hint,member_name,ui_or_asset_path",stabilize inline literal / path / layout tokens
+RaceResults_UiSelect,operational_value_scaffold,"declared_type,embedded_token,inline_literal,layout_hint,member_name,persistence_flag,ui_or_asset_path",stabilize inline literal / path / layout tokens
+Language_Hitable,reference_transfer_anchor,"declared_type,embedded_token,inline_literal,member_name,ui_or_asset_path",use as control/reference
+Language_Colour_Start,reference_transfer_anchor,"declared_type,embedded_token,member_name,ui_or_asset_path",use as control/reference
+Language_en2d_FileType,reference_transfer_anchor,"embedded_token,inline_literal,member_name",use as control/reference

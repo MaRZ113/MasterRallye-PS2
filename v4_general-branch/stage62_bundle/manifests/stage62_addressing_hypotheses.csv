@@ -1,0 +1,5 @@
+hypothesis_id,name,status,detail
+H1,page1_low16_selects_shared_subgroup_anchor,supported,CHALL04/TROPHY/BFGOOD1 all use page_index=1 and low16(cand_u32_b) to land in or near the same late-FMV subgroup fabric.
+H2,exact_packed_member_key_identifies_named_late_fmv_record,strongly_supported,"For CHALL04, TROPHY, and BFGOOD1 the packed word (trail_u16_b<<16 | trail_u16_a) occurs exactly once in TNG.PAK and sits at string_offset-4 of the named record."
+H3,selector_transfer_decoder_is_viable,supported,"CHALL04 can seed the subgroup model, then TROPHY and BFGOOD1 transfer cleanly by using the same subgroup family with their own exact packed member key rather than nearest-local string heuristics."
+H4,exact_TNG_window_bridge_still_requires_post_member_edge,still_open,"Stage 62 resolves page1 subgroup members to exact named late-FMV records inside TNG.PAK, but the final edge from named member record to TNG.000 start/size remains to be decoded."

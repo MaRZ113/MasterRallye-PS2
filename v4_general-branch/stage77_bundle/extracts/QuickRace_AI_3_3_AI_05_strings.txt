@@ -1,0 +1,16 @@
+<AI No="3"+X.-..r.am'@..String'@..Null-@.-..x.._List'...</Egg(7.Egg.M.ViewC.Zts*L.+L
+.Use en2 .|.+...Freezp3 .t.+..Hit ...
+Draw Priority..*!3+..+...Tick ...|*.Group2..,.+...en3d Model.2..>..1...atrix..M...Row0="0.00 ,..." Row18i.28i.3/k.1.0>...22'h.<..0t..Interpolat ...0...Visibl'l ....ZBuffer ...2 ...f..\b..s\curved_smaller8.
+et .>.....@`4:..,|..C+..'|....3="2.I89'`	d.=...Filep..T*U.1=...Image Bank Inde'..*..;.
+2d  .
+
+2d\. ..
+2d  ..
+2d   .
+.2dGlobal.0+..Fah.*;#<AI,0.".#..0*....#."..="< ..enUIText$.#2.%...'..dl.+|..Font ID#..*X.,h	h.-..a.*..>..5..6..92+`.8..[Kdex3..?.'a. ..fl="...2="1. h.+.....OffsetX.!*..,xx.1.. ..Y2..?(..HJustification2..?-.V !
+.Ic4..0..</;.
+",&+.
+.g1 ...1$.7..2 ...8.+/@. 5.3?.09.3?.. ;.37/..-.. .X.3.GetSaveSize*`.+.. ......347 ...F.3?.'#.2&.3 ....3?.09.3?.. ;.3?L> .K.3</).g<l.%:NBG(.3<".b%.q.ackground(x.-.: .D4,..+.7 ..h"x^ ,.`#._(..|.+.C+X.#.k:.]1.Y#.R.W.. Q.h...J........'Value Name="en3d ZBuffered" Type="Bool" Value="True"/>
+ ..<..'...2d Model.....String'....frontend\backgrounds\bg_newnetwork>...atrix..M..	Row0="1.00 0+..." Row1="..,|...2..,|...3*h.'|.=x..Fileh'..Int'..0=...Image Bank Inde'.. ....Draw 2D.. ....Interpolat ....Visible ...<.
+.Fals>.
+.2dGlobal3..1...AI_List)`.	  

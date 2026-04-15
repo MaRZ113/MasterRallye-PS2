@@ -1,0 +1,6 @@
+field,raw_bytes,hypothesis,support,note
+family_marker,a4,owner-local state/layout family tag,high,Shared between compact triplet and extended tuple; not seen in companion backlink records.
+local_id,09 / 07,small owner-local state or layout selector,medium,Differs between Up and Right owner slots; likely chooses compact-state vs layout-bearing branch.
+packed_ref,2d c4,packed local layout ref / bucket id,low,Appears only in extended tuple; not yet mapped to a concrete object ordinal or token offset.
+scalar,10,small layout scalar or policy code,medium,Stable non-ordinal byte inside extended tuple; could be alignment/justification/draw-policy related.
+mode,02 / 01,subtype/mode byte within A4 family,medium,"Compact state triplet uses 0x02, extended tuple uses 0x01; likely branch-specific rather than global direction."

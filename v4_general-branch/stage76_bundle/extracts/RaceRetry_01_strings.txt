@@ -1,0 +1,150 @@
+<Scene>
+  <EggLists_Version4
+  <t
+ Name="RaceRetry"
+  <Value
+
+Use en2d" TypL	
+Bool" 
+="True"/'P
+Freezable 
+Hit 
+
+Draw Priority
+Int'
+Tick 
+Egg Group2
+en3d Model
+String'
+Null>
+atrix
+Row0="0.00 ,
+" Row18i
+1.0>
+Interpolate 
+Visi 
+ZBuffer 
+frontend\new\buttons\tiled
+3="16
+Image Bank Inde'
+
+2d  
+
+2d\
+
+2d  
+
+2d   
+2dGlobal
+Fals-K
+AI_l
+  <AI No="0(E
+gaFr
+TextB
+]T[CdAI+ 
+}
+<9
+="Font ID#
+ IDSNdex3
+~n="
+$=" 
+OffsetX
+HJustification2
+Width2
+Height2
+Box  "
+Pud{2
+j8</ 
+</AI+
+(null)-l
+Standard
+
+ I'
+Up Pa5
+R|N7
+Down7
+Left7
+</Egg'
+Change*<
+^626'
+S\6?`$"a9 &$6 
+z\6?d>9\6?
+ ;]64>P8 
+Exit 
+W6199 "T6
+	lue="1"/>
+ 
+<Value Name="en2d Image Bank Index" Type="Int" 
+="0=
+Draw 2D
+Bool'
+True=
+	Interpolated 
+Visible 
+ZBuffer 
+2dGlobal3
+Fals-
+AI_List)h
+  <AI Nox-+Z
+String'
+	gaFrontendTextButtonTiledAI+
+}A<9
+Font ID#
+Null 
+OffsetX
+|51
+HJustification2
+Width2
+Height2
+Box  "
+Pud{
+z'</ 
+</AI+
+1"+X
+(null)-|
+Standard
+
+ I'
+Up Pa4
+R|N7
+Down7
+Left7
+Enabl 
+</Egg'
+<Egg
+RaceRetryScreen*`
+Use "x$
+Freezp,3
+<?$Hit 
+Priority
+Tick :
+,0+
+Group2
+,4
++
+en3d Model
+atri'
+Row0P
+.00 0+
+25l,0
+  s,3d  
+s,3d   p,  
+L9 b
+2d Fileh
+.6E
+&o=" 
+eplay 
+	#H$ 
+\new\b#
+Js\t"
+:L% O. 16
+B253'
+:< ,
+$-(H"MY &
+G="1,!|
+$DU 
+6HV?@b9HV,
+ ;HV,4,1
+JV</'
+s_Version4>
+</Scene

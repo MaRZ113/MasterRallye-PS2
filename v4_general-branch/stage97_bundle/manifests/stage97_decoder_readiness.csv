@@ -1,0 +1,5 @@
+area,status,evidence
+local nav parser scaffold,strong,slot_tag + ordinal + slot_class + owner/companion tail split is now stable
+owner/companion role split,strong,companion tails backlink to owner ordinals; owner tails carry A4 family state/layout payloads
+packed_ref exact meaning,partial,0x2DC4 isolated but not mapped to a concrete local field/object yet
+scalar/mode exact semantics,partial,"0x10 and 0x01/0x02 are stable, but not yet tied to a named UI field"

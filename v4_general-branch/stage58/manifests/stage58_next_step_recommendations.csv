@@ -1,0 +1,4 @@
+priority,next_stage,focus,why
+1,Stage 59,auxiliary numeric table / root-link pass,best chance to find exact offset/size bridge outside clear strings
+2,Stage 59A,FMV record micro-parser,FMV entries have best semantic anchors and repeatable local metadata signatures
+3,Stage 60,apply recovered entry model to XML/GXI/PSB,"once addressing bridge exists, non-video resources become tractable"

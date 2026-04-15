@@ -1,0 +1,3 @@
+anchor_path,compared_path,pack_start_hex_anchor,pack_start_hex_compared,pack_distance_hex,duration_anchor_s,duration_compared_s,resolution_match,gray_corr,ahash_hamming_256,dhash_hamming_256,assessment,notes
+FMV\BFGOOD2.PSS,FMV\CHALL06.PSS,0x3C280A47,0x3C2C4A47,0x00044000,25.479122,25.079122,512x256 == 512x256,0.651734,42,40,verified_sibling_alias_branch,visual content strongly tracks BFGOOD2; pack starts are close and both belong to branded preview family rather than true challenge-only FMV
+FMV\BFGOOD2.PSS,FMV\BAGOO3.PSS,0x3C280A47,0x204DF85F,n/a,25.479122,46.002344,512x256 == 512x256,-0.089632,133,141,not_verified_degraded_branch,video-valid but visual relation weak and content remains mostly black/degraded

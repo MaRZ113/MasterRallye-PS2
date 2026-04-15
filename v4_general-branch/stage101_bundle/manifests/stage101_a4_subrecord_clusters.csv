@@ -1,0 +1,9 @@
+carrier,a4_offset_hex,zone_class,prev_anchor,next_anchor,subtype_byte_hex,a4_signature_6b,major_family,cluster_label,best_semantics
+AI_0_1,0x123,nav_slot_tail,Up Path,Right,0x09,a40902526967,owner_nav_tail,owner_nav_compact_state,compact owner-state triplet
+AI_0_1,0x12f,nav_slot_tail,Right,Down,0x09,a40902526967,owner_nav_tail,owner_nav_compact_state,compact owner-state triplet
+AI_0_1,0x2ff,render_or_value_subblock,Image Bank,Vector3,0x33,a43378d727ac,owner_render_value,owner_render_curve_bundle,render/value curve bundle
+AI_0_1,0x44d,render_or_value_subblock,Colour,True,0x13,a4132b940e22,owner_render_value,owner_value_trailer_bundle,value/trailer bundle
+AI_0_1,0x642,render_or_value_subblock,Image Bank Index,2dGlobal,0x09,a4093fb80a4c,owner_render_value,owner_render_2dglobal_bridge,2d/render bridge bundle
+AI_0_2,0x318,render_or_value_subblock,gaFrontendStandardButtonAI,Up Path,0x0A,a40a0d204944,companion_embedded,companion_embedded_value_id,embedded value/id subrecord
+AI_3_3,0x305,variant_render_value_subblock,GetSaveSize,en3d ZBuffered,0x32,a43226843320,variant_owner_render,variant_owner_render_hoist,variant render/value hoist
+AI_0_4,0x226,variant_trailer_subblock,Colour,,0x0C,a40c200034ca,variant_owner_render,variant_trailer_version_subrecord,variant trailer/version subrecord

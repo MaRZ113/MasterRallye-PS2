@@ -1,0 +1,4 @@
+path,remaining_problem,recommended_next_action,priority
+FMV\BAGOO3.PSS,degraded evidence only,search alternate local fields around BAGOO3 and adjacent subgroup siblings,high
+FMV\CHALL06.PSS,semantic mismatch vs name,verify whether CHALL06 is alias/sibling to branded preview family or if another local decoder exists,medium
+FMV\BFGOOD2.PSS,"needs exact edge, not just nearest-pack snap",stabilize local decoder and test whether nearby field gives exact pack start,medium

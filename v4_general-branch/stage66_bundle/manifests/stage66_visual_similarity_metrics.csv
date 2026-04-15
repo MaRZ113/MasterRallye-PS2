@@ -1,0 +1,4 @@
+a,b,gray_corr,mse_gray,hist_intersection,ahash_hamming_256,dhash_hamming_256,assessment
+BFGOOD2,CHALL06,0.651734,1056.427,0.062015,42,40,strong_visual_sibling_signal
+BFGOOD2,BAGOO3,-0.089632,3540.275,0.008131,133,141,weak_visual_relation
+CHALL06,BAGOO3,0.021723,3300.965,0.008049,117,141,weak_visual_relation

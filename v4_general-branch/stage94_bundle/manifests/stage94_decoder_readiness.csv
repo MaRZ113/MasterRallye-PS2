@@ -1,0 +1,6 @@
+component,status,readiness,notes
+standard_slot_record,promoted,high,Up/Right/Down all fit [tag][u16 ordinal][control_a][control_b] shape.
+owner_companion_pairing,promoted,high,Up and Right ordinals differ by +1 between owner and companion; Down shared.
+down_shared_list_root,promoted,high,0x00F5 tied to scene-root/list-root anchor with local carrier metadata.
+left_extended_ref,isolated,medium,"1aec0104 confirmed as separate extended back/escape record, but inner semantics still open."
+control_a/control_b_semantics,pending,medium_low,control_a/control_b are stable per slot/carrier but not yet bit-decoded.

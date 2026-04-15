@@ -1,0 +1,10 @@
+xml_key,pak_path,pak_offset_hex,primary_tng_offset_hex,primary_cluster_id,clusters_present,status,evidence_excerpt,notes
+RACEDETAILS2,SCREENS\PS2\RACEDETAILS2.XML,0x3605,0x17cb6f5f,2,2/4/6,strong_semantic_bridge,"TextB | ]T_CdAI+ | uy<9 | Font ID# | /RaceDetails | [Qdex3d | fr="" | Null ",multiple repeated frontend text banks in TNG.000
+OPTIONS,SCREENS\PS2\OPTIONS.XML,0x8150,0x17c9db47,2,1/2/3/4/5/6,strong_semantic_bridge,extB | ]T[CdAI+ | yi<9 | Font ID# | /GameOptions/Gearx[` | d 1g | Null  | OffsetX,multiple repeated frontend text banks in TNG.000
+LANGUAGE,LANGUAGE.XML,0xa844,0x17ca0668,2,2/4/6,strong_semantic_bridge,"8>6</' | 6<,I | ""\""  | Language"" | English(l( | \flagsheet: | I33% | @*]4",multiple repeated frontend text banks in TNG.000
+RACERESULTS,SCREENS\PS2\RACERESULTS.XML,0xc003,0x17cb895e,2,2/4/6,strong_semantic_bridge,Pla  | Uns E | Index* | String'P | Null +\ | List6 | Frontend/RaceResults/ | HeightSpac,multiple repeated frontend text banks in TNG.000
+QUICKRACE,SCREENS\PS2\QUICKRACE.XML,0xd9cc,0x17c9ebb3,2,1/2/3/4/5/6,strong_semantic_bridge,"  ""8Q | List( |   <t | ""'Ie="""" | Select"" | QuickRace(t | "" %""8E | ""/'`",multiple repeated frontend text banks in TNG.000
+PROGRESS,SCREENS\PS2\PROGRESS.XML,0xe308,0x17c9efa9,2,1/2/3/4/5/6,strong_semantic_bridge,"Enabl  | Unlocker< |  16` | Progress/OpU | d""\x | s/T1 |  t&- | 1 OR 23",multiple repeated frontend text banks in TNG.000
+CUPSELECT,SCREENS\PS2\CUPSELECT.XML,0x1919d,0x17c9c381,2,2/4/6,strong_semantic_bridge,String'$ | gaFrontend | AI0T |  Status*5 | /CupSelectd | + ID2 | Group Visibility6 | Null/.,multiple repeated frontend text banks in TNG.000
+TRAINING,SCREENS\PS2\TRAINING.XML,0x1c64a,0x17ca2f6f,2,2/4/6,strong_semantic_bridge,"#R(="" | ,D+l | )?""x&*;<"" | Training | a73+4 | ""4=\s | c7293  | ~`7:4.",multiple repeated frontend text banks in TNG.000
+GAMESELECT2,SCREENS\PS2\GAMESELECT2.XML,0x1d438,0x17c9f489,2,2/4/6,strong_semantic_bridge,Enabl  | Unlocker< |  16` | /GameSelect/' | Availh*> | 1 OR 23 | %|.- | Control AI5,multiple repeated frontend text banks in TNG.000

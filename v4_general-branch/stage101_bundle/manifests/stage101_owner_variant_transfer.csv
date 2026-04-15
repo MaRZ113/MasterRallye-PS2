@@ -1,0 +1,5 @@
+carrier,role,a4_family_usage,decoder_effect,confidence
+AI_0_1,canonical_owner,owner_nav_tail + owner_render_value,primary owner-family reference carrier,high
+AI_0_2,companion,companion_embedded only,not owner-family tail carrier; keeps 3E backlink semantics,high
+AI_3_3,variant_owner,variant_owner_render,owner-family semantics are hoisted into render/value subrecords,high
+AI_0_4,variant_aux,variant_owner_render,late trailer/version sidecar of variant owner-family line,medium

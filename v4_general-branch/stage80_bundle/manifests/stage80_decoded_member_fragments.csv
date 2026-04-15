@@ -1,0 +1,6 @@
+scene,member_label,member_class,sample_strings
+RaceResults_01,AI0_UiSelect2_browser,ui_ai_member,"=""UiNo | UiSelect2 | Font5 | Frontend/)m""/&"
+RaceResults_01,List_star,typed_value_member,"<Value Name=""List*"" Type=""String""  | 	=""Frontend/RaceResults/Timep | HeightSpac"
+RaceResults_01,UiSelect,typed_value_member,"<Value Name=""UiSelect"" Type=""Int""  | =""0"" SaveOptions | List6 | 	Frontend/RaceResults/Pointsx | HeightSpac"
+RaceResults_01,en3d_Matrix_embedded,embedded_value_member,"<Value Name=""en3d Matrix"" TypH | Draw 2D | ZBuffer  | Image Bank Inde' | AI_List)p"
+RaceResults_01,AI_member,ai_member,Font ID# | Width2 | Height2

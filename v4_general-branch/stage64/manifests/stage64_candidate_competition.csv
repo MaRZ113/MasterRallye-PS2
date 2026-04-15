@@ -1,0 +1,9 @@
+path,candidate_label,target_hex,pack_hex,snap_delta_bytes,duration_s,codec_summary,visual_result,rank
+FMV\BFGOOD2.PSS,post_u32_m4.swap16,0x3C280C0A,0x3C280A47,451,13.811,mpeg2video 512x256,best visible / coherent branded preview,1
+FMV\BFGOOD2.PSS,pre_u32_m16.direct,0x01315E4E,0x0131531D,2865,65800.249,unknown / broken,false positive,2
+FMV\BFGOOD2.PSS,pre_u32_m20.direct,0x1E050C2C,0x1E051D71,4421,N/A,mpeg1video+mp2 broken,mostly black / unstable,3
+FMV\CHALL06.PSS,pre_u32_m28.minus_0x50000000,0x3C2C475C,0x3C2C4A47,747,13.251,mpeg2video 512x256,best visible but semantic mismatch,1
+FMV\CHALL06.PSS,pre_u32_m24.minus_0x40000000,0x0A370504,0x0A3707B7,691,12.719,mpeg2video+mp2,degraded / mostly black,2
+FMV\CHALL06.PSS,cand_u32_b.swap16,0x1C005EC2,0x1C005DDB,231,0.399,broken stream,false positive,3
+FMV\BAGOO3.PSS,cand_u32_a.minus_0x40000000,0x204E0004,0x204DF85F,1957,12.593,mpeg2video 512x256,mostly black / degraded,1
+FMV\BAGOO3.PSS,post_u32_m4.direct,0x0500E8AC,0x0500ED3D,1169,2.302,mpeg1video+mp2,fragmentary / not usable,2

@@ -1,0 +1,3 @@
+priority,next_step,why
+1,Stage 103 = render_2dglobal_bridge field correlation pass,AI_0_1 @ 0x642 is the strongest owner_render_value subtype with explicit 2d/Image Bank/2dGlobal/AI_List anchors
+2,Stage 104 = variant hoist alignment pass,AI_3_3 and AI_0_4 confirm transfer but still need subtype alignment back to canonical owner_render family

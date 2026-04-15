@@ -1,0 +1,5 @@
+next_stage,focus,recommendation,priority
+Stage 74,non_video_transfer_xml,Use the FMV registry as the first stable validation set while probing XML-bearing entries in the PAK->TNG bridge. XML is preferred over GXI/PSB because semantic validation is easier.,highest
+Stage 75,registry_driven_cli,Wrap exact/operational/alias/evidence FMV registry into a single CLI manifest exporter so named FMV extraction stops depending on per-stage scripts.,high
+Deferred,name_only_CHALL07_CHALL09,Leave CHALL07/CHALL09 unresolved until either node bridge or a later non-video layer reveals additional context.,medium
+Deferred,BAGOO3_salvage,Do not spend the main line on BAGOO3 until broader decoder generalization is in place; current route remains degraded evidence only.,low

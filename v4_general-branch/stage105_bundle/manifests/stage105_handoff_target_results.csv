@@ -1,0 +1,4 @@
+anchor,pre_zone_tokens,bridge_marker,post_zone_tokens,best_read,target_role,confidence,evidence
+AI_0_1 @ 0x642,2d File | 2d Image Bank Index,A4 @ +0x40 from local window start,2dGlobal | AI_List,owner_render_to_list_handoff,render namespace/bank context -> list-root handoff,high,"Stage 103 strongest bridge-center; Stage 93/91 already map Down=0x00F5 to shared AI_List root"
+AI_0_1 Down Path,Down Path,slot_tag 0x37 | ordinal 0x00F5,3e e3 02 tail,shared_list_root_target,scene-root/list-root compact target,high,"Stage 91/93 promote 0x00F5 as shared list root and scene-root allocator anchor"
+QuickRace_AI_List_AI_List_02,AI_List,scene-local list object,shared downstream target,list_transition_root,concrete local list container,high,"Only explicit local list-transition object in scene; both owner and companion Down target to 0x00F5"

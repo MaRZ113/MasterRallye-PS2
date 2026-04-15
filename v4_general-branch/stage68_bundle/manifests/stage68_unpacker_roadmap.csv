@@ -1,0 +1,7 @@
+priority,workstream,state,why
+1,Stage 68 complete: early_u16 payload-edge pass,done_now,first exact named early FMV edge for INV1; operational edges for MICROIDS and CHALL02
+2,Stage 69: early_u16 decoder family transfer,next,try to lift INV1/MICROIDS/CHALL02 patterns across FUJ3/GO2/ELF3 and remaining early entries
+3,Stage 70: alternate subtype late-FMV decoder,next,MASTER03/CREDITS/FUJ2/GO3 still only partial late submodels
+4,General PAK→TNG decoder registry integration,after_68_69_70_checkpoint,merge early exact/operational and late exact/operational decoders into one named registry-driven router
+5,Cross-resource transfer to XML/GXI/PSB,after_registry_checkpoint,FMV then becomes validation layer for addressing while other resource classes can reuse bridge logic
+6,General unpacker/extractor CLI,after_cross_resource_checkpoint,needs stable address bridge + named decoder registry + at least one non-video resource class

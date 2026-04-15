@@ -1,0 +1,411 @@
+<Scene>
+  <EggLists_Version4
+  <t
+ Name="QuickRace"
+Start,t
+  <Value
+Use en2d" Type="Bool" 
+="True"/'`
+Freezable 
+Hit 
+
+Draw Priority
+Int'
+Tick 
+Egg Group2
+en3d Model
+String'
+Null>
+atrix
+Row0="0.00 ,
+" Row18i
+1.0>
+Interpolate 
+Visi 
+ZBuffer 
+frontend\new\buttons\tiled
+3="16
+Image Bank Inde'
+
+2d  
+
+2d\
+
+2d  
+
+2d   
+2dGlobal
+Fals-K
+AI_|
+  <AI No="0(U
+gaFr
+TextB
+]T[CdAI+ 
+}
+<9
+="Width
+40" SaveOptions="
+PlayerState
+Height2
+Font ID#2
+l6R
+36 /W
+ ID[xdex3
+T=" 4(
+OffsetX
+ ,@
+
+HJustificaxu2
+Box  N
+7T/ *|
+Drop Shadow
+</AI+
+Standard
+
+ I'
+Up Pa4
+,`'1
+Down7
+Left7
+</Egg'
+Change"
++L	 
+A13'|J 
+4;$= 
+6v<27>\#t
+85d: 	
+:<J=
+,tY$
+P'@*
+n 3l7
+(null)-
+49t7?d8 ;u73-x
+
+`X 
+Name" Type="String" Value="Null"/>
+ 
+ Name="en3d Matrix
+Row0="0.00 ,
+" Row18i
+1.00=x
+Draw 2D
+Bool't
+True=
+	Interpolated 
+Visible 
+ZBuffer 
+2d Model
+frontend\new\buttons\tiled
+3="16
+I286'l	l
+ Int'
+Image Bank Inde'
+
+2d  
+
+2d\
+
+2d  
+
+2d   
+2dGlobal
+Fals-(
+AI_List)
+	  <AI No="0"+Z
+  +X
+gaFr
+TextB
+]T[CdAI+ 
+Font ID#
+ IDSNdex3
+OffsetX
+HJustification2
+Width2
+Height2
+Box  "
+Pud{%t!+
+Drop Shadow
+</AI+ 
+(null)-
+Standard
+
+ I'
+Up Pa4
+RlW7
+Down7
+Left7
+Enabl 
+</Egg'
+<Egg#
+="QuickRaceScreen*`
+Use en24`-0h
+zp,3\
+Hit 
+Priority
+TQ" :
+,L
++
+Group2
+,4
++
+//L!1
+>}/3<|-= 	
+ O(7(
+2d :
+"o8o=" 
+  7
+
+ChangeVehicle 
+$vW59 
+\tW?\F"yZ  
+on ID" Type="Int" Value="4"/>
+ +
+ Name="Up Path2
+Right7
+Down7
+Lef 
+Enabled
+Bool'
+True/
+
+</gaFrontendStandardButtonAI+
+</.@
+AI No="3"+
+String'H
+(null)-P
+_List'
+</Egg(7
+>	VehicleSetup*T
+Use en2 
+Freez`,
+Hit 
+
+Draw Priority
+Tick 
+Group2
+en3d Model
+Null8
+atrix
+Row0="0.00 ,
+" Row18i
+1.0>
+22'x
+Interpolat 
+Visibl't 
+ZBuffer 
+\new\b
+s\tiH
+3="16
+I232'l	l
+Image Bank Inde'
+
+2d  
+
+2d\
+
+2d  
+
+2d   
+2dGlobal
+Fals,
+<AI,<
+o="0*
+*T!p
+Text
+T[CdAI+ 
+Font ID#
+ IDONdex3
+zn="
+4="/\
+OffsetX
+HJustification2
+Wid4
+,4"1
+Box  "
+Pu`{%l0+
+Drop Shadow
+,hi+
+o="1 
+.P0/
+t#Z(="
+' I'
+7?p8 ;
+7</)
+Common(
+?Carts(l
+8"p. ,
+-1.17
+7123 
+8&0X
+/QuickRace/Current&tU$
+8?p1
+80P6"$J< J&
+Active AI&
+=14J7
+e"/>
+ 
+<Value Name="en3d Interpolated" Type="Bool" 
+="True"/>:
+Visible 
+ZBuffer 
+2d Model
+String'
+frontend\new\buttons\tiled
+atrix
+	Row0="1.00 0+
+" Row1="
+3="32r	15(
+Int'
+Image BankRAde'
+Draw 2D
+Fals;
+
+2d  
+
+2d   
+2dGlobal3
+AI_List)d	  <AI No="0"+Z
+gaFr
+TextB
+]T_CdAI+
+Font ID#
+	`-
+/QuickRace/Currentl
+Null/8
+ OffsetX
+HJustification2
+Width2
+eight3
+Box  "
+Drop Shadow
+</AI+
+Standard`
+Active AI
+</Egg'
+<Egg#
+'=""1'T@
+Use en2 
+Freeza 
+*Hit 
+Priority2
+Tick  
+Group2
+#\0x0;L-/p	1
+,"f*=" >
+,#4-(
+,3d 
+415 
+4	NumOpponents 
+!59#$5#8=>'=2d  
+g" Type="String" Value="Null"/>
+ +
+ Name="Text OffsetX" T
+Int'
+HJustification2	
+Width2
+Height3
+Box  "
+Pulse
+Bool'
+Drop Shadow 
+
+	</gaFrontendtH
+ButtonTiledAI+
+	</.@
+AI No="1"+
+  +h
+r
+am'\
+Standardj
+Image ID
+Active AI2
+_List'
+</Egg(7
+DifficultyText*T
+Use en2d
+0+d
+True+
+Freezabl'
+Hit 
+
+Draw Priority
+Tick 
+Group2
+en3d Model
+atrix
+	Row0="1.00 0+
+" Row1="
+22'(
+Interpolate 
+Visi 
+ZBuffer 
+\new\b
+s\tx
+315cJ123x
+2d FP
+Bank Inde'
+2d :
+
+2d   
+2dGlobal
+AI,L
+"%-<"d"
+o="0*
+*d-p
+Font ID#
+$q*
+/QuickRace/(T
+ IDSRdex3|
+Car2x
+CurrentVehicle2%
+CarIcon &
+#<Value Name="Freezable" Type="Bool" Value="True"/>
+ 
+Hit 
+
+Draw Priority
+Int'
+Tick;
+Egg Group2
+en3d Model
+String'
+Null>
+atrix
+	Row0="1.00 0+
+" Row1="
+Fals90
+$	Interpolated3
+Visi 
+ZBuffer 
+frontend\new\smallcars($
+heet:
+37nJ13
+Filet
+en2d Image Bank Inde'
+2d :$
+>
+#
+2d  
+#
+2d    
+
+2dGlobal
+AI_List)
+	  <AI No="0"+Z
+  + 
+enUIMulti
+:AI+
+/QuickRace/CarIcon/
+ndividual
+ Per
+H Justification2
+</;H
+</AI+
+(null)-
+</Egg'}
+Use h
+#'279#&'02x
+%'2-
+v*'</'x5#
+s_Version4>
+</Scene

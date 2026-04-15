@@ -1,0 +1,3 @@
+next_stage,focus,why
+Stage 93,scene-root ordinal allocator / object-id prelude pass,Need to locate where 0x00EC/0x00ED/0x00F5/0x00F8/0x00F9 are assigned and whether they are generated in the scene-root or AI-list prelude.
+Stage 93b,Left Path extended ref decode,1aec0104 likely encodes parent/back action and should be handled as a separate extended-ref decoder branch.

@@ -1,0 +1,6 @@
+scene,member_label,member_kind,member_class,anchor_offset,member_start,member_end,length_bytes,boundary_basis,prelude_offset,prelude_pattern_hex,has_endegg,has_frontend_path,has_enui,has_ai_list_hint
+RaceResults_01,AI0_UiSelect2_browser,AI,ui_ai_member,0x212,0x212,0x314,258,</Egg>,,,True,True,True,False
+RaceResults_01,List_star,Value,typed_value_member,0x40e,0x406,0x4d4,206,</Egg>,0x406,0d0a202b00000010,True,True,True,False
+RaceResults_01,UiSelect,Value,typed_value_member,0x92c,0x924,0xa22,254,</Egg>,0x924,0d0a202b00000010,True,True,True,False
+RaceResults_01,en3d_Matrix_embedded,Value,embedded_value_member,0x15cf,0x15c6,0x172a,356,next_anchor,0x15c6,0d0a2020208000000b,False,False,False,True
+RaceResults_01,AI_member,AI,ai_member,0x172a,0x172a,0x18aa,384,</Egg>,,,True,False,True,False

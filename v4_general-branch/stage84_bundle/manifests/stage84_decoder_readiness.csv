@@ -1,0 +1,5 @@
+member,status,decoder_class,blocking_gap,next_use
+RaceResults.UiSelect,ready_for_scene_transfer,selector_list_member_v1,compact binary control words not fully decoded,transfer to QuickRace/RaceSelect-like selector members
+RaceResults.List*,ready_for_scene_transfer,list_backing_member_v1,compact binary control words not fully decoded,pair with UiSelect and similar List-backed members
+Language.en2d FileType,supporting_transfer_reference,typed_int_render_config,render flags not bit-decoded,cross-scene control-pattern transfer
+Language.Colour Start,supporting_transfer_reference,typed_vector_with_path_tail,vector payload partially decoded,path-tail/float field reference

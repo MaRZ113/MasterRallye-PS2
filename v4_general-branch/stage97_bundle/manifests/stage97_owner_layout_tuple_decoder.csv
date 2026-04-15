@@ -1,0 +1,3 @@
+slot,carrier,slot_tag,ordinal,slot_class,owner_tail_hex,decoded_shape,family_marker,local_id,packed_ref,scalar,mode,best_role,confidence,evidence
+Up owner,AI_0_1.bin,0x32,0x00EC,0x3F,a4 09 02,A4 compact state triplet,0xA4,0x09,,,0x02,enabled/active style owner-state record,medium,Short owner-only tail; pairs with companion backlink 3e ec 00 02 and sits inside the primary nav owner.
+Right owner,AI_0_1.bin,0x37,0x00F8,0x30,a4 07 2d c4 10 01,A4 extended layout tuple,0xA4,0x07,0x2DC4,0x10,0x01,owner-side layout/state tuple with packed local ref + scalar + mode,medium,Longer owner-only tail; companion side keeps backlink 3e f8 00 01 while owner side carries extra metadata.

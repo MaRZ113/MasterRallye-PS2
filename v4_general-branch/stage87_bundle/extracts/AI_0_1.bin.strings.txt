@@ -1,0 +1,87 @@
+0000: <AI No="0"+X
+0018: String'
+0022: enUITextButtonAI+
+0042: Font ID#
+004c: Int'
+0062: Null 
+0074:  Index3
+008e: OffsetX
+00a9: HJustification2
+00d0: </AI+
+00ea: gaFrontendStandard8
+010d:  ID2
+0118: Up Path2
+0126: Right7
+0135: Down7
+0140: Lef 
+0148: Enabled
+0154: Tru,
+0181: </Egg'
+018a: <Egg
+0192: MermoryCardMainScreen*p
+01ae: Use l
+01be: Freezx43
+01ce: Hit 
+01d6: Draw Priority
+01ef: Tick;
+01ff: Group2
+020e: en3d Model
+0223: atrix
+022e: Row0="1.00 0+
+023e: " Row1="
+0271: Interpolat 
+0283: Visibl'8&+
+0295: ZBuffer 
+02b1: 2d Fileh
+02c3: 2d Image Bank$
+02e7: 2d   
+02ee:  g|3
+02f3: gaFE
+030b: ("T*
+0310: Formatted"t3/
+032f: ont3|2,p
+0353: j|="
+035a: $="1
+035f: "| +
+036b: Vector3'
+0383: Horiz_1al ?
+0394: Vertic $(
+039f: Max. Wid4X.?%
+03b0: He"p.
+03be: Colour
+03d4: $H7:\
+03e7:  h<-
+03ec: SaveG"
+0410: -#,,&
+0435: F\b#LU
+043c: s\curved_smaller+
+0454: ; &4-
+0463: B189'X6t
+046f: :x-,XP0t
+0478:  ?x->
+0481: /t-"|+"L)$
+048c: P6p+*
+04a3: |$ !t+
+04d1: Racep
+04ee:  Value="True"/>
+0503: <Value NamT
+0511: Draw Priority" Type="Int" 
+052d: ="38
+0534: Tick 
+053d: Egg Group2
+054e: en3d Model
+055d: String'
+0567: Null>
+056f: atrix
+057a: Row0="1.00 0+
+058a: " Row1="
+05b2: Bool't
+05ba: Fals9H
+05c4: Interpolated3
+05d9: Visible 
+05e5: ZBuffer 
+0602: ;36'
+060e: 2d Filex
+0620: 2d Image Bank Inde'<
+0655: 2dGlobal
+0663: AI_List)X

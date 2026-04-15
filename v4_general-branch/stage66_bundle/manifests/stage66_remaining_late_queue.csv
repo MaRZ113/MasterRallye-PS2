@@ -1,0 +1,4 @@
+path,remaining_problem,recommended_next_action,priority
+FMV\BFGOOD2.PSS,no exact local edge field yet,treat post_u32_m4.swap16->nearest-pack as operational decoder until wider payload-edge pattern is generalized,medium
+FMV\CHALL06.PSS,name/semantics still mismatch branded content,keep as sibling/alias branded preview branch; revisit only if a challenge-specific alternate field appears,low
+FMV\BAGOO3.PSS,degraded evidence only,optional salvage pass or leave as evidence branch while broader PAK->TNG bridge work continues,medium

@@ -1,0 +1,94 @@
+source_member,offset_hex,fragment,class
+RaceResults_List_star,0x0000,"
+ +",text_fragment
+RaceResults_List_star,0x0008,"<Value Name=""List*"" Type=""String"" ",value_header
+RaceResults_List_star,0x002D,"	=""Frontend/RaceResults/Timep",asset_path_or_ui_path
+RaceResults_List_star,0x004E,Options,text_fragment
+RaceResults_List_star,0x005C,HeightSpac,layout_ui_property
+RaceResults_List_star,0x006A,Int'&,type_or_field_token
+RaceResults_List_star,0x0076,"
+</enUIBrowser+<",structural_closer
+RaceResults_List_star,0x0088,"</AI,@",structural_closer
+RaceResults_List_star,0x0090,"AI No=""1""+Z",ai_anchor
+RaceResults_List_star,0x00A3,ame5,text_fragment
+RaceResults_List_star,0x00AA,"Null"",",text_fragment
+RaceResults_List_star,0x00C1,_tB',text_fragment
+RaceResults_List_star,0x00C8,</Egg(,structural_closer
+RaceResults_UiSelect,0x0000,"
+ +",text_fragment
+RaceResults_UiSelect,0x0008,"<Value Name=""UiSelect"" Type=""Int"" ",value_header
+RaceResults_UiSelect,0x002C,"=""0"" SaveOptions",persistence_flag
+RaceResults_UiSelect,0x0041,Pla ,text_fragment
+RaceResults_UiSelect,0x0048,Uns E,text_fragment
+RaceResults_UiSelect,0x0050,Index*,type_or_field_token
+RaceResults_UiSelect,0x0059,String'P,type_or_field_token
+RaceResults_UiSelect,0x0063,Null +\,text_fragment
+RaceResults_UiSelect,0x006C,List6,type_or_field_token
+RaceResults_UiSelect,0x0074,	Frontend/RaceResults/Pointsx,asset_path_or_ui_path
+RaceResults_UiSelect,0x0097,HeightSpac,layout_ui_property
+RaceResults_UiSelect,0x00AC,"
+</enUIBrowser+H	",structural_closer
+RaceResults_UiSelect,0x00BE,"</AI,@",structural_closer
+RaceResults_UiSelect,0x00C6,"AI No=""1""+Z",ai_anchor
+RaceResults_UiSelect,0x00D9,ame:,text_fragment
+RaceResults_UiSelect,0x00F1,_tB',text_fragment
+RaceResults_UiSelect,0x00F8,</Egg(,structural_closer
+Language_Hitable,0x0000,"<Value Name=""Hitable"" Type=""Bool"" ",value_header
+Language_Hitable,0x0025,"=""True""/>
+",text_fragment
+Language_Hitable,0x0037,"
+Draw Priority",text_fragment
+Language_Hitable,0x0047,Int',type_or_field_token
+Language_Hitable,0x0052,Tick ,text_fragment
+Language_Hitable,0x005B,Egg Group2,text_fragment
+Language_Hitable,0x006C,en3d Model,text_fragment
+Language_Hitable,0x007B,String',type_or_field_token
+Language_Hitable,0x0085,Null>,text_fragment
+Language_Hitable,0x008D,atrix,text_fragment
+Language_Hitable,0x0098,"Row0=""0.00 ,",text_fragment
+Language_Hitable,0x00A7,""" Row18i",text_fragment
+Language_Hitable,0x00B8,1.0>,text_fragment
+Language_Hitable,0x00C9,$	Interpolated ,type_or_field_token
+Language_Hitable,0x00DC,Visi ,text_fragment
+Language_Hitable,0x00E7,ZBuffer ,render_property
+Language_Hitable,0x00F8,"frontend\new\language\flagsheet:",asset_path_or_ui_path
+Language_Hitable,0x0137,"3=""18",text_fragment
+Language_Hitable,0x014A,Filex,text_fragment
+Language_Hitable,0x015A,Image Bank Inde',text_fragment
+Language_Hitable,0x0176,"
+2d\",text_fragment
+Language_Hitable,0x017E,"
+2d  ",text_fragment
+Language_Hitable,0x0185,"
+2d   ",text_fragment
+Language_Hitable,0x018E,2dGlobal,render_property
+Language_Hitable,0x019C,Fals-l,text_fragment
+Language_Hitable,0x01A4,AI_List),type_or_field_token
+Language_Colour_Start,0x0000,"<Value Name=""Colour Start"" Type=""Vector4"" ",value_header
+Language_Colour_Start,0x002C,"=""1I	 ,",text_fragment
+Language_Colour_Start,0x0039,End6P,text_fragment
+Language_Colour_Start,0x0040,0.90 (,text_fragment
+Language_Colour_Start,0x004E,Active*,text_fragment
+Language_Colour_Start,0x0058,String',type_or_field_token
+Language_Colour_Start,0x0063,Frontend/Language/French/T,asset_path_or_ui_path
+Language_Colour_Start,0x007F,</ga,structural_closer
+Language_Colour_Start,0x0086,BackgroundFaderAI+,text_fragment
+Language_Colour_Start,0x009A,</.@,structural_closer
+Language_Colour_Start,0x00A0,"AI No=""2""+",ai_anchor
+Language_Colour_Start,0x00AC,  +L,text_fragment
+Language_Colour_Start,0x00B3,ame5,text_fragment
+Language_Colour_Start,0x00BA,(null)-T,text_fragment
+Language_Colour_Start,0x00CE,_List'@,type_or_field_token
+Language_en2d_FileType,0x0000,"<Value Name=""en2d FileType"" t",value_header
+Language_en2d_FileType,0x0020,"=""Int"" Value=""1""/>
+ ",type_or_field_token
+Language_en2d_FileType,0x003D,"Image Bank Index2",type_or_field_token
+Language_en2d_FileType,0x0056,Draw 2D,render_property
+Language_en2d_FileType,0x0060,Bool',type_or_field_token
+Language_en2d_FileType,0x0068,True=,text_fragment
+Language_en2d_FileType,0x006F,	Interpolated ,type_or_field_token
+Language_en2d_FileType,0x0081,Visibl',text_fragment
+Language_en2d_FileType,0x008F,ZBuffer ,render_property
+Language_en2d_FileType,0x009B,2dGlobal3,render_property
+Language_en2d_FileType,0x00A7,Fals-,text_fragment
+Language_en2d_FileType,0x00AF,AI_List)h,type_or_field_token

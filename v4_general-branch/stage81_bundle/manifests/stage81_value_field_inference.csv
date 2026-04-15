@@ -1,0 +1,30 @@
+source_member,field_kind,field_value,evidence_offset_hex,confidence
+RaceResults_List_star,member_name,List*,0x0008,high
+RaceResults_List_star,declared_type,String,0x0008,high
+RaceResults_List_star,embedded_token,List,0x0008,low
+RaceResults_List_star,ui_or_asset_path,Frontend/RaceResults/Timep,0x002D,medium
+RaceResults_List_star,layout_hint,HeightSpacing,0x005C,medium
+RaceResults_UiSelect,member_name,UiSelect,0x0008,high
+RaceResults_UiSelect,declared_type,Int,0x0008,high
+RaceResults_UiSelect,embedded_token,UiSelect,0x0008,low
+RaceResults_UiSelect,inline_literal,0,0x002C,medium
+RaceResults_UiSelect,persistence_flag,SaveOptions,0x002C,medium
+RaceResults_UiSelect,embedded_token,Index,0x0050,low
+RaceResults_UiSelect,embedded_token,List,0x006C,low
+RaceResults_UiSelect,ui_or_asset_path,Frontend/RaceResults/Pointsx,0x0074,medium
+RaceResults_UiSelect,layout_hint,HeightSpacing,0x0097,medium
+Language_Hitable,member_name,Hitable,0x0000,high
+Language_Hitable,declared_type,Bool,0x0000,high
+Language_Hitable,inline_literal,True,0x0025,medium
+Language_Hitable,ui_or_asset_path,frontend\new\language\flagsheet,0x00F8,medium
+Language_Hitable,embedded_token,List,0x01A4,low
+Language_Colour_Start,member_name,Colour Start,0x0000,high
+Language_Colour_Start,declared_type,Vector4,0x0000,high
+Language_Colour_Start,ui_or_asset_path,Frontend/Language/French/T,0x0063,medium
+Language_Colour_Start,embedded_token,List,0x00CE,low
+Language_en2d_FileType,member_name,en2d FileType,0x0000,high
+Language_en2d_FileType,inline_literal,Int,0x0020,medium
+Language_en2d_FileType,inline_literal,1,0x0020,medium
+Language_en2d_FileType,embedded_token,Index,0x003D,low
+Language_en2d_FileType,embedded_token,Image Bank Index,0x003D,low
+Language_en2d_FileType,embedded_token,List,0x00AF,low

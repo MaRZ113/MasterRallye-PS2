@@ -1,0 +1,9 @@
+slot_owner,slot,compact_ref,likely_target,target_role,confidence,reason
+AI_0_1.bin,Up Path,0x00EC,AI_0_1.bin,canonical_selector_owner,medium,Consecutive pair 0x00EC/0x00ED aligns with owner/companion duo; owner carries primary selector core and nav ownership.
+AI_0_2.bin,Up Path,0x00ED,AI_0_2.bin,path_text_companion,medium,Consecutive partner of 0x00EC and lives on companion carrier with shared nav tail.
+AI_0_1.bin,Right Path,0x00F8,AI_3_3.bin,selector_button_variant,medium,Consecutive pair 0x00F8/0x00F9 plausibly maps to second selector-heavy pair in scene: AI_3_3 plus AI_0_4.
+AI_0_2.bin,Right Path,0x00F9,QuickRace_AI_0_4_AI_06.bin,formatted_text_or_title_variant,low_medium,Best remaining sibling candidate; AI_0_4 carries enUIFormattedText/GS_TitleText-like content and fits companion side of second pair.
+AI_0_1.bin,Down Path,0x00F5,QuickRace_AI_List_AI_List_02.bin,list_transition_root,high,Shared Down target from owner and companion strongly suggests common list/container root; AI_List is the only explicit local list-transition object.
+AI_0_2.bin,Down Path,0x00F5,QuickRace_AI_List_AI_List_02.bin,list_transition_root,high,"Same compact ref as owner for Down, matching shared list/container semantics."
+AI_0_1.bin,Left Path,1aec0104,scene_parent_or_back_action,extended_back_escape,medium,Shared extended-form block across owner and companion; not u16-like and likely encodes parent/back/escape rather than direct member ref.
+AI_0_2.bin,Left Path,1aec0104,scene_parent_or_back_action,extended_back_escape,medium,Same shared extended-form block as owner; fits non-local back/escape action better than concrete member target.

@@ -1,0 +1,5 @@
+layer,state,notes
+QuickRace nav ownership,closed,"AI_0_1 owner, AI_0_2 companion, AI_3_3 variant, AI_List shared list root."
+Compact u16 ref semantics,mostly_closed,"0x00EC/ED/F5/F8/F9 behave as scene-local object ids, not strings or offsets."
+Extended Left Path,bounded_open,1aec0104 still looks like back/escape or parent-scene ref rather than local object id.
+Exact table origin,bounded_open,Likely scene-root ordinal allocator; explicit binary table not yet isolated.

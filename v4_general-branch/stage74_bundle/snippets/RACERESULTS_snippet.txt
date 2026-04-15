@@ -1,0 +1,91 @@
+XML key: RACERESULTS
+PAK path: SCREENS\PS2\RACERESULTS.XML
+TNG offset: 0x17cb895e
+Cluster: 2
+
+O\4)|t+\
+%<)p
+!8U)4 
+v-x5
+UiNo2
+!1 +
+0 ,7
+Sca(
+Floa)
+{Sz0007X
+ePlayerState="False"/>
+<Value Name="UiSelect" Type="Int" 
+H" SaveOptions
+Pla 
+Uns E
+Index*
+String'P
+Null +\
+List6
+Frontend/RaceResults/
+HeightSpac
+</enUIBrowser+H
+</AI,@
+AI No="1"+Z
+ame:
+_tB'
+</Egg(7
+Car0*,
+Use en2d
+Bool'
+Tru,D
+Freezabl'P
+Hit 
+Draw Priority
+3+XD
+Tick 
+Group2
+en3d Model
+atrix
+Row0="1.00 0+
+" Row1="
+'3*h
+-6.50 `
+Interpolate 
+Visi 
+smallcars($
+heet:
+2d :(
+o"`''X
+Multi
+:AI+
+ndividual 
+ Per
+H (x
+&<-2
+(null)-l
+'275'
+2"+[
+3 >p
+_List'@
+Car+4
+True+h
+Int'
+C205'p
+</;D
+Posi`A+
+-1.28 5.81 
+#$!&t&"2$$H$
+.92"
+&208x
+"a!<"L 
+s="$P8
+(8Cox000 +X
+6\0#tE
+i"PT
+$$002
++ ,/
+:8,W 
+BordH
+/#8(
+iled
+W-#J030
+Wga&T#$
+]Th]2<W9
+'2X/,(:t
+6H&1

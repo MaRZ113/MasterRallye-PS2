@@ -1,0 +1,4 @@
+priority,next_stage,action,reason
+1,Stage 62,Implement CHALL04-seeded page1 subgroup decoder,Use page1 anchor -> local forward FMV resolution -> selector transfer to TROPHY/BFGOOD1.
+2,Stage 62,Score selector echoes for trail_u16_a across child spans,Needed to disambiguate shared-anchor members from nearest local FMV strings.
+3,Stage 62,Validate whether 0x0900 vs 0x0600 splits subgroup subtype,May separate challenge/trophy/brand preview subclasses inside page1 bankroot.

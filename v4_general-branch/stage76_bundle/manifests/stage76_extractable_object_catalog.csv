@@ -1,0 +1,50 @@
+scene_name,instance,start_hex,end_hex,size_bytes,keywords_found,bin_file,strings_file,sample_strings
+Language,01,0x0020BA80,0x0020CB76,4342,Language;Options,Language_01.bin,Language_01_strings.txt,"<Scene>
+  <EggLists_Version4 |  Name=""Language"" | English(l |   <Value | Use en2d"" Type=""Bool""  | =""True""/'X | Freezable  | 
+Draw Priority"
+QuickRace,01,0x00212860,0x00213DE9,5513,QuickRace,QuickRace_01.bin,QuickRace_01_strings.txt,"<Scene>
+  <EggLists_Version4 |  Name=""QuickRace"" | Format(h |   <Value | Use en2d"" Type=""Bool""  | =""True""/'T | Freezable  | 
+Draw Priority"
+MRallyeStartScreen,01,0x002147E7,0x00214E88,1697,MRallyeStart,MRallyeStartScreen_01.bin,MRallyeStartScreen_01_strings.txt,"<Scene>
+  <EggLists_Version4 |  Name=""MRallyeStartScreen"" |   <Value | Use en2d"" Type=""Bool""  | =""True""/'` | Freezable  | 
+Draw Priority | Tick "
+Progress,01,0x00215AD0,0x0021B9A8,24280,Progress,Progress_01.bin,Progress_01_strings.txt,"<Scene>
+  <EggLists_Version4 |  Name=""Progress"" | Cla*d |   <Value | Use en2d"" Type=""Bool""  | =""True""/'P | Freezable  | 
+Draw Priority"
+QuickRace,02,0x0022673F,0x002280CE,6543,QuickRace;Options;VehicleSetup,QuickRace_02.bin,QuickRace_02_strings.txt,"<Scene>
+  <EggLists_Version4 |  Name=""QuickRace"" | Start,t |   <Value | Use en2d"" Type=""Bool""  | =""True""/'` | Freezable  | 
+Draw Priority"
+QuickRace,03,0x002280CE,0x00229AD3,6661,QuickRace;VehicleSetup,QuickRace_03.bin,QuickRace_03_strings.txt,"<Scene>
+  <EggLists_Version4 |  Name=""QuickRace"" | Start,t |   <Value | Use en2d"" Type=""Bool""  | =""True""/'` | Freezable  | 
+Draw Priority"
+QuickRace,04,0x00229AD3,0x0022B475,6562,QuickRace;VehicleSetup,QuickRace_04.bin,QuickRace_04_strings.txt,"<Scene>
+  <EggLists_Version4 |  Name=""QuickRace"" | Start,t |   <Value | Use en2d"" Type=""Bool""  | =""True""/'` | Freezable  | 
+Draw Priority"
+QuickRace,05,0x0022B475,0x0022D694,8735,QuickRace;VehicleSetup,QuickRace_05.bin,QuickRace_05_strings.txt,"<Scene>
+  <EggLists_Version4 |  Name=""QuickRace"" | Start,t |   <Value | Use en2d"" Type=""Bool""  | =""True""/'` | Freezable  | 
+Draw Priority"
+RaceResults,01,0x0022D694,0x0022EF5E,6346,RaceResults;Options,RaceResults_01.bin,RaceResults_01_strings.txt,"<Scene>
+  <EggLists_Version4 |  Name=""RaceResults"" | Position(p |   <Value | 
+Use en2d"" Typ@
+ | Bool""  | =""True""/'\ | Freezable "
+RaceRetry,01,0x0022EF5E,0x0022F81D,2239,,RaceRetry_01.bin,RaceRetry_01_strings.txt,"<Scene>
+  <EggLists_Version4 |  Name=""RaceRetry"" |   <Value | 
+Use en2d"" TypL	 | Bool""  | =""True""/'P | Freezable  | 
+Draw Priority"
+RaceRetry,02,0x00231025,0x0023163A,1557,ReplayTheatre,RaceRetry_02.bin,RaceRetry_02_strings.txt,"<Scene>
+  <EggLists_Version4 |  Name=""RaceRetry"" |   <Value | 
+Use en2d"" TypL	 | Bool""  | =""True""/'P | Freezable  | 
+Draw Priority"
+VehicleSetup,01,0x00237740,0x0023BF88,18504,Options;VehicleSetup,VehicleSetup_01.bin,VehicleSetup_01_strings.txt,"<Scene>
+  <EggLists_Version4 |  Name=""VehicleSetup"" | Screen( |   <Value | Use en2d"" Type=""Bool""  | =""False""/' | Freezable3 | 
+Draw Priority"
+VehicleSetup,02,0x0023BF88,0x00240776,18414,Options;VehicleSetup,VehicleSetup_02.bin,VehicleSetup_02_strings.txt,"<Scene>
+  <EggLists_Version4 |  Name=""VehicleSetup"" | Screen( |   <Value | Use en2d"" Type=""Bool""  | =""False""/' | Freezable3 | 
+Draw Priority"
+VehicleSetup,03,0x00240776,0x0024444A,15572,VehicleSetup,VehicleSetup_03.bin,VehicleSetup_03_strings.txt,"<Scene>
+  <EggLists_Version4 |  Name=""VehicleSetup"" | Screen( |   <Value | Use en2d"" Type=""Bool""  | =""False""/' | Freezable3 | 
+Draw Priority"
+Debug,01,0x00254671,0x00265000,67983,Progress,Debug_01.bin,Debug_01_strings.txt,"<Scene>
+  <EggLists_Version4 | 
+ Name=""Debug"" | Track(d |   <Value | Use en2d"" Type=""Bool""  | =""True""/'P | Freezable  | 
+Draw Priority"

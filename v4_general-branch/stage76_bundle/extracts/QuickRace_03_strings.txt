@@ -1,0 +1,452 @@
+<Scene>
+  <EggLists_Version4
+  <t
+ Name="QuickRace"
+Start,t
+  <Value
+Use en2d" Type="Bool" 
+="True"/'`
+Freezable 
+Hit 
+
+Draw Priority
+Int'
+Tick 
+Egg Group2
+en3d Model
+String'
+Null>
+atrix
+Row0="0.00 ,
+" Row18i
+1.0>
+Interpolate 
+Visi 
+ZBuffer 
+frontend\new\buttons\tiled
+3="16
+Image Bank Inde'
+
+2d  
+
+2d\
+
+2d  
+
+2d   
+2dGlobal
+Fals-K
+AI_|
+  <AI No="0(U
+gaFr
+TextB
+]T[CdAI+ 
+}
+<9
+="Font ID#
+ IDSNdex3
+~n="
+$=" 
+OffsetX
+HJustification2
+Width2
+Height2
+Box  "
+Pud{ 
+Drop Shadow
+</AI+ 
+Standard
+
+ I'
+1" SaveOpwcs="
+PlayerState
+Up Pa4
+Rdb7
+Down7
+Left7
+49,,
+
+7=3 
+</Egg'
+"h<
+Change 
+;13'
+;27>p3"
+;?|4
+&T; 
+; ,,= g
+Screen*
+=+@^;0w$
+H*pH+
+5w4+t"+
+ x4w
+w0="1.00 0+
+" Row1="
+"/>
+ 
+<Value Name="en3d Draw 2D" Type="Bool" 
+="False=
+	Interpolated3
+Tru>
+Visible 
+ZBuffer 
+2d Model
+String' 
+Null:
+atrix
+Row0=",
+2d Filed<
+Int'u
+Image Bank Inde'
+	2d@
+	L  
+	2d   
+2dGlobal
+AI_List)
+	  <AI No="0"+Z
+  +d
+am'@-4
+gaFEScreenQuickRaceAI+
+  </AI+
+</Egg'd
+<Egg
+="ChangeVehicle*P
+Use en2 
+Freeza 
+Hit 
+Priority
+Tick  
+Group2
+3 "@
+=",@
+frontend\new\buttons\tE
+
+it 
+ 0J 16
+B286'8)l
+:Y 1=
+ ?X >
+2U r
+TextB
+]Tl]/l W
+gaF6
+1,d"
+Font ID#2U
+-P#1l!d
+ ID #
+OffsetX
+t -x(a< 
+HJustification2
+Width2
+Height2
+,8"1
+Box  "
+Pu"l=2
+Drop Shadow
+=41r
+(null)-
+Standard
+
+ I'
+Up Pa4
+
+RlW7
+Down7
+Left7
+7arh
+p7,$
+-1.17
+
+TW 
+z732"[7123x
+	"h5 >
+>ha?|b 
+#%,8<P$:y71,
+	`1\26|7&
+/Current%
+T% 5*
+"p!<
+#r)=" #
+	83? + {
+&4/|
+$PR4P6 
+5L7?l
+Active AI&H>*D8/
+ </gaFrontendStandardTileAI>
+ '
+</.@
+AI No="2"+
+  <Value Name="p
+ame" Type="String" 
+="Null"/+
+_List'0
+</Egg(7
+RaceText*<
+Use en2d
+Bool'
+True+
+Freezabl'
+Hit 
+
+Draw Priority
+Int'
+Tick 
+Group2
+en3d Model
+>p	+
+atrix
+	Row0="1.00 0+
+" Row1="
+Fals9 	
+Interpolate 
+Visi 
+ZBuffer 
+\new\buttons\tiled
+32~I15(
+Image Bank Inde'
+2d :
+2d  
+
+2d   
+2dGlobal
+AI,0
+o="0*
+dAI+$
+Font ID#
+/Quickd
+/Currentl
+,@ d
+ IDWRdex3
+OffsetX
+HJustification2
+Width2
+eight3
+Box  "
+Drop Shadow
+"P++
+x"+`
+Active AI
+415 
+%@2 
+4	VehicleSetup 
+4#|h,
+_3d  
+B259"
+0.00 1.00"/
+>
+  
+
+<Value Name="en2d FileType" t
+="Int" 
+="1"/>
+
+Image Bank Index2
+Draw 2D
+Bool'
+True=
+	Interpolated 
+Visibl'
+ZBuffer 
+2dGlobal3
+Fals-
+AI_List)h
+	  <AI No="0"+X
+String'
+gaFrontendTextButtonT[CdAI+
+aB<9
+Font ID#
+Null 
+OffsetX
+|51
+HJustification2
+Width2
+Height2
+Box  "
+Pud{
+Drop Shadow
+</AI+ 
+(null)-|
+Standard
+
+ I'
+Up Pa5
+RlW7
+Down7
+Left7
+Enabl 
+</Egg'
+<Egg
+FCarh
+Use "\&3L
+Freezp+ 
+Hit 
+Priority
+Tick  
+Group2
+en3d Model
+atri'
+	Row0="1.00 0+
+25\-0l
+  c-3d  
+c-3d   `-?
+\new\b#
++s\t"
+\< 3
+315cJ123x
+x7?(
+
+T<  
+}71?P0t
+7&w:/Qu@
+Race/CurrentVehicle2
+#z)=" #
+8-1?
+7p- 
+18
+ 
+80p6"
+$\R4\6 
+;X7?p
+Active AI&d)*,,0
+*@>&t31
+&4>+$1p!+$'<
+Icon*H7+
+smallcars\'$
+heet l
+413#
+"(>=
+enUIMulti#
+Individual 
+s&0" 
+`-/%Num
+ Per#
+	*d#,
+g0t$-
+</;H
+&d% 
+  <AI No="3">
+ )
+<Value Name="AI
+" Type="String" 
+="(null)"/+
+</AI)@
+_List'L
+</Egg(7
+="CarIcon2*D
+Use en2d
+Bool'0
+True+(
+Freezable 
+Hit 
+
+Draw Priority
+Int'
+Tick;
+Group2
+en3d Model
+Null>
+atrix
+	Row0="1.00 0+
+" Row1="
+Fals9 	
+Interpolate 
+Visi 
+ZBuffer 
+frontend\new\smallcars($
+heet:
+562rJ13
+Filex
+ Image Bank Inde'
+2d :(
+<H
+'
+2d  
+'
+2d   $
+
+2dGlobal
+AI,@
+o="0*
+enUIMulti
+:AI+
+/QuickRace/'
+ndividual
+ Per
+H Justification2
+</;L
++0#p
+rVam'L"-
+'
+hangeVehicleP+
+-'3+
+#T&&,'1h
++,''|
+ 0,'>
+('
+buttons\tiled
+ 66/16
+B23#4'
+'ga&l%
+TextB
+]Tl]2D'9
+Font ID#2
+#2+<h
+6`(14
+ IDK
+dex3
+-=" 
+OffsetX2
+(}( 
++V !
+Width2
+Height2
+,8"hH-
+Box  "
+Drop Shadow
+04Fr
+Standard
+Up Pa4
+RlW7
+Down7
+Left7
+En"HX 
+7%x7
+Setup 
+705"
+e="8"/>
+ +
+<Value Name="Text String" Type="
+="Null 
+OffsetX
+Int"
+HJustification2	
+Width2
+Height2
+Box  "
+Pulse
+Bool'
+True>
+Drop Shadow3
+.4
+	</gaFrontendhQ
+ButtonTiledAI+
+
+</.@
+AI No="1"+
+  +|
+am'X
+(null)-h
+Standard
+  <8
+
+ ID
+Up Pa4
+RlW7
+Down7
+Left7
+Enabled
+_List'8
+</Egg
+</'h
+s_Version4>
+</Scene

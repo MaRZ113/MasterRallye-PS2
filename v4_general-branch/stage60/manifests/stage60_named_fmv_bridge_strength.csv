@@ -1,0 +1,11 @@
+path,string_offset_hex,semantic_family_hint,submodel,bridge_strength,page_index,marker_tag,trail_u16_b_hex,cand_u32_b_hex,page_lift_target_hex,best_near_root_path_blo
+FMV\MASTER03.PSS,0x10f75,master / cup FMV family,unclassified_late_overflow,weak,1,l,0x900,0x9658005d,,
+FMV\CREDITS.PSS,0x121d4,credits FMV,alternate_subtype_needs_local_decoder,weak_partial,1,n,0xc68,0x9c5f6f94,,
+FMV\GO3.PSS,0x13c2d,GO flythrough / track_flythrough family,normalized_bankhint_low16_root,medium_partial,1,l,0x8c1,0xb8005d5e,,\TNG\DATAPSM\COURSE\TURKEY_S2_FLIP\MUD TO ROR-TGA.GXI
+FMV\CHALL04.PSS,0x15fcb,Renault challenge_preview family,page1_low16_bankroot,strong_partial,1,l,0x900,0x1005ef8,0x15ef8,\TNG\DATAPSM\COURSE\TURKEY_S2_FLIP\MUD TO ROR-TGA.GXI
+FMV\BAGOO3.PSS,0x185aa,Bago track_menu_preview family,swapped_bankhint_hiword_root,medium_partial,1,l,0x500,0x5deb1000,,
+FMV\BFGOOD2.PSS,0x1959f,BFGoodrich secondary preview family,swapped_bankhint_hiword_root,medium_partial,1,l,0xc0a,0x60266000,,\TNG\DATAPSM\COURSE\TURKEY_S2_FLIP\MUD TO ROR-TGA.GXI
+FMV\CHALL06.PSS,0x1b0da,challenge FMV family,swapped_bankhint_hiword_root,medium_partial,1,l,0xc2c,0x5ec21c00,,VEHICLES\MOONBUGGY\WHEEL.PSM
+\FMV\TROPHY.PSS,0x1b34f,trophy / award FMV family,page1_low16_bankroot,strong_partial,1,À,0x600,0x1005fb6,0x15fb6,\TNG\DATAPSM\COURSE\TURKEY_S2_FLIP\MUD TO ROR-TGA.GXI
+FMV\FUJ2.PSS,0x1c7f5,Fujitsu / cup-preview family,alternate_subtype_needs_local_decoder,weak_partial,1,o,0x500,0xaeb4eb6e,,
+FMV\BFGOOD1.PSS,0x1d362,BFGoodrich preview family,page1_low16_bankroot,strong_partial,1,l,0x900,0x1005d29,0x15d29,\TNG\DATAPSM\COURSE\TURKEY_S2_FLIP\MUD TO ROR-TGA.GXI

@@ -1,0 +1,4 @@
+file,role,reason,status
+AI_0_1.bin,canonical_selector_owner,"Carries selector core (Index, Null, List), four nav paths, Enabled/True, and draw/render tail in one contiguous object",resolved_primary
+AI_0_2.bin,path_text_companion,Carries Frontend/QuickRace/Current... plus enUIFormattedTextAI and shares nav tail; better explained as companion text/value block,resolved_companion
+AI_3_3.bin,variant_render_sibling,"Mixes selector-ish fields with ViewC, Image Bank Index, 2dGlobal, and background path; best fit is specialized variant",resolved_variant

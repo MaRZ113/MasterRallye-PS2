@@ -1,0 +1,26 @@
+member,offset,token,token_class,pre4_hex
+RaceResults.UiSelect.gap,4,Pla ,misc_token,e00a8f02
+RaceResults.UiSelect.gap,11,Uns E,misc_token,2010a301
+RaceResults.UiSelect.gap,19,Index*,selector_name,45a80103
+RaceResults.UiSelect.gap,28,String'P,misc_token,2ae41a03
+RaceResults.UiSelect.gap,38,Null +\,misc_token,27500301
+RaceResults.UiSelect.gap,47,List6,misc_token,2b5c0301
+RaceResults.UiSelect.gap,56,Frontend/RaceResults/Pointsx,path_ref,ac010009
+RaceResults.UiSelect.gap,90,HeightSpac,property_token,2b180207
+RaceResults.List*.gap,4,Options,property_token,06a00e04
+RaceResults.List*.gap,18,HeightSpac,property_token,16100207
+RaceResults.List*.gap,32,Int'&,misc_token,980fb311
+Language.en2d FileType.gap,14,Image Bank Index2,misc_token,2aec000d
+Language.en2d FileType.gap,38,Draw 2D,property_token,3d0c0104
+Language.en2d FileType.gap,48,Bool',misc_token,44e80701
+Language.en2d FileType.gap,56,True=,misc_token,27fc0101
+Language.en2d FileType.gap,64,Interpolated ,misc_token,3df80009
+Language.en2d FileType.gap,81,Visibl',misc_token,170c0103
+Language.en2d FileType.gap,95,ZBuffer ,misc_token,0f080204
+Language.en2d FileType.gap,107,2dGlobal3,misc_token,19fc0105
+Language.en2d FileType.gap,119,Fals-,misc_token,33fc0201
+Language.Colour Start.gap,10,End6P,misc_token,20065b01
+Language.Colour Start.gap,17,0.90 (,misc_token,36500102
+Language.Colour Start.gap,31,Active*,misc_token,3e500104
+Language.Colour Start.gap,41,String',misc_token,2ae40a03
+Language.Colour Start.gap,52,Frontend/Language/French/T,path_ref,94020006

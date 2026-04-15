@@ -1,0 +1,9 @@
+source,slot,target_id,resolved_target,role,confidence
+AI_0_1.bin,Up,0x00EC,AI_0_1.bin,owner_primary,medium
+AI_0_2.bin,Up,0x00ED,AI_0_2.bin,companion_primary,medium
+AI_0_1.bin,Right,0x00F8,AI_3_3.bin,owner_variant,medium
+AI_0_2.bin,Right,0x00F9,QuickRace_AI_0_4_AI_06.bin,companion_variant,medium
+AI_0_1.bin,Down,0x00F5,QuickRace_AI_List_AI_List_02.bin,list_root,high
+AI_0_2.bin,Down,0x00F5,QuickRace_AI_List_AI_List_02.bin,list_root,high
+AI_0_1.bin,Left,1aec0104,scene_parent_or_back_action,back_escape,medium
+AI_0_2.bin,Left,1aec0104,scene_parent_or_back_action,back_escape,medium

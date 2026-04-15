@@ -1,0 +1,4 @@
+next_stage,recommendation,why
+Stage 87,selector_button_member_v2 field decoder pass,"AI_0_1 now has enough stable fields to attempt explicit local property decoding (nav links, font, draw priority, offset, justification)."
+Stage 88,QuickRace current-value/path decoder pass,AI_0_2 gives a clean path-backed formatted-text companion with Frontend/QuickRace path evidence.
+Stage 89,registry merge with RaceResults selector/list classes,QuickRace and RaceResults now share high-level selector/list semantics through different carrier classes.

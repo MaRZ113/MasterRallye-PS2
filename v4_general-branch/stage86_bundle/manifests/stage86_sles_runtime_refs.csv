@@ -1,0 +1,9 @@
+token,found_in_sles,role,quickrace_files
+enUITextButtonAI,True,button-text carrier,AI_0_1.bin|AI_3_3.bin
+enUIFormattedTextAI,True,formatted text carrier,AI_0_2.bin
+gaFrontendStandardButtonAI,True,frontend button logic class,AI_0_1.bin|AI_0_2.bin
+Frontend/QuickRace/CurrentVehicleString,True,quickrace text path,AI_0_2.bin
+Font ID#,True,ui font property,AI_0_1.bin|AI_0_2.bin|AI_3_3.bin|AI_0_4.bin
+Draw Priority,True,ui draw-order property,AI_0_1.bin|AI_3_3.bin
+Up Path / Right Path / Down Path / Left Path,True,navigation links,AI_0_1.bin
+en2d Image Bank Index / Draw 2D / 2dGlobal,True,render-config properties,AI_3_3.bin|en2d_2dGlobal.bin

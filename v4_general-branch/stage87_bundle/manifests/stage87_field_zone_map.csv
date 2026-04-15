@@ -1,0 +1,11 @@
+file,byte_range,zone_name,description
+AI_0_1.bin,0x0000-0x00cf,header_selector_core,"AI header, runtime class, selector key/null/list, font/offset/hjust"
+AI_0_1.bin,0x00d0-0x0180,nav_and_enable,"Frontend button class, nav links, enabled flag"
+AI_0_1.bin,0x0181-0x03ff,render_tail_primary,"Egg boundary, draw priority, model/matrix/render props"
+AI_0_1.bin,0x0400-0x066f,embedded_value_tail,"Nested <Value Name=""Draw Priority""> and AI_List trailer"
+AI_0_2.bin,0x0000-0x0127,path_text_core,"AI header, formatted text class, path ref, basic layout props"
+AI_0_2.bin,0x0128-0x02d5,ui_companion_middle,Egg boundary and binary/UI middle gap
+AI_0_2.bin,0x02d6-0x039f,nav_companion_tail,"Frontend button class, embedded ID int, nav links, enable/pulse"
+AI_3_3.bin,0x0000-0x01d2,variant_selector_core,"AI header, Null/List, ViewC, draw priority, image-bank/global"
+AI_3_3.bin,0x01d3-0x032c,variant_ui_middle,"Partial enUITextButtonAI, font/index/offset/hjust, save-size hints"
+AI_3_3.bin,0x032d-0x04c5,variant_render_tail,Background/render tail with nested ZBuffered bool and image-bank config

@@ -1,0 +1,10 @@
+decoder_class,evidence_only,exact_named_decoder,not_ready,operational_named_decoder,resolved_alias_decoder
+early_u16_alias,0,0,0,0,2
+early_u16_payload_edge,0,1,0,3,0
+late_alternate_alias,0,0,0,0,1
+late_alternate_payload_edge,0,1,0,0,0
+late_alternate_semantic_split,0,0,0,0,1
+late_alternate_subtype,0,0,0,1,0
+late_page1_exact_member,0,3,0,0,0
+none,0,0,2,0,0
+swapped_bankhint_hiword_root,1,0,0,1,1

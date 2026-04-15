@@ -1,0 +1,9 @@
+decoder_family,status,count
+early_u16_rootlink,node_bridge_only,6
+late_alternate_subtype,partial_submodel,3
+late_normalized_bankhint,partial_submodel,1
+page1_low16_bankroot,exact_clean,3
+swapped_bankhint_hiword_root,evidence_only,1
+swapped_bankhint_hiword_root,stabilized_soft_clean,1
+swapped_bankhint_hiword_root,verified_sibling_alias,1
+unmodeled_name_only,name_only_unmodeled,2

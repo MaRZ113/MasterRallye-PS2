@@ -1,0 +1,6 @@
+scene,member_label,readiness,why
+RaceResults_01,AI0_UiSelect2_browser,high,AI/TextButton object with clear UI fields
+RaceResults_01,List_star,high,clean local prelude + close boundary
+RaceResults_01,UiSelect,high,clean local prelude + close boundary
+RaceResults_01,en3d_Matrix_embedded,medium,embedded matrix + local value payload
+RaceResults_01,AI_member,medium,AI/TextButton object with clear UI fields

@@ -1,0 +1,9 @@
+file,slot_name,slot_tag_hex,ordinal_hex,control_a_be_hex,control_b_be_hex,origin_layer,semantic_role,confidence,notes
+AI_0_1.bin,up_path,0x32,,0x32ec,0x003f,unmodeled,primary_local_ordinal,medium,Standard slot shape persists across owner/companion; ordinal lives in bytes 1..2 after slot tag.
+AI_0_1.bin,right_path,0x37,0x00f8,0x30a4,0x072d,unmodeled,secondary_variant_ordinal,medium,Standard slot shape persists across owner/companion; ordinal lives in bytes 1..2 after slot tag.
+AI_0_1.bin,down_path,0x37,0x00f5,0x343e,0xe302,unmodeled,shared_list_root_ordinal,medium_high,Standard slot shape persists across owner/companion; ordinal lives in bytes 1..2 after slot tag.
+AI_0_1.bin,left_path,0x1a,,0x1aec,0x0104,extended_back_escape_ref,shared_back_escape,medium,Extended form breaks standard ordinal pattern; shared across owner/companion.
+AI_0_2.bin,up_path,0x32,,0x32ed,0x0034,unmodeled,primary_local_ordinal,medium,Standard slot shape persists across owner/companion; ordinal lives in bytes 1..2 after slot tag.
+AI_0_2.bin,right_path,0x37,0x00f9,0x303e,0xf800,unmodeled,secondary_variant_ordinal,medium,Standard slot shape persists across owner/companion; ordinal lives in bytes 1..2 after slot tag.
+AI_0_2.bin,down_path,0x37,0x00f5,0x363e,0xf700,unmodeled,shared_list_root_ordinal,medium_high,Standard slot shape persists across owner/companion; ordinal lives in bytes 1..2 after slot tag.
+AI_0_2.bin,left_path,0x1a,,0x1aec,0x0104,extended_back_escape_ref,shared_back_escape,medium,Extended form breaks standard ordinal pattern; shared across owner/companion.

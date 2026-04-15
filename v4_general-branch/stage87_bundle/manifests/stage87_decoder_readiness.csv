@@ -1,0 +1,5 @@
+decoder_class,status,confidence,note
+selector_button_member_v2,field_decoder_ready,high,Can expose selector/nav/ui/render fields with offsets and stable zones
+path_text_member_v2,field_decoder_ready,high,"Can expose path ref, text/layout props, nav companion tail"
+selector_button_member_v2_variant,field_decoder_ready,medium,Field zones stable but selector key/class token truncated and mixed with render-specific state
+explicit_control_word_decoder,not_ready,medium,Binary/control words between strings still not decoded bitwise

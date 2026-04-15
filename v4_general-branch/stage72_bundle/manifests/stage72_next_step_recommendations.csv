@@ -1,0 +1,4 @@
+priority,next_step,reason
+high,Stage 73 = FMV registry consolidation pass,late alternate subtype ambiguity is now mostly resolved into sibling/alias classifications
+high,Prepare first non-video transfer,FMV decoder registry is mature enough to support a controlled XML/GXI/PSB bridge attempt
+low,Optional FUJ2 exact-edge revisit,only if exactness becomes necessary later; current alias classification is operationally sufficient

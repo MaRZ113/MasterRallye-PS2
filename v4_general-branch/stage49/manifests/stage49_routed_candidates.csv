@@ -1,0 +1,156 @@
+record_offset,sig8,body_prefix,route_type,matched_field,field_offset,target_u32,window_start,window_end,window_state,status,content_class,family_id,confidence,semantic_label
+173548478,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+175186694,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+186811565,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+187552617,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+187732349,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+188769694,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+189488311,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+189565806,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+191180083,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+191850545,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+193029119,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+193969485,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+194813645,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+579301041,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+580939257,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+592564128,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+593305180,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+593484912,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+594522257,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+595240874,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+595318369,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+596932646,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+597603108,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+598781682,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+599722048,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+600566208,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+983921745,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+985547353,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+997113905,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+997185389,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+997849595,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+998027827,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+999056067,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+999769509,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+999846432,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+1000627763,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+1001384947,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+1001454622,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+1002119933,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+1002306855,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+1003288425,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+1004141174,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+1004221543,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+1005058785,0000010c43fc7d92,c900,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc7d_track_menu_preview_01
+186744207,0000010c43fc7d92,c90f,pair_only,,,,,,pair_only_no_window,clean,challenge_preview_fmv,43fc7d_challenge_preview_01,high,43fc7d_challenge_preview_01
+187643069,0000010c43fc7d92,c90f,pair_only,,,,,,pair_only_no_window,clean,challenge_preview_fmv,43fc7d_challenge_preview_01,high,43fc7d_challenge_preview_01
+189416077,0000010c43fc7d92,c90f,pair_only,,,,,,pair_only_no_window,clean,challenge_preview_fmv,43fc7d_challenge_preview_01,high,43fc7d_challenge_preview_01
+190107272,0000010c43fc7d92,c90f,pair_only,,,,,,pair_only_no_window,clean,challenge_preview_fmv,43fc7d_challenge_preview_01,high,43fc7d_challenge_preview_01
+191040091,0000010c43fc7d92,c90f,pair_only,,,,,,pair_only_no_window,clean,challenge_preview_fmv,43fc7d_challenge_preview_01,high,43fc7d_challenge_preview_01
+191946045,0000010c43fc7d92,c90f,pair_only,,,,,,pair_only_no_window,clean,challenge_preview_fmv,43fc7d_challenge_preview_01,high,43fc7d_challenge_preview_01
+193810990,0000010c43fc7d92,c90f,pair_only,,,,,,pair_only_no_window,clean,challenge_preview_fmv,43fc7d_challenge_preview_01,high,43fc7d_challenge_preview_01
+194547603,0000010c43fc7d92,c90f,pair_only,,,,,,pair_only_no_window,clean,challenge_preview_fmv,43fc7d_challenge_preview_01,high,43fc7d_challenge_preview_01
+592496770,0000010c43fc7d92,c90f,pair_only,,,,,,pair_only_no_window,clean,challenge_preview_fmv,43fc7d_challenge_preview_01,high,43fc7d_challenge_preview_01
+593395632,0000010c43fc7d92,c90f,pair_only,,,,,,pair_only_no_window,clean,challenge_preview_fmv,43fc7d_challenge_preview_01,high,43fc7d_challenge_preview_01
+595168640,0000010c43fc7d92,c90f,pair_only,,,,,,pair_only_no_window,clean,challenge_preview_fmv,43fc7d_challenge_preview_01,high,43fc7d_challenge_preview_01
+595859835,0000010c43fc7d92,c90f,pair_only,,,,,,pair_only_no_window,clean,challenge_preview_fmv,43fc7d_challenge_preview_01,high,43fc7d_challenge_preview_01
+596792654,0000010c43fc7d92,c90f,pair_only,,,,,,pair_only_no_window,clean,challenge_preview_fmv,43fc7d_challenge_preview_01,high,43fc7d_challenge_preview_01
+597698608,0000010c43fc7d92,c90f,pair_only,,,,,,pair_only_no_window,clean,challenge_preview_fmv,43fc7d_challenge_preview_01,high,43fc7d_challenge_preview_01
+599563553,0000010c43fc7d92,c90f,pair_only,,,,,,pair_only_no_window,clean,challenge_preview_fmv,43fc7d_challenge_preview_01,high,43fc7d_challenge_preview_01
+600300166,0000010c43fc7d92,c90f,pair_only,,,,,,pair_only_no_window,clean,challenge_preview_fmv,43fc7d_challenge_preview_01,high,43fc7d_challenge_preview_01
+997047000,0000010c43fc7d92,c90f,pair_only,,,,,,pair_only_no_window,clean,challenge_preview_fmv,43fc7d_challenge_preview_01,high,43fc7d_challenge_preview_01
+997939291,0000010c43fc7d92,c90f,pair_only,,,,,,pair_only_no_window,clean,challenge_preview_fmv,43fc7d_challenge_preview_01,high,43fc7d_challenge_preview_01
+998952694,0000010c43fc7d92,c90f,pair_only,,,,,,pair_only_no_window,clean,challenge_preview_fmv,43fc7d_challenge_preview_01,high,43fc7d_challenge_preview_01
+999697539,0000010c43fc7d92,c90f,pair_only,,,,,,pair_only_no_window,clean,challenge_preview_fmv,43fc7d_challenge_preview_01,high,43fc7d_challenge_preview_01
+999918278,0000010c43fc7d92,c90f,pair_only,,,,,,pair_only_no_window,clean,challenge_preview_fmv,43fc7d_challenge_preview_01,high,43fc7d_challenge_preview_01
+1000384078,0000010c43fc7d92,c90f,pair_only,,,,,,pair_only_no_window,clean,challenge_preview_fmv,43fc7d_challenge_preview_01,high,43fc7d_challenge_preview_01
+1000544760,0000010c43fc7d92,c90f,pair_only,,,,,,pair_only_no_window,clean,challenge_preview_fmv,43fc7d_challenge_preview_01,high,43fc7d_challenge_preview_01
+1001315591,0000010c43fc7d92,c90f,pair_only,,,,,,pair_only_no_window,clean,challenge_preview_fmv,43fc7d_challenge_preview_01,high,43fc7d_challenge_preview_01
+1002214599,0000010c43fc7d92,c90f,pair_only,,,,,,pair_only_no_window,clean,challenge_preview_fmv,43fc7d_challenge_preview_01,high,43fc7d_challenge_preview_01
+1003199231,0000010c43fc7d92,c90f,pair_only,,,,,,pair_only_no_window,clean,challenge_preview_fmv,43fc7d_challenge_preview_01,high,43fc7d_challenge_preview_01
+1004064069,0000010c43fc7d92,c90f,pair_only,,,,,,pair_only_no_window,clean,challenge_preview_fmv,43fc7d_challenge_preview_01,high,43fc7d_challenge_preview_01
+1004303718,0000010c43fc7d92,c90f,pair_only,,,,,,pair_only_no_window,clean,challenge_preview_fmv,43fc7d_challenge_preview_01,high,43fc7d_challenge_preview_01
+1004794990,0000010c43fc7d92,c90f,pair_only,,,,,,pair_only_no_window,clean,challenge_preview_fmv,43fc7d_challenge_preview_01,high,43fc7d_challenge_preview_01
+195890308,0000010c43fc86e9,4cc3,field_aware,pos01c,28,908440992,908439552,910536704,routable,soft_clean,track_menu_preview,track_menu_preview_family_01,high,Elf track/menu preview
+195890308,0000010c43fc86e9,4cc3,field_aware,pos028,40,1171488690,1171484672,1173581824,routable,evidence,challenge_preview,challenge_preview_family_misc,medium,Chevreuse challenge preview variant
+195890308,0000010c43fc86e9,4cc3,field_aware,pos094,148,890066041,890064896,892162048,routable,clean,challenge_preview,challenge_preview_family_misc,high,Chevreuse challenge preview
+196598496,0000010c43fc86e9,4cc3,field_aware,pos01c,28,698942853,698941440,701038592,routable,soft_clean,track_menu_preview,track_menu_preview_family_01,high,Elf track/menu preview
+196598496,0000010c43fc86e9,4cc3,field_aware,pos028,40,889006075,889004032,891101184,routable,evidence,challenge_preview,challenge_preview_family_misc,medium,Chevreuse challenge preview variant
+196598496,0000010c43fc86e9,4cc3,field_aware,pos094,148,438841755,438841344,440938496,routable,clean,challenge_preview,challenge_preview_family_misc,high,Chevreuse challenge preview
+197931551,0000010c43fc86e9,4cc3,field_aware,pos01c,28,1722484101,,,out_of_bounds,soft_clean,track_menu_preview,track_menu_preview_family_01,high,Elf track/menu preview
+197931551,0000010c43fc86e9,4cc3,field_aware,pos028,40,1479867687,,,out_of_bounds,evidence,challenge_preview,challenge_preview_family_misc,medium,Chevreuse challenge preview variant
+197931551,0000010c43fc86e9,4cc3,field_aware,pos094,148,2828197524,,,out_of_bounds,clean,challenge_preview,challenge_preview_family_misc,high,Chevreuse challenge preview
+601642871,0000010c43fc86e9,4cc3,field_aware,pos01c,28,908440992,908439552,910536704,routable,soft_clean,track_menu_preview,track_menu_preview_family_01,high,Elf track/menu preview
+601642871,0000010c43fc86e9,4cc3,field_aware,pos028,40,1171488690,1171484672,1173581824,routable,evidence,challenge_preview,challenge_preview_family_misc,medium,Chevreuse challenge preview variant
+601642871,0000010c43fc86e9,4cc3,field_aware,pos094,148,890066041,890064896,892162048,routable,clean,challenge_preview,challenge_preview_family_misc,high,Chevreuse challenge preview
+602351059,0000010c43fc86e9,4cc3,field_aware,pos01c,28,698942853,698941440,701038592,routable,soft_clean,track_menu_preview,track_menu_preview_family_01,high,Elf track/menu preview
+602351059,0000010c43fc86e9,4cc3,field_aware,pos028,40,889006075,889004032,891101184,routable,evidence,challenge_preview,challenge_preview_family_misc,medium,Chevreuse challenge preview variant
+602351059,0000010c43fc86e9,4cc3,field_aware,pos094,148,438841755,438841344,440938496,routable,clean,challenge_preview,challenge_preview_family_misc,high,Chevreuse challenge preview
+603684114,0000010c43fc86e9,4cc3,field_aware,pos01c,28,1722484101,,,out_of_bounds,soft_clean,track_menu_preview,track_menu_preview_family_01,high,Elf track/menu preview
+603684114,0000010c43fc86e9,4cc3,field_aware,pos028,40,1479867687,,,out_of_bounds,evidence,challenge_preview,challenge_preview_family_misc,medium,Chevreuse challenge preview variant
+603684114,0000010c43fc86e9,4cc3,field_aware,pos094,148,2828197524,,,out_of_bounds,clean,challenge_preview,challenge_preview_family_misc,high,Chevreuse challenge preview
+1006138454,0000010c43fc86e9,4cc3,field_aware,pos01c,28,908440992,908439552,910536704,routable,soft_clean,track_menu_preview,track_menu_preview_family_01,high,Elf track/menu preview
+1006138454,0000010c43fc86e9,4cc3,field_aware,pos028,40,1171488690,1171484672,1173581824,routable,evidence,challenge_preview,challenge_preview_family_misc,medium,Chevreuse challenge preview variant
+1006138454,0000010c43fc86e9,4cc3,field_aware,pos094,148,890066041,890064896,892162048,routable,clean,challenge_preview,challenge_preview_family_misc,high,Chevreuse challenge preview
+1006841143,0000010c43fc86e9,4cc3,field_aware,pos01c,28,698942853,698941440,701038592,routable,soft_clean,track_menu_preview,track_menu_preview_family_01,high,Elf track/menu preview
+1006841143,0000010c43fc86e9,4cc3,field_aware,pos028,40,889006075,889004032,891101184,routable,evidence,challenge_preview,challenge_preview_family_misc,medium,Chevreuse challenge preview variant
+1006841143,0000010c43fc86e9,4cc3,field_aware,pos094,148,438841755,438841344,440938496,routable,clean,challenge_preview,challenge_preview_family_misc,high,Chevreuse challenge preview
+1008164955,0000010c43fc86e9,4cc3,field_aware,pos01c,28,1722484101,,,out_of_bounds,soft_clean,track_menu_preview,track_menu_preview_family_01,high,Elf track/menu preview
+1008164955,0000010c43fc86e9,4cc3,field_aware,pos028,40,1479867687,,,out_of_bounds,evidence,challenge_preview,challenge_preview_family_misc,medium,Chevreuse challenge preview variant
+1008164955,0000010c43fc86e9,4cc3,field_aware,pos094,148,2828197524,,,out_of_bounds,clean,challenge_preview,challenge_preview_family_misc,high,Chevreuse challenge preview
+195287425,0000010c43fc86e9,521f,field_aware,pos01c,28,1672152546,,,out_of_bounds,clean,track_menu_preview,track_menu_preview_family_01,high,Bago track/menu preview
+195287425,0000010c43fc86e9,521f,field_aware,pos028,40,1761234934,,,out_of_bounds,evidence,challenge_preview,challenge_preview_family_misc,medium,Chevreuse challenge preview variant
+195954235,0000010c43fc86e9,521f,field_aware,pos01c,28,817265378,817262592,819359744,routable,clean,track_menu_preview,track_menu_preview_family_01,high,Bago track/menu preview
+195954235,0000010c43fc86e9,521f,field_aware,pos028,40,2342977380,,,out_of_bounds,evidence,challenge_preview,challenge_preview_family_misc,medium,Chevreuse challenge preview variant
+196160710,0000010c43fc86e9,521f,field_aware,pos01c,28,3285740225,,,out_of_bounds,clean,track_menu_preview,track_menu_preview_family_01,high,Bago track/menu preview
+196160710,0000010c43fc86e9,521f,field_aware,pos028,40,2286228345,,,out_of_bounds,evidence,challenge_preview,challenge_preview_family_misc,medium,Chevreuse challenge preview variant
+197418381,0000010c43fc86e9,521f,field_aware,pos01c,28,2983527025,,,out_of_bounds,clean,track_menu_preview,track_menu_preview_family_01,high,Bago track/menu preview
+197418381,0000010c43fc86e9,521f,field_aware,pos028,40,889006075,889004032,891101184,routable,evidence,challenge_preview,challenge_preview_family_misc,medium,Chevreuse challenge preview variant
+601039988,0000010c43fc86e9,521f,field_aware,pos01c,28,1672152546,,,out_of_bounds,clean,track_menu_preview,track_menu_preview_family_01,high,Bago track/menu preview
+601039988,0000010c43fc86e9,521f,field_aware,pos028,40,1761234934,,,out_of_bounds,evidence,challenge_preview,challenge_preview_family_misc,medium,Chevreuse challenge preview variant
+601706798,0000010c43fc86e9,521f,field_aware,pos01c,28,817265378,817262592,819359744,routable,clean,track_menu_preview,track_menu_preview_family_01,high,Bago track/menu preview
+601706798,0000010c43fc86e9,521f,field_aware,pos028,40,2342977380,,,out_of_bounds,evidence,challenge_preview,challenge_preview_family_misc,medium,Chevreuse challenge preview variant
+601913273,0000010c43fc86e9,521f,field_aware,pos01c,28,3285740225,,,out_of_bounds,clean,track_menu_preview,track_menu_preview_family_01,high,Bago track/menu preview
+601913273,0000010c43fc86e9,521f,field_aware,pos028,40,2286228345,,,out_of_bounds,evidence,challenge_preview,challenge_preview_family_misc,medium,Chevreuse challenge preview variant
+603170944,0000010c43fc86e9,521f,field_aware,pos01c,28,2983527025,,,out_of_bounds,clean,track_menu_preview,track_menu_preview_family_01,high,Bago track/menu preview
+603170944,0000010c43fc86e9,521f,field_aware,pos028,40,889006075,889004032,891101184,routable,evidence,challenge_preview,challenge_preview_family_misc,medium,Chevreuse challenge preview variant
+1005539958,0000010c43fc86e9,521f,field_aware,pos01c,28,1672152546,,,out_of_bounds,clean,track_menu_preview,track_menu_preview_family_01,high,Bago track/menu preview
+1005539958,0000010c43fc86e9,521f,field_aware,pos028,40,1761234934,,,out_of_bounds,evidence,challenge_preview,challenge_preview_family_misc,medium,Chevreuse challenge preview variant
+1006201978,0000010c43fc86e9,521f,field_aware,pos01c,28,817265378,817262592,819359744,routable,clean,track_menu_preview,track_menu_preview_family_01,high,Bago track/menu preview
+1006201978,0000010c43fc86e9,521f,field_aware,pos028,40,2342977380,,,out_of_bounds,evidence,challenge_preview,challenge_preview_family_misc,medium,Chevreuse challenge preview variant
+1006406939,0000010c43fc86e9,521f,field_aware,pos01c,28,3285740225,,,out_of_bounds,clean,track_menu_preview,track_menu_preview_family_01,high,Bago track/menu preview
+1006406939,0000010c43fc86e9,521f,field_aware,pos028,40,2286228345,,,out_of_bounds,evidence,challenge_preview,challenge_preview_family_misc,medium,Chevreuse challenge preview variant
+1007654588,0000010c43fc86e9,521f,field_aware,pos01c,28,2983527025,,,out_of_bounds,clean,track_menu_preview,track_menu_preview_family_01,high,Bago track/menu preview
+1007654588,0000010c43fc86e9,521f,field_aware,pos028,40,889006075,889004032,891101184,routable,evidence,challenge_preview,challenge_preview_family_misc,medium,Chevreuse challenge preview variant
+1008108392,0000010c43fc86e9,521f,field_aware,pos01c,28,3394636622,,,out_of_bounds,clean,track_menu_preview,track_menu_preview_family_01,high,Bago track/menu preview
+1008108392,0000010c43fc86e9,521f,field_aware,pos028,40,2342977380,,,out_of_bounds,evidence,challenge_preview,challenge_preview_family_misc,medium,Chevreuse challenge preview variant
+196890762,0000010c43fc86e9,530f,field_aware,pos094,148,917127835,917127168,919224320,routable,clean,track_menu_preview,track_menu_preview_family_01,high,Fujitsu Siemens track/menu preview
+196890762,0000010c43fc86e9,530f,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc86_stage47_rank03
+198186576,0000010c43fc86e9,530f,field_aware,pos094,148,1094864538,1094860800,1096957952,routable,clean,track_menu_preview,track_menu_preview_family_01,high,Fujitsu Siemens track/menu preview
+198186576,0000010c43fc86e9,530f,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc86_stage47_rank03
+602643325,0000010c43fc86e9,530f,field_aware,pos094,148,917127835,917127168,919224320,routable,clean,track_menu_preview,track_menu_preview_family_01,high,Fujitsu Siemens track/menu preview
+602643325,0000010c43fc86e9,530f,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc86_stage47_rank03
+603939139,0000010c43fc86e9,530f,field_aware,pos094,148,1094864538,1094860800,1096957952,routable,clean,track_menu_preview,track_menu_preview_family_01,high,Fujitsu Siemens track/menu preview
+603939139,0000010c43fc86e9,530f,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc86_stage47_rank03
+1005683021,0000010c43fc86e9,530f,field_aware,pos094,148,1423389776,,,out_of_bounds,clean,track_menu_preview,track_menu_preview_family_01,high,Fujitsu Siemens track/menu preview
+1005683021,0000010c43fc86e9,530f,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc86_stage47_rank03
+1007130993,0000010c43fc86e9,530f,field_aware,pos094,148,917127835,917127168,919224320,routable,clean,track_menu_preview,track_menu_preview_family_01,high,Fujitsu Siemens track/menu preview
+1007130993,0000010c43fc86e9,530f,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc86_stage47_rank03
+1008418041,0000010c43fc86e9,530f,field_aware,pos094,148,1094864538,1094860800,1096957952,routable,clean,track_menu_preview,track_menu_preview_family_01,high,Fujitsu Siemens track/menu preview
+1008418041,0000010c43fc86e9,530f,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc86_stage47_rank03
+196524627,0000010c43fc86e9,6487,field_aware,pos008,8,595953508,595951616,598048768,routable,rejected,video_like_nonstandard,video_like_nonstandard,high,broken nonstandard video-like payload
+196524627,0000010c43fc86e9,6487,field_aware,pos020,32,607581398,607580160,609677312,routable,rejected,video_like_nonstandard,video_like_nonstandard,high,broken nonstandard video-like payload
+196524627,0000010c43fc86e9,6487,pair_only,,,,,,pair_only_no_window,rejected,video_like_nonstandard,video_like_nonstandard,medium,43fc86_stage47_rejected_nonstandard
+602277190,0000010c43fc86e9,6487,field_aware,pos008,8,595953508,595951616,598048768,routable,rejected,video_like_nonstandard,video_like_nonstandard,high,broken nonstandard video-like payload
+602277190,0000010c43fc86e9,6487,field_aware,pos020,32,607581398,607580160,609677312,routable,rejected,video_like_nonstandard,video_like_nonstandard,high,broken nonstandard video-like payload
+602277190,0000010c43fc86e9,6487,pair_only,,,,,,pair_only_no_window,rejected,video_like_nonstandard,video_like_nonstandard,medium,43fc86_stage47_rejected_nonstandard
+1006767870,0000010c43fc86e9,6487,field_aware,pos008,8,595953508,595951616,598048768,routable,rejected,video_like_nonstandard,video_like_nonstandard,high,broken nonstandard video-like payload
+1006767870,0000010c43fc86e9,6487,field_aware,pos020,32,607581398,607580160,609677312,routable,rejected,video_like_nonstandard,video_like_nonstandard,high,broken nonstandard video-like payload
+1006767870,0000010c43fc86e9,6487,pair_only,,,,,,pair_only_no_window,rejected,video_like_nonstandard,video_like_nonstandard,medium,43fc86_stage47_rejected_nonstandard
+19677091,0000010c43fc9b4d,7f94,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,medium_high,43fc9b_track_menu_preview_02_trimmed
+425429654,0000010c43fc9b4d,7f94,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,medium_high,43fc9b_track_menu_preview_02_trimmed
+826925893,0000010c43fc9b4d,7f94,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,medium_high,43fc9b_track_menu_preview_02_trimmed
+831071670,0000010c43fc9b4d,7f94,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,medium_high,43fc9b_track_menu_preview_02_trimmed
+834864348,0000010c43fc9b4d,7f94,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,medium_high,43fc9b_track_menu_preview_02_trimmed
+1035389302,0000010c43fc9bf6,ba01,pair_only,,,,,,pair_only_no_window,clean,track_menu_preview_fmv,track_menu_preview_family_01,high,43fc9b_track_menu_preview_01

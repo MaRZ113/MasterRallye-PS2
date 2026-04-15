@@ -1,0 +1,4 @@
+priority,next_stage,focus,rationale
+1,Stage 90,nav-slot target ID decoding,"Now that ownership is resolved, next step is to decode compact refs behind Up/Right/Down/Left and map them to actual scene-local targets."
+2,Stage 90A,AI_0_1 <-> AI_0_2 binding,Confirm whether selector choice drives companion Current... text through shared list ID or path binding.
+3,Stage 91,cross-scene AI/UI carrier transfer,"Once nav slot semantics are known, transfer selector_button_member_v2 to another selector-heavy scene."

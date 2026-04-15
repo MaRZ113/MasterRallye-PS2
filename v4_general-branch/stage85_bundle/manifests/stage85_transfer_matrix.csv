@@ -1,0 +1,6 @@
+canonical_member,canonical_decoder,target_member,target_decoder,relationship,strength,shared_signals
+RaceResults.UiSelect,selector_list_member_v1,QuickRace_AI_0_1_AI_03.bin,selector_button_member_v1,selector_list_sibling,medium,Index | Null | List | Font ID | Draw Priority | enUI tail
+RaceResults.UiSelect,selector_list_member_v1,QuickRace_AI_3_3_AI_05.bin,selector_button_member_v1_variant,selector_list_variant,medium,Null | List | Font ID | Draw Priority | ViewC
+RaceResults.List*,list_backing_member_v1,QuickRace_AI_List_AI_List_02.bin,list_transition_member_v1,list_transition,high,List token | compact AI_List anchor
+RaceResults.List*,list_backing_member_v1,QuickRace_AI_0_2_AI_04.bin,path_text_member_v1,path_text_companion,medium,Frontend path | enUIFormattedTextAI | UI text semantics
+Language.en2d FileType,typed_int_render_config,QuickRace_en2d_2dGlobal_Value_01.bin,render_config_member_v1,render_config_companion,medium,en2d | bool/value member | render-config family

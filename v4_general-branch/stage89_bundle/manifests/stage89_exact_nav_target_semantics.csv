@@ -1,0 +1,5 @@
+carrier,class,decision,evidence,semantics,confidence
+AI_0_1.bin,selector_button_member_v2,primary_nav_owner,Index + Null + List live in same carrier as Up/Right/Down/Left + Enabled + True,"selector/list ownership anchored here; nav targets likely compact scene-local refs, not literal strings",high
+AI_0_2.bin,path_text_member_v2,companion_nav_tail,"Reuses same nav quartet order, but primary semantic payload is Frontend/QuickRace/Current... + enUIFormattedTextAI",inherits/shared nav tail; not primary selector ownership,high
+AI_3_3.bin,selector_button_member_v2_variant,variant_render_owner,"Selector-ish core present, but ViewC / Image Bank Index / 2dGlobal dominate and no full nav quartet resolved","render/view specialized sibling, not canonical nav owner",medium
+nav_path_slots,compact_nav_slots,not_plain_string_ref,Slots are preceded/followed by dense binary control words and truncated labels; no standalone Frontend/... strings at slot positions,targets likely stored as compact refs / indices / scene-local links,medium

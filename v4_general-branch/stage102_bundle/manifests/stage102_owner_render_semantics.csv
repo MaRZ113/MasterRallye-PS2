@@ -1,0 +1,7 @@
+carrier,a4_offset_hex,major_family,cluster_label,anchor_tokens,inferred_subtype,best_role_hypothesis,confidence
+AI_0_1,0x2ff,owner_render_value,owner_render_curve_bundle,2d Image Bank; Formatted; Font ID,render_curve_or_formatted_bridge,bridges 2d-image-bank render state toward formatted/text styling tail,medium
+AI_0_1,0x44d,owner_render_value,owner_value_trailer_bundle,curved_smaller,value_trailer_style_bundle,style/trailer bundle tied to curved_small(er) visual treatment,medium
+AI_0_1,0x642,owner_render_value,owner_render_2dglobal_bridge,2d File; 2d Image Bank Index; 2dGlobal; AI_List,render_2dglobal_bridge,2d image-bank/index bundle feeding 2dGlobal and AI_List handoff,high
+AI_0_2,0x318,companion_embedded,companion_embedded_value_id,gaFrontendStandardButtonAI; ID; Int,embedded_value_id,incidental embedded value/id fragment inside companion carrier,low
+AI_3_3,0x305,variant_owner_render,variant_owner_render_hoist,GetSaveSize; en3d ZBuffered; background_path,variant_render_value_hoist,variant owner hoist between GetSaveSize and en3d/background render fields,high
+AI_0_4,0x226,variant_owner_render,variant_trailer_version_subrecord,Colour; s_Version,variant_trailer_version_bundle,late trailer/version sidecar near Colour and s_Version,medium

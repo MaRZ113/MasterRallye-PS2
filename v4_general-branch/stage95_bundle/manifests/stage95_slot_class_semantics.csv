@@ -1,0 +1,4 @@
+slot_tag_hex,observed_slots,observed_roles,slot_class_values,semantic_inference
+0x32,up_path,owner primary / companion primary,"0x3f owner, 0x34 companion",primary selector-text pair family
+0x37,"right_path, down_path",secondary pair / shared-list path,"0x30 right pair, 0x34 owner-down, 0x36 companion-down",secondary selector pair and shared list-root family
+0x1a,left_path,shared extended ref,extended payload 0x1aec0104,back/escape ref outside u16 ordinal family

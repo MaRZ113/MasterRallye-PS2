@@ -1,0 +1,4 @@
+priority,next_step,reason
+1,Stage 86 = QuickRace AI block local decoder pass,QuickRace selector/list semantics now land in AI members rather than simple Value nodes; need local AI block decoder to become fully structured.
+2,Promote selector_button_member_v1 to registry,QuickRace AI_0_1_AI_03 is strong enough to become a reusable decoder class.
+3,Keep AI_0_4_AI_06 as sparse evidence,Too little structure to justify promotion; likely transition/placeholder member.

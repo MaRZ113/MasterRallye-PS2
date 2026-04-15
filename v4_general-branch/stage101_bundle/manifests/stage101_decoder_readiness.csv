@@ -1,0 +1,6 @@
+layer,status,notes
+A4 broader family clustering,completed,Subrecords now separate into owner_nav_tail / owner_render_value / variant_owner_render / companion_embedded
+Canonical owner family,strong,AI_0_1 carries both nav-tail and secondary render/value A4 bundles
+Variant owner family,strong,AI_3_3 and AI_0_4 confirm transfer of A4 semantics outside nav-tail zone
+Companion separation,strong,AI_0_2 remains 3E backlink carrier with only incidental embedded A4 block
+Bit-perfect A4 decoding,open,Still need per-cluster field semantics and packed subfield decoding

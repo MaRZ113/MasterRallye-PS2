@@ -1,0 +1,5 @@
+layer,source,fields,semantic_role,handoff_direction,confidence
+render input zone,AI_0_1 secondary A4 bundle @0x642,2d File ; 2d Image Bank Index,owner-side render asset context,toward 2dGlobal,high
+render namespace zone,AI_0_1 secondary A4 bundle @0x642,2dGlobal,render/global namespace or bank scope,toward AI_List,medium_high
+list handoff zone,AI_0_1 secondary A4 bundle @0x642,AI_List,handoff into scene-local list container family,toward shared Down target 0x00F5,high
+nav resolution zone,AI_0_1 / AI_0_2 Down Path,ordinal 0x00F5,shared list-root compact target,terminates at QuickRace_AI_List_AI_List_02,high

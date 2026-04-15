@@ -1,0 +1,428 @@
+<Scene>
+  <EggLists_Version4
+  <t
+ Name="RaceResults"
+Position(p
+  <Value
+
+Use en2d" Typ@
+
+Bool" 
+="True"/'\
+Freezable 
+Hit 
+
+Draw Priority
+Int'
+Tick;
+Egg Group2
+en3d Model
+String'
+Null>
+atrix
+	Row0="1.00 0+
+" Row1="
+-1.28 5.81 `
+Fals9$	
+Interpolate 
+Visi 
+ZBuffer 
+dummy: 
+?208'
+2d Filet
+2d Image Bank Inde'@
+	H  
+	2d   
+2dGlobal
+AI_x
+  <AI No="0*v
+enUIBrowser+X
+="UiNo
+UiSelect2
+,$
+3
+Uns 
+Font5
+04/0
+Heigh3
+Sca(
+Floa)
+Vx00?
+Frontend/)m"/&
+Spac
+="+U
+</AI+
+</Egg'd
+y"d**,
+)#("
+0.95 
+)17"y)  
+ SaveOp"
+Ds="$
+PlayerState
+*lD1
+$8X+
+<d/ ,
+m<,/ 
+Time 
+/2.2 
+/44#p7 
+
+ions="False" SavePlayerState
+/>
+ +
+<Value Name="List*" Type="String" 
+	="Frontend/RaceResults/Timep
+Options
+HeightSpac
+Int'&
+
+</enUIBrowser+<
+</AI,@
+AI No="1"+Z
+ame5
+Null",
+_tB'
+</Egg(7
+N),	
+Screen*`
+Use en2d
+Bool'D
+Freezabl'
+True+
+Hit 
+
+Draw Priority
+Tick;
+Group2
+en3d Model
+atrix
+	Row0="1.00 0+
+" Row1="
+Interpolate44
+<@	
+Visi 
+ZBuffer 
+2d Fileh
+2d Image Bank Inde',
+	L  
+	2d   
+2dGlobal
+AI,
+o="0*h
+gaFE
+\new\buttons\tI
+"q. &
+ fz="
+'16#
+'335'<)"
+:] 1=
+ ?\ <8
+Y r$PC
+TextB
+]Tl]/h 
+  <ga&
+ -x@
+Font ID#&
+DF%dF`p 
+ ID$|,3l
+&x9`
+OffsetX2
+HJustifica"
+Width2
+Box  "
+Drop Shadow
+ 4d0(
+Standardl
+Active AI
+Points*@<+(& 
+2.25 >
+,3d  
+*3d  
+K?D\
+dummy+<
+.&$4
+ 6_4468"B420
+O\4)|t+\
+%<)p
+!8U)4 
+v-x5
+UiNo2
+!1 +
+0 ,7
+Sca(
+Floa)
+{Sz0007X
+ePlayerState="False"/>
+ +
+<Value Name="UiSelect" Type="Int" 
+="0" SaveOptions
+Pla 
+Uns E
+Index*
+String'P
+Null +\
+List6
+	Frontend/RaceResults/Pointsx
+HeightSpac
+
+</enUIBrowser+H	
+</AI,@
+AI No="1"+Z
+ame:
+_tB'
+</Egg(7
+Car0*,
+Use en2d
+Bool'
+Tru,D
+Freezabl'P
+Hit 
+
+Draw Priority
+Tick 
+Group2
+en3d Model
+atrix
+	Row0="1.00 0+
+" Row1="
+-6.50 `
+Interpolate 
+Visi 
+ZBuffer 
+\new\smallcars($
+heet:
+2d Filex
+Image Bank 
+2d :(
+<L
+$
+H  
+'
+2d   $
+
+2dGlobal
+AI,4
+"	(<q
+o"`''X
+Multi
+:AI+
+u	<.
+ndividual 
+ Per
+H Justifica"<-2
+(null)-l
+'275'
+ Type="String" Value="(null)"/>
+ '
+</AI,@
+AI No="2"+[
+ Name="p
+ame" Typ 
+_List'@
+</Egg(7
+Car+4
+Use en2d
+Bool'p
+True+h
+Freezabl'
+Hit 
+
+Draw Priority
+Int'
+Tick 
+Group2
+en3d Model
+Null>
+atrix
+	Row0="1.00 0+
+" Row1="
+-6.50 `
+Fals9$	
+Interpolate 
+Visi 
+ZBuffer 
+frontend\new\smallcars($
+heet:
+C205'p	>(
+2d Filex
+Image Bank Inde'
+2d :(
+<L
+$
+H  
+'
+2d   $
+
+2dGlobal
+AI,4
+o="0 
+enUIMulti
+:AI+
+k
+/RaceResults/
+ndividual 
+!Num
+ Per
+H Justification2
+</;D
+Posi`A+
+-1.28 5.81 
+dummy+8
+
+#$!&t&"2$="
+.92"
+&208x
+Browser+X
+"a!<"L 
+Height2
+4" SaveOp{
+s="$P8
+PlayerState
+UiNo2
+Font5
+0 ,7
+Sca(
+Floa(8Cox000 +X
+UiSelec3
+Uns E
+6\0#tE
+Spaci"PT
+$002
++ ,/
+:8,W 
+Border+
+/#8(
+$W
+buttons\tiled
+W-#J030
+Wga&T#
+TextB
+]Th]2<W9
+ ID#2X/,(:t
+6H&1
+ &8[$
+#v5=" 
+OffsetX 
+Z,PO`1-)
+nt" Value="1"/>
+ +
+ Name="Width" TypT
+Int" 
+="8?
+Height2
+Box HJustification2
+Pulse
+Bool'
+Drop Shadow 
+
+</gaFrontendTextButtonTiledAI+
+</.@
+AI Not2+
+  +H
+am'\
+String'd
+Standardj
+Image ID
+Active AI2
+(null)-@
+_List'@
+</Egg(7
+Border+
+Use en2d
+0+T
+True+
+Freezabl'
+Hit 
+
+Draw Priority
+Tick;
+Group2
+en3d Model
+Null8
+atrix
+	Row0="1.00 0+
+" Row1="
+Interpolate 
+Visi 
+ZBuffer 
+\new\b
+s\th
+I265x
+2d FL
+Bank Inde'
+2d :
+
+H  
+
+2d   
+2dGlobal
+AI,(
+o="0 
+(9"T.
+Font ID#
+ IDONdex 
+zn="
+%T//\
+OffsetX
+ "i0V !t1 
+i47/
+i43#T4
+#l1 
+i48+ 
+i44*
+O+@# 
+
+   
+<Value Name="en3d Matrix" TypH
+	Row0="1.00 0+
+" Row1="
+"/>
+
+   0x
+Draw 2D
+Bool" 
+="False=
+	Interpolated3
+Tru>
+Visible 
+ZBuffer 
+2d Model
+String' 
+frontend\new\buttons\tiled
+I195x
+2d FL
+Int'
+Image Bank Inde'
+	2d\
+
+H  
+
+2d   
+2dGlobal
+AI_List)p
+	  <AI No="0"+X
+gaFr
+TextB
+]T[CdAI+
+Font ID#
+Null/
+ IDONdex 
+zn="
+OffsetX
+HJustification2
+Width2
+Height2
+Box  "
+%p =
+Drop Shadow
+</AI+ 
+Standard|
+x"+\#
+I'L#*Q
+Active AI
+(null)-8
+</Egg
+=</'
+s_Version4>
+</Scene

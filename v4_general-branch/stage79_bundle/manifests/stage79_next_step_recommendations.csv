@@ -1,0 +1,4 @@
+priority,next_step,reason
+1,Stage 80 = RaceResults member-local decoder pass,RaceResults now shows transferable typed_value_member and ui_ai_member patterns plus SaveOptions/Frontend anchors.
+2,Stage 81 = QuickRace AI compound decoder pass,QuickRace carries richer AI_List/AI/Egg structures and likely exercises non-trivial intra-scene record transitions.
+3,Registry integration,Language/RaceResults/QuickRace now share enough member classes to define a generic non-video decoder registry.

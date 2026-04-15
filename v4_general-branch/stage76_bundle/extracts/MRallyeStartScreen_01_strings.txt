@@ -1,0 +1,119 @@
+<Scene>
+  <EggLists_Version4
+  <t
+ Name="MRallyeStartScreen"
+  <Value
+Use en2d" Type="Bool" 
+="True"/'`
+Freezable 
+Hit 
+
+Draw Priority
+Int'
+Tick 
+Egg Group2
+en3d Model
+String'
+Null>
+atrix
+Row0="0.00 ,
+" Row18i
+1.0>
+Interpolate 
+Visi 
+ZBuffer 
+frontend\new\buttons\tiled
+3="16
+Image Bank Inde'
+
+2d  
+
+2d\
+
+2d  
+
+2d   
+2dGlobal
+Fals-K
+AI_`
+  <AI No="0*
+gaFr
+TextB
+]T[CdAI+ 
+="Font ID#
+ IDSNdex3
+~n="
+$=" 
+OffsetX
+HJustification2
+Width2
+Height2
+Box  "
+Pud{ 
+'f8</ 
+</AI+
+(null)-h
+Standard
+
+ I'
+Up Pa4
+RxN7
+Down7
+Left7
+</Egg'
+Continue 
+#z653'
+Sx6?
+$"}9 &@6 
+yx6?
+9x6?h7 ;x6?
+ 9x60
+Q a|6(
+?$4>
+Unlocker<
+
+ 16
+S/*xn
+/ValidGameSaved-
+1 OR 2&$I+
+V/8np
+<P"l:
+rol AI5HC?
+1?2y
+*LK;`
+:du0
+iu4+
+ |hu"T5 ,`m#(m(
+1.00"/
+>
+  
+<Value Name="en3d Draw 2D" Type="Bool" 
+	="False"/>
+
+	Interpolated3
+Tru>
+Visible 
+ZBuffer 
+2d Model
+String' 
+Null:
+atrix
+	Row0="1.00 0+
+" Row1="
+Filed<
+Int'u
+Image Bank Inde'
+	2d@
+	2d  
+	2d   
+2dGlobal
+AI_List)
+	  <AI No="0"+X
+am'@-4
+gaFEScreenMRallyeStartAI+
+  </AI+
+/$9
+</Egg
++</'
+s_Version4>
+</Scene

@@ -1,0 +1,93 @@
+## RaceResults_List_star
+[0000] 
+ +
+[0008] <Value Name="List*" Type="String" 
+[002D] 	="Frontend/RaceResults/Timep
+[004E] Options
+[005C] HeightSpac
+[006A] Int'&
+[0076] 
+</enUIBrowser+<
+[0088] </AI,@
+[0090] AI No="1"+Z
+[00A3] ame5
+[00AA] Null",
+[00C1] _tB'
+[00C8] </Egg(
+
+## RaceResults_UiSelect
+[0000] 
+ +
+[0008] <Value Name="UiSelect" Type="Int" 
+[002C] ="0" SaveOptions
+[0041] Pla 
+[0048] Uns E
+[0050] Index*
+[0059] String'P
+[0063] Null +\
+[006C] List6
+[0074] 	Frontend/RaceResults/Pointsx
+[0097] HeightSpac
+[00AC] 
+</enUIBrowser+H	
+[00BE] </AI,@
+[00C6] AI No="1"+Z
+[00D9] ame:
+[00F1] _tB'
+[00F8] </Egg(
+
+## Language_Hitable
+[0000] <Value Name="Hitable" Type="Bool" 
+[0025] ="True"/>
+
+[0037] 
+Draw Priority
+[0047] Int'
+[0052] Tick 
+[005B] Egg Group2
+[006C] en3d Model
+[007B] String'
+[0085] Null>
+[008D] atrix
+[0098] Row0="0.00 ,
+[00A7] " Row18i
+[00B8] 1.0>
+[00C9] $	Interpolated 
+[00DC] Visi 
+[00E7] ZBuffer 
+[00F8] frontend\new\language\flagsheet:
+[0137] 3="18
+[014A] Filex
+[015A] Image Bank Inde'
+
+## Language_Colour_Start
+[0000] <Value Name="Colour Start" Type="Vector4" 
+[002C] ="1I	 ,
+[0039] End6P
+[0040] 0.90 (
+[004E] Active*
+[0058] String'
+[0063] Frontend/Language/French/T
+[007F] </ga
+[0086] BackgroundFaderAI+
+[009A] </.@
+[00A0] AI No="2"+
+[00AC]   +L
+[00B3] ame5
+[00BA] (null)-T
+[00CE] _List'@
+
+## Language_en2d_FileType
+[0000] <Value Name="en2d FileType" t
+[0020] ="Int" Value="1"/>
+ 
+[003D] Image Bank Index2
+[0056] Draw 2D
+[0060] Bool'
+[0068] True=
+[006F] 	Interpolated 
+[0081] Visibl'
+[008F] ZBuffer 
+[009B] 2dGlobal3
+[00A7] Fals-
+[00AF] AI_List)h

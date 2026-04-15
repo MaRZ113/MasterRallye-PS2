@@ -1,0 +1,7 @@
+hypothesis_id,name,status,detail
+H1,main_node_fabric_root_0x1760,supported,Main node/string fabric begins at 0x1760; late FMV strings all live on page index 1 (>0x10000).
+H2,page1_low16_bankroot_model,supported_for_subset,"Late entries CHALL04/TROPHY/BFGOOD1 encode cand_u32_b as 0x0100xxxx; interpreting this as page=1 plus a low16 bank/root hint lands near or inside the shared late-FMV root zone (CHALL04 exact-near, TROPHY/BFGOOD1 same bank-root family)."
+H3,swapped_bankhint_model,supported_for_subset,"BAGOO3/CHALL06/BFGOOD2 carry cand_u32_b with low halfwords 0x1000/0x1c00/0x6000 and high halfwords near 0x5dxx-0x60xx, suggesting an alternate swapped bank/root encoding rather than raw absolute offsets."
+H4,normalized_low16_root_model,supported_for_go3,"GO3 carries cand_u32_b=0xB8005D5E; the low16 root 0x5D5E sits in the same root-link cluster as page1 bankroot hints, while the high16 0xB800 behaves like a normalization/class token seen in the media branch."
+H5,late_fmv_split_by_subtype,strongly_supported,"Late FMV are not one uniform overflow model; at least three submodels exist: page1_bankroot (l/0x900/0x600), swapped_bankhint (l/0x500 or 0xc2c), and alternate local decoder (o/n/c0 tags)."
+H6,exact_path_to_tng_offset_not_yet_recovered,still_open,Stage 60 sharpens the second-level bank/page model but still does not yield universal exact TNG.000 start/size pairs directly from the late FMV records.

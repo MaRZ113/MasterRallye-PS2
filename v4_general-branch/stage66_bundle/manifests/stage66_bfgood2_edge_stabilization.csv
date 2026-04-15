@@ -1,0 +1,6 @@
+path,candidate_label,candidate_value_hex,transform,resolved_pack_start_hex,snap_delta_bytes,status,notes
+FMV\BFGOOD2.PSS,post_u32_m4.swap16,0x3C280C0A,swap16 then nearest pack,0x3C280A47,451,stabilized_soft_clean,best local decoder; no exact direct local field found in scanned neighborhood ±80 bytes
+FMV\BFGOOD2.PSS,nearest_local_direct,0x3C286026,direct,0x3C280A47,21983,rejected_weaker,closest raw local direct-like value but much weaker than swapped m4 route
+FMV\CHALL06.PSS,pre_u32_m28.minus_0x50000000,0x3C2C475C,minus 0x50000000 then nearest pack,0x3C2C4A47,747,stabilized_alias_branch,best route remains stable; behaves as sibling/alias branded branch
+FMV\CHALL06.PSS,cand_u32_b.swap16.minus_0x60000000,0x3C2C5E00,swap16 minus 0x60000000 then nearest pack,0x3C2C4A47,5049,rejected_weaker,valid but materially worse than pre_u32_m28 route
+FMV\BAGOO3.PSS,cand_u32_a.minus_0x40000000,0x204E0004,minus 0x40000000 then nearest pack,0x204DF85F,1957,evidence_only,still video-valid but mostly black/degraded

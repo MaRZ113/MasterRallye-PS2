@@ -1,0 +1,5 @@
+tail_family,representative_tail,bytes,slot_binding,interpretation,cross_evidence
+owner_state_triplet_v1,a40902,3,Up owner,compact owner state/mode record,near Enabled/True region; no backlink ordinal inside payload
+owner_layout_tuple_v1,a4072dc41001,6,Right owner,extended owner layout/state tuple,contains stable scalar 0x10 and packed_ref-like 0x2DC4
+shared_root_control,3ee302,3,Down owner,shared list-root control triplet,pairs with companion 3ef700 under shared ordinal 0x00F5
+back_escape_ref,1aec0104,4,Left owner+companion,extended back/escape reference,identical on owner and companion; not a standard slot record

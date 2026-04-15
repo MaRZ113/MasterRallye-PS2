@@ -1,0 +1,19 @@
+path,pak_string_offset_hex,semantic_family,decoder_family,status,bridge_level,best_stage,tng_window_start_hex,tng_window_end_hex,notes,operational_bucket
+FMV\FUJ3.PSS,0x5422,fujitsu_preview_family,early_u16_rootlink,node_bridge_only,PAK->node bridge,Stage 59,,,early FMV; best root-link delta 6,node_bridge_only
+FMV\GO2.PSS,0x6d35,go_preview_family,early_u16_rootlink,node_bridge_only,PAK->node bridge,Stage 59,,,early FMV; best root-link delta 1,node_bridge_only
+FMV\MICROIDS.PSS,0x786c,microids_logo_fmv,early_u16_rootlink,node_bridge_only,PAK->node bridge,Stage 59,,,early FMV; exact string/root-link hit,node_bridge_only
+\FMV\CHALL02.PSS,0x8f62,challenge_preview_family,early_u16_rootlink,node_bridge_only,PAK->node bridge,Stage 59,,,early FMV; root-link reachable,node_bridge_only
+FMV\INV1.PSS,0xd0d4,inventory_or_intro_fmv,early_u16_rootlink,node_bridge_only,PAK->node bridge,Stage 59,,,early FMV; root-link reachable,node_bridge_only
+FMV\ELF3.PSS,0xf311,elf_preview_family,early_u16_rootlink,node_bridge_only,PAK->node bridge,Stage 59,,,early FMV; root-link reachable,node_bridge_only
+FMV\CHALL07.PSS,0x14c3,challenge_preview_family,unmodeled_name_only,name_only_unmodeled,name only,Stage 57,,,path extracted from TNG.PAK; no bridge work yet,name_only_unmodeled
+FMV\CHALL09.PSS,0x8043,challenge_preview_family,unmodeled_name_only,name_only_unmodeled,name only,Stage 57,,,path extracted from TNG.PAK; no bridge work yet,name_only_unmodeled
+FMV\MASTER03.PSS,0x10f75,master_cup_family,late_alternate_subtype,partial_submodel,submodel only,Stage 60,,,page1 late overflow; alternate subtype needs local decoder,late_submodel_only
+FMV\CREDITS.PSS,0x121d4,credits_fmv,late_alternate_subtype,partial_submodel,submodel only,Stage 60,,,alternate subtype needs local decoder,late_submodel_only
+FMV\GO3.PSS,0x13c2d,track_flythrough_family,late_normalized_bankhint,partial_submodel,submodel only,Stage 60,,,normalized_bankhint_low16_root medium_partial,late_submodel_only
+FMV\FUJ2.PSS,0x1c7f5,fujitsu_cup_family,late_alternate_subtype,partial_submodel,submodel only,Stage 60,,,alternate subtype needs local decoder,late_submodel_only
+FMV\CHALL04.PSS,0x15fcb,challenge_preview_fmv,page1_low16_bankroot,exact_clean,exact named PAK->TNG,Stage 63,0x32E14A2F,0x333D4A33,exact member key + pre_u32_m24 direct exact pack start,operational_named_decoder
+\FMV\TROPHY.PSS,0x1b34f,trophy_fmv,page1_low16_bankroot,exact_clean,exact named PAK->TNG,Stage 63,0x3D9EFE11,0x3DC0FE15,exact member key + pre_u32_m24 direct exact pack start,operational_named_decoder
+FMV\BFGOOD1.PSS,0x1d362,track_menu_preview_fmv,page1_low16_bankroot,exact_clean,exact named PAK->TNG,Stage 63,0x31164E1A,0x315E4E1E,exact member key + pre_u32_m24 direct exact pack start,operational_named_decoder
+FMV\BFGOOD2.PSS,0x1959f,track_menu_preview_fmv,swapped_bankhint_hiword_root,stabilized_soft_clean,operational named PAK->TNG,Stage 66,0x3C280A47,,post_u32_m4.swap16 -> nearest pack operational decoder,operational_named_decoder
+FMV\CHALL06.PSS,0x1b0da,track_menu_preview_fmv,swapped_bankhint_hiword_root,verified_sibling_alias,operational named PAK->TNG,Stage 66,0x3C2C4A47,,"pre_u32_m28 - 0x50000000 -> nearest pack; semantics mismatch to name, branded sibling/alias",operational_named_decoder
+FMV\BAGOO3.PSS,0x185aa,degraded_or_partial_video,swapped_bankhint_hiword_root,evidence_only,evidence only,Stage 66,0x204DF85F,,best candidate remains degraded / mostly black,evidence_only

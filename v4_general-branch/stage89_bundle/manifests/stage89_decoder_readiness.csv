@@ -1,0 +1,4 @@
+decoder_class,stage89_status,what_is_now_stable,what_is_still_missing
+selector_button_member_v2,ownership_resolved_nav_semantics_partial,AI_0_1 is primary selector owner; nav quartet is compact slot table; enabled bool is local state,exact target ID decoding for Up/Right/Down/Left slots
+path_text_member_v2,companion_role_resolved,AI_0_2 is companion carrier with path text and shared nav tail,exact linkage of companion text payload to selected list item
+selector_button_member_v2_variant,variant_role_resolved,AI_3_3 is render/view specialized sibling rather than canonical selector owner,whether its selector token points into same list model or alternate bank-local carrier

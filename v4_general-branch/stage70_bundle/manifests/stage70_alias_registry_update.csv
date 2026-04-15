@@ -1,0 +1,4 @@
+pak_path,old_semantic_family,new_semantic_family,canonical_name,member_role,routing_policy
+FMV\ELF3.PSS,elf_preview_family,early_branded_preview_family_01,ELF3,canonical_anchor,prefer as canonical named extraction for this family
+FMV\GO2.PSS,go_preview_family,early_branded_preview_family_01,ELF3,sibling_alias,"keep original name as alias label, but mark payload as belonging to early_branded_preview_family_01"
+FMV\FUJ3.PSS,fujitsu_preview_family,early_branded_preview_family_01,ELF3,sibling_alias,"keep original name as alias label, but mark payload as belonging to early_branded_preview_family_01"

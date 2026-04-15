@@ -1,0 +1,6 @@
+submodel,payload_edge_model,support,status,notes
+page1_low16_bankroot,pre_u32_m24 direct exact pack start,CHALL04/TROPHY/BFGOOD1,confirmed,Stage 63 exact named bridge
+swapped_bankhint_hiword_root,heterogeneous post-member payload edge; likely multiple local decoders,BAGOO3/CHALL06/BFGOOD2,partial_transfer,"BFGOOD2 has strong transferable candidate, CHALL06 only provisional alias candidate, BAGOO3 unresolved/degraded"
+swapped_bankhint_hiword_root,post_u32_m4.swap16 -> nearest pack,BFGOOD2,strong_partial,best visible transferable candidate
+swapped_bankhint_hiword_root,pre_u32_m28 - 0x50000000 -> nearest pack,CHALL06,medium_partial,valid video but semantics currently mismatch expected CHALL06 label
+swapped_bankhint_hiword_root,cand_u32_a - 0x40000000 -> nearest pack,BAGOO3,weak_partial,video-valid but degraded and mostly black

@@ -1,0 +1,39 @@
+<Value Name="UiSelect" Type="Int" ..="0" SaveOptions.
+..Pla ...Uns E...Index*...String'P..Null +\..List6...	Frontend/RaceResults/Pointsx. +...HeightSpac..02.17 ...
+</enUIBrowser+H	.</AI,@..AI No="1"+Z.  +.	s.ame:..,.
+7..2 F..3 <..y._tB'...</Egg(7.Egg.v.Car0*,.+\..Use en2d.+.Bool'..Tru,D.+...Freezabl'P. 
+..Hit ...
+Draw Priority..*..3+..+...Tick ...|).Group2..08...en3d Model.1..2..*..+.....atrix..M..	Row0="1.00 0+..." Row1="..,|...2..,|...3*h..-6.50 `.=...32D..+0.0l.0|..Interpolate .4
+.$.Visi .@
+...ZBuffer ...2 ...f...\new\smallcars($..heet:..l..?.. >..12.C31....>(..2d Filex..A*y.1=x..Image Bank ..2..;.2d :(
+<L.h.\. .$
+H  .'
+2d   $
+.2dGlobal.'>:.AI,4."	(<q.o"`''X.x. .d.". .Multi.:AI+..u	<...-..-.... ..%../=T..ndividual ..s ...`.-..Num... Per.Y.	8..1...H Justifica"<-2..,..1.V ...$.&*..+..".!,@..D ..&.(null)-l.7.. ..' .. ..' ...h.,.:.'+..+.. ....	.'275'.0 ....',.01.#I ....'+.* ......'4#.N.. ....'2-.G".'+.. .J.'............. Type="String" Value="(null)"/>
+ '...</AI,@..AI No="2"+[.  <... Name="p..ame" Typ ...3 >..h.._List'@..</Egg(7.Egg..Car+4.+...Use en2d...Bool'p..True+h.+...Freezabl'.. 
+..Hit ...
+Draw Priority..Int'..38...Tick ...|).Group2..08...en3d Model.1..-...Null>...atrix..M..	Row0="1.00 0+..." Row1="..,|...2..,|...3*h..-6.50 `.=|..32D..+0..Fals9$	.$.Interpolate .4
+...Visi .@
+...ZBuffer ...2 .....frontend\new\smallcars($..heet:..l..?.. >..12.C205'p	>(..2d Filex..A*y.1=x..Image Bank Inde'..*..;.2d :(
+<L.h.\. .$
+H  .'
+2d   $
+.2dGlobal.0>:.AI,4.m.<`..o="0 .,..enUIMulti.:AI+.......'..t.l.+....*..-..F.k
+/RaceResults/../=T..ndividual ..s..=..x.-.!Num... Per.Y.	*..,..1...H Justification2..,..1.V ...</;D.".!+0..D1 ... ...'.Posi`A+.++h. .(',..+.. ..('.-1.28 5.81 .)('.dummy+8.+.
+#$!&t&"2$=".. 6..92".&208x.#.& ..&,|.0t.....  ...&.Browser+X."a!<"L ..+....*.E.Height2.".4" SaveOp{.s="$P8...PlayerState..=.&.UiNo2..1 +...Font5..0 ,7.Sca(.E.Floa(8Cox000 +X..UiSelec3.. ...Uns E....6\0#tE.M %.	".M6..3.2'.&d. +(..m.Spaci"PT..+.17 ...$002.. 4.0.5,..7..+ ,/..".:8,W ...+.T 0..x.,.=7.W.Border+.5+L. ../5+..+.. .../#8(..|.8X.#.T:.L..*..+X... .$W
+buttons\tiled..:.. O.W-#J030.@..>..2 ...Wga&T#.TextB.]Th]2<W9..<.0".-. ID#2X/,(:t.-.U`.6H&1..d.+..|. ...P.$.< ... &8[$.'..#v5=" ....OffsetX ... ..Y ...H?.Z,PO`1-).V4..............nt" Value="1"/>
+ +..<... Name="Width" TypT..Int" ..="8?...Height2..4>...Box HJustification2..?...Pulse...Bool'..Fad.=...Drop Shadow 
+....</gaFrontendTextButtonTiledAI+..</.@..AI Not2+..  +H.r.am'\..String'd.(...Standardj.AI/..<6..-..-...Image ID."*M.6/..-...!5..0>...Active AI2..0..* .,,.+..7..2"+..-(.<...(null)-@.7..3 >..`.._List'@..</Egg(7.Egg.}.Border+..+.	.Use en2d.0+T.True+..+...Freezabl'.
+ 
+..Hit ...
+Draw Priority..*.
+58...Tick;..38..h*.Group2..,.
++...en3d Model.2..-...Null8.....atrix..M..	Row0="1.00 0+..." Row1="..,|...2..,|...3*h.'|.=x..22'..+,.0t.0...Interpolate .0
+.$.Visi .<
+...ZBuffer ...2 ...f...\new\b..s\th...:..|..>.. >
+.-8.I265x. ....2d FL.t..T*`.,x.-..2d ...Bank Inde'..*..;.2d :.
+<4.p.\. ..
+H  ..
+2d   .
+.2dGlobal.0>&.AI,(.".(<t..o="0 . .(9"T..$+...9..'T.`.l.+...Font ID#..8..h.-..a.*..>D.5.. ... IDONdex ... ..zn="..%T//\.6...OffsetX.! ... ..Y ... "i0V !t1 ...i47/..-l. ..h4+.6+h. .....i43#T4..".=+D.+$.#l1 .......i48+ .1.A ..i44*.O+@# .nh4............
+   ....

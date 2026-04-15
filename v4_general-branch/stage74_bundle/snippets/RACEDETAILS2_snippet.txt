@@ -1,0 +1,85 @@
+XML key: RACEDETAILS2
+PAK path: SCREENS\PS2\RACEDETAILS2.XML
+TNG offset: 0x17cb6f5f
+Cluster: 2
+
+3="32r
+Int'
+Image Bank Inde'
+Draw 2D
+terpolat5
+Fals;
+2d   
+2dGlobal3
+AI_List)`
+  <AI No="0"+Z
+gaFr
+TextB
+]T_CdAI+
+uy<9
+Font ID#
+/RaceDetails
+[Qdex3d
+fr="
+Null 
+OffsetX
+HJustification2
+Width2
+eight3
+Box  "
+Drop Shadow
+</AI+
+Standardd
+</Egg'
+<Egg#
+="SureTD
+Use en2 
+Freeza 
+*Hit 
+Priority 
+Tick :
+Group 
+#,/?,-/p
+ OZ427
+<21#x4
+2d :`4,
+"T2 
+enUIFormatted`
+2X"1
+"4"l
+0?4"h
+3?x,p
+Vector3'
+Horizontal ?
+Vertic 
+Max. 703 
+H7@3?
+Colour,
+>l2/T
+n"</>p
+ #H21(
+Chooser 
+-4+|
+-337""b20
+Popup2p/(hT
+*%@J;
+(En"
+Up Pa4h\?\^
+Down7
+,TI1
+FlashTrigger 
+="Quitp
+Arrow X 
+Floa(
+565.0`
+-23 
+ShowSelected
+AI+F
+</.@
+iles*@
+Tru,
+]m pn(6
+;92'
+2d Filex
+2d .
+Box+

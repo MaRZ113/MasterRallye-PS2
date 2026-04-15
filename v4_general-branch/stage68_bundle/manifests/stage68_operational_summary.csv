@@ -1,0 +1,4 @@
+bucket,count,meaning
+exact_clean,1,named FMV entry resolves directly to exact TNG payload start
+operational_soft_clean,2,named FMV entry resolves to stable nearest-pack operational route with valid media
+evidence_only,3,video-like route exists but not stable enough for operational decoder

@@ -1,0 +1,304 @@
+<Scene>
+  <EggLists_Version4
+  <t
+ Name="QuickRace"
+Format(h
+  <Value
+Use en2d" Type="Bool" 
+="True"/'T
+Freezable 
+Hit 
+Draw Priority
+Int'
+Tick 
+Egg Group2
+en3d Model
+String'
+Null>
+atrix
+Row0="0.00 ,
+" Row18i
+1.0>
+Interpolate 
+Visi 
+ZBuffer 
+frontend\buttons\curved_smaller:
+3="2
+I345'd
+Filet
+Image Bank Inde'
+2d  
+2d  
+2d   
+2dGlobal
+Fals-C
+AI_h
+  <AI No="0*
+enUITextB
+]AI+
+="Font ID#
+92/h
+ ID[Kdex3
+fl="
+$=" 
+OffsetX
+HJustification2
+</AI+
+Standard8
+dW+t)
+ I'X *
+Up Path2
+Right7
+Down7
+Lef 
+En"h, 
+$h.-
+</Egg'
+Unf 
+3293 
+6 &|3 
+LoadG"
+N'(4- 8 
+ng24"Dg$
+O"}x  
+       <Value Name="en2d 2dGlobal" Type="Bool" 
+="False"/>
+<AI_List)H
+  <AI No="0"+X
+String'
+enUITextButtonAI+
+Font ID#
+Int'
+Null 
+ Index3
+OffsetX
+HJustification2
+</AI+
+gaFrontendStandard8
+ ID2
+Up Path2
+Right7
+Down7
+Lef 
+Enabled
+Tru,
+</Egg'
+<Egg
+MermoryCardMainScreen*p
+Use l
+Freezx43
+Hit 
+Draw Priority
+Tick;
+Group2
+en3d Model
+atrix
+Row0="1.00 0+
+" Row1="
+Interpolat 
+Visibl'8&+
+ZBuffer 
+2d Fileh
+2d Image Bank$
+2d   
+ g|3
+gaFE
+("T*
+Formatted"t3/
+ont3|2,p
+j|="
+$="1
+"| +
+Vector3'
+Horiz_1al ?
+Vertic $(
+Max. Wid4X.?%
+He"p.
+Colour
+$H7:\
+ h<-
+SaveG"
+-#,,&
+F\b#LU
+s\curved_smaller+
+; &4-
+B189'X6t
+:x-,XP0t
+ ?x->
+/t-"|+"L)$
+P6p+*
+|$ !t+
+Racep
+ Value="True"/>
+<Value NamT
+Draw Priority" Type="Int" 
+="38
+Tick 
+Egg Group2
+en3d Model
+String'
+Null>
+atrix
+Row0="1.00 0+
+" Row1="
+Bool't
+Fals9H
+Interpolated3
+Visible 
+ZBuffer 
+;36'
+2d Filex
+2d Image Bank Inde'<
+2dGlobal
+AI_List)X
+  <AI No="0"+Z
+am'T
+enUIFormattedTextAI+
+Font#
+Frontend/QuickRace/Currentl
+ ID3p
+Offset
+Vector3'
+Horizontal Justification
+Vert\
+Max. Width 
+Heigh'
+Colour
+</AI+ 
+</Egg'e
+Ghostl
+Use en2 
+Freeza 
+#Hit 
+*F-45
+,@- 
+ype%P* 
+=4-?04 
+Erase 
+$-#<$,
+Y&lZ1h
++lZ'|
+ 0lZ>o!3d  
+iZf%lL
+\buttons\curved_smaller+pB+
+Z"ZX="
+ 6qb2
+B13 (
+'$H$(U-HX"
+Z6HX,h
+Z1$Nd
+ ID9AZ4 
+$UZX&
+\$tXx
+ng" Value="gaFrontendStandardButtonAI"/>
+ Name="
+ ID" Type="Int" 
+="5/
+Up Path2
+Right7
+Down7
+Lef 
+Enabled
+Bool'
+True>
+Pulse 
+</AI+
+<AI No="3"+X
+am'@
+String'@
+Null-@
+_List'
+</Egg(7
+ViewC
+Zts*L
+Use en2 
+Freezp3 
+Hit 
+Draw Priority
+Tick 
+Group2
+en3d Model
+atrix
+Row0="0.00 ,
+" Row18i
+1.0>
+22'h
+Interpolat 
+Visibl'l
+ZBuffer 
+s\curved_smaller8
+@`4:
+3="2
+I89'`
+Filep
+Image Bank Inde'
+2d  
+2d  
+2d   
+2dGlobal
+*;#<AI,0
+="< 
+enUIText$
+Font ID#
+92+`
+[Kdex3
+fl="
+2="1
+OffsetX
+HJustification2
+",&+
+GetSaveSize*`
+347 
+3?L> 
+3</)
+%:NBG(
+ackground(x
+h"x^ ,
+'Value Name="en3d ZBuffered" Type="Bool" Value="True"/>
+2d Model
+String'
+frontend\backgrounds\bg_newnetwork>
+atrix
+Row0="1.00 0+
+" Row1="
+Fileh'
+Int'
+Image Bank Inde'
+Draw 2D
+Interpolat 
+Visible 
+Fals>
+2dGlobal3
+AI_List)`
+  <AI No="0"+Z
+Null+
+  </AI+@
+</Egg'd
+<Egg
+="GS_TitleText*L
+Use en2 
+Freeza 
+Hit 
+Priority
+Tick :
+Group2
+3d  
+24.00 43(x d
+enUIFormatted~
+Font#2
+-T"i
+ ID3
+ IDK
+dex3
+Offset
+Vector3(0.l~#T/p
+Horizontal Justification
+Vert\
+Max. Width 
+Heigh'
+Colour
+</>`
+,</'
+4#$-t
+s_Version4>
+</Scene

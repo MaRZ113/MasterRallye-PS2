@@ -1,0 +1,6 @@
+inference,result,evidence
+"nav targets are compact scene-local refs, not literal strings",confirmed,No standalone Frontend/... strings at slot positions; recurring binary ids live directly after path labels
+AI_0_1 owns selector/list navigation table,confirmed,Only AI_0_1 carries full selector core and explicit nav quartet together
+AI_0_2 inherits/duplicates nav tail for companion text rendering,confirmed,"Path/text carrier repeats same slot cadence, with Up/Right ids shifted +1 vs AI_0_1"
+AI_0_1 and AI_0_2 form paired selector/text node family,strong,"Up/Right ids differ by +1, Down/Left windows remain aligned, shared gaFrontendStandardButtonAI/nav tail"
+Left path likely uses extended encoding relative to other directions,probable,Stable 1aec0104 pattern does not fit simple u16+aux layout as cleanly as Up/Right/Down

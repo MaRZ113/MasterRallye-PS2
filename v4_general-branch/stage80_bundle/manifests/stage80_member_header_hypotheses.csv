@@ -1,0 +1,5 @@
+hypothesis_id,pattern_hex,applies_to,meaning_guess,confidence
+RR_PRELUDE_A,0d0a202b00000010,"List_star, UiSelect",typed value member prelude / member start marker,high
+RR_PRELUDE_B,0d0a2020208000000b,en3d_Matrix_embedded,embedded value prelude / submember start marker,medium
+RR_AI_UI,41495f78 / 41495f4c697374,AI members,AI/UI object internal header near browser/textbutton blocks,medium
+RR_ENDEGG,3c2f456767,top-level members,stable local boundary terminator for many member objects,high

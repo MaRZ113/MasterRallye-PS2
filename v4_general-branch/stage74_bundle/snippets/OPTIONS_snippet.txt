@@ -1,0 +1,102 @@
+XML key: OPTIONS
+PAK path: SCREENS\PS2\OPTIONS.XML
+TNG offset: 0x17c9db47
+Cluster: 2
+
+343x
+Int'
+Image Bank Inde'
+Draw 2D
+Bool'
+Interpolated 
+Visible 
+ZBuffer 
+2dGlobal3
+Fals-
+AI_List)d
+  <AI No="0"+Z
+TextB
+]T[CdAI+
+yi<9
+Font ID#
+/GameOptions/Gearx[`
+d 1g
+Null 
+OffsetX
+HJustifical02
+Width2
+Height3
+Box  "
+Put~
+v'</ 
+</AI+|
+MultX$H,
+EnabP
+Up Pa4
+Down7
+Currentp
+ForceUpdate6
+(null)-\
+</Egg'4
+<Egg
+1LeftArrow*h
+Use "d- 
+Freeztu 
+Hit 
+Priority
+Tick :
+Group2
+en3 
+%02$
+! >h2#02
+2.93$
+3"h3+
+25X01H,
+$  _03d  
+' \0 
+u:abss\
+326"B:35
+2d  ?\:9\
+enUI"D $((2`).
+"8)l
+-D(`
+ $|8 5
+Icon 
+b(</;
+"$&+
+ -L6#
+ Status6
+(*DVl
+"T" 
+8#D&
+ility6
+/|%`
+M1R"
+P1#8)
+>N)3d;L' 
+S1577 rP1,dY+
+pe="Int" 
+</d+
+AI+~
+</.@
+gaFr
+AI/E
+, ID2
+</<D
+xb*T
+abl'
+22'P
+=" >
+2d FL
+2d .
+2d :
+AI,<
+"U(<"
+.!!I:H
+ TYCd<
+$/2x
+?0"l
+CRdex
+nr="
+/="/
+ e,2

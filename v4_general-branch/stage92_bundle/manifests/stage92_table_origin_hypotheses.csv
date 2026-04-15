@@ -1,0 +1,6 @@
+hypothesis,status,evidence,confidence
+separate_explicit_object_id_table,not_found,No standalone dense table with 0x00EC/0x00ED/0x00F5/0x00F8/0x00F9 surfaced in extracted carriers.,medium
+scene_root_ordinal_allocator,favoured,Compact refs form a small scene-local band and map cleanly to owner/companion/list/variant objects rather than payload offsets.,high
+carrier_local_start_offset,rejected,Compact ids do not correspond to member start offsets or simple arithmetic on local blob starts.,high
+plain_string_ref,rejected,Refs are compact numeric values with no direct Frontend/... strings at slot positions.,high
+left_path_same_namespace,rejected,"Left Path uses extended form 1aec0104, unlike u16 band used by Up/Right/Down.",high

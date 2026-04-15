@@ -1,0 +1,305 @@
+<Scene>
+  <EggLists_Version4
+  <t
+ Name="Language"
+English(l
+  <Value
+Use en2d" Type="Bool" 
+="True"/'X
+Freezable 
+Hit 
+
+Draw Priority
+Int'
+Tick 
+Egg Group2
+en3d Model
+String'
+Null>
+atrix
+Row0="0.00 ,
+" Row18i
+1.0>
+Interpolate 
+Visi 
+ZBuffer 
+frontend\new\l
+\flagsheet:
+3="18
+Filex
+Image Bank Inde'
+
+2d  
+
+2d\
+
+2d  
+
+2d   
+2dGlobal
+Fals-G
+AI_l
+  <AI No="0*
+]Enh
+dButtonAI+
+
+ I'
+Up Path
+Right7
+Down7
+Lef 
+</AI+
+@1 $
+BackgroundFader<
+#g
+ Ti((
+
+Floa(@ 
+0.250-
+Offset
+Colour Star' 
+Vector4'
+En'x
+0.9"
+Active*
+)/&5)/-@
+(null)-
+</Egg'
+Screen*\
+.dr ,
+&#X&(
+$= 	
+.>06 O,.(
+2d :
+.,x"+
+"!@  ?
+2!.E
+"h$ #
+  7
+Italia 
+YN1 mXN,
+B0H!:
+$D" 
+jXN,
+F9YN5+l31
+ ;XN?LP 
+]XN&4) 
+Germ Yp.
+>
+  
+<Value Name="Hitable" Type="Bool" 
+="True"/>
+
+
+Draw Priority
+Int'
+Tick 
+Egg Group2
+en3d Model
+String'
+Null>
+atrix
+Row0="0.00 ,
+" Row18i
+1.0>
+$	Interpolated 
+Visi 
+ZBuffer 
+frontend\new\language\flagsheet:
+3="18
+Filex
+Image Bank Inde'
+
+2d\
+
+2d  
+
+2d   
+2dGlobal
+Fals-l
+AI_List)
+	  <AI No="0"+X
+]Enh
+dButtonAI+
+
+ I'
+Up Path
+Right7
+Down7
+Lef 
+</AI+
+@1 $
+BackgroundFader<
+d*+H g
+ Ti((
+
+Floa(@ 
+0.250-
+Offset
+Colour Star' 
+Vector4'
+En'x
+0.9"
+Active*
+/German/T
+(null)-T
+</Egg'	
+<"$)$
+Spanish*@
+Use en2'
+Freez|
+. gp.>
++9p.?`/ ;p.,
+]p.&5)/'
+Frenc 
+q.2$
+] gp.,
+[9p.,
+!#Xw#
+s=" ;p.?d0 
+alue="0.0`
+"/>
+ +
+<Value Name="Colour Start" Type="Vector4" 
+="1I	 ,
+End6P
+0.90 (
+Active*
+String'
+Frontend/Language/French/T
+</ga
+BackgroundFaderAI+
+</.@
+AI No="2"+
+  +L
+ame5
+(null)-T
+_List'@
+</Egg(7
+Text*T
+Use en2'
+Bool'
+True+
+Freezabl'
+Hit 
+
+Draw Priority
+6Int'
+Tick 
+Group2
+en3d Model
+Null>
+atrix
+Row0
+" Row1
+Fals9 	
+Interpolate 
+Visi 
+ZBuffer 
+2d Filex
+2d Image Bank Inde'<
+
+L  
+	2d   
+2dGlobal
+AI,
+o="0*t
+
+enUIFormattedf
+ont#
+2" SaveOptions="
+PlayerState
+=,%x
+Screen'
+ ID3
+W`dex F
+8 %T
+Offse-m,3't 
+Horizontal JustificatT2
+VertL O
+Max. Width @
+Heigh'\
+h5 *
+Drop Shadow
+</>,
+Portuguese*
+6f%`J
+\new\l%pJ
+\flagsheet+x+-
+61=t
+6(bUEn"<N
+dButton2
+ /$7
+
+ I'`H*
+Up Pa4
+Down7
+Left7
+"T!,@
+"w>o=" 
+p&(d
+/t]/
+l"+p
+^ Ti(
+Floa(
+0.25000d
+e)=)/-L
+(el%
+Border 
+-28.75#
+/#(f+X
+.
+tiles\textbox:t
+.-3#T.
+
+<Value Name="en2d FileType" t
+="Int" Value="1"/>
+ 
+Image Bank Index2
+Draw 2D
+Bool'
+True=
+	Interpolated 
+Visibl'
+ZBuffer 
+2dGlobal3
+Fals-
+AI_List)h
+	  <AI No="0"+Z
+String'
+enUIScaler+
+y?<(l
+UiNo
+*(	,
+ From
+Floa(,
+
+50.0`
+tart Ti(
+Finish7
+Pulse on Activ'
++h
+0d
+IS GXP
+/t1
+Use First 
+}in6
+Tag at Bottom-Left68
+Righ78
+Top;h
+est3
+</AI+
+ColourChang6
+Vector4'
+1.0?4
+y 1a
+r Ma3
+4\	-
+T T
+-
+Rnd Cl
+Null-
+</Egg
+ </'H 
+s_Version4>
+</Scene

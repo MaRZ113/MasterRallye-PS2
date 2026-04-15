@@ -1,0 +1,5 @@
+hypothesis_id,title,evidence,confidence,implication
+H1,Prelude is packed u16 target/control root-link fabric,Large population of prelude pairs target >=0x1760 and land on marker-rich subtrees; clusters align with Stage 58 low-offset hotspots.,high,"Parser should treat prelude as auxiliary link table, not arbitrary numeric noise."
+H2,Early FMV nodes are directly reachable through root-link targets,"Exact or near-exact prelude hits for FUJ3, GO2, MICROIDS, CHALL02, INV1, ELF3 within <=0x80 bytes of their node/string neighborhoods.",high,FMV addressing bridge can be prototyped first on early PSS entries.
+H3,Late FMV nodes require second-level bank/page decoding,No comparable direct u16 bridge for FMV entries beyond 0xFFFF even though clear node records exist.,medium-high,Need Stage 60 to decode bank/page or second-level indirection for late FMV assets.
+H4,Control halfword encodes structural edge/class state,Recurring control values fan into semantically coherent subtrees and do not map cleanly to resource extensions or sizes.,medium,"Control values should be modeled as parser state, not extracted payload metadata."

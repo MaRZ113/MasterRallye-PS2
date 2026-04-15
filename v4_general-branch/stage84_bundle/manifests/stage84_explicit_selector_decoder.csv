@@ -1,0 +1,3 @@
+member,status,decoder_class,member_name,declared_type,inline_literal,save_flag,selector_primary,selector_primary_type,null_placeholder,selector_secondary,path_ref,layout_property,layout_scalar,tail_anchor,notes
+RaceResults.UiSelect,structured_soft_clean,selector_list_member_v1,UiSelect,Int,UiSelect,SaveOptions,Index*,String,Null,List,Frontend/RaceResults/Points,HeightSpac,17,</enUIBrowser,Primary structured selector candidate. Token order is stable and portable from Stage 83 scaffold.
+RaceResults.List*,structured_soft_clean,list_backing_member_v1,List*,String,Frontend/RaceResults/Time,,,,,,Frontend/RaceResults/Time,HeightSpac,17,</enUIBrowser,Acts like list source/backing member for UiSelect; carries path-backed string literal plus layout tail.

@@ -1,0 +1,7 @@
+quickrace_file,proposed_decoder_class,runtime_tail_class,frontend_runtime_class,semantic_role,confidence,evidence
+AI_0_1.bin,selector_button_member_v2,enUITextButtonAI,gaFrontendStandardButtonAI,selector/list button,high,Index|Null|List|Font ID|Offset|HJustification|Up Path|Right Path|Down Path|Left Path|Draw Priority
+AI_0_2.bin,path_text_member_v2,enUIFormattedTextAI,gaFrontendStandardButtonAI,current-value label companion,high,Frontend/QuickRace/Current...|Font ID|Offset|Horizontal Justification|Max. Width|Height|Colour
+AI_3_3.bin,selector_button_member_v2_variant,enUITextButtonAI,gaFrontendStandardButtonAI?,selector/list button variant,medium,Null|AI_List|ViewC|Font ID|Offset|HJustification|Draw Priority|Image Bank Index|2dGlobal
+AI_List.bin,list_transition_member_v1,AI_List,,list transition / container edge,high,AI_List
+AI_0_4.bin,null_tail_member_candidate,enUIFormattedTextAI?,GS_TitleText?,placeholder / truncated companion,low,Null|GS_TitleText|Font ID|Index|Offset|Colour
+en2d_2dGlobal.bin,render_config_member_v1,Value,en2d 2dGlobal,render config companion,high,"<Value Name=""en2d 2dGlobal"" Type=""Bool"" Value=""False""/>"

@@ -1,0 +1,5 @@
+hypothesis_id,hypothesis,support,evidence
+H1,"A4 is a broader owner-family binary subrecord marker, not a nav-slot-specific marker.",strong,AI_0_1 has both nav-tail A4 subrecords and three additional A4 subrecords in render/value zones; AI_3_3 and AI_0_4 also contain isolated A4 subrecords outside nav slots.
+H2,"AI_3_3 reuses owner-family semantics, but the raw tuple is hoisted into a render/value subblock around 0x305.",strong,"Single A4 at 0x305 sits 38 bytes after GetSaveSize and 151 bytes before en3d ZBuffered/True/background_path, inside the densest variant-specific render/value region."
+H3,"AI_0_4 shares the same broader A4 family as AI_3_3, implying variant transfer beyond canonical owner AI_0_1.",medium,"AI_0_4 contains an isolated A4 subblock at 0x226 immediately after Colour/Vector3 tail, consistent with variant trailer semantics."
+H4,Companion carrier AI_0_2 is not an A4-family owner even though it contains one incidental A4-bearing embedded value chunk.,medium,AI_0_2 still uses 3E backlink tails for nav ownership; its single A4 occurrence is far from nav slots and close to an embedded ID/value snippet.

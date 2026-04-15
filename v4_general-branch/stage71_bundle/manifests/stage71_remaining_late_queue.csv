@@ -1,0 +1,3 @@
+path,remaining_problem,recommended_next_action,priority
+FMV\CREDITS.PSS,semantic mismatch / alias uncertainty,verify if entry is sibling/alias within branded late alternate family,medium
+FMV\FUJ2.PSS,payload-edge still weak / evidence only,targeted FUJ2 residual pass or defer until non-video bridge established,low

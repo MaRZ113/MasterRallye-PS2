@@ -1,0 +1,4 @@
+priority,next_stage,focus,rationale
+1,Stage 89,Exact link-target semantics,"Decode binary control words around Up/Right/Down/Left Path to determine whether links are string refs, scene node refs, or compact indices."
+2,Stage 89A,AI_0_1 explicit link ownership,Confirm whether selector_key Index and list linkage terminate inside AI_0_1 or cross into AI_0_2 companion text carrier.
+3,Stage 90,Cross-scene transfer,Apply selector_button_member_v2 field decoder to another selector-heavy scene after control-word semantics are stabilized.

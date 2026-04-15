@@ -1,0 +1,5 @@
+runtime_token,best_scope,evidence
+en2d 2dGlobal,render/global namespace,Stage105 runtime crosswalk + Stage103 strongest bridge
+AI_List,scene-local list container family,Stage105 runtime crosswalk + QuickRace list object
+en2d Image Bank Index,render asset selection input,Language + QuickRace owner bridge
+Draw 2D,render configuration flag,Language en2d FileType transfer family

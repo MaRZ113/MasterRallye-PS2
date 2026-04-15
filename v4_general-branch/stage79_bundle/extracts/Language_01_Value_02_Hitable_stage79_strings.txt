@@ -1,0 +1,1 @@
+<Value Name="Hitable" Type="Bool"  | ="True"/> | Draw Priority | Int' | Tick  | Egg Group2 | en3d Model | String' | Null> | atrix

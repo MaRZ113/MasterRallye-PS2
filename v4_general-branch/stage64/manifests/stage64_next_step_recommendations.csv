@@ -1,0 +1,5 @@
+priority,next_step,rationale
+1,Stage 65 = swapped-submodel local decoder split,swapped_bankhint_hiword_root no longer looks like one decoder; split BFGOOD2 / CHALL06 / BAGOO3 paths
+2,Probe whether CHALL06 and BFGOOD2 are aliases or share a branded preview bank,both best candidates land on visually similar Master Rallye branded preview material
+3,Search BAGOO3 around sibling local fields / nearby numeric words,current best candidate is only degraded evidence; exact edge still missing
+4,"After swapped-submodel split, revisit GO3 / MASTER03 / FUJ2 / CREDITS",late-FMV decoder family can likely be generalized stepwise

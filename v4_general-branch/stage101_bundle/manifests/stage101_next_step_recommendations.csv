@@ -1,0 +1,3 @@
+next_step,reason
+Stage 102 = owner_render_value subrecord semantics pass,"owner_render_value family now isolated as three canonical A4 bundles (curve, trailer, 2dglobal bridge) and is the richest undecoded layer"
+Stage 102 alt = variant_owner_render alignment pass,AI_3_3 / AI_0_4 variant hoist semantics can be compared against owner_render_value families once canonical fields are decoded

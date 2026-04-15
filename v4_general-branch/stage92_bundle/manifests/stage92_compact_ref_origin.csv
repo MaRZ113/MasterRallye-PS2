@@ -1,0 +1,7 @@
+scene_object,role,compact_refs,best_origin_model,evidence,confidence
+AI_0_1.bin,canonical_selector_owner,Up=0x00EC; Right=0x00F8; Down=0x00F5; Left=1aec0104,scene_local_object_id_namespace,"Owns Index/Null/List + full nav quartet; refs are compact and non-string; sits in same scene-local family as AI_0_2, AI_List, AI_3_3, AI_0_4.",high
+AI_0_2.bin,path_text_companion,Up=0x00ED; Right=0x00F9; Down=0x00F5; Left=1aec0104,scene_local_object_id_namespace,Path/text companion with shared nav tail; consecutive ids vs AI_0_1 strongly imply paired object-ID allocation rather than literal string refs.,high
+QuickRace_AI_List_AI_List_02.bin,shared_list_root,Down target from both AI_0_1 and AI_0_2 = 0x00F5,scene_local_object_id_namespace,Only explicit local list-transition object; shared Down target from owner and companion points here.,high
+AI_3_3.bin,selector_variant_owner,candidate Right-side target around 0x00F8,scene_local_object_id_namespace,Selector-ish carrier with Null/List/ViewC; best sibling candidate for owner-side Right target.,medium
+QuickRace_AI_0_4_AI_06.bin,formatted_text_variant,candidate Right-side target around 0x00F9,scene_local_object_id_namespace,Companion-like text/tail carrier; best sibling candidate for companion-side Right target.,medium
+Left Path,back_escape_link,1aec0104,extended_non_u16_ref,Shared by owner and companion; not in same form as Up/Right/Down refs; fits parent/back action better than local member id.,medium

@@ -1,0 +1,3 @@
+file,extended_ref_hex,prefix_hex,suffix_hex,shared_across_owner_companion,inference,notes
+AI_0_1.bin,0x1aec0104,0x1aec,0x0104,True,extended_back_escape_ref,"Stable 4-byte payload follows Left label in both owner and companion; unlike standard slots, no simple u16 ordinal appears."
+AI_0_2.bin,0x1aec0104,0x1aec,0x0104,True,extended_back_escape_ref,"Stable 4-byte payload follows Left label in both owner and companion; unlike standard slots, no simple u16 ordinal appears."

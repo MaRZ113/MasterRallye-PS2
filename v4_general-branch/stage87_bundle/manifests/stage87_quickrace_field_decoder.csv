@@ -1,0 +1,58 @@
+file,decoder_class,field_group,field_name,offset_hex,evidence,confidence,note
+AI_0_1.bin,selector_button_member_v2,header,ai_header,0x0000,"<AI No=""0""",high,Top-level AI carrier begins at byte 0
+AI_0_1.bin,selector_button_member_v2,selector,declared_type,0x0018,String,medium,Type-like token near top of block
+AI_0_1.bin,selector_button_member_v2,selector,tail_class,0x0022,enUITextButtonAI,high,Primary runtime class token
+AI_0_1.bin,selector_button_member_v2,selector,font_id_field,0x0042,Font ID,high,UI property token
+AI_0_1.bin,selector_button_member_v2,selector,selector_null_policy,0x0062,Null,high,Null policy token
+AI_0_1.bin,selector_button_member_v2,selector,selector_key,0x0074,Index,high,Selector key token
+AI_0_1.bin,selector_button_member_v2,selector,offset_field,0x008e,Offset,high,Offset property token
+AI_0_1.bin,selector_button_member_v2,selector,hjust_field,0x00a9,HJustification,high,Horizontal justification token
+AI_0_1.bin,selector_button_member_v2,nav,frontend_button_class,0x00ea,gaFrontendStandard...,medium,Truncated but aligned with ELF runtime class
+AI_0_1.bin,selector_button_member_v2,nav,up_path,0x0118,Up Path,high,Navigation token
+AI_0_1.bin,selector_button_member_v2,nav,right_path,0x0126,Right,medium,Navigation token truncated
+AI_0_1.bin,selector_button_member_v2,nav,down_path,0x0135,Down,medium,Navigation token truncated
+AI_0_1.bin,selector_button_member_v2,nav,left_path,0x0140,Lef,medium,Navigation token truncated
+AI_0_1.bin,selector_button_member_v2,nav,enabled_flag,0x0148,Enabled,high,Boolean-like control token
+AI_0_1.bin,selector_button_member_v2,nav,enabled_value,0x0154,True,high,Enabled default literal
+AI_0_1.bin,selector_button_member_v2,ui,draw_priority_field,0x01d6,Draw Priority,high,Primary draw order token
+AI_0_1.bin,selector_button_member_v2,render_tail,en3d_model,0x020e,en3d Model,high,Render/model tail begins
+AI_0_1.bin,selector_button_member_v2,render_tail,zbuffer,0x0295,ZBuffer,high,Render property token
+AI_0_1.bin,selector_button_member_v2,render_tail,image_bank_index,0x02c3,2d Image Bank,high,2D image-bank token
+AI_0_1.bin,selector_button_member_v2,render_tail,vector3,0x036b,Vector3,medium,Layout/vector token
+AI_0_1.bin,selector_button_member_v2,render_tail,colour,0x03be,Colour,high,Colour token
+AI_0_1.bin,selector_button_member_v2,embedded_value,embedded_draw_priority_value,0x0503,"<Value Name=""Draw Priority"" Type=""Int"" Value=""38""",high,Nested explicit value node
+AI_0_2.bin,path_text_member_v2,header,ai_header,0x0000,"<AI No=""0""",high,Top-level AI carrier begins at byte 0
+AI_0_2.bin,path_text_member_v2,text,tail_class,0x001e,enUIFormattedTextAI,high,Formatted text runtime class
+AI_0_2.bin,path_text_member_v2,text,font_id_field,0x0041,Font,high,Font property token
+AI_0_2.bin,path_text_member_v2,text,path_ref,0x005c,Frontend/QuickRace/Current...,high,QuickRace path reference
+AI_0_2.bin,path_text_member_v2,text,offset_field,0x00a3,Offset,high,Offset token
+AI_0_2.bin,path_text_member_v2,text,vector3,0x00ac,Vector3,medium,Position-like token
+AI_0_2.bin,path_text_member_v2,text,hjust_field,0x00c0,Horizontal Justification,high,Justification token
+AI_0_2.bin,path_text_member_v2,text,max_width,0x00ec,Max. Width,high,Width token
+AI_0_2.bin,path_text_member_v2,text,height,0x00fe,Height,medium,Height token truncated
+AI_0_2.bin,path_text_member_v2,text,colour,0x010b,Colour,high,Colour token
+AI_0_2.bin,path_text_member_v2,nav,frontend_button_class,0x02d6,gaFrontendStandardButtonAI,high,Explicit frontend button class
+AI_0_2.bin,path_text_member_v2,nav,embedded_id_value,0x0311,"Name="" ID"" Type=""Int"" Value=""5""",medium,Nested explicit integer value
+AI_0_2.bin,path_text_member_v2,nav,up_path,0x0337,Up Path,high,Navigation token
+AI_0_2.bin,path_text_member_v2,nav,right_path,0x0346,Right,medium,Navigation token truncated
+AI_0_2.bin,path_text_member_v2,nav,down_path,0x0353,Down,medium,Navigation token truncated
+AI_0_2.bin,path_text_member_v2,nav,left_path,0x035e,Lef,medium,Navigation token truncated
+AI_0_2.bin,path_text_member_v2,nav,enabled_flag,0x0366,Enabled,high,Enabled token
+AI_0_2.bin,path_text_member_v2,nav,pulse_flag,0x0380,Pulse,medium,Animation/pulse token
+AI_3_3.bin,selector_button_member_v2_variant,header,ai_header,0x0000,"<AI No=""3""",high,Top-level AI carrier begins at byte 0
+AI_3_3.bin,selector_button_member_v2_variant,selector,declared_type,0x0018,String,medium,Type-like token near top
+AI_3_3.bin,selector_button_member_v2_variant,selector,selector_null_policy,0x0022,Null,high,Null token
+AI_3_3.bin,selector_button_member_v2_variant,selector,list_ref,0x002f,_List,high,List anchor token
+AI_3_3.bin,selector_button_member_v2_variant,variant,view_class,0x0046,ViewC,high,Variant-specific view token
+AI_3_3.bin,selector_button_member_v2_variant,ui,draw_priority_field,0x007b,Draw Priority,high,Draw order token
+AI_3_3.bin,selector_button_member_v2_variant,render_tail,image_bank_index,0x018c,Image Bank Inde,high,2D image-bank token
+AI_3_3.bin,selector_button_member_v2_variant,selector,tail_class,0x01f2,enUIText,medium,Truncated enUITextButtonAI token
+AI_3_3.bin,selector_button_member_v2_variant,ui,font_id_field,0x020e,Font ID,high,Font property token
+AI_3_3.bin,selector_button_member_v2_variant,selector,selector_key,0x0239,Index,medium,Index token appears as [Kdex3
+AI_3_3.bin,selector_button_member_v2_variant,ui,offset_field,0x025e,Offset,high,Offset token
+AI_3_3.bin,selector_button_member_v2_variant,ui,hjust_field,0x027d,HJustification,high,Horizontal justification token
+AI_3_3.bin,selector_button_member_v2_variant,variant,get_save_size,0x02df,GetSaveSize,medium,Variant-specific runtime helper token
+AI_3_3.bin,selector_button_member_v2_variant,embedded_value,zbuffer_bool,0x038f,"Value Name=""en3d ZBuffered"" Type=""Bool"" Value=""True""",high,Nested explicit bool value
+AI_3_3.bin,selector_button_member_v2_variant,render_tail,background_path,0x03ea,frontend\backgrounds\bg_newnetwork,high,Background asset path
+AI_3_3.bin,selector_button_member_v2_variant,render_tail,draw_2d,0x0477,Draw 2D,high,2D draw token
+AI_3_3.bin,selector_button_member_v2_variant,render_tail,2dglobal,0x04ab,2dGlobal,high,2D global token

@@ -1,0 +1,98 @@
+XML key: PROGRESS
+PAK path: SCREENS\PS2\PROGRESS.XML
+TNG offset: 0x17c9efa9
+Cluster: 2
+
+,PB#
+8$d&
+p0+4
+Enabl 
+Unlocker<
+ 16`
+Progress/OpU
+d"\x
+s/T1
+ t&-
+1 OR 23
+Cheats/
+Control AI5
+1?2m
+Invit
+n`u)?
+#,0*
+t)X;
+3d yql
+>D'1
+Row0*
+7#x7p
+63d   
+\new\b#
+4s\t"
+>$L0
+@199 
+@,P+1
+@5+L#1
+8*,h1
+@2$D*
+Challenge*
+\tiledbutton"/>
+<Value Name="en2d Matrix" TypH
+Row0="1.00 0+
+" Row1="
+72'P
+Filex
+Int" 
+="1=
+Image Bank Inde'
+Draw 2D
+Bool'
+True=
+Interpolated 
+Visible 
+ZBuffer 
+2dGlobal3
+als-
+AI_List)
+  <AI No="0"+Z
+  +P
+String'
+gaFrontendTextB
+\T[CdAI+
+y]<9
+Font ID#
+Null 
+zn="
+OffsetX
+HJustification2
+Width2
+Height2
+Box  "
+Pu`{
+Drop Shadow
+</AI+ 
+(null)-
+Standard
+p0+4
+Up Pa5
+RpW7
+Down7
+Lefth
+Enabl 
+Unlocker<
+ 16`
+/GameSelect/'
+Availh*>
+1 OR 23
+%|.-
+Control AI5
+1?2y
+</Egg'5
+Screen*
+Use "l13
+Freez
+Hit 
+Priority
+Tick :
+Group2
+en3d Model
+73d 

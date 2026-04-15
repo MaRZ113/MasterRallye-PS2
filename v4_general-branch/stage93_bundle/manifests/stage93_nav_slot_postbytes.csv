@@ -1,0 +1,9 @@
+carrier,token,token_offset_hex,post_bytes_hex,u16_0_hex,u16_1_hex,u16_2_hex,ascii_after
+AI_0_1.bin,Up Path,0x118,32ec003fa40902526967687437f80030,0xec32,0x3f00,0x9a4,2..?...Right7..0
+AI_0_1.bin,Right,0x126,37f80030a4072dc41001446f776e37f5,0xf837,0x3000,0x7a4,7..0..-...Down7.
+AI_0_1.bin,Down,0x135,37f500343ee3024c6566201aec010445,0xf537,0x3400,0xe33e,7..4>..Lef ....E
+AI_0_1.bin,Lef ,0x140,1aec0104456e61626c6564f81e2b0717,0xec1a,0x401,0x6e45,....Enabled..+..
+AI_0_2.bin,Up Path,0x337,32ed00343eec0002526967687437f900,0xed32,0x3400,0xec3e,2..4>...Right7..
+AI_0_2.bin,Right,0x346,37f900303ef80001446f776e37f50036,0xf937,0x3000,0xf83e,7..0>...Down7..6
+AI_0_2.bin,Down,0x353,37f500363ef7004c6566201aec010445,0xf537,0x3600,0xf73e,7..6>..Lef ....E
+AI_0_2.bin,Lef ,0x35e,1aec0104456e61626c6564f81e01426f,0xec1a,0x401,0x6e45,....Enabled...Bo

@@ -1,0 +1,6 @@
+component,layer,scope,feeds_into,notes
+2d File,render input,asset-level,2dGlobal,Render asset reference / file side
+2d Image Bank Index,render input,asset-level,2dGlobal,Image-bank selector/input
+2dGlobal,namespace bridge,render/global,AI_List,"Namespace/bank-scope token, not direct nav target"
+AI_List,scene container,scene-local,0x00F5,Concrete list/container family inside QuickRace
+0x00F5,nav target,scene-local compact ordinal,QuickRace_AI_List_AI_List_02,Shared Down target from owner and companion

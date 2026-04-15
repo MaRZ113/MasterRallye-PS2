@@ -1,0 +1,5 @@
+window_class,primary_inference,secondary_inference,evidence
+inline_selector_control,token-length or compact field separators,small type/slot tags between selector-adjacent strings,"10-32 byte gaps repeat between String, enUITextButtonAI, Font ID, Null, Index, Offset, HJustification"
+nav_transition_control,compact nav slot refs / transition table entries,state/value words adjacent to Enabled/True/Pulse,"Stable delta sequence around Up/Right/Down/Left in AI_0_1 and AI_0_2, with nearly identical slot cadence"
+zone_boundary_control,subrecord boundary or zone switch markers,embedded value/object transition control,"Large jumps before gaFrontendStandardButtonAI, Draw Priority, en3d Model, and </Egg>-adjacent regions"
+same_zone_padding_or_compact_fields,intra-zone compact field table,packed scalar/property payload between render tokens,"Long binary stretches between ZBuffer, 2d Image Bank, Vector3, Colour without obvious new top-level anchors"

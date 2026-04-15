@@ -1,0 +1,5 @@
+pair,owner_ordinal,companion_ordinal,relationship,owner_tail,companion_tail,inference
+AI_0_1 up -> AI_0_2 up,0x00ec,0x00ed,paired +1 local ordinals,a40902,3eec0002,companion tail carries backlink to owner ordinal with mode 0x02; owner tail carries owner-side state/layout payload
+AI_0_1 right -> AI_0_2 right,0x00f8,0x00f9,paired +1 local ordinals,a4072dc41001,3ef80001,companion tail carries backlink to owner ordinal with mode 0x01; owner tail remains owner-side state/layout payload
+AI_0_1 down -> AI_0_2 down,0x00f5,0x00f5,shared ordinal,3ee302,3ef700,down slot shares root/list ordinal; both tails are 0x3e-prefixed control triplets pointing into shared-list fabric rather than owner/companion pair
+AI_0_1 left -> AI_0_2 left,,,shared extended ref,1aec0104,1aec0104,"left uses stable extended back/escape payload, not u16 ordinal record"

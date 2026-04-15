@@ -1,0 +1,5 @@
+path,candidate,pack_hex,delta,decision,sheet
+FMV\CREDITS.PSS,pre_u32_m40 minus_20000000,0x33454A33,545,best,contact_sheets/CREDITS_pre_u32_m40_minus_20000000.png
+FMV\CREDITS.PSS,pre_u32_m4 swap16_minus_50000000,0x3C1A0A43,549,secondary,contact_sheets/CREDITS_pre_u32_m4_swap16_minus_50000000.png
+FMV\FUJ2.PSS,post_u32_p16 minus_30000000,0x383DEB25,355,best,contact_sheets/FUJ2_post_u32_p16_minus_30000000.png
+FMV\FUJ2.PSS,post_u32_p16 minus_60000000,0x083DE93F,131,rejected_duration_outlier,contact_sheets/FUJ2_post_u32_p16_minus_60000000.png

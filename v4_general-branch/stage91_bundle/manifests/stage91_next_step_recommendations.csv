@@ -1,0 +1,4 @@
+priority,next_stage,focus,rationale
+1,Stage 92,compact ref table origin / explicit object-id table pass,"Need to find where 0x00EC/0x00ED/0x00F5/0x00F8/0x00F9 are assigned to objects, not just infer their targets."
+2,Stage 92A,AI_0_4 stabilization,AI_0_4 remains the weakest member in the selector_pair_B hypothesis; stabilizing its class would strengthen the 0x00F9 mapping.
+3,Stage 93,cross-scene nav model transfer,"Once compact refs are grounded, transfer nav mapping logic to another selector-heavy scene."

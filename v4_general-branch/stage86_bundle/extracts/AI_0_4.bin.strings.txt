@@ -1,0 +1,31 @@
+<AI No="0"+Z
+Null+
+  </AI+@
+</Egg'd
+<Egg
+="GS_TitleText*L
+Use en2 
+Freeza 
+Hit 
+Priority
+Tick :
+Group2
+3d  
+24.00 43(x d
+enUIFormatted~
+Font#2
+-T"i
+ ID3
+ IDK
+dex3
+Offset
+Vector3(0.l~#T/p
+Horizontal Justification
+Vert\
+Max. Width 
+Heigh'
+Colour
+</>`
+,</'
+4#$-t
+s_Version4>

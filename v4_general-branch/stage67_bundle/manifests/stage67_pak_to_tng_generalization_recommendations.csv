@@ -1,0 +1,5 @@
+priority,next_step,why
+1,Stage 68 = early_u16_rootlink payload-edge pass,6 named FMV entries already have stable PAK->node bridges but no exact/operational TNG payload edge; solving this likely yields the biggest jump in named operational coverage
+2,Stage 69 = alternate subtype decoder pass,MASTER03/CREDITS/FUJ2/GO3 remain partial late submodels; they are likely smaller local decoders rather than one global late model
+3,Optional BAGOO3 salvage,BAGOO3 remains evidence-only and is likely high effort / lower payoff than early_u16 payload-edge work
+4,Non-video pivot only after Stage 68/69 checkpoint,FMV is now structured enough to act as addressing validation layer; one or two more targeted steps could give a much stronger generalized PAK->TNG decoder baseline

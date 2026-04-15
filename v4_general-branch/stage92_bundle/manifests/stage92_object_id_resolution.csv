@@ -1,0 +1,7 @@
+id,kind,likely_object,relationship,evidence,confidence
+0x00EC,u16_compact_ref,AI_0_1.bin,owner-side selector self/primary target,Paired with 0x00ED; lives on canonical selector owner branch.,medium
+0x00ED,u16_compact_ref,AI_0_2.bin,companion-side text target,Paired with 0x00EC; lives on path/text companion branch.,medium
+0x00F5,u16_compact_ref,QuickRace_AI_List_AI_List_02.bin,shared list root,Down target shared by both owner and companion; explicit AI_List object is the only strong list-root candidate.,high
+0x00F8,u16_compact_ref,AI_3_3.bin,secondary selector variant target,Best owner-side Right target; aligns with selector-ish variant branch.,medium
+0x00F9,u16_compact_ref,QuickRace_AI_0_4_AI_06.bin,secondary formatted/text variant target,Best companion-side Right target; aligns with formatted/text variant branch.,medium
+1aec0104,extended_ref,scene_parent_or_back_action,shared left/back escape,Shared non-u16 slot in both owner and companion; behaves unlike local object ids.,medium

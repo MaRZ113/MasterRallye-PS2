@@ -1,0 +1,5 @@
+carrier,role,raw_a4_nav_tail,a4_render_value_subblocks,best_read
+AI_0_1.bin,canonical_owner,yes,yes,owner has dedicated nav-tail subtype plus secondary A4 render/value subrecords
+AI_0_2.bin,companion,no,weak/incidental,"companion still belongs to 3E backlink family; single A4 sits in embedded value/id zone, not nav-tail zone"
+AI_3_3.bin,variant_owner,no_direct_nav_tail,yes,variant owner likely hoists A4 semantics into render/value subblock between GetSaveSize and en3d ZBuffered
+AI_0_4.bin,variant_aux,no_direct_nav_tail,yes,late trailer A4 subblock suggests broader A4 family across variant carriers

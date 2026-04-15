@@ -1,0 +1,96 @@
+XML key: CUPSELECT
+PAK path: SCREENS\PS2\CUPSELECT.XML
+TNG offset: 0x17c9c381
+Cluster: 2
+
+ext 
+ ID =
+a- $
+H?$],
+ue Name="Icon" Typl
+nt" Value="0"/>
+Bool'
+False/
+</enUIText
+&AI+
+</.@
+AI No="1"+
+  +,
+String'$
+gaFrontend
+AI0T
+ Status*5
+/CupSelectd
++ ID2
+Group Visibility6
+Null/.
+</<4
+(null)-,
+_List'
+CupRigh
+Tru,
+Freezabl't
+Hit 
+Draw PriorXG
+Tick;
+en3d Model
+atrix
+Row0="1.00 0+
+" Row1="
+<3*h
+0.20 |
+22'T
+Interpolate 
+ZBuffer 
+=" >
+577jI35
+2d Filex
+ Image Bank Inde'
+2d   
+2dGlobal
+AI,,
+"M&<"
+8\$.$&+p
+Font ID#
+"H( 
+bl="
+2="/
+ OffsetX 
+4d0,
+OT2)
+4+ ( 
+02,@<+
+120 
+712b#
+s\tiled
+2$H"h
+>?:318#J243x
+P"<0$
+ Tl]<
+1t+l
+Logoh
+,34>"
+He"8X3
+Box  "
+/="+pB/
+"l],@
+MultisDu
+*fEn"
+Up Pa4,
+Down 
+#HE 
+Currentl
+ForceUpdXJ 
+Lock Movem@
+.,v6pv 
+lass 
+ UL<
+Tru>
+318bJ37
+0"+Zl
+gaFr
+]T[CdAI+ 
+/C|C
+ IDOQdex3\
+34> 
+$t/ 

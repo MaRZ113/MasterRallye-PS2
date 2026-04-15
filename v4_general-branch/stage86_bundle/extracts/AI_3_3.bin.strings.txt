@@ -1,0 +1,67 @@
+<AI No="3"+X
+am'@
+String'@
+Null-@
+_List'
+</Egg(7
+ViewC
+Zts*L
+Use en2 
+Freezp3 
+Hit 
+Draw Priority
+Tick 
+Group2
+en3d Model
+atrix
+Row0="0.00 ,
+" Row18i
+1.0>
+22'h
+Interpolat 
+Visibl'l
+ZBuffer 
+s\curved_smaller8
+@`4:
+3="2
+I89'`
+Filep
+Image Bank Inde'
+2d  
+2d  
+2d   
+2dGlobal
+*;#<AI,0
+="< 
+enUIText$
+Font ID#
+92+`
+[Kdex3
+fl="
+2="1
+OffsetX
+HJustification2
+",&+
+GetSaveSize*`
+347 
+3?L> 
+3</)
+%:NBG(
+ackground(x
+h"x^ ,
+'Value Name="en3d ZBuffered" Type="Bool" Value="True"/>
+2d Model
+String'
+frontend\backgrounds\bg_newnetwork>
+atrix
+Row0="1.00 0+
+" Row1="
+Fileh'
+Int'
+Image Bank Inde'
+Draw 2D
+Interpolat 
+Visible 
+Fals>
+2dGlobal3
+AI_List)`

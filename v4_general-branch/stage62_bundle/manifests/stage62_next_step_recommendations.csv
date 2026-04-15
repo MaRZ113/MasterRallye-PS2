@@ -1,0 +1,4 @@
+priority,next_step,why
+1,Stage 63 = post-member edge decoder pass,"Now that page1 subgroup members resolve to exact named records, the next missing piece is the final record-local edge to TNG.000 start/size for CHALL04/TROPHY/BFGOOD1."
+2,Probe record-local candidate fields around string_offset-16..+16,The final edge is likely in the two candidate u32 words before the page lift word or in a sibling numeric table keyed by the exact packed member key.
+3,Transfer page1 decoder to BFGOOD2/TROPHY/BFGOOD1 neighbors,"Once the post-member edge is decoded on one seed, the rest of the late-FMV subgroup should follow with little extra ambiguity."

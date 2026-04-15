@@ -1,0 +1,4 @@
+path,pack_hex,duration_relation,semantic_relation,decoder_branch,assessment,notes
+FMV\BFGOOD2.PSS,0x3C280A47,baseline,branded preview,post_u32_m4.swap16,anchor branch,strongest transferable local decoder
+FMV\CHALL06.PSS,0x3C2C4A47,near-sibling,looks branded preview rather than challenge-specific,pre_u32_m28.minus_0x50000000,alias_or_sibling_branch,pack offset is 0x44000 after BFGOOD2; likely same late branded bank or sibling subgroup
+FMV\BAGOO3.PSS,0x204DF85F,separate,degraded/black,cand_u32_a.minus_0x40000000,unresolved_degraded_branch,video-valid but not clean enough to promote

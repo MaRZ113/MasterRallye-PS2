@@ -1,0 +1,16 @@
+file,decoder_class,zone,zone_start_hex,zone_end_hex,field_count,ordered_fields
+AI_0_1,selector_button_member_v2,header,0x0000,0x0000,1,ai_header
+AI_0_1,selector_button_member_v2,selector,0x0018,0x00a9,7,declared_type | tail_class | font_id_field | selector_null_policy | selector_key | offset_field | hjust_field
+AI_0_1,selector_button_member_v2,nav,0x00ea,0x0154,7,frontend_button_class | up_path | right_path | down_path | left_path | enabled_flag | enabled_value
+AI_0_1,selector_button_member_v2,ui,0x01d6,0x01d6,1,draw_priority_field
+AI_0_1,selector_button_member_v2,render_tail,0x020e,0x03be,5,en3d_model | zbuffer | image_bank_index | vector3 | colour
+AI_0_1,selector_button_member_v2,embedded_value,0x0503,0x0503,1,embedded_draw_priority_value
+AI_0_2,path_text_member_v2,header,0x0000,0x0000,1,ai_header
+AI_0_2,path_text_member_v2,text,0x001e,0x010b,9,tail_class | font_id_field | path_ref | offset_field | vector3 | hjust_field | max_width | height | colour
+AI_0_2,path_text_member_v2,nav,0x02d6,0x0380,8,frontend_button_class | embedded_id_value | up_path | right_path | down_path | left_path | enabled_flag | pulse_flag
+AI_3_3,selector_button_member_v2_variant,header,0x0000,0x0000,1,ai_header
+AI_3_3,selector_button_member_v2_variant,selector,0x0018,0x0239,5,declared_type | selector_null_policy | list_ref | tail_class | selector_key
+AI_3_3,selector_button_member_v2_variant,ui,0x007b,0x027d,4,draw_priority_field | font_id_field | offset_field | hjust_field
+AI_3_3,selector_button_member_v2_variant,variant,0x0046,0x02df,2,view_class | get_save_size
+AI_3_3,selector_button_member_v2_variant,render_tail,0x018c,0x04ab,4,image_bank_index | background_path | draw_2d | 2dglobal
+AI_3_3,selector_button_member_v2_variant,embedded_value,0x038f,0x038f,1,zbuffer_bool

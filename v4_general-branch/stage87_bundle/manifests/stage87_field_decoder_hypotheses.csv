@@ -1,0 +1,7 @@
+decoder_class,hypothesis_name,layout,confidence,rationale
+selector_button_member_v2,field_layout_v1,header_selector_core -> nav_and_enable -> render_tail_primary -> embedded_value_tail,high,AI_0_1 exposes all main selector/button fields in stable order
+path_text_member_v2,field_layout_v1,path_text_core -> ui_companion_middle -> nav_companion_tail,high,AI_0_2 splits path/text fields from nav/button tail but preserves same broad carrier logic
+selector_button_member_v2_variant,field_layout_v1,variant_selector_core -> variant_ui_middle -> variant_render_tail,medium,AI_3_3 uses same family but mixes view/render config into selector carrier
+selector_button_member_v2,nav_block_semantics,Up/Right/Down/Left + Enabled,high,Navigation cluster appears together in AI_0_1 and AI_0_2
+selector_button_member_v2,render_tail_semantics,Draw Priority + en3d/2d tokens + Colour,high,Render/layout properties live after selector/nav core
+path_text_member_v2,path_backed_text_semantics,Frontend/QuickRace/Current... + enUIFormattedTextAI + layout props,high,Text companion class carries path ref and text layout values

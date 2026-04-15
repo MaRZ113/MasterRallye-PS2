@@ -1,0 +1,2583 @@
+<Scene>
+  <EggLists_Version4
+  <t
+
+ Name="Debug"
+Track(d
+  <Value
+Use en2d" Type="Bool" 
+="True"/'P
+Freezable 
+Hit 
+
+Draw Priority
+Int'
+Tick;
+Egg Group2
+en3d Model
+String'
+Null>
+atrix
+	Row0="1.00 0+
+" Row1="
+Interpolate 
+Visi 
+ZBuffer5
+Fals90
+lh !
+;305'
+2d Filet
+2d Image Bank Inde'8
+	2d  !
+2dGlobal
+AI_t
+  <AI No="0*v
+enUIText+
+="FontNo
+10,$
+ : /\
+Race/p
+Colour
+Vector3'h
+er '
+JustifyX
+Floa(l
+z}00?d
+Sca(h ,
+Eol at spQ)?
+
+Display Hotke'
+</AI+X
+</Egg'd
+Position*<
+,29|
+ Y(,
+Physics/Car0/Transform+l"
+$-\. 
+EL,"x:#
+X#`, 
+ ]dXd
+    <AI No="1">
+ )
+
+<Value Name="p
+ame" Type="String" 
+="Null"/+
+</AI,@
+o="2 F
+_List'
+</Egg(7
+DifficultyLevel*X
+Use en2d
+Bool'
+True+
+Freezabl'|
+Hit 
+
+Draw Priority
+Int'
+Tick;
+Group2
+en3d Model
+atrix
+	Row0="1.00 0+
+" Row1="
+Interpolate 
+Visi 
+ZBuffer5
+Fals90
+lh !
+2d Filex
+2d Image Bank Inde'<
+	2d  !
+2dGlobal
+enUIText+
+FontNo
+10,(
+4t b
+: /T
+Race/d
+"d
++,
+Colour
+Vector3'T
+yr '
+JustifyX
+Floa(
+~|00?
+Sca(
+Eol at spM*?
+
+Display Hotke'
+  </3(
+"4'+l
+,R,</)
+GameController(
+-d	;
+-= 	#
+-<@9 
+,ga-
+ Hud)h4)d 
+PauseMenuTiles(
+
+<` =
+:tM=
+#l=:xM,
+ 8i 1,
+|M=L
+Un 17#v 29
+#l! 
+ <|M
+ileBox+X)"
+C<#\A
+9Ui5
+C
+Frontend/new/
+
+/textboxalpha/
+Activ',i -
+Width
+Q8>|
+Height2
+Num Source Horiz_$al 
+=h8-
+Vertic 4
+)  2
+Choos*
+;pI0
+"0"/>
+ 
+<Value Name="Tick Priority" Type="Int" 
+="3"/6
+Egg Group2
+en3d Model
+String'
+Null>
+atrix
+	Row0="1.00 0+
+" Row1="
+Draw 2D
+Bool't
+False=
+	Interpolated3
+Tru>
+Visible 
+ZBuffer5
+;337'
+2d Filex
+-*1=
+Image Bank Inde'@
+;;2d :
+	2d  !
+2dGlobal
+AI_List)|
+	  <AI No="0"+Z
+am'T>
+  </AI+@
+gaFrontendPauseMenuAI+
+="Button I'
+8(
+l
+Enabled*
+Race/'
+CurrentText 
+Tiles54
+Height
+3 <
+</Egg'
+SpeedDial*@
+Use en2 
+Freeztq
+Hit7
+:Y)4+
+?I*68
+hud\L
+-temp"
+	 Kv*55#Z*98 
+gaHudAi(
+$X -\&W	 No
+*` ,
+	Gear Display Position Offse'
+Vector2'
+<35`_
+-24.0?|
+in KPH
+Needle 
+Ang@
+Floa(
+G-11m
+0 
+Max  
+Revs WAcou"
+Travel ClockWis'
+"Q+H+
+8o=" 
+Hid,
+Invert l
+)8c bEZ2+
+#X4#
+c0P%0
+DZ*H/
+7`  
+Veloc"
+" Value="3"/>
+ 
+<Value Name="Egg Group" Type="Int" 
+="108
+en3d Model
+String'
+Null>
+atrix
+	Row0="1.00 0+
+" Row1="
+Draw 2D
+Bool't
+False=
+	Interpolated3
+Tru>
+Visible 
+ZBuffer 
+2d Fileh
+2d Image Bank Inde',
+
+L  
+	2d <
+2dGlobal
+AI_List)h
+	  <AI No="0"+Z
+am'@-
+enUIText+d
+FontNo
+103/P
+00,$
+h
+Colour
+Vector3'
+JustifyX
+Floa(X
+Sca(
+
+Eol at space?
+Display Hotkey
+</AI+ 
+gaHudAiSpeedCoux
+Hud 
+</>x
+Hid,4 
+Invert l
+</Egg'i
+Gear*@
+Use en2 
+Freeza 
+&Hit7
+Priorit'
+Tick  
+12/T$-8
+G#6G="x
+"150 
+ 1"x'>
+(`bl
+1
+GPSBackground 
+%14+
+hud\L
+-temp"
+
+"}? &<b"
+`="
+j65"Fk87t
+"-S "$Q=
+:}b1=
+#\A5
+l0d^*$)
+l=XC
+|b)4P+
+0#-l1 H
+  </Egg>
+ 
+<Egg Name="GPSNeedle"'t
+  <Value
+Use en2d" Type="Bool" 
+="True"/6
+Freezable 
+Hit7
+Fals9
+
+Draw Priority
+Int'
+Tick 
+Group2
+en3d Model
+String'
+Null>
+atrix
+	Row0="1.00 0+
+" Row1="
++$	=L
+Interpolate 
+Visi 
+ZBuffer 
+	hud\hud-tempd
+65~G87t
+2d Filep
+Image Bank Inde'd
+
+L  
+	2d <
+2dGlobal
+AI_List)\
+  <AI No="0*
+gaHudAi(
+="Hud No
+Flow
+Defaultx
+Marker`&:@
+RaceLin,
+System
+ Dist from Origin
+Floa(D
+26.50000
+</;D
+</AI+
+D1 !
+Hid0
+d +$
+ 
+Invert l
+/:   7
+PaceNotes*@
+)pUrn
+
+ir &t)":'="
+ 6z132#
+)418 k
+ %0!'
+Fade In d
+&0.0"
+*c	Out<&
+251('-$
+Move Dow:Q
+2Ho2T(2*
+Up9M
+Drop
+Test  
+(h=#
+#+P	"
+4o=" 
+GameRank 
+=+|
+ Q
+ 40(
+:LV>
+"p%$
+ &l,y
+&-8V	HUD/Hud-nums/
+Font n3ZX10,p
+&
+TimeDiffArrow j
+ame="Hitable" Type="Bool" Value="False"/>
+ 
+ Name="Draw Priority
+Int'
+Tick;
+Egg Group2
+en3d Model
+String'
+Null>
+atrix
+	Row0="1.00 0+
+" Row1="
+$	Interpolated3
+Tru9\
+Visi6\	 
+ZBuffer 
+	hud\hud-tempd
+1="-,
+35bH35
+Filex
+Image Bank Inde'l
+en2d  
+	2d <
+2dGlobal
+AI_List)
+	  <AI No="0"+Z
+gaHudAiHid,
+Hud No
+Invert 
+</6l
+</AI+
+</Egg'e
+TimeDiffs*@
+Use tn
+Freez7
+eq &`""
+ 6f*28#
+"6 (
+#< #8 )
+GamemIr 
+$494"
+$43#<G
+"pH+
+#@':PG>
+enUIText+
+Font4:G10,
+%$G-
+I00:
+/X41
+Colour
+Vector3'
+_}p '
+JustifyX
+Floa(
+cb{00?@
+Sca(
+
+Eol at space?
+P
+Display Hotke'0i 
+'*llx"&hU'
+2Ai4l
+Record"41"$V 
+ Name="en3d Draw 2D" Type="Bool" Value="False"/>
+ 
+ Name
+	Interpolated3
+Tru>
+Visible 
+ZBuffer 
+2d Model
+String' 
+Null:
+atrix
+	Row0="1.00 0+
+" Row1="
+3="527w	413x
+Filet<
+Int'
+Image Bank Inde'
+
+2d  
+	2d <
+2dGlobal
+AI_List)
+	  <AI No="0"+Z
+  +t
+am'P-D
+enUIText+
+FontNo
+102/P
+Colour
+Vector3(
+|q'8
+JustifyX
+Floa(H
+00?@
+Sca(
+
+Eol at space?
+Display Hotkey
+</AI+,
+gaHudAiHid,l
+e"<)p
+Hud 
+Invert 
+</6l
+</Egg'x
+<Egg#
+!="GP
+RecordTimeNumber*l
+Use en2 
+Freeza 
+$Hit7
+Priorit'x*
+Tick  
+Group
+'3d &L'"
+%="
+#/612"
+&-<2%
+(dG&
+0 lL/
+Split#K/ame 
+@/%g^398"\/#
+-{:2d  
+f^04+
+"0$-
+- =H/'(
+#TE>,
+H/#`\*
+{`V 
+ No="2">
+ )
+<Value Name="AI
+" Type="String" 
+="Null"/+
+</AI,@
+o="3 <
+_List'
+</Egg(7
+="GameSplitTimeNumber*h
+Use en2d
+Bool'
+True+
+Freezable 
+Hit7
+Fals9
+
+Draw Priority
+Int'
+Tick 
+Group2
+en3d Model
+atrix
+	Row0="1.00 0+
+" Row1="
++$	=L
+Interpolate 
+Visi 
+ZBuffer 
+612sF398x
+2d Filex
+2d Image Bank Inde'<
+
+L  
+	2d <
+2dGlobal
+enUIText+t
+FontNo
+102/R
+Colour
+Vector3'
+JustifyX
+Floa(<
+00?@
+Sca(<  
+
+Eol at space?
+
+Display Hotke'
+gaHudAi'
+`'+?Hud 
+Audio Soun'
+check0J
+Hid,
+Invert 
+ [V2</)
+Hiddend
+-$\6h
+WrongWay(
+dummy+
+#p-&
+2"~0="
+:32"`"
+ 347 
+2,$J"l!-
+WRONG WAY+
+30.3$\J>
+0.50 
+]  &
++`b+
+3'8-3h
+7H- 
+1PF($1
+HudReset 
+rue"/>
+ 
+<AI_List)H
+	  <AI No="0"+X
+  <Value Name="p
+ame" Type="String" 
+="enUIText"*
+FontNo
+Int'g
+103/P
+RESETTING 
+Null>
+Colour
+Vector3'
+0.00 1s
+0.3?,
+JustifyX
+Floa(,
+0.5000 
+Scal'
+
+Eol at space?
+Bool'l
+False>x
+Display Hotkey
+</AI+8
+	gaHudResetAi/I
+|Hud 
+</7\
+AiHid0
+Invert 
+</Egg'
+<Egg(8
+Failed*@
+Use en2d
+Tru,
+Freezab(
+Hit7
+	Draw Priorit'<
+Tick 
+Group
+en3d Model
+atrix
+Row0="u
+" Row1="
+Interpolate 
+Visi 
+ZBuffer 
+dummy: 
+;242$
+2d Image Bank Inde'@
+
+2d  
+	2d <
+2dGlobal
+FAILED+ 
+$-P "
+Continue 
+0/x@+|
+#p+&
+0"~.="
+1#(1"
+4-@F
+CONTINUE 
++h/lj+D 
+OffCours 
+0.00 0.00" Row1="l
+ 1.00
+"/>
+ 
+<Value Name="en3d Draw 2D" Type="Bool" 
+="False=
+	Interpolated3
+Tru>
+Visible 
+ZBuffer 
+2d Model
+String' 
+dummy: 
+atrix
+Row0=",
+;327'
+Filex<
+Int'
+Image Bank Inde'
+
+2d  
+	2d <
+2dGlobal
+AI_List)
+	  <AI No="0"+Z
+  +x
+am'T-H
+enUIText+
+FontNo
+103/P
+OFF COURSE 
+Null>
+Colour
+Vector3'(dq
+ 0.3
+JustifyX
+Floa)X
+.5000?@
+Sca(
+
+Eol at space?
+Display Hotkey
+</AI+<
+gaHudAiOffCour-
+y"<.
+="Hud 
+</;l
+Hid,@ 
+Invert l
+</Egg'h
+<Egg
+B	GameComplete*L
+Use en2d3L
+Freeza 
+&Hit7
+Priorit'x
+Tick :
+Group
+%\)"
+'=" >
+ V2124 	
+2d  
+01	RACE COMPLET 
+#<H+
+#%(0 
+?1Rac(
+OpE&H1*
+T17x
+& 5 
+b1</)!J<l
+1Re"
+=(x1)
++|	 r
+1 p&c23"
+c145x
+EPLAY+ 
+"l%-
+1"/>
+        
+      <Value Name="Display Hotkey" Type="String" 
+	="Null"/>
+ )
+</enUIText+`
+</AI,@
+AI No="1"+X
+ame5
+
+gaHudAiDemoRe|
+2 !x
+Hide7P
+Hud No
+ Int'
+Invert l
+Bool'
+Fals1i
+_Lis(D	
+</Egg'h
+<Egg
++\	+l
+Use en2d3K
+Tru,D
+Freezabl'@
++8
+Hit 
+	Draw Priorit',
+Tick 
+Group
+en3d Model
+atrix
+	Row0="1.00 0+
+" Row1="
+0h0x
+Interpolate 
+Visi 
+ZBuffer 
+dummy: 
+23rF42t
+2d Filep
+2d Image Bank Inde'8
+
+L  
+	2d <
+2dGlobal
+"<"=!op
+!&x#+L
+Font4>
+10, 
+#44&
+REPLAY/T
+Colour
+Vector3',"-
+,x&t	+
+JustifyX
+Floa)`$N{00?@
+Sca(8 ,
+
+Eol at space?
+`"-d
+(1>h
+iI< 
+/</)50<l
+)
+="ProgressBar(D2)x03|
+ rx00
+#t :}06+
+?|09
+;}01,
+hud\L
+-temp"(48
+
+#,+&t0":.="
+ 6N831#
+055.&
+5X:/
+>T:=4
+0%$M
+Race*
+.u+<4
+< 1 
+No of Ceh=
+ Pieces int
+%l1*r:44+
+
+Rotate Vertic5
+ HpV 
+rV  &P= h
+Finish( (-
+'5+(
+' 8l!h
+Split Ti(
+|6LQ
+     
+<Value Name="Use CarID" Type="Bool" 
+	="False"/>
+
+Finish Line3#
+Tru?
+Display Split Time BK
+	Int'V
+-1>H
+Car (h
+	ObjectColour
+Vector4'$
+1.00 ,
+Offset
+</gaHudAiRaceProgress+`
+</AI,@
+AI No="1"+Z
+String'
+Hid0
+Hud No 
+Invert 
+Null-
+_List'
+</Egg(7
+Pos0*`
+en2d
+Freezabl'|	 
+
+Hit7
+
+Draw Priority
+Tick;
+Group2
+en3d Model
+atrix
+Row0="
+" Row1="
+Interpolate 
+Visi 
+ZBuffer 
+	hud\hud-tempd
+2d Fileh
+9(`
+ Image Bank Inde'\
+	2d <
+2dGlobal
+ o="+
+?8!*
+	%X!*
+-+8^+,, 
+#lue Name="en2d Visible" Type="Bool" Value="True"/>
+ 
+ZBuffered3
+Fals>
+2dGlobal3
+AI_List)P
+	  <AI No="0"+Z
+String'
+gaHudAiRaceProgress+
+e <1
+Hud No
+Int'
+	Use Split Ti(
+CarID
+Finish Lin'
+Display)[
+Car (h
+	ObjectColour
+Vector4'
+1.00 ,
+Offset
+</>t	
+</AI+
+^1 !
+Hid,
+Invert l
+Null-
+</Egg'
+<Egg
+Pd+d
+Freeza 
+Hit7
+
+Draw Priority
+*l,
+Tick;
+Group2
+en3d Model
+atrix
+Row0="
+" Row1="
+Interpolat58!<8
+
+;#3d <8#>
+	hud\hud-tempd
+<$t& m
+2d Fileh
+2d Image Bank Inde'\
+"h# 
+-0.5?X
+E$ Z 
+e="hud\hud-template"/>
+ 
+<Value Name="en2d Matrix" TypH
+	Row0="1.00 0+
+" Row1="
+Fileh
+Int" 
+="1=
+Image Bank Inde'
+Draw 2D
+Bool'
+Tru>t
+Interpo}0d3
+Fals>
+Visible3
+ZBuffere 
+2dGlobal 
+AI_List)
+		  <AI No="0"+Z
+  +D
+r
+String'
+gaHudAiRaceProgress+
+m\<1
+Hud No
+	Use Split Ti(
+CarI 
+Finish Lin'
+Display)[
+ BK2q
+Car (h
+	ObjectColour
+Vector4'T
+Offset
+</>t	
+</AI+
+^1 !
+Hid,
+Invert l
+Null-<	7
+</Egg'
+<Egg
+Car+L
+Freeza 
+Hit7
+Priority
+*m4+
+Tick :
+Group2
+en3d Model
+ z;%3d 
+358#=L
+$?<#<8
+
+;#3d <8#>
+'-h1 
+-4*T/+h& 
+-#4k
+en3d Matrix" Type="
+	Row0="1.00 0+
+" Row1="
+"/>
+ 
+<Value NamL
+	en3d Draw 2D
+Bool" 
+="False=
+	Interpolated3
+Tru>
+Visible 
+ZBuffer 
+2d Model
+String' 
+	hud\hud-tempd
+|	 z
+2d FiletQ
+Int'
+Image Bank Inde'\
+
+L  
+	2d <
+2dGlobal
+AI_List)(
+	  <AI No="0"+Z
+am'p-d
+gaHudAiRaceProgress+
+Hud No
+	Use Split Ti(
+CarI4d
+Finish Lin'
+Display)[
+ BK2q
+Car (h
+	ObjectColour
+Vector4'
+Offset
+</>t	
+</AI+
+^1 !
+Hid,p
+Invert l
+Null-<	7
+</Egg'
+<Egg
+Car6*L
+en2 
+Freeza 
+"Hit7
+Priority
+F*m2+
+Tick :
+Group2
+#x)?h%/
+ z8% 
+'-h1 
+F 0. 
+-7 #
+-</)
+<List 
+Name="CarDamage">
+ 
+<Egg Name)t
+Controller(
+  <Value
+Use en2d" Type="Bool" 
+="True"/'
+Freezable 
+Hit7
+Fals9
+
+Draw Priority
+Int'
+Tick 
+Group2
+en3d Model
+String'
+Null>
+atrix
+	Row0="1.00 0+
+" Row1="
++$	=L
+Interpolate 
+Visi 
+ZBuffer 
+2d Filet
+2d Ix
+ Bank Inde'8
+
+L  
+	2d <
+2dGlobal
+AI_List)0
+  <AI No="0*x
+gaHudAi(D
+="Hud No
+</AI+
+</Egg'd
+!0_$d"
+_Stee
+!14)(#>?
+hud\N
+)44#
+"Hid,
+Invert l
+"+4&08'}
+&o=" 
+Engin)dE-
+"75"
+N2d  
+Suspension*4H+h7 
+"51#
+dGlobal" Type="Bool" Value="True"/>
+ 
+<AI_List)H
+	  <AI No="0"+[
+ Name="s
+String'
+gaHudAiHid,
+Hud No
+Int'}
+Invert 
+Fals1i
+</AI+
+Null- 
+</Egg'd
+<Egg
+LCar0_Damage_Gear*\
+Use en2d
+Freezabl'
+Hit 
+
+Draw Priority
+Tick 
+Group2
+1,H+
+en3d Model
+atrix
+	Row0="1.00 0+
+" Row1="
+14)@
+Interpolate 
+Visi 
+ZBuffer 
+hud\hud-d
+545zG38
+2d Filex
+ Bank Inde'd
+	H  
+	2d   
+2dGlo 
+Tyres 
+Stee"(O
+_Overlay 
+E44#
+#580
+Engine 
+
+ype="Bool" Value="True"/>
+ 
+
+ Name="en3d ZBuffered" Type= 
+2d Model
+String'
+
+hud\hud-damag;8
+atrix
+	Row0="1.00 0+
+" Row1="
+3="475v	38
+2d Fileh%
+Int'
+ Bank Inde'
+Draw 2D
+terpolat 
+Visible 
+2dGlobal 
+AI_List)
+	  <AI No="0"+Z
+gaHudAiHid,X
+qm<)p
+Hud No
+Invert 
+Fals1i
+</AI+
+Null- 
+</Egg'd
+<Egg
+="Car0_D
+
+_Suspension_O_:lay*
+Use en2 
+Freeza 
+Hit 
+Priority2
+Tick :
+Group2
+=" >D
+0.14)
+3d  
+
+#51#
+Gear 
+Tyres 
+DefaultEggName
+">
+ 
+<Value Name="Use en2d" Type="Bool" 
+="True"/>
+
+Freezable 
+Hit7
+Fals9
+
+Draw Priority
+Int'
+Tick;
+Egg Group2
+en3d Model
+String'
+Null>
+atrix
+	Row0="1.00 0+
+" Row1="
++ 	=H
+Interpolate 
+Visi 
+ZBuffer 
+
+hud\hud-damag9
+565zG34
+2d Filex
+ Bank Inde'd
+;_2d :
+	H  
+	2d <
+2dGlobal
+AI_List)X
+	  <AI No="0"+Y
+gaHudAiCarD
+Hud No
+StartPos
+Vector3'
+Targe );
+End>j
+Sca(
+Floa((
+1.5000,
+Birth/Death Ti(
+Life7
+</<8
+</AI+|
+</Egg
++</',
+s_Version4>
+</Scene>
+
+p=`(
+dicK
+$)__
+ "__
+!'(_JX
+)M" 
+#++ !!t
+!),-g(*
+#/-/0
+!+--123l
+$./-(
+*9(!
+"%-1X"
+&%-/S\
+!+*.1[^_JA?>5
++*-36^_JXNC?;0'5+'??^__RVB
+X),'ID____ 
+_J))&L_JX\
+a"o!
+-"
+	
+!%l&
+"&P_
+#(eko
+$*-^q
+" %X\glo_G_J5 
+)-U_c_JA"
+",882
+$0B59<7/
+-4-&%$
+#+9;
+1BAl
+WNC?),
+~TH1U]gl
+  1gvcQ+[]a
+7)/QUfMb
+ /6<
+hM\s
+_+-"
+1X_B
+!:4b
+#_`|
+"h;#
+",."
+#x3#
+!,)0
+"(6(1
+&.?).
+
+*2G+-
+,11/0
+ "!,33S=
+%-55UE|;
+,-66XM
+?&1-66ZT\)
+
+7--_
+=.,co9
+;824ZkP
+5C755Q[
+;;J55OU_X
+';;,
+766g
+ &25_
+(1-'
+		 %+==
+N1'$}
+$+F2F
+$,\2}
+!(/0Q_
+38-^Vp
+%+12[k
+uZ1Yg
+(-34agfL__
+&/55dc`bt
+ 166ebY_}hl
+277g@
+<_ck
+$378f
+)488_
+-599m
+/699jgz
+169:fi\
+27::dfr
+,_t_[
+G_gc
+]tpa
+w_gj{___
+>5D2
+vwtpn
+4 
+EC_^gj
+pnbE
+d]~W{xp$
+?]I`[glm
+~r]^]ehj
+}rjd
+_hlnmi
+tpoonl
+~{yvtD
+~}|z
++LMt
+??_g
+??WL[
+JARZ
+XGOV@
+cRP&
+l_$"{<
+  !#~{
+#,#
+
+&
+)<
+"('#
+,'2.
+63.4'')('%%(-;1(|
+	?>5
+\QS_/9/-
+ U5_
+(R_J
+
+8:__
+ '+1
+#+29B
+!(*GD)E
+"(,QH\
+ #'-.P_
+ #&,.U_
+"(BA]X_
+++O_
+tAW[VV*_
+JA^KSXW
+JX(TWN??IBVNRV
+NT-PRO??HBRO
+$0;CBTD@A_
+ '<=AVQR7_JX
+=>YN
+	NU%-0'9*^AB
+QS-56RUY!
+XVSSHETPQfP"
+AVVW[
+Ed\Zp
+	WNTYWV
+!,QS
+#+/S)
+(?=1
+_JAG
+$)_JXN
+JA?WNC?RO ^F
+PF@OO
+
+QIA!
+!^`t
+IC\a
+"%*I@_Yf
+"#eZ_
+&JEqG^L
++6FF_
+=>>__
+
+_gc'x
+zz_gj
+qNbk
+w|loq
+tfg>_f
+_^a[\a
+*`]x
+|y`t
+-1cN
+24gJ
+kbixvutw
+a\buvvuv
+MQ[deloo
+B@GUbI]e_hlprtuvwH>SiCV]tpoopqrssJ5Xh>QW~{yvutsss1/_`MNT
+~}|{zxw
+*-5)
+?;0'5
+"+Z_J4
+wY__R
+C____
+_/^d
+488JZs_hl
+%589USetpo
+*599\WX
+-67IO_tpn
+%077TB`~{x
+*23HIELr
+
+$.IEB?ULr	
+ (11P3-t	
+%-OHP)Otpn
+"+BAN' _gj
+'/0KWFCtp
+%,GDPV._g
+!+A@GU^Ztp
+)@;:R_
+-KIB_
+FDCS_
+suuv
+@7
+oqrrrss
+pqqrr
+mnnoppq
+__cehjklh
+  !#(>5
+
+!"$'-;0'stud
+ !"$&*/8.*sstn
+(,15-,wwvtt
+"%'*.13--vvvv!"#%'),/12-.ttuui#%&(*-/10./stttq$&')+.0
+ssss%')*,.00//0l 
+sf(*+-/
+n rnx
+01pppqqpX+-./0000117/0?`
+9/-???R
+C=50|
+???K
+//9/-;1(l
+025h
+???124h
+?13312414
+23313425(<
+223336'<
+2223447
+nOS0NOO??GC
+OR2LLN(
+.^7_
+!\Z_JX
+_JA??WNT
+?ROS
+ROF@?OOR
+OOHA?LNQ
+LNIB?KMP
+KMJC@IMD
+ILKE@HLN
+??HLKF@HKM'<
+KKGAGJL_
+ROS D
+COO"`
+&__RVQFM&
+B_JX\VVSJL
+JXNTYWVTM
+NUPSWWVU'
+PSQSUVVU
+QRRRTUV
+QRRS
+PQQR(
+XOQQR
+(TOPQQ
+!%-PNOP 	
+e(.2
+$z__c
+%)ztlh
++-_gi
+/0tpm#4-
+),tpn
+./~{x
+44nY
+55^[
+66S\
+1JKZ
+$+JJW
+$(HIS
+  *HHP
+.GGN
+P3faJK'
+vTCe_HH
+tXU_ EF'
+sYci
+ww[gq
+vY`zn4(
+RWdjtpnmmmn
+db_gjkll
+~{_gj
+@{__
+#*A_{qj
+!*@<
+&.OK
+$,HEE
+!(/KJ9_h
+&-@=<Ft
+"+C3>>Q
+ '/0)>>[
+%,H9$>>_
+)/1))??_
+#,23 -/Lt
+'.44
+01_~
+
+*055(BAj
+,23I46P_h
+ .44TAAZtpt
+
+$055\PLa~{AAD_aJ_
+;C^tX!
+6J_g
+C\tp
+__c{
+_gii
+hi"D,
+hhh`
+lji`
+jjjj
+__aceghijj
+lgdddef
+ihfeee`
+hiijjjeff`
+	ffgghiii
+ggfe
+noopppe,-#;,01m"R0ok&{,2klf
+,2kH
+mmme/
+112|
+llljP'<
+lk]#v-22l
+N12|
+">,8?
+"{,345)<
+334469
+?"6-45)=
+57:'|
+46(<
+68'|
+578*<
+56797<
+4568(|
+689<
+GJKHBFIL
+???FIJHCFIK)<
+IDFH'<
+EHJIDEHJ
+EHIIEEG
+GIIFE(
+FHIG!
+CFH1
+NO+&HH
+"x"(
+gi#h/
+%98)
+
+!02882/+) &2
+#31%
+TLP* $
+K;1"
+
+3.,-
+99.&t
+/H22
+		
+
+
+h
+		'3
+"166aZUd
+"377g%Zg
+488Z,Ya
+488T;Ln
+599PI<c
+699MT_
+1::KZ`w
+!)::JUbr
+#::IRc]
+'0HHOhbo
+%('GGM\im
++"FFLW`ce
+,6)6JJSZkj
+46696OV`p
+.LMS[c
+0:7PW]
+fkmw
+0X_hju
+SW_`ahptw~
+",TX\X\dinqst|
+QSYVRYbgjjjloz
+RRXWOOY`e"d)
+PQXYUOQY^bhjii
+MQVUROSW]bhns
+NPTSQRRV]behz
+NPQQQR@
+MMMPQSVZ\`l
+HIJORUVXZu
+JKNRSVY
+X$|B
+jmpsrv\
+rmhil
+Ynqsux|
+nvxuqiaUPMIJQ\
+gmrrx
+vwccgknr}
+vvw_ccfilh`WTQFF[WN]aa_[[UZ
+P_YM
+_bZTMh
+>TVU|(
+^I@?)8
+????8%
+A??8&
+			
+
+	
+
+
+
+ "$d
+ !#$%
+"#$%
+,,%/
+!#(>5
+'-;0'5
+T8.*0'	
+?
+"%('
+$&&$!#'5
+%&%$#&*h
+%%%$%(+h
+%%%%'),-d
+%%&'(*,-,-,/-;0(%&&()+|
+F-//9/-&&')*,,---.017//
+.3:;QTKKM14/$#1(dh	??>5
+/0?>8.)
+|;0t"
+
+sf9/-h
+16339
+
+-/c
+(I
+"$'
+1.9/'D8;8RY
+=<H=<S
+]b_5
+DEF=;
+$CDG>!(1.
+NOho_ #>=I#+11&.;9Sj
+$3P-#,37:N/FJ^
++/{3$31aNB3"A
+^'5YbcN'3
+`?78]
+?p0'BHeb<';B99g
+YiO*k
+b,9!cPd
+}eN(Na]6!"Q
+{g\@2/,
+#%(a
+$UN:_
+"*@!KQ_)-
+KL<_
+=:))#'5 AB
+vdjl
+KKONSX\bil
+PPVUa
+K@IEX`fkon
+MIME@W_dhm
+GIOAKGZ`ekoqprs'5
+RMND@W^dhknqs
+OLPJI>[bgjm
+.*1|
+WTOO8/[c
+URBMR
+2$]f`
+R#< 	1([
+zW$< 
+ZUU\`
+lQJPJW{
+s`]YUY]fkcYYY9z
+SWX]VTLQZ?
+ajkn`~
+fHN}M
+stuvw
+8tvw
+hkmoqrtvwu
+C\chklnprtqs
+NNRUVQ`fjmpsps
+UTXZZSEZafilor
+'DDQ[`dgjlpo?;x)
+IMXd
+
+nJ>GPUROY
+?<??QPS)M
+7<;HQ=HLO
+1RQ@?d
+=98]c
+20S_h
+SVd@
+[8%X
+i"<'
+2"U1
+1"H1
+wxyyy
+s !*<
+):4&
+ #x4
+%&''l
+$%&&'(l
+&''()x
+ !(;
+())*t
+()*+!""#$
+()**+'9
+*+,,&'#x4
+--./02501'p
+/12402(y
+13312
+3313)*++
+2322|
+./0122223
+2+,,
+10-'
+
+./001110,%
+7#U8?$
+7/0?9/+4
+2=5,&
+413:."
+3134233%
+223310*
+221.&
+20,#
+-"\@
+"<4&L1"
+."X2&,2"l.l
+"L1#
+"@2"
+/"t2
+  !f	
+	"p4
+!#%'
+#%&(
+!"$P
+"qQ"V
+'()|
+M)hX
+%'(()
+#dRS	)*+p
+*+-.!"d
+.0((&*"
+N
+??__)#(?(((,/#
+W[('-?_
+-00"
+/	RX)*0?)*+.02|
+	OU*,2?)+,/14|
+LR+.4?*,-D
+	KP-05?+,.136|
+IN.16?,-Y
+	HM/37?-.0248
+L148?-/135
+FJ259>/0246
+01357:?>4
+	896!
+_hlod#>T0?l
+W_ehg#> 2?l
+RZ_ceV124D
+OV[_b[f
+LSX\_]D
+	36?5???KQUY\
+	IOSW
+	HMQ
+?8>5
+_JXNU
+__RV
+___X
+?"@T
+LOY_bfi>7//8."
+Z	QSZ^be<5015,#
+RTZ^a;4011)$
+
+OPV[^930/+"
+MMSX[81.*#
+OPUY
+LMSV
+KKPT
+JJOS
+'HIMQ
+,HHLP
+0GGKN
+	2FFJM
+4FFIU
+'5EES^
++6FF_
+%Z\]
+P_be]jy
+tJRZbv
+du^o~6/WR_mhfl
+^_yh
+68Z<W_UZ\N
+*__??
+GE^QRtRTtpo
+[Rg`W~PQ~{y_
+
+vPw_
+
+}Rkt
+~_cU1
+5#O2
+lorsuvww"x5
+zzz{{xwva
+
+xxxyoqrsttuuu
+oppqrrsL
+}|{zK
+uuu|
+ttrs
+,-up
+3%01
+.}{]u
+{{p#
+zzx[)m
+-yyym)<
+,xxxvW
+,,-,+(wxxwj
+,+'"^(ws
+,+*'!
+x(	ve++,,+)&!
+p+++*)% 
+	vta+*($
+uum)'#
+"4S"
+1	/000/*#
+000.*"
+"3\../@
+.,( 
+#(\
+....,' 
+..-+&
+.-*%
+		
+
+
+
+  !""y
+##$$#!
+H p+
+
+____
+h_X 
+(,J^kH
+$BAJ]_
+%MF[Xd
+%.77]
+!)12W_
+&-/_J
+
+$*12
+ (.0_
+!)GC"l_
+"*,S^
+`]\t
+':<^<
+:*_g
+(+L_\P__/'
+
+__b)-\_]JAW[;
+z@W[_7^[tXNCRX3!@@RX\^^_g_UHPU/)@@OUY_L
+%aZNOS/-@@LRVJX\_`]TQR/0@@KPTRVY\^^XTS02@@INR
+IK_hd\
+0ehV
+&__ccARZ_c
+___abMPV[_
+JX\]_aURUY\
+__cHISX[]_YUUWZd
+9HPUY[][WVW|
+6`EGNSWY[[YWWXlgcbPJMQUXZ[ZXWXihfdYONPSVXZZYXXeffe_UPPRUWXYYXXbdeeb[URRTV
+_acdc_YUSSUVXXXX\_abba]XUTUVWXXXZ\^`aa_[XUU
+``]ZWVVVWWXVX[]^_`^\Y
+knoqrsstttu
+fikmnopqr
+tbegiklno
+rss_bdfhjklp
+pqqr]b
+nopp\ 
+acefh
+mnox
+acdfg
+XZ[]^`abd
+cdfh
+XYY[\
+XXYYZ[X1
+`abcdee
+cdL$
+ab"95
+#T5'h
+
+
+	@
+	
+
+|
+#X@
+"t(d
+"l99
+%CBVb___
+"+-Q`"
+ ),K^`tlgc
+&-/]q_gihf
+!*11c`tpmki
+&,33r_gjkkj>5
+)0LG}
+",2JK
+.4IIm
+05HHk
++!*6GGnj
+1'+-GG]g
+'C,4.V^g
+*M26-V_g
+ EB0SV_hl
+@@+><ZbiXVXZ\]ZVT14@@HMQ[XXZ[\[XV25@@HLO_[ZZZ[[ZWO6@@GKNc_\[@
+
+ZYR7@@FJMgc`]d
+
+ZU8@@FILigc`
+QDFIL
+TWY"B4_]"t6
+WWWRU
+QTV#
+2
+^]\ZYXWWPSUWYD&
+]]\[ZXXWO@
+YXXNP"`6
+Y[\\\\[D
+UTTVWl*
+			l
+
+
+
+*,
+"doy
+"%q"
+"X6#
+;"`q
+&)*`
+Rbkm
+
+
+
+
+
+!')b
+  !#'5
+
+!'8
+ !! 
+: :2UX`
+KG>;6
+-RL4!$
+_!F3
+6!(_5
+!#)+_
+#),.d
+")-8:a
+DE__
+,065n
+ORtl
+'2<=+ KL
+8 4CB*)IJd
+[djrt
+UYagq
+81X_fg|g
+BAG>ZpijL
+CCN93]zk
+??X::6_gi
+AA[L_
+VZej
+??V__
+RT]gj
+GK[fj
+_JX\
+RU^g
+<:V_x|
+::QYt{x~
+&3MNUbpu~
+!)/LLS[rm|
+(+-JKPWkjl
+Zekoq
+"%),
+"$&('
+!#%&&#L
+"$%%$"|
+ !("$('$L_
+ (+"&,)-,.^
+0$/211
+]&089Y
+=&h[T
+jvuww
+W^]estvw
+YWT^gll
+dCDLT`g
+ :=<Xg
+ 3PRe
+#AAi
+b4/l
+HtA>5
+FOZck~
+MV_dl
+KR\`j
+[`mq
+Hdk?Wir
+G^gQRb
+HW^YR_mit
+KSX[S^gs|
+MRU\S[an{
+MSVXVZ^i_P
+NPTZ__
+LMKX
+IaZOPDQu
+Ha\BOFJr
+Gb0LMT_J5
+Fd+:7_t
+d	)9
+d"F5
+)84#h4"
+5#t4$
+  "#P
+ !"#$|
+##! q
+-HG'.HH]
+"L3"/HHV
+%'))#(?>5
+#-GG
+&'((&,4
+&*D7
+&'&"
+"@?
+$++,IIOTfee
+(.-,HHMRd`_
+*//+GGLPd[\
+ ,02*GGKOdVY
+!.13*FFJNeSW
+!# "/24+FFIMfQW "$!#025+EEILeP^!#$#$036+EEHKeNa$),p
+7+DDHJeK_'-.t
+8+DDGJfK`*/0
+GIfRu,12o
+(3-DDFQ]X~.4I
+-00CCFZ[_
+0/2\
+'_[_h.1&
+!2.4CCEb]tp)*!
+#%3-5CCEc^~{ilx
+cor~
+`mps
+agknqJ
+fgilcX
+fed`[
+_hlprtuvwwxSVt
+
+tpoopqrsstu+
+~^'^eiklnh
+_hc3V^cfhjlmH
+tpkGRY^begijkmn
+}zv_WX\_adfd
+)@_glf_[[]_aceghiPY`eeb_]]^`acefg`\^acca_^^_`bcderidcccb`___
+1#L/"Q/
+"<2*5
+"<2"
+#P0f
+"YRh
+@x($
+	D	v
+L "#(q
+!""##
+N"p	
+$$  !}
+$$$%
+#$%$#!%tQ
+$$$#"!!!
+###l
+$&'('h
+#$%&'c
+'''&#L
+&%"m
+	$%%|
+%%$# 
+hv))`
+tu(&"
+77F`-*
+/#V\
+.0_h
+a~
+1KL
+>>_h
+WE@?\
+"`6$94
+7"Qt
+t$l5
+^"e^
+"(w$
+"Dt"
+		
+
+
+#'K?
+$B3`
+=_JA
+#&'512CCEfh
+()83/CCEZh
+,:4-BBDTf
+CX~k
+=2+BBDV[
+
+<5*\
+<;'BBDUgk
+0?*:DDQmj
+J`hT
+@02CCN^g
+
+=7,CCLXhc
+%<'CCKTki
+8.:8JQ^o
+2076HOXr
+,19DDMUb(
+*-99GGQ[
+,*6IIDNV
+*.1HHEKS
+rlifdca`__`abc
+ojeca`aa
+^mnj
+YbpmjT
+  -9
+ !!!
+!!!""|
+!"""
+!!!b
+  !  
+b  
+"####$
+##$##" 
+			$# 
+#*$8
+!,/z_
+VtA???'
+w~_JA?
+dUF= i
+
+??>5
+b;0(>5
+[__hdU
+
+???
+3??%
+nglp
+j0_l
+pjafi
+" 1	
+vrryg
+pdllbfwq	
+f]`iU^i
+k[\mV[^
+"`&	
+YZlXTT
+BCc=CDr
+k%sk&73f
+ !#'t
+"#%')
+$&'(
+$%&((
+"$%&'
+!"#$%''((
+ ),2EEDJP
+#*+5DDAIM
+&)/3CCADM_
+ %*21@@@FH
+#),0;8??HI
+).16A7GHN
+' ^L
+17;???N
+368:??L5
+$',N
+>-68698K,
+ "1867AB)#'5
+vV! D
+>>'&*0D
+18>?((+.*1(??@=
+ 8@@(),-,/-??</
+"@@)*,--00?>6'
+,@*+--.02?;/"|1
+,V]dnkn
+SY_jnnd
+NU[bkkher
+NPW]cmoinko
+JJSY^dqlbfmh
+IHKTZ_j
+ePVd
+lrrPILETZamr
+4OaipqRPOL<T\cox
+=E[dfPSUW83U]dv
+kSU]_NRVaY5,U]qm
+]RX[EOU^rY3SVbl_
+g?HPZeq$PQ[dVrxw|?BJR^ta2RT
+llwv|?AFMUcs#<:_f7Ybh@@DJO[o
+#TWfl(^`@@DGMSahe5*_
+``e_
+voed
+w|tkP
+_DET
+0#@Pd
+
+D#'@
+!"#&*T
+#%(+H
+')*)
+$$$!
+y_J"
+&%-?:,
+x``ge
+mYb|
+ydk[i/
+{_e4
+_#,`
+?knqrtt
+|_hlprt{
+OPs|tpoopq|
+MNh{~{yvuti
+~}|{V
+IIUh#x6
+HHQj
+GGRi
+FFZa
+&KJb
+l__cgjlnpq
+atlhhhjkmnuvwxxyyyzzz{`
+uvww*<
+rsstuvR
+tuuL
+zxwwvv\
+vvv~T
+|{zyyxxw`
+~~~}}||{zzy
+{TD
+rstt
+vvI8rl
+#y#|
+d#'X
+ {F!zy
+} }b
+
+p&d
+hXOL_J
+_JAWN
+_JXNC
+'())*
++,-./14>6)!
++,..025<0$
++0357*!
+,-.01341$
+0131* 
+$<;FJPZe
+ TWf
+(X %1HHNT^iu4(_
+*5$??PXc
+) #PPU^xPR{x{
+??R\t
+-X_wp
+,QQZd
+ LNVbp:5_s
+;9Sam
+&TWq
+#TSZh
+u\``r
+rq"r
+JK_ 
+hUdt
+Z^sP
+
+%]lxywxyy_a{o
+W\vywwyy
+Yzql
+bbj_
+$'_
+
+")*t
+&+,~
+")-.
+,14t
+.34~
+%2IF
++CBE
+gihw
+rokk
+tsch
+h};hlqt
+zcgmcgg
+qdpf`b
+eZ_`SY
+m__Y
+rHHP
+vh_^LI^gl
+x___$
+x_JX\n!9
+`__RVYz
+a___XVXv
+^ZXX
+\[YY
+ZZZY
+f_giihhijkl
+y__cefghhiij
+`tlhggg
+_RV[_bdeffP
+_XVY\_ac
+^ZXY[]
+efffgl
+	Z\^_abcdeeffn
+defYZZYZZ[]
+cdeYYZZZZ[\]^_`m
+mnoppqrrsssttttuklmn
+qrrrijjkllmmno
+ijjjl"l
+qqt"x'
+ppp)K
+sto|$)K
+nnn+J
+mm*F
+qrl+d0
+kk+E
+o|((F
+nol"*
+"6:_
+!),^
+ ),[
+(NGc
+taPQ
+Yc__
+[adh
+zqjgeb
+ ?)),102/-16
+!BA(. 
+ $!#
+"+1NF@4
+JDR^_
+98Y],56J]_JA?>
+
+IGJ0
+WNC>4 ???FF
+3ZdEE
+\bebgl?_
+?[HMO:Zabch___f
+LL?IKL*_
+beKWah1fknTZek
+TW`=`hm`\_g
+_UX_e
+A
+NQ]d
+V_g5  !
+?
+@^e |
+h~	n
+ejnqstuvw|
+t]flpr|
+QSWY_
+==4,_J`
+tmVZ__RZ
+P5\8
+^???W[VX
+ S'5
+!(K#
+!%-8
+?knqrz& 
+4_hlprs
+tpoopq
+~{yvu
+EEA_glo
+&X__cf
+(+b`_a
+KFp]^
+SIm_
+(+^_
+&*[_
+!,0Z_
+Tyri
+
+gaa
+tV\mQvsa
+RUgOwm1
+
+JKd
+VZMxy?
+]TXa
+gLz}[e
+$HNa
+fWw|ea
+``d4_`j
+.._r_)XZZc
+/0ent @
+%22]`
+!34U_
+55Qt
+66Ng
+MM_
+'77ML
++77TI
+.88_v_
+12Rt
+wxyyyz
+hg,>
+e\,>
+J\hm
+rsttuvvw
+}{xvuts@
+_hloq#
+p'O&sgj)@+
+rrspnm"
+%oo%
+),?h
+#$C(
+"<A%
+"8Hp
+-8H|%*9H
+		
+"
+`41`aj
+z_/-]ml
+|t("_eh
+#&qm
+tlg_"
+~ztld^\[ZZ
+}yrjd_][
+	}xqjd`
+~|xqj
+DZZD
+_`]["<E(A
+[\\]^_
+c_]_
+cc%DD"
+ghhb'@
+Dabb
+f__`aa
+Jfcb\
+jgfe
+#tJ#
+\rmm
+0_p_5
+A/0HWg
+$SI23YXV
+QII>?`N
++:8HALz
+(4F3
+Wkko
+mfjm_
+$)MRP
+%)MWVM\
+&MWZR_
+VJY[O[t^
+Ma_]_g
+JEYV\^__b
+(+VbW^___a
+GD^j^m
+(+Xffdj_~
+&??_7#r{t
+&IEc
+",.Z
+B*"a
+N0FCjm
+_hl(+!
+]hkb `^jr
+[D_JXNCROF;0(???\__RVQFOOH8,$
+_JX\VVSJNOJ-
+_[[XWTMNOK&
+c_]ZXVPNN
+ba`^\ZU
+?tmhc`]X
+tle_
+"%)+
+prtuvwwxh
+@V^$|
+_
+	/
+(??(
+2	??
+(?>5 
+???-?;1(SW
+#'-x
+b?0?9/+3
+$#'++
+WI?A>
+"'*+./
+,-+"pQP_
+97<<_
+>=9*]UT
+ ^HFy
+@>3-WVZ_h5
+#GGt
+!S__JA?W
+QN^L
+"0%$ \'*525
+5$),X032*
+_CCB`-
+".1Q_
+%47I_
+,-./A@Y__J
+
+87IVR_J
+==^Ld
+!(DI&
+~_!CD
+Z_JX
+34a~
+&68oq
+^_hk
+ <99wa_
+ 'J-%y[
+_gjk
+
+'+[!
+__cfh
+"58^
+ce#)_
+`ac>>w
+__``b~_
+W[]^__`a[a
+~_Z[\
+__]\\]`
+zg__REW[\\
+tl_NTXZd
+	]^^tA^dbVUWY`
+		
+
+
+h
+
+
+
+l
+
+
+
+
+
+!(>%
+"&-/"
+&)12g
+
+01[
+#.0~
+
+&-55
+&')!
+wqrx{
+vswz~}
+_\jprs~}yu
+GL[dkrqo
+LNU_opoh}
+RUhqqm}
+X_uwttn
+dbjljm
+
+abffbX
+NNWV
+_J`hmp

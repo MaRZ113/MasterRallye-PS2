@@ -1,0 +1,23 @@
+43fc family next-move scout v207
+=============================
+
+43fc7b :: hits=64 repeat_hits=51 repeat_ratio=0.7969 singleton=13 top=0000010c43fc7b92 | c900 | 0000010d43fc95b2 x6
+43fc87 :: hits=28 repeat_hits=25 repeat_ratio=0.8929 singleton=3 top=0000010c43fc87c4 | 442f | 0000010d43f8b802 x7
+43fc83 :: hits=27 repeat_hits=22 repeat_ratio=0.8148 singleton=5 top=0000010c43fc8392 | e484 | 0000010d43f022e4 x7
+43fc4d :: hits=22 repeat_hits=17 repeat_ratio=0.7727 singleton=5 top=0000010c43fc4d8d | bfcc x4
+43fc4c :: hits=21 repeat_hits=17 repeat_ratio=0.8095 singleton=4 top=0000010c43fc4c8c | 9fee x5
+43fccc :: hits=20 repeat_hits=20 repeat_ratio=1.0000 singleton=0 top=0000010c43fccc2b | 2cc7 | 0000010d43fcf8f9 x9
+43fcd2 :: hits=20 repeat_hits=18 repeat_ratio=0.9000 singleton=2 top=0000010c43fcd288 | 0673 | 0000010d42ec1e74 x4
+43fc79 :: hits=20 repeat_hits=17 repeat_ratio=0.8500 singleton=3 top=0000010c43fc7992 | c900 | 0000010d43fc91b2 x3
+43fcc4 :: hits=18 repeat_hits=17 repeat_ratio=0.9444 singleton=1 top=0000010c43fcc4fc | a2f8 | 0000010d43f18264 x7
+43fc8a :: hits=17 repeat_hits=15 repeat_ratio=0.8824 singleton=2 top=0000010c43fc8ae9 | 530f | 0000010d43fc9db2 x5
+43fcda :: hits=17 repeat_hits=15 repeat_ratio=0.8824 singleton=2 top=0000010c43fcda25 | 7db8 | 0000010d43f002e4 x5
+43fc9f :: hits=17 repeat_hits=13 repeat_ratio=0.7647 singleton=4 top=0000010c43fc9fd6 | 7964 x5
+43fcac :: hits=16 repeat_hits=16 repeat_ratio=1.0000 singleton=0 top=0000010c43fcac46 | ea39 | 0000010d43fcb8f8 x9
+43fcfa :: hits=16 repeat_hits=16 repeat_ratio=1.0000 singleton=0 top=0000010c43fcfafb | bf85 | 0000010d43f082e4 x5
+43fc48 :: hits=16 repeat_hits=13 repeat_ratio=0.8125 singleton=3 top=0000010c43fc48a1 | 0ced | 0000010d43fc59dc x3
+43fced :: hits=15 repeat_hits=14 repeat_ratio=0.9333 singleton=1 top=0000010c43fcedf6 | e2fc | 0000010d43fcfdcc x7
+43fcf2 :: hits=14 repeat_hits=14 repeat_ratio=1.0000 singleton=0 top=0000010c43fcf200 | ea50 | 0000010d43fca9f3 x7
+43fc8b :: hits=14 repeat_hits=11 repeat_ratio=0.7857 singleton=3 top=0000010c43fc8b5d | b921 | 0000010d43f9f8b9 x6
+43fc8c :: hits=13 repeat_hits=13 repeat_ratio=1.0000 singleton=0 top=0000010c43fc8c29 | cb62 | 0000010d43f87002 x7
+43fcbb :: hits=13 repeat_hits=13 repeat_ratio=1.0000 singleton=0 top=0000010c43fcbb9f | f46d x4

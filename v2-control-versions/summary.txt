@@ -1,0 +1,23 @@
+BX v14 rid-bank compare
+======================
+full_profile: /mnt/data/v13_clean/full
+variant_profile: /mnt/data/v13_clean/variant
+
+Most structural header/descriptor candidates:
+rid 01 [header] prefix_avg=11.5 ent_avg=4.350 len_delta=0
+rid 04 [header] prefix_avg=0.5 ent_avg=4.602 len_delta=-2
+rid 02 [header] prefix_avg=0.0 ent_avg=4.297 len_delta=-3
+rid 03 [header] prefix_avg=0.0 ent_avg=4.524 len_delta=-4
+rid 05 [descriptor] prefix_avg=0.0 ent_avg=5.478 len_delta=24
+rid 06 [descriptor] prefix_avg=0.0 ent_avg=5.865 len_delta=61
+rid 07 [descriptor] prefix_avg=0.0 ent_avg=6.362 len_delta=110
+
+Most payload-distinct data candidates:
+rid 09 [data] |len_delta|=146 ent_avg=7.091 prefix_avg=0.0 raw_len_delta=146
+rid 10 [data] |len_delta|=139 ent_avg=7.286 prefix_avg=0.0 raw_len_delta=139
+rid 13 [data] |len_delta|=114 ent_avg=7.413 prefix_avg=0.0 raw_len_delta=-114
+rid 15 [data] |len_delta|=101 ent_avg=7.332 prefix_avg=0.0 raw_len_delta=101
+rid 11 [data] |len_delta|=74 ent_avg=7.309 prefix_avg=0.0 raw_len_delta=74
+rid 14 [data] |len_delta|=72 ent_avg=7.398 prefix_avg=0.0 raw_len_delta=72
+rid 12 [data] |len_delta|=39 ent_avg=7.378 prefix_avg=0.0 raw_len_delta=-39
+rid 08 [data] |len_delta|=7 ent_avg=6.947 prefix_avg=0.0 raw_len_delta=7

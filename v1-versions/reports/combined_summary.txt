@@ -1,0 +1,28 @@
+file: singleton_bx_zone_1.bin
+size: 131072
+total markers: 33
+total clusters: 11
+clusters:
+  #0 0x1000-0x1061 span=0x61 count=4 primary=True tags=BX*Hd|BX91|BXA0|BXI1 notes=primary_chain;rec_ids=1,2,3,4
+  #1 0x20CD-0x210C span=0x3F count=3 primary=True tags=BX*Hd|BX91|BXA0 notes=primary_chain;rec_ids=1,2,3
+  #2 0x4B90-0x4BD1 span=0x41 count=3 primary=True tags=BX*Hd|BX91|BXA0 notes=primary_chain;rec_ids=1,2,3
+  #3 0x850D-0x8551 span=0x44 count=3 primary=True tags=BX*Hd|BX91|BXA0 notes=primary_chain;rec_ids=1,2,3
+  #4 0xDB1F-0xDB40 span=0x21 count=2 primary=False tags=BX91|BXBa notes=has_BXBa;rec_ids=2,3
+  #5 0xEA3F-0xEA60 span=0x21 count=2 primary=False tags=BX91|BXBa notes=has_BXBa;rec_ids=2,3
+  #6 0x1145B-0x114BF span=0x64 count=4 primary=True tags=BX*Hd|BX91|BXA0|BXI1 notes=primary_chain;rec_ids=1,2,3,4
+  #7 0x123BC-0x12420 span=0x64 count=4 primary=True tags=BX*Hd|BX91|BXA0|BXI1 notes=primary_chain;rec_ids=1,2,3,4
+  #8 0x14EA5-0x14F11 span=0x6C count=4 primary=True tags=BX*Hd|BX91|BXA0|BXI1 notes=primary_chain;rec_ids=1,2,3,4
+  #9 0x188A1-0x188E4 span=0x43 count=3 primary=True tags=BX*Hd|BX91|BXA0 notes=primary_chain;rec_ids=1,2,3
+  #10 0x1E315-0x1E315 span=0x0 count=1 primary=False tags=BX91 notes=rec_ids=2
+
+file: main_race_bx_zone_1.bin
+size: 131072
+total markers: 0
+total clusters: 0
+clusters:
+
+file: early_frontend_bx_zone_1.bin
+size: 73728
+total markers: 0
+total clusters: 0
+clusters:

@@ -1,0 +1,39 @@
+MRPS2 v138 coverage
+===================
+total_hits_under_sig7: 653
+matched_hits: 454
+quarantine_hits: 199
+coverage_ratio: 454/653 = 0.6953
+rulepack_rules: 144
+
+Top residual buckets:
+  none || none :: 9 | branches=9 | top=0000010c42542561 | f633::1
+  0B@-251 || none :: 3 | branches=3 | top=0000010c42542563 | 7fb1::1
+  0B@-300 || none :: 3 | branches=3 | top=0000010c42542562 | b77d::1
+  0B@-276 || none :: 2 | branches=2 | top=0000010c42542561 | a618::1
+  0B@-292 || none :: 2 | branches=2 | top=0000010c42542563 | 7fa0::1
+  0B@-302 || none :: 2 | branches=2 | top=0000010c42542563 | ec31::1
+  0B@-304 || none :: 2 | branches=2 | top=0000010c42542563 | 7fa1::1
+  0B@-308 || none :: 2 | branches=2 | top=0000010c42542562 | bfe4::1
+  0B@-314 || none :: 2 | branches=2 | top=0000010c42542563 | ff03::1
+  0B@-319 || none :: 2 | branches=2 | top=0000010c42542561 | cc30::1
+  0B@-328 || none :: 2 | branches=2 | top=0000010c42542561 | a618::1
+  0B@-330 || none :: 2 | branches=2 | top=0000010c42542561 | fd06::1
+  0B@-346 || none :: 2 | branches=2 | top=0000010c42542561 | 9a88::1
+  0B@-395 || none :: 2 | branches=2 | top=0000010c42542562 | 7c0d::1
+  none || 0D@687 :: 2 | branches=2 | top=0000010c42542563 | 7cd8 | 0000010d424864c6::1
+  0B@-228 || 0D@630 :: 1 | branches=1 | top=0000010c42542563 | 7da0 | 0000010d43683126::1
+  0B@-234 || 0D@591 :: 1 | branches=1 | top=0000010c42542563 | 7f62 | 0000010d436864c6::1
+  0B@-239 || none :: 1 | branches=1 | top=0000010c42542562 | ba61::1
+  0B@-240 || none :: 1 | branches=1 | top=0000010c42542561 | cc6c::1
+  0B@-249 || 0D@507 :: 1 | branches=1 | top=0000010c42542563 | fb00 | 0000010d42483126::1
+  0B@-250 || 0D@513 :: 1 | branches=1 | top=0000010c42542561 | befd | 0000010d42486562::1
+  0B@-252 || none :: 1 | branches=1 | top=0000010c42542561 | cc30::1
+  0B@-255 || 0D@589 :: 1 | branches=1 | top=0000010c42542563 | 7c98 | 0000010d424864ce::1
+  0B@-255 || none :: 1 | branches=1 | top=0000010c42542563 | 7fa1::1
+  0B@-259 || 0D@509 :: 1 | branches=1 | top=0000010c42542563 | fc40 | 0000010d42483126::1
+  0B@-259 || none :: 1 | branches=1 | top=0000010c42542563 | 7aa8::1
+  0B@-264 || none :: 1 | branches=1 | top=0000010c42542561 | 9e7b::1
+  0B@-265 || none :: 1 | branches=1 | top=0000010c42542561 | c830::1
+  0B@-267 || 0D@511 :: 1 | branches=1 | top=0000010c42542563 | 7aa8 | 0000010d4248732c::1
+  0B@-268 || 0D@560 :: 1 | branches=1 | top=0000010c42542563 | fe80 | 0000010d424864cf::1

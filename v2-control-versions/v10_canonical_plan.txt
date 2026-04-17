@@ -1,0 +1,19 @@
+BX canonical-family plan
+========================
+
+Confirmed from bx_family_research.zip:
+- full_A and full_B top family are exact duplicates at chain-signature level.
+- variant_B top family is a strict subset of variant_A top family.
+- Therefore the working canonical family set can be reduced to:
+  1) full family: use bx_family_full_A
+  2) variant family: use bx_family_variant_A
+
+What v10 should do next:
+- stop asking for more global / hotspot scans
+- extract per-chain, per-rid payloads for the canonical family bins
+- compare payload hashes and lengths by rid
+- focus parser work on rid 8..15 (payload-bearing stage), keeping rid 1..7 as header/control
+
+Suggested commands:
+python master_rallye_ps2_unpacker_v10.py profile-bx-family bx_family_full_A.bin bx_family_full_A.records.csv bx_family_full_A_profile --sig4 "BX*Hd|BX91.|BXA0.|BXL.."
+python master_rallye_ps2_unpacker_v10.py profile-bx-family bx_family_variant_A.bin bx_family_variant_A.records.csv bx_family_variant_A_profile --sig4 "BX*Hd|BX91.|BXA0.|BXI ."

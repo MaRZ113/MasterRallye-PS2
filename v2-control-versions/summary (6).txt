@@ -1,0 +1,21 @@
+MRPS2 v144 coverage for 43fc6f
+==============================
+total_hits_under_sig7: 282
+matched_hits: 272
+quarantine_hits: 10
+coverage_ratio: 272/282 = 0.9645
+rulepack_rules: 39
+exact_hits: 66
+flex_hits: 206
+
+Top residual buckets:
+  none || 0D@1050 :: 1 | branches=1 | top=0000010c43fc6ff3 | d6cd | 0000010d43fce064::1
+  none || 0D@1399 :: 1 | branches=1 | top=0000010c43fc6f8b | 201c | 0000010d43fc7b43::1
+  none || 0D@1410 :: 1 | branches=1 | top=0000010c43fc6f85 | 4805 | 0000010d43fc9bb2::1
+  none || 0D@1528 :: 1 | branches=1 | top=0000010c43fc6f8b | 2015 | 0000010d43fc7743::1
+  none || 0D@1536 :: 1 | branches=1 | top=0000010c43fc6f8b | 2402 | 0000010d43fc97b2::1
+  none || 0D@1584 :: 1 | branches=1 | top=0000010c43fc6f85 | 4805 | 0000010d43fc93b2::1
+  none || 0D@1593 :: 1 | branches=1 | top=0000010c43fc6f8b | 201c | 0000010d43fc97b2::1
+  none || 0D@1596 :: 1 | branches=1 | top=0000010c43fc6f25 | 9201 | 0000010d43fc8db2::1
+  none || 0D@1611 :: 1 | branches=1 | top=0000010c43fc6f8b | 2402 | 0000010d43fc9db2::1
+  none || 0D@927 :: 1 | branches=1 | top=0000010c43fc6f92 | c807 | 0000010d43fc99bf::1

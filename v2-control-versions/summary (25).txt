@@ -1,0 +1,10 @@
+total_hits: 44
+matched_hits: 44
+residual_hits: 0
+coverage_ratio: 1.0
+exact_hits: 6
+flex_hits: 38
+
+sig7: 0000010c43fc96
+rules: 4
+singleton_frontier: 0

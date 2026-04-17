@@ -1,0 +1,34 @@
+43fc7f v153 pass report
+=======================
+Domain: 0000010c43fc7f
+
+Stage 1 (v152 repeated-branch pass)
+-----------------------------------
+- total hits: 112
+- matched: 107
+- residual: 5
+- coverage: 95.54%
+- rules: 22
+- repeated frontier fully reduced to singleton-only residuals
+
+Stage 2 (v153 singleton promotion)
+----------------------------------
+- promoted singleton rules: 5
+- final matched: 112 / 112
+- final residual: 0
+- final coverage: 100.00%
+- merged rules in domain pack: 27
+
+Family impact
+-------------
+- 43fc family matched after v153: 1477 / 3534
+- family coverage: 41.79%
+- newly closed domain added: 43fc7f (112 hits)
+
+Residual singleton promotions
+-----------------------------
+- 0000010c43fc7f92 | c90f | 0000010d43fc7543
+- 0000010c43fc7f92 | c900 | 0000010d43fc754b
+- 0000010c43fc7fc2 | cc87 | 0000010d43fc7943
+- 0000010c43fc7fc2 | cc87 | 0000010d43fc7743
+- 0000010c43fc7f92 | cc87 | 0000010d43fc9951

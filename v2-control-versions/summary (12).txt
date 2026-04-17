@@ -1,0 +1,18 @@
+MRPS2 v150 coverage for 43fc67
+==============================
+total_hits_under_sig7: 159
+matched_hits: 152
+quarantine_hits: 7
+coverage_ratio: 152/159 = 0.9560
+rulepack_rules: 17
+exact_hits: 41
+flex_hits: 111
+
+Top residual buckets:
+  none || 0D@1092 :: 1 | branches=1 | top=0000010c43fc67d7 | 14c1 | 0000010d43fc87a9::1
+  none || 0D@1259 :: 1 | branches=1 | top=0000010c43fc6785 | 46b1 | 0000010d43fc654b::1
+  none || 0D@1383 :: 1 | branches=1 | top=0000010c43fc6725 | c46b | 0000010d43fc72ec::1
+  none || 0D@1473 :: 1 | branches=1 | top=0000010c43fc6785 | 4805 | 0000010d43fc674b::1
+  none || 0D@1567 :: 1 | branches=1 | top=0000010c43fc6785 | 4805 | 0000010d43fc6d4b::1
+  none || 0D@1589 :: 1 | branches=1 | top=0000010c43fc6785 | 4039 | 0000010d43fc6b4b::1
+  none || 0D@632 :: 1 | branches=1 | top=0000010c43fc6740 | 46d6 | 0000010d43fc5f0a::1

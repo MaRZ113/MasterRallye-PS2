@@ -1,0 +1,33 @@
+43fc next-move scout after v195
+===============================
+
+43fc65 :: hits=402 repeat_hits=397 repeat_ratio=0.9876 singleton=5 top=0000010c43fc6585 | 4039 | 0000010d43fc654b::217
+43fc6f :: hits=256 repeat_hits=243 repeat_ratio=0.9492 singleton=13 top=0000010c43fc6f92 | c807 | 0000010d43fc7943::24
+43fc6d :: hits=204 repeat_hits=190 repeat_ratio=0.9314 singleton=14 top=0000010c43fc6d91 | 2402 | 0000010d43fc7743::37
+43fc98 :: hits=159 repeat_hits=159 repeat_ratio=1.0000 singleton=0 top=0000010c43fc98e9 | 7321 | 0000010d43fcb3b2::94
+43fc67 :: hits=150 repeat_hits=143 repeat_ratio=0.9533 singleton=7 top=0000010c43fc6785 | 4039 | 0000010d43fc694b::45
+43fc7f :: hits=108 repeat_hits=103 repeat_ratio=0.9537 singleton=5 top=0000010c43fc7f92 | c90f | 0000010d43fc9fb2::18
+43fc9a :: hits=98 repeat_hits=98 repeat_ratio=1.0000 singleton=0 top=0000010c43fc9ae9 | 7321::18
+43fc7d :: hits=93 repeat_hits=84 repeat_ratio=0.9032 singleton=9 top=0000010c43fc7d92 | c900::12
+43fc81 :: hits=77 repeat_hits=73 repeat_ratio=0.9481 singleton=4 top=0000010c43fc8192 | c90f | 0000010d43fca1b2::16
+43fc7b :: hits=64 repeat_hits=51 repeat_ratio=0.7969 singleton=13 top=0000010c43fc7b92 | c900 | 0000010d43fc95b2::6
+43fc46 :: hits=53 repeat_hits=49 repeat_ratio=0.9245 singleton=4 top=0000010c43fc464c | 3090 | 0000010d43fc4272::7
+43fc9b :: hits=50 repeat_hits=47 repeat_ratio=0.9400 singleton=3 top=0000010c43fc9bc4 | b990 | 0000010d43f8a003::9
+43fcc7 :: hits=44 repeat_hits=43 repeat_ratio=0.9773 singleton=1 top=0000010c43fcc7d6 | 5e38 | 0000010d43f80ec8::9
+43fc85 :: hits=43 repeat_hits=34 repeat_ratio=0.7907 singleton=9 top=0000010c43fc8592 | cc87 | 0000010d43fc7943::8
+43fc71 :: hits=42 repeat_hits=34 repeat_ratio=0.8095 singleton=8 top=0000010c43fc7191 | 2402 | 0000010d43fc7943::7
+43fc96 :: hits=40 repeat_hits=40 repeat_ratio=1.0000 singleton=0 top=0000010c43fc96e9 | 7321 | 0000010d43fcb3b2::17
+43fc9d :: hits=39 repeat_hits=38 repeat_ratio=0.9744 singleton=1 top=0000010c43fc9d99 | 7332 | 0000010d43f0c264::9
+43fc86 :: hits=35 repeat_hits=32 repeat_ratio=0.9143 singleton=3 top=0000010c43fc86e9 | 521f | 0000010d43fc9bb2::7
+43fc84 :: hits=35 repeat_hits=31 repeat_ratio=0.8857 singleton=4 top=0000010c43fc84e8 | 9212 | 0000010d43f8b002::9
+43fcfb :: hits=34 repeat_hits=25 repeat_ratio=0.7353 singleton=9 top=0000010c43fcfbf7 | f9f7::7
+43fcfd :: hits=28 repeat_hits=28 repeat_ratio=1.0000 singleton=0 top=0000010c43fcfdc9 | ba85 | 0000010d43fcc132::7
+43fcfe :: hits=28 repeat_hits=27 repeat_ratio=0.9643 singleton=1 top=0000010c43fcfe1f | 6e2a | 0000010d43f062e4::7
+43fc87 :: hits=28 repeat_hits=25 repeat_ratio=0.8929 singleton=3 top=0000010c43fc87c4 | 442f | 0000010d43f8b802::7
+43fc82 :: hits=27 repeat_hits=25 repeat_ratio=0.9259 singleton=2 top=0000010c43fc82e9 | 6484 | 0000010d43fcf000::7
+43fc83 :: hits=27 repeat_hits=22 repeat_ratio=0.8148 singleton=5 top=0000010c43fc8392 | e484 | 0000010d43f022e4::7
+43fca1 :: hits=25 repeat_hits=25 repeat_ratio=1.0000 singleton=0 top=0000010c43fca132 | e3b2 | 0000010d43f0c264::10
+43fc88 :: hits=25 repeat_hits=24 repeat_ratio=0.9600 singleton=1 top=0000010c43fc88e9 | 530f::6
+43fcf6 :: hits=24 repeat_hits=23 repeat_ratio=0.9583 singleton=1 top=0000010c43fcf6fb | bec2 | 0000010d43fcea00::7
+43fc80 :: hits=23 repeat_hits=22 repeat_ratio=0.9565 singleton=1 top=0000010c43fc80e9 | 7321 | 0000010d43f9f7ba::7
+43fcce :: hits=23 repeat_hits=22 repeat_ratio=0.9565 singleton=1 top=0000010c43fcceec | b9d6 | 0000010d43f9b3ae::7

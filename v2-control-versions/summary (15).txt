@@ -1,0 +1,16 @@
+MRPS2 v151 coverage
+===================
+total_hits_under_sig7: 112
+matched_hits: 107
+quarantine_hits: 5
+coverage_ratio: 107/112 = 0.9554
+rulepack_rules: 22
+exact_hits: 21
+flex_hits: 86
+
+Top residual buckets:
+  none || 0D@1425 :: 1 | branches=1 | top=0000010c43fc7f92 | cc87 | 0000010d43fc9951::1
+  none || 0D@1487 :: 1 | branches=1 | top=0000010c43fc7f92 | c90f | 0000010d43fc7543::1
+  none || 0D@1648 :: 1 | branches=1 | top=0000010c43fc7fc2 | cc87 | 0000010d43fc7943::1
+  none || 0D@1714 :: 1 | branches=1 | top=0000010c43fc7fc2 | cc87 | 0000010d43fc7743::1
+  none || 0D@1764 :: 1 | branches=1 | top=0000010c43fc7f92 | c900 | 0000010d43fc754b::1

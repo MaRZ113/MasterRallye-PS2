@@ -1,0 +1,9 @@
+MRPS2 v195 43fc family coverage
+============================= 
+total_hits_under_sig7: 3534
+matched_hits: 184
+quarantine_hits: 3350
+coverage_ratio: 184/3534 = 0.0521
+rulepack_rules: 407
+exact_hits: 56
+flex_hits: 128

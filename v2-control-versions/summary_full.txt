@@ -1,0 +1,16 @@
+rid 01: samples=3 len=23/23/28 ent=4.2627/4.3496/4.7359 prefix=17 suffix=0
+rid 02: samples=3 len=21/22/25 ent=4.1867/4.2018/4.4039 prefix=0 suffix=0
+rid 03: samples=3 len=25/25/32 ent=4.3737/4.4839/4.7264 prefix=0 suffix=0
+rid 04: samples=3 len=27/28/34 ent=4.4233/4.5327/4.911 prefix=1 suffix=0
+rid 05: samples=3 len=50/62/64 ent=5.6039/5.7606/5.7812 prefix=0 suffix=0
+rid 06: samples=3 len=99/110/118 ent=6.262/6.3608/6.3783 prefix=0 suffix=0
+rid 07: samples=3 len=174/186/207 ent=6.787/6.8177/6.8278 prefix=0 suffix=0
+rid 08: samples=3 len=172/198/223 ent=6.8229/6.9789/7.0496 prefix=0 suffix=0
+rid 09: samples=3 len=320/344/345 ent=7.2936/7.3116/7.3692 prefix=0 suffix=0
+rid 10: samples=3 len=376/384/389 ent=7.4264/7.4534/7.4887 prefix=0 suffix=0
+rid 11: samples=3 len=352/363/386 ent=7.3768/7.393/7.4711 prefix=0 suffix=0
+rid 12: samples=3 len=340/357/385 ent=7.3476/7.3997/7.4306 prefix=0 suffix=0
+rid 13: samples=3 len=275/289/319 ent=7.2093/7.3072/7.3384 prefix=0 suffix=0
+rid 14: samples=3 len=392/420/462 ent=7.4111/7.4689/7.4799 prefix=0 suffix=0
+rid 15: samples=3 len=370/395/445 ent=7.373/7.3877/7.4357 prefix=0 suffix=0
+rid 16: samples=0 len=None/None/None ent=None/None/None prefix=0 suffix=0

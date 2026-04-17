@@ -1,0 +1,45 @@
+MRPS2 v145 pass report for sig7=0000010c43fc6f
+=============================================
+total_hits: 282
+v144_matched: 272
+v144_residual: 10
+v144_ratio: 272/282 = 0.9645
+v145_matched: 282
+v145_residual: 0
+v145_ratio: 282/282 = 1.0000
+v144_rules: 39
+v145_singleton_additions: 10
+
+v144 repeated branches covered:
+  0000010c43fc6f92 | c807 | 0000010d43fc7943 :: 24
+  0000010c43fc6f91 | 201c | 0000010d43fc7943 :: 24
+  0000010c43fc6f92 | c900 :: 20
+  0000010c43fc6f91 | 2402 | 0000010d43fc7743 :: 17
+  0000010c43fc6f8b | 2402 | 0000010d43fc7743 :: 13
+  0000010c43fc6f92 | c807 :: 12
+  0000010c43fc6f91 | 2402 :: 11
+  0000010c43fc6f91 | 2402 | 0000010d43fc7761 :: 10
+  0000010c43fc6f91 | 2402 | 0000010d43fc7943 :: 10
+  0000010c43fc6f92 | c900 | 0000010d43fc7943 :: 9
+  0000010c43fc6f8b | 2402 | 0000010d43fc7943 :: 9
+  0000010c43fc6f92 | c900 | 0000010d43fc7543 :: 9
+  0000010c43fc6f8b | 2402 :: 8
+  0000010c43fc6f85 | 4805 | 0000010d43fc7761 :: 7
+  0000010c43fc6f92 | c900 | 0000010d43fc754b :: 7
+  0000010c43fc6f85 | 4039 | 0000010d43fc794b :: 6
+  0000010c43fc6f92 | c900 | 0000010d43fc7961 :: 6
+  0000010c43fc6f85 | 4805 | 0000010d43fc7743 :: 6
+  0000010c43fc6f85 | 4805 :: 5
+  0000010c43fc6f8b | 2402 | 0000010d43fc9bb2 :: 4
+
+Singletons promoted in v145:
+  v145_singleton_25_9201_559E4037 :: 0000010c43fc6f25 | 9201 | prev=none | next=0D@1596 | tail=0000010d43fc8db2
+  v145_singleton_85_4805_FABDF174 :: 0000010c43fc6f85 | 4805 | prev=none | next=0D@1584 | tail=0000010d43fc93b2
+  v145_singleton_85_4805_847E2565 :: 0000010c43fc6f85 | 4805 | prev=none | next=0D@1410 | tail=0000010d43fc9bb2
+  v145_singleton_8b_2015_F191A30E :: 0000010c43fc6f8b | 2015 | prev=none | next=0D@1528 | tail=0000010d43fc7743
+  v145_singleton_8b_201c_8059D798 :: 0000010c43fc6f8b | 201c | prev=none | next=0D@1593 | tail=0000010d43fc97b2
+  v145_singleton_8b_201c_713D6323 :: 0000010c43fc6f8b | 201c | prev=none | next=0D@1399 | tail=0000010d43fc7b43
+  v145_singleton_8b_2402_8D9553C4 :: 0000010c43fc6f8b | 2402 | prev=none | next=0D@1611 | tail=0000010d43fc9db2
+  v145_singleton_8b_2402_BB25E3CD :: 0000010c43fc6f8b | 2402 | prev=none | next=0D@1536 | tail=0000010d43fc97b2
+  v145_singleton_92_c807_11F4EE82 :: 0000010c43fc6f92 | c807 | prev=none | next=0D@927 | tail=0000010d43fc99bf
+  v145_singleton_f3_d6cd_CD6887A6 :: 0000010c43fc6ff3 | d6cd | prev=none | next=0D@1050 | tail=0000010d43fce064

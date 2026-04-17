@@ -1,0 +1,209 @@
+[
+  {
+    "name": "auto_domain43fc44_v194_4c_4242_4072_prev09",
+    "sig7": "0000010c43fc44",
+    "prev": "09@-2708",
+    "next": "0D@732",
+    "source": "auto_domain43fc44_v194",
+    "mode": "exact",
+    "members": {
+      "0000010c43fc444c": {
+        "body_prefix": "4242",
+        "tail_sig8": "0000010d43fc4072"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc44_v194_4c_4242_4072_prev0B",
+    "sig7": "0000010c43fc44",
+    "prev": "none",
+    "next": "none",
+    "source": "auto_domain43fc44_v194",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "0B"
+      ],
+      "min": -754,
+      "max": -729
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 585,
+      "max": 697
+    },
+    "members": {
+      "0000010c43fc444c": {
+        "body_prefix": "4242",
+        "tail_sig8": "0000010d43fc4072"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc44_v194_4c_3090_none",
+    "sig7": "0000010c43fc44",
+    "prev": "none",
+    "next": "none",
+    "source": "auto_domain43fc44_v194",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "09",
+        "0B"
+      ],
+      "min": -2733,
+      "max": -762
+    },
+    "next_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "members": {
+      "0000010c43fc444c": {
+        "body_prefix": "3090"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc44_v194_4c_3090_4272",
+    "sig7": "0000010c43fc44",
+    "prev": "none",
+    "next": "none",
+    "source": "auto_domain43fc44_v194",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "0B"
+      ],
+      "min": -862,
+      "max": -825
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 639,
+      "max": 751
+    },
+    "members": {
+      "0000010c43fc444c": {
+        "body_prefix": "3090",
+        "tail_sig8": "0000010d43fc4272"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc44_v194_4c_4243_4072",
+    "sig7": "0000010c43fc44",
+    "prev": "none",
+    "next": "none",
+    "source": "auto_domain43fc44_v194",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "0B"
+      ],
+      "min": -786,
+      "max": -766
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 662,
+      "max": 662
+    },
+    "members": {
+      "0000010c43fc444c": {
+        "body_prefix": "4243",
+        "tail_sig8": "0000010d43fc4072"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc44_v194_7b_2358_467b",
+    "sig7": "0000010c43fc44",
+    "prev": "none",
+    "next": "none",
+    "source": "auto_domain43fc44_v194",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "0B"
+      ],
+      "min": -1410,
+      "max": -1386
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 1114,
+      "max": 1114
+    },
+    "members": {
+      "0000010c43fc447b": {
+        "body_prefix": "2358",
+        "tail_sig8": "0000010d43fc467b"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc44_v194_c1_a346_bcbc",
+    "sig7": "0000010c43fc44",
+    "prev": "none",
+    "next": "none",
+    "source": "auto_domain43fc44_v194",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "0B"
+      ],
+      "min": -988,
+      "max": -968
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 547,
+      "max": 547
+    },
+    "members": {
+      "0000010c43fc44c1": {
+        "body_prefix": "a346",
+        "tail_sig8": "0000010dbcbc0000"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc44_v194_4c_3090_254c",
+    "sig7": "0000010c43fc44",
+    "prev": "0B@-825",
+    "next": "0D@640",
+    "source": "auto_domain43fc44_v194",
+    "mode": "exact",
+    "members": {
+      "0000010c43fc444c": {
+        "body_prefix": "3090",
+        "tail_sig8": "0000010d254c3100"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc44_v194_4c_4242_none",
+    "sig7": "0000010c43fc44",
+    "prev": "0A@-1629",
+    "next": "07@4067",
+    "source": "auto_domain43fc44_v194",
+    "mode": "exact",
+    "members": {
+      "0000010c43fc444c": {
+        "body_prefix": "4242"
+      }
+    }
+  }
+]

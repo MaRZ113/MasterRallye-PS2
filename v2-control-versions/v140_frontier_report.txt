@@ -1,0 +1,30 @@
+MRPS2 v140 frontier report
+========================
+baseline_v138: 454/653 = 0.6953
+v140_with_flex: 516/653 = 0.7902
+rescued_hits: 62
+remaining_residual: 137
+
+Key result:
+- All repeated residual branches (count >= 2) were captured by 24 flex frontier rules.
+- After v140, the remaining residual frontier is entirely singleton (max branch count = 1).
+
+Top flex rules by rescued hits:
+- flex_frontier_61_930c_424864cb: 8
+- flex_frontier_61_930c: 4
+- flex_frontier_61_a618: 4
+- flex_frontier_61_cc58: 3
+- flex_frontier_63_7cd8_424864cb: 3
+- flex_frontier_61_9e7b: 3
+- flex_frontier_63_7fa1: 3
+- flex_frontier_63_7fb5_424864cb: 2
+- flex_frontier_63_7fb1_424864cb: 2
+- flex_frontier_63_7fa0: 2
+- flex_frontier_61_cc30_424864cd: 2
+- flex_frontier_63_7fb6_424864cb: 2
+- flex_frontier_63_7b2e_42483126: 2
+- flex_frontier_61_df2e_424864cb: 2
+- flex_frontier_63_7ea0_42486562: 2
+
+Next move:
+- v141 should focus on singleton promotion or a broader multi-domain engine, not more 425425 branch-family work.

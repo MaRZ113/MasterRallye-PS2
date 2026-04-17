@@ -1,0 +1,9 @@
+MRPS2 v156 coverage :: 43fc81
+=============================
+total_hits_under_sig7: 81
+matched_hits: 77
+quarantine_hits: 4
+coverage_ratio: 77/81 = 0.9506
+rulepack_rules: 17
+exact_hits: 20
+flex_hits: 57

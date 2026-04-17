@@ -1,0 +1,18 @@
+MRPS2 v141 singleton pass report
+===============================
+base_v140: 516/653 = 0.7902
+v141_exact_md5: 653/653 = 1.0000
+new_singleton_rules: 137
+rulepack_total: 305
+residual_remaining: 0
+
+Implementation note:
+- v141 adds body_md5-aware exact matching for singleton promotion rules.
+- This is safer than body_prefix-only singleton promotion because it binds each rule to the exact record body.
+- Outcome: complete closure for the 0000010c425425** domain on the current full TNG.000.
+
+Strategic note:
+- 425425** is now a closed domain under v141 for this file.
+- The next meaningful step is no longer more 425425 cleanup, but either:
+  1) extract/interpret what these matched families mean structurally, or
+  2) pivot to the next RID0C domain families in TNG.000.

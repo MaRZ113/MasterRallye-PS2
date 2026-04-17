@@ -1,0 +1,7 @@
+MRPS2 v157 pass report :: 43fc81
+===============================
+v156 matched: 77 / 81 = 0.9506
+v156 residual: 4
+v157 matched: 81 / 81 = 1.0000
+v157 residual: 0
+singleton_promotions: 4

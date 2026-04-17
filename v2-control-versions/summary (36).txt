@@ -1,0 +1,9 @@
+MRPS2 v195 43fc44 coverage
+========================
+total_hits: 32
+matched_hits: 32
+quarantine_hits: 0
+coverage_ratio: 32/32 = 1.0000
+rulepack_rules: 14
+exact_hits: 11
+flex_hits: 21

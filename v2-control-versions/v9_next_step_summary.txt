@@ -1,0 +1,30 @@
+Master Rallye PS2 BX v9 notes
+============================
+
+Key findings from bx_chain_region_full.bin and bx_chain_region_variant.bin:
+
+1. BX chains are real 16-record structures, not 4-record only.
+2. The visible front tags (BX*Hd/BX91/BXA0/BXI1 or variants) are only the first quarter of the chain.
+3. There are at least two stable BX families:
+   - full-region dominant family: BX*Hd | BX91. | BXA0. | BXL..
+   - variant-region dominant family: BX*Hd | BX91. | BXA0. | BXI .
+4. In both families, rid 1..4 have very short payloads and look like a compact header stage.
+5. rid 5..7 still look header-ish / control-like.
+6. rid 8..15 are much larger and are likely the real payload-bearing stage.
+7. rid 16 is terminal (no payload_len because it ends the chain).
+
+Best next move:
+- stop taking giant hotspot windows
+- target SAME-FAMILY chain regions and compare several neighboring chains of the same family
+
+Recommended carve windows:
+python master_rallye_ps2_unpacker_v8_1.py carve-window TNG.000 0x37008EEB 0x18000 bx_family_full_A.bin
+python master_rallye_ps2_unpacker_v8_1.py carve-window TNG.000 0x37014EEB 0x18000 bx_family_full_B.bin
+python master_rallye_ps2_unpacker_v8_1.py carve-window TNG.000 0x3C0FC616 0x18000 bx_family_variant_A.bin
+python master_rallye_ps2_unpacker_v8_1.py carve-window TNG.000 0x3C108616 0x18000 bx_family_variant_B.bin
+
+Then profile them with:
+python master_rallye_ps2_unpacker_v9.py profile-bx-families bx_family_full_A.bin bx_family_full_A
+python master_rallye_ps2_unpacker_v9.py profile-bx-families bx_family_full_B.bin bx_family_full_B
+python master_rallye_ps2_unpacker_v9.py profile-bx-families bx_family_variant_A.bin bx_family_variant_A
+python master_rallye_ps2_unpacker_v9.py profile-bx-families bx_family_variant_B.bin bx_family_variant_B

@@ -1,0 +1,11 @@
+MRPS2 v145 coverage
+===================
+total_hits_under_sig7: 163
+matched_hits: 163
+quarantine_hits: 0
+coverage_ratio: 163/163 = 1.0000
+rulepack_rules: 9
+exact_hits: 42
+flex_hits: 121
+
+Top residual buckets:

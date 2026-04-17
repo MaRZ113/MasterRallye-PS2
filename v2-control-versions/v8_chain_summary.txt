@@ -1,0 +1,59 @@
+Master Rallye PS2 BX v8 findings
+================================
+
+What is now confirmed:
+- BX records are not just loose signatures.
+- A compact record framing exists before tags:
+  - 00 00 00 01 <rid>
+  - or 00 00 01 <rid>
+- The rid values form a real ascending sequence, at least 1..16.
+- A canonical full chain exists and is parseable.
+
+Focus comparison:
+1) bx_chain_focus_37009EEB.bin (full-chain rich)
+   Record sequence recovered:
+   1 BX*Hd
+   2 BX91
+   3 BXA0
+   4 BXI1
+   5 B^.cH
+   6 B|...
+   7 C... 
+   8 C...
+   9 C...
+   10 C...
+   11 C...
+   12 C...
+   13 C...
+   14 B^...
+   15 BY...
+   16 BY...
+
+2) bx_chain_focus_3C0FD616.bin (no4-type / variant)
+   Record sequence recovered:
+   1 BX*Hd
+   2 BX91
+   3 BXA0
+   4 BXI 
+   5 BXbC
+   6 BX..
+   7 BY..
+   8 BY..
+   9 C|..
+   10 C|..
+   11 B[..
+   12 B\..
+   13 C...
+   14 B^..
+   15 B[..
+   16 BY..
+
+Important correction:
+- The earlier names 'primary_chain' and 'primary_chain_no4' are only the visible BX-marker surface.
+- Underneath them, the real chain continues well beyond rid=4.
+- So BX*Hd/BX91/BXA0/BXI1 are just the front half of a larger 16-record structure.
+
+Best next move:
+- Stop broad scanning for a moment.
+- Target one larger carve around a canonical 1..16 chain region and one around a variant 1..16 region.
+- Then compare per-record payloads by rid and length.

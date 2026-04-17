@@ -1,0 +1,23 @@
+43fc next-move scout after v174
+===============================
+
+43fc7b :: hits=64 repeat_hits=51 repeat_ratio=0.7969 singleton=13 top=0000010c43fc7b92 | c900 | 0000010d43fc95b2::6
+43fcfb :: hits=40 repeat_hits=33 repeat_ratio=0.8250 singleton=7 top=0000010c43fcfbf7 | f9f7::7
+43fc44 :: hits=32 repeat_hits=27 repeat_ratio=0.8438 singleton=5 top=0000010c43fc444c | 4242 | 0000010d43fc4072::6
+43fcfd :: hits=28 repeat_hits=28 repeat_ratio=1.0000 singleton=0 top=0000010c43fcfdc9 | ba85 | 0000010d43fcc132::7
+43fcfe :: hits=28 repeat_hits=27 repeat_ratio=0.9643 singleton=1 top=0000010c43fcfe1f | 6e2a | 0000010d43f062e4::7
+43fc87 :: hits=28 repeat_hits=25 repeat_ratio=0.8929 singleton=3 top=0000010c43fc87c4 | 442f | 0000010d43f8b802::7
+43fc82 :: hits=27 repeat_hits=25 repeat_ratio=0.9259 singleton=2 top=0000010c43fc82e9 | 6484 | 0000010d43fcf000::7
+43fc83 :: hits=27 repeat_hits=22 repeat_ratio=0.8148 singleton=5 top=0000010c43fc8392 | e484 | 0000010d43f022e4::7
+43fca1 :: hits=25 repeat_hits=25 repeat_ratio=1.0000 singleton=0 top=0000010c43fca132 | ce32 | 0000010d43f082e4::9
+43fc88 :: hits=25 repeat_hits=24 repeat_ratio=0.9600 singleton=1 top=0000010c43fc88e9 | 530f::6
+43fcf6 :: hits=24 repeat_hits=23 repeat_ratio=0.9583 singleton=1 top=0000010c43fcf6fb | bec2 | 0000010d43fcea00::7
+43fc80 :: hits=23 repeat_hits=22 repeat_ratio=0.9565 singleton=1 top=0000010c43fc80e9 | 7321 | 0000010d43f9f7ba::7
+43fcce :: hits=23 repeat_hits=22 repeat_ratio=0.9565 singleton=1 top=0000010c43fcceec | b9d6 | 0000010d43f9b3ae::7
+43fc4d :: hits=22 repeat_hits=17 repeat_ratio=0.7727 singleton=5 top=0000010c43fc4d8d | bfcc::4
+43fc4c :: hits=21 repeat_hits=17 repeat_ratio=0.8095 singleton=4 top=0000010c43fc4c8c | 9fee::5
+43fccc :: hits=20 repeat_hits=20 repeat_ratio=1.0000 singleton=0 top=0000010c43fccc2b | 2cc7 | 0000010d43fcf8f9::9
+43fcd2 :: hits=20 repeat_hits=18 repeat_ratio=0.9000 singleton=2 top=0000010c43fcd288 | 0673 | 0000010d42ec1e74::4
+43fc79 :: hits=20 repeat_hits=17 repeat_ratio=0.8500 singleton=3 top=0000010c43fc7992 | c900 | 0000010d43fc91b2::3
+43fcba :: hits=19 repeat_hits=18 repeat_ratio=0.9474 singleton=1 top=0000010c43fcba00 | fb8f | 0000010d43fc97ce::9
+43fcc4 :: hits=18 repeat_hits=17 repeat_ratio=0.9444 singleton=1 top=0000010c43fcc4fc | a2f8 | 0000010d43f18264::7

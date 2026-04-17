@@ -1,0 +1,23 @@
+singleton_bx_zone_2:
+source: /mnt/data/singleton_bx_zone_2.bin
+markers: 39
+clusters: 11
+0x0-0x66 primary_chain BX*Hd|BX91|BXA0|BXI1
+0x10CD-0x1130 primary_chain_no4 BX*Hd|BX91|BXA0|BXU
+0x3B90-0x3BF8 primary_chain_no4 BX*Hd|BX91|BXA0|BXQ
+0x750D-0x7579 primary_chain_no4 BX*Hd|BX91|BXA0|BXT
+0xCB1F-0xCB68 variant_chain BX91|BXBa|BX{
+0xDA3F-0xDA95 variant_chain BX91|BXBa|BX{
+0x1045B-0x104C4 primary_chain BX*Hd|BX91|BXA0|BXI1
+0x113BC-0x11425 primary_chain BX*Hd|BX91|BXA0|BXI1
+0x13EA5-0x13F16 primary_chain BX*Hd|BX91|BXA0|BXI1
+0x178A1-0x178E9 primary_chain_no4 BX*Hd|BX91|BXA0
+0x1D315-0x1D33D mixed BX91|BX{
+early_frontend_bx_zone_2:
+source: /mnt/data/early_frontend_bx_zone_2.bin
+markers: 0
+clusters: 0
+main_race_bx_zone_2:
+source: /mnt/data/main_race_bx_zone_2.bin
+markers: 0
+clusters: 0

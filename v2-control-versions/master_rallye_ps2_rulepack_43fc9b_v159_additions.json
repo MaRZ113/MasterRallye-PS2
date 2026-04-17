@@ -1,0 +1,62 @@
+[
+  {
+    "name": "v159_singleton_c4_b990_8c2543bf",
+    "sig7": "0000010c43fc9b",
+    "prev": "none",
+    "next": "0D@1725",
+    "source": "singleton_promotion_v159",
+    "mode": "exact",
+    "members": {
+      "0000010c43fc9bc4": {
+        "body_prefix": "b990",
+        "body_md5": "8c2543bfef793f1d1d5de360c27e63c8",
+        "tail_sig8": "0000010d43f86003"
+      }
+    }
+  },
+  {
+    "name": "v159_singleton_4d_7f94_d7d3fe54",
+    "sig7": "0000010c43fc9b",
+    "prev": "0B@-356",
+    "next": "0D@526",
+    "source": "singleton_promotion_v159",
+    "mode": "exact",
+    "members": {
+      "0000010c43fc9b4d": {
+        "body_prefix": "7f94",
+        "body_md5": "d7d3fe5497ac7db2b07042644e5ec6e6",
+        "tail_sig8": "0000010d425d72da"
+      }
+    }
+  },
+  {
+    "name": "v159_singleton_9b_dd8b_672d6766",
+    "sig7": "0000010c43fc9b",
+    "prev": "none",
+    "next": "0D@738",
+    "source": "singleton_promotion_v159",
+    "mode": "exact",
+    "members": {
+      "0000010c43fc9b9b": {
+        "body_prefix": "dd8b",
+        "body_md5": "672d6766e04e9359285fd8b66f5e68fd",
+        "tail_sig8": "0000010d43fcd1b7"
+      }
+    }
+  },
+  {
+    "name": "v159_singleton_f6_ba01_9a7386dd",
+    "sig7": "0000010c43fc9b",
+    "prev": "none",
+    "next": "0D@708",
+    "source": "singleton_promotion_v159",
+    "mode": "exact",
+    "members": {
+      "0000010c43fc9bf6": {
+        "body_prefix": "ba01",
+        "body_md5": "9a7386dd917c35ddc32540c4d4546217",
+        "tail_sig8": "0000010d43fc464c"
+      }
+    }
+  }
+]

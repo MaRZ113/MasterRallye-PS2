@@ -1,0 +1,161 @@
+[
+  {
+    "name": "auto_domain43fcfe_v198_1f_6e2a_62e4",
+    "sig7": "0000010c43fcfe",
+    "prev": "none",
+    "next": "0D@1700",
+    "source": "auto_domain43fcfe_v198",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 1653,
+      "max": 1700
+    },
+    "members": {
+      "0000010c43fcfe1f": {
+        "body_prefix": "6e2a",
+        "tail_sig8": "0000010d43f062e4"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fcfe_v198_00_f80c_d802",
+    "sig7": "0000010c43fcfe",
+    "prev": "none",
+    "next": "0D@1585",
+    "source": "auto_domain43fcfe_v198",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 1544,
+      "max": 1647
+    },
+    "members": {
+      "0000010c43fcfe00": {
+        "body_prefix": "f80c",
+        "tail_sig8": "0000010d43f8d802"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fcfe_v198_00_7cfb_f7ad",
+    "sig7": "0000010c43fcfe",
+    "prev": "none",
+    "next": "0D@1126",
+    "source": "auto_domain43fcfe_v198",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 1124,
+      "max": 1126
+    },
+    "members": {
+      "0000010c43fcfe00": {
+        "body_prefix": "7cfb",
+        "tail_sig8": "0000010d43f0f7ad"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fcfe_v198_6d_c875_0bca",
+    "sig7": "0000010c43fcfe",
+    "prev": "none",
+    "next": "0D@775",
+    "source": "auto_domain43fcfe_v198",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 773,
+      "max": 775
+    },
+    "members": {
+      "0000010c43fcfe6d": {
+        "body_prefix": "c875",
+        "tail_sig8": "0000010d43f80bca"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fcfe_v198_fe_b75d_2613",
+    "sig7": "0000010c43fcfe",
+    "prev": "none",
+    "next": "0D@1211",
+    "source": "auto_domain43fcfe_v198",
+    "mode": "exact",
+    "members": {
+      "0000010c43fcfefe": {
+        "body_prefix": "b75d",
+        "tail_sig8": "0000010d43c62613"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fcfe_v198_1f_6e2a_none",
+    "sig7": "0000010c43fcfe",
+    "prev": "none",
+    "next": "none",
+    "source": "auto_domain43fcfe_v198",
+    "mode": "exact",
+    "members": {
+      "0000010c43fcfe1f": {
+        "body_prefix": "6e2a"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fcfe_v198_ee_9fb1_none",
+    "sig7": "0000010c43fcfe",
+    "prev": "none",
+    "next": "none",
+    "source": "auto_domain43fcfe_v198",
+    "mode": "exact",
+    "members": {
+      "0000010c43fcfeee": {
+        "body_prefix": "9fb1"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fcfe_v199_singleton_ee_9fb1_671d",
+    "sig7": "0000010c43fcfe",
+    "prev": "none",
+    "next": "0D@1316",
+    "source": "singleton_promotion_v199_43fcfe",
+    "mode": "exact",
+    "members": {
+      "0000010c43fcfeee": {
+        "body_prefix": "9fb1",
+        "body_md5": "58d3a04e3097c06c54cfc84daabaf341",
+        "tail_sig8": "0000010d43f8671d"
+      }
+    }
+  }
+]

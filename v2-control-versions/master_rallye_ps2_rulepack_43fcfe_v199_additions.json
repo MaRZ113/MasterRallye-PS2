@@ -1,0 +1,17 @@
+[
+  {
+    "name": "auto_domain43fcfe_v199_singleton_ee_9fb1_671d",
+    "sig7": "0000010c43fcfe",
+    "prev": "none",
+    "next": "0D@1316",
+    "source": "singleton_promotion_v199_43fcfe",
+    "mode": "exact",
+    "members": {
+      "0000010c43fcfeee": {
+        "body_prefix": "9fb1",
+        "body_md5": "58d3a04e3097c06c54cfc84daabaf341",
+        "tail_sig8": "0000010d43f8671d"
+      }
+    }
+  }
+]

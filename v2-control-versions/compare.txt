@@ -1,0 +1,17 @@
+Canonical family compare
+rid 01: full len_med=23 ent=4.3496 prefix=17 suffix=0 | variant len_med=23 ent=4.3496 prefix=6 suffix=0
+rid 02: full len_med=22 ent=4.2018 prefix=0 suffix=0 | variant len_med=25 ent=4.3927 prefix=0 suffix=0
+rid 03: full len_med=25 ent=4.4839 prefix=0 suffix=0 | variant len_med=29 ent=4.5639 prefix=0 suffix=0
+rid 04: full len_med=28 ent=4.5327 prefix=1 suffix=0 | variant len_med=30 ent=4.6718 prefix=0 suffix=0
+rid 05: full len_med=62 ent=5.7606 prefix=0 suffix=0 | variant len_med=38 ent=5.1953 prefix=0 suffix=0
+rid 06: full len_med=110 ent=6.3608 prefix=0 suffix=0 | variant len_med=49 ent=5.3698 prefix=0 suffix=0
+rid 07: full len_med=186 ent=6.8177 prefix=0 suffix=0 | variant len_med=76 ent=5.9071 prefix=0 suffix=0
+rid 08: full len_med=198 ent=6.9789 prefix=0 suffix=0 | variant len_med=191 ent=6.9157 prefix=0 suffix=0
+rid 09: full len_med=344 ent=7.3116 prefix=0 suffix=0 | variant len_med=198 ent=6.8711 prefix=0 suffix=0
+rid 10: full len_med=384 ent=7.4534 prefix=0 suffix=0 | variant len_med=245 ent=7.1181 prefix=0 suffix=0
+rid 11: full len_med=363 ent=7.393 prefix=0 suffix=0 | variant len_med=289 ent=7.2254 prefix=0 suffix=0
+rid 12: full len_med=357 ent=7.3997 prefix=0 suffix=0 | variant len_med=396 ent=7.3559 prefix=0 suffix=0
+rid 13: full len_med=289 ent=7.3072 prefix=0 suffix=0 | variant len_med=403 ent=7.5192 prefix=0 suffix=0
+rid 14: full len_med=420 ent=7.4689 prefix=0 suffix=0 | variant len_med=348 ent=7.3272 prefix=0 suffix=0
+rid 15: full len_med=395 ent=7.3877 prefix=0 suffix=0 | variant len_med=294 ent=7.2759 prefix=0 suffix=0
+rid 16: full len_med=None ent=None prefix=0 suffix=0 | variant len_med=None ent=None prefix=0 suffix=0

@@ -1,0 +1,38 @@
+chains_total: 28
+chains_len16: 20
+top_sig4_families:
+     5  BX*Hd | BX91. | BXA0. | BXI .
+     1  BX&H! | BX91. | BXBa. | BX]..
+     1  BX&.B | BX91. | BXBa. | BX]..
+     1  BpD.. | BpD.. | BpM.$ | BpwL.
+     1  BX&H! | BX91. | BXA0. | BXI .
+     1  Bp<.. | Bp<.. | Bp>.X | Bp..'
+     1  BX&H! | BX91. | BXA0. | BXJA.
+     1  BX(He | BX91. | BXA0. | BXJA.
+     1  Bp<.. | Bp<.2 | Bp>.I | Bp.^.
+     1  BX(L! | BX91. | BXA0. | BXJA.
+     1  BX&H! | BX91. | BXA0. | BXL..
+     1  C...E | C.f.. | C...3 | C....
+     1  BX*.. | BXE.. | BX./| | BX{.{
+     1  BX+PC | BX<.. | BX./| | BX{.{
+     1  BX*Hd | BX91. | BXA1. | BXI .
+     1  BX*Hd | BX91. | BXD.. | BXIX.
+
+top_family: BX*Hd | BX91. | BXA0. | BXI .
+top_family_chains: 5
+  rid 01: payload_min=21 payload_med=23 payload_max=29 tags=[('BX*Hd', 5)]
+  rid 02: payload_min=20 payload_med=25 payload_max=30 tags=[('BX91.', 5)]
+  rid 03: payload_min=25 payload_med=29 payload_max=42 tags=[('BXA0.', 5)]
+  rid 04: payload_min=29 payload_med=30 payload_max=46 tags=[('BXI .', 5)]
+  rid 05: payload_min=36 payload_med=38 payload_max=50 tags=[('BX...', 2), ('BXbC.', 1), ('BXk..', 1), ('BX..y', 1)]
+  rid 06: payload_min=44 payload_med=49 payload_max=62 tags=[('BX..I', 1), ('BX...', 1), ('BX..D', 1), ('BX..a', 1)]
+  rid 07: payload_min=64 payload_med=76 payload_max=86 tags=[('BYh0.', 1), ('BX...', 1), ('B[?..', 1), ('BZ.UI', 1)]
+  rid 08: payload_min=179 payload_med=191 payload_max=270 tags=[('BY..a', 1), ('BZ>..', 1), ('B[...', 1), ('B[..*', 1)]
+  rid 09: payload_min=172 payload_med=198 payload_max=227 tags=[('C|...', 1), ('B[..c', 1), ('B[~..', 1), ('B\\..?', 1)]
+  rid 10: payload_min=242 payload_med=245 payload_max=308 tags=[('B[|..', 2), ('C|.=.', 1), ('C|..o', 1), ('C....', 1)]
+  rid 11: payload_min=259 payload_med=289 payload_max=324 tags=[('B[.\\.', 1), ('B[...', 1), ('B^...', 1), ('C....', 1)]
+  rid 12: payload_min=380 payload_med=396 payload_max=412 tags=[('B\\.D.', 1), ('B[...', 1), ('B\\.._', 1), ('C|...', 1)]
+  rid 13: payload_min=374 payload_med=403 payload_max=577 tags=[('C....', 2), ('C...K', 1), ('C~...', 1), ('C..C.', 1)]
+  rid 14: payload_min=281 payload_med=348 payload_max=425 tags=[('B^...', 1), ('Chf..', 1), ('C.A.6', 1), ('B_...', 1)]
+  rid 15: payload_min=278 payload_med=294 payload_max=350 tags=[("B[&.'", 1), ('B[.B.', 1), ('B^..}', 1), ('C.A.f', 1)]
+  rid 16: terminal tags=[('BY.,I', 1), ('B[.4R', 1), ('B[..1', 1), ('C....', 1)]

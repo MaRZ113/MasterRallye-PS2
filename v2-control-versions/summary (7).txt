@@ -1,0 +1,11 @@
+MRPS2 v145 coverage for 43fc6f
+==============================
+total_hits_under_sig7: 282
+matched_hits: 282
+quarantine_hits: 0
+coverage_ratio: 282/282 = 1.0000
+rulepack_rules: 49
+exact_hits: 76
+flex_hits: 206
+
+Top residual buckets:

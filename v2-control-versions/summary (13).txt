@@ -1,0 +1,11 @@
+MRPS2 v151 coverage for 43fc67
+==============================
+total_hits_under_sig7: 159
+matched_hits: 159
+quarantine_hits: 0
+coverage_ratio: 159/159 = 1.0000
+rulepack_rules: 24
+exact_hits: 48
+flex_hits: 111
+
+Top residual buckets:

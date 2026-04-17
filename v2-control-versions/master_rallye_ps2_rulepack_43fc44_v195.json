@@ -1,0 +1,284 @@
+[
+  {
+    "name": "auto_domain43fc44_v194_4c_4242_4072_prev09",
+    "sig7": "0000010c43fc44",
+    "prev": "09@-2708",
+    "next": "0D@732",
+    "source": "auto_domain43fc44_v194",
+    "mode": "exact",
+    "members": {
+      "0000010c43fc444c": {
+        "body_prefix": "4242",
+        "tail_sig8": "0000010d43fc4072"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc44_v194_4c_4242_4072_prev0B",
+    "sig7": "0000010c43fc44",
+    "prev": "none",
+    "next": "none",
+    "source": "auto_domain43fc44_v194",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "0B"
+      ],
+      "min": -754,
+      "max": -729
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 585,
+      "max": 697
+    },
+    "members": {
+      "0000010c43fc444c": {
+        "body_prefix": "4242",
+        "tail_sig8": "0000010d43fc4072"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc44_v194_4c_3090_none",
+    "sig7": "0000010c43fc44",
+    "prev": "none",
+    "next": "none",
+    "source": "auto_domain43fc44_v194",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "09",
+        "0B"
+      ],
+      "min": -2733,
+      "max": -762
+    },
+    "next_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "members": {
+      "0000010c43fc444c": {
+        "body_prefix": "3090"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc44_v194_4c_3090_4272",
+    "sig7": "0000010c43fc44",
+    "prev": "none",
+    "next": "none",
+    "source": "auto_domain43fc44_v194",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "0B"
+      ],
+      "min": -862,
+      "max": -825
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 639,
+      "max": 751
+    },
+    "members": {
+      "0000010c43fc444c": {
+        "body_prefix": "3090",
+        "tail_sig8": "0000010d43fc4272"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc44_v194_4c_4243_4072",
+    "sig7": "0000010c43fc44",
+    "prev": "none",
+    "next": "none",
+    "source": "auto_domain43fc44_v194",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "0B"
+      ],
+      "min": -786,
+      "max": -766
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 662,
+      "max": 662
+    },
+    "members": {
+      "0000010c43fc444c": {
+        "body_prefix": "4243",
+        "tail_sig8": "0000010d43fc4072"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc44_v194_7b_2358_467b",
+    "sig7": "0000010c43fc44",
+    "prev": "none",
+    "next": "none",
+    "source": "auto_domain43fc44_v194",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "0B"
+      ],
+      "min": -1410,
+      "max": -1386
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 1114,
+      "max": 1114
+    },
+    "members": {
+      "0000010c43fc447b": {
+        "body_prefix": "2358",
+        "tail_sig8": "0000010d43fc467b"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc44_v194_c1_a346_bcbc",
+    "sig7": "0000010c43fc44",
+    "prev": "none",
+    "next": "none",
+    "source": "auto_domain43fc44_v194",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "0B"
+      ],
+      "min": -988,
+      "max": -968
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 547,
+      "max": 547
+    },
+    "members": {
+      "0000010c43fc44c1": {
+        "body_prefix": "a346",
+        "tail_sig8": "0000010dbcbc0000"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc44_v194_4c_3090_254c",
+    "sig7": "0000010c43fc44",
+    "prev": "0B@-825",
+    "next": "0D@640",
+    "source": "auto_domain43fc44_v194",
+    "mode": "exact",
+    "members": {
+      "0000010c43fc444c": {
+        "body_prefix": "3090",
+        "tail_sig8": "0000010d254c3100"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc44_v194_4c_4242_none",
+    "sig7": "0000010c43fc44",
+    "prev": "0A@-1629",
+    "next": "07@4067",
+    "source": "auto_domain43fc44_v194",
+    "mode": "exact",
+    "members": {
+      "0000010c43fc444c": {
+        "body_prefix": "4242"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc44_v195_singleton_4c_4242_45D77E02",
+    "sig7": "0000010c43fc44",
+    "prev": "0B@-650",
+    "next": "0D@674",
+    "source": "singleton_promotion_v195_43fc44",
+    "mode": "exact",
+    "members": {
+      "0000010c43fc444c": {
+        "body_prefix": "4242",
+        "body_md5": "45d77e028b0d160500ebf4bc43caedb6",
+        "tail_sig8": "0000010d43fc9600"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc44_v195_singleton_4c_4242_75525156",
+    "sig7": "0000010c43fc44",
+    "prev": "0B@-794",
+    "next": "0D@661",
+    "source": "singleton_promotion_v195_43fc44",
+    "mode": "exact",
+    "members": {
+      "0000010c43fc444c": {
+        "body_prefix": "4242",
+        "body_md5": "755251567256b60f306893a440a09d21",
+        "tail_sig8": "0000010d43fc4272"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc44_v195_singleton_4c_3090_32E12046",
+    "sig7": "0000010c43fc44",
+    "prev": "0B@-762",
+    "next": "0D@639",
+    "source": "singleton_promotion_v195_43fc44",
+    "mode": "exact",
+    "members": {
+      "0000010c43fc444c": {
+        "body_prefix": "3090",
+        "body_md5": "32e120468f30117c41dd9470c0502ffb",
+        "tail_sig8": "0000010d43f80002"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc44_v195_singleton_4c_4242_A72D2046",
+    "sig7": "0000010c43fc44",
+    "prev": "0B@-668",
+    "next": "0D@725",
+    "source": "singleton_promotion_v195_43fc44",
+    "mode": "exact",
+    "members": {
+      "0000010c43fc444c": {
+        "body_prefix": "4242",
+        "body_md5": "a72d2046e6d821fb9e317ecb6b9af0aa",
+        "tail_sig8": "0000010d43f84713"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc44_v195_singleton_4c_4242_8D807BFB",
+    "sig7": "0000010c43fc44",
+    "prev": "0B@-719",
+    "next": "0D@690",
+    "source": "singleton_promotion_v195_43fc44",
+    "mode": "exact",
+    "members": {
+      "0000010c43fc444c": {
+        "body_prefix": "4242",
+        "body_md5": "8d807bfb64db64f51e5a175b8de36a4d",
+        "tail_sig8": "0000010d43fc6ff7"
+      }
+    }
+  }
+]

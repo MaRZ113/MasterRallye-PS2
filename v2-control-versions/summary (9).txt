@@ -1,0 +1,35 @@
+43fc family progress after v149
+==============================
+total_43fc_hits: 3534
+covered_hits: 1206
+residual_hits: 2328
+coverage_ratio: 1206/3534 = 0.3413
+closed_domains: 43fc65, 43fc6f, 43fc6d, 43fc98, 43fc9a
+
+Closed domain contributions:
+  0000010c43fc65 :: 439
+  0000010c43fc6f :: 282
+  0000010c43fc6d :: 218
+  0000010c43fc98 :: 0
+  0000010c43fc9a :: 0
+
+Covered by domain:
+  0000010c43fc65 :: 439
+  0000010c43fc6f :: 282
+  0000010c43fc6d :: 218
+  0000010c43fc98 :: 163
+  0000010c43fc9a :: 104
+
+Top remaining 43fc domains:
+  0000010c43fc67 :: 159
+  0000010c43fc7f :: 112
+  0000010c43fc7d :: 105
+  0000010c43fc81 :: 81
+  0000010c43fc7b :: 64
+  0000010c43fc9b :: 61
+  0000010c43fc46 :: 56
+  0000010c43fc71 :: 48
+  0000010c43fc85 :: 47
+  0000010c43fc96 :: 44
+  0000010c43fcc7 :: 44
+  0000010c43fc9d :: 41

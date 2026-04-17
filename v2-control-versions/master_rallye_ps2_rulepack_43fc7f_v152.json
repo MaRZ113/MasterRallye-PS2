@@ -1,0 +1,522 @@
+[
+  {
+    "name": "auto_domain43fc7f_v152_92_c909_none",
+    "sig7": "0000010c43fc7f",
+    "prev": "none",
+    "next": "none",
+    "source": "auto_domain43fc7f_v152",
+    "mode": "exact",
+    "members": {
+      "0000010c43fc7f92": {
+        "body_prefix": "c909"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc7f_v152_92_c90f_none",
+    "sig7": "0000010c43fc7f",
+    "prev": "none",
+    "next": "none",
+    "source": "auto_domain43fc7f_v152",
+    "mode": "exact",
+    "members": {
+      "0000010c43fc7f92": {
+        "body_prefix": "c90f"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc7f_v152_92_cc87_none",
+    "sig7": "0000010c43fc7f",
+    "prev": "none",
+    "next": "none",
+    "source": "auto_domain43fc7f_v152",
+    "mode": "exact",
+    "members": {
+      "0000010c43fc7f92": {
+        "body_prefix": "cc87"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc7f_v152_f1_c4b6_none",
+    "sig7": "0000010c43fc7f",
+    "prev": "none",
+    "next": "none",
+    "source": "auto_domain43fc7f_v152",
+    "mode": "exact",
+    "members": {
+      "0000010c43fc7ff1": {
+        "body_prefix": "c4b6"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc7f_v152_8b_243f_7d24",
+    "sig7": "0000010c43fc7f",
+    "prev": "none",
+    "next": "0D@1630",
+    "source": "auto_domain43fc7f_v152",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 1630,
+      "max": 1684
+    },
+    "members": {
+      "0000010c43fc7f8b": {
+        "body_prefix": "243f",
+        "tail_sig8": "0000010d43fc7d24"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc7f_v152_92_c900_7743",
+    "sig7": "0000010c43fc7f",
+    "prev": "none",
+    "next": "0D@1430",
+    "source": "auto_domain43fc7f_v152",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 1430,
+      "max": 1451
+    },
+    "members": {
+      "0000010c43fc7f92": {
+        "body_prefix": "c900",
+        "tail_sig8": "0000010d43fc7743"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc7f_v152_92_c900_8593",
+    "sig7": "0000010c43fc7f",
+    "prev": "none",
+    "next": "0D@1344",
+    "source": "auto_domain43fc7f_v152",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 1344,
+      "max": 1460
+    },
+    "members": {
+      "0000010c43fc7f92": {
+        "body_prefix": "c900",
+        "tail_sig8": "0000010d43fc8593"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc7f_v152_92_c909_9ba8",
+    "sig7": "0000010c43fc7f",
+    "prev": "none",
+    "next": "0D@1113",
+    "source": "auto_domain43fc7f_v152",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 980,
+      "max": 1113
+    },
+    "members": {
+      "0000010c43fc7f92": {
+        "body_prefix": "c909",
+        "tail_sig8": "0000010d43fc9ba8"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc7f_v152_92_c909_9db2",
+    "sig7": "0000010c43fc7f",
+    "prev": "none",
+    "next": "0D@1545",
+    "source": "auto_domain43fc7f_v152",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 1545,
+      "max": 1608
+    },
+    "members": {
+      "0000010c43fc7f92": {
+        "body_prefix": "c909",
+        "tail_sig8": "0000010d43fc9db2"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc7f_v152_92_c909_9fb2",
+    "sig7": "0000010c43fc7f",
+    "prev": "none",
+    "next": "0D@1756",
+    "source": "auto_domain43fc7f_v152",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 1756,
+      "max": 1804
+    },
+    "members": {
+      "0000010c43fc7f92": {
+        "body_prefix": "c909",
+        "tail_sig8": "0000010d43fc9fb2"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc7f_v152_92_c90f_8121",
+    "sig7": "0000010c43fc7f",
+    "prev": "none",
+    "next": "0D@1456",
+    "source": "auto_domain43fc7f_v152",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 1456,
+      "max": 1501
+    },
+    "members": {
+      "0000010c43fc7f92": {
+        "body_prefix": "c90f",
+        "tail_sig8": "0000010d43fc8121"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc7f_v152_92_c90f_8593",
+    "sig7": "0000010c43fc7f",
+    "prev": "none",
+    "next": "0D@1384",
+    "source": "auto_domain43fc7f_v152",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 1384,
+      "max": 1654
+    },
+    "members": {
+      "0000010c43fc7f92": {
+        "body_prefix": "c90f",
+        "tail_sig8": "0000010d43fc8593"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc7f_v152_92_c90f_8793",
+    "sig7": "0000010c43fc7f",
+    "prev": "none",
+    "next": "0D@1437",
+    "source": "auto_domain43fc7f_v152",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 1437,
+      "max": 1472
+    },
+    "members": {
+      "0000010c43fc7f92": {
+        "body_prefix": "c90f",
+        "tail_sig8": "0000010d43fc8793"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc7f_v152_92_c90f_899f",
+    "sig7": "0000010c43fc7f",
+    "prev": "none",
+    "next": "0D@1183",
+    "source": "auto_domain43fc7f_v152",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 854,
+      "max": 1183
+    },
+    "members": {
+      "0000010c43fc7f92": {
+        "body_prefix": "c90f",
+        "tail_sig8": "0000010d43fc899f"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc7f_v152_92_c90f_8f11",
+    "sig7": "0000010c43fc7f",
+    "prev": "none",
+    "next": "0D@1088",
+    "source": "auto_domain43fc7f_v152",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 974,
+      "max": 1088
+    },
+    "members": {
+      "0000010c43fc7f92": {
+        "body_prefix": "c90f",
+        "tail_sig8": "0000010d43fc8f11"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc7f_v152_92_c90f_9951",
+    "sig7": "0000010c43fc7f",
+    "prev": "none",
+    "next": "0D@1396",
+    "source": "auto_domain43fc7f_v152",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 1396,
+      "max": 1396
+    },
+    "members": {
+      "0000010c43fc7f92": {
+        "body_prefix": "c90f",
+        "tail_sig8": "0000010d43fc9951"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc7f_v152_92_c90f_99b2",
+    "sig7": "0000010c43fc7f",
+    "prev": "none",
+    "next": "0D@1615",
+    "source": "auto_domain43fc7f_v152",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 1615,
+      "max": 1643
+    },
+    "members": {
+      "0000010c43fc7f92": {
+        "body_prefix": "c90f",
+        "tail_sig8": "0000010d43fc99b2"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc7f_v152_92_c90f_9bb2",
+    "sig7": "0000010c43fc7f",
+    "prev": "none",
+    "next": "0D@1312",
+    "source": "auto_domain43fc7f_v152",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 1312,
+      "max": 1320
+    },
+    "members": {
+      "0000010c43fc7f92": {
+        "body_prefix": "c90f",
+        "tail_sig8": "0000010d43fc9bb2"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc7f_v152_92_c90f_9fb2",
+    "sig7": "0000010c43fc7f",
+    "prev": "none",
+    "next": "0D@1387",
+    "source": "auto_domain43fc7f_v152",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 858,
+      "max": 1728
+    },
+    "members": {
+      "0000010c43fc7f92": {
+        "body_prefix": "c90f",
+        "tail_sig8": "0000010d43fc9fb2"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc7f_v152_92_cc87_8f9f",
+    "sig7": "0000010c43fc7f",
+    "prev": "none",
+    "next": "0D@1558",
+    "source": "auto_domain43fc7f_v152",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 1558,
+      "max": 1558
+    },
+    "members": {
+      "0000010c43fc7f92": {
+        "body_prefix": "cc87",
+        "tail_sig8": "0000010d43fc8f9f"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc7f_v152_b7_4202_e9f1",
+    "sig7": "0000010c43fc7f",
+    "prev": "none",
+    "next": "0D@838",
+    "source": "auto_domain43fc7f_v152",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 838,
+      "max": 858
+    },
+    "members": {
+      "0000010c43fc7fb7": {
+        "body_prefix": "4202",
+        "tail_sig8": "0000010d43fce9f1"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc7f_v152_f1_c4b6_f704",
+    "sig7": "0000010c43fc7f",
+    "prev": "none",
+    "next": "0D@1168",
+    "source": "auto_domain43fc7f_v152",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 982,
+      "max": 1168
+    },
+    "members": {
+      "0000010c43fc7ff1": {
+        "body_prefix": "c4b6",
+        "tail_sig8": "0000010d43fcf704"
+      }
+    }
+  }
+]

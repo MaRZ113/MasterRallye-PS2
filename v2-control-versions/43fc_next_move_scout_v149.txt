@@ -1,0 +1,12 @@
+Next-step 43fc scout after v149
+===============================
+0000010c43fc67: hits=159, unique_sig8=7, unique_branches=24, repeated_hits=152, singleton_hits=7, repeated_ratio=0.9560, top_branch=0000010c43fc6785 | 4039 | 0000010d43fc694b::44
+0000010c43fc7f: hits=112, unique_sig8=5, unique_branches=27, repeated_hits=107, singleton_hits=5, repeated_ratio=0.9554, top_branch=0000010c43fc7f92 | c90f | 0000010d43fc9fb2::18
+0000010c43fc7d: hits=105, unique_sig8=10, unique_branches=27, repeated_hits=98, singleton_hits=7, repeated_ratio=0.9333, top_branch=0000010c43fc7d92 | c900::14
+0000010c43fc81: hits=81, unique_sig8=2, unique_branches=21, repeated_hits=77, singleton_hits=4, repeated_ratio=0.9506, top_branch=0000010c43fc8192 | c90f | 0000010d43fca1b2::16
+0000010c43fc7b: hits=64, unique_sig8=11, unique_branches=29, repeated_hits=51, singleton_hits=13, repeated_ratio=0.7969, top_branch=0000010c43fc7b92 | c900 | 0000010d43fc95b2::6
+0000010c43fc9b: hits=61, unique_sig8=5, unique_branches=16, repeated_hits=57, singleton_hits=4, repeated_ratio=0.9344, top_branch=0000010c43fc9bc4 | b990 | 0000010d43f8a003::9
+0000010c43fc46: hits=56, unique_sig8=5, unique_branches=17, repeated_hits=52, singleton_hits=4, repeated_ratio=0.9286, top_branch=0000010c43fc46d1 | 95a3::9
+0000010c43fc71: hits=48, unique_sig8=6, unique_branches=17, repeated_hits=42, singleton_hits=6, repeated_ratio=0.8750, top_branch=0000010c43fc7191 | 2402 | 0000010d43fc7943::7
+0000010c43fc85: hits=47, unique_sig8=3, unique_branches=19, repeated_hits=39, singleton_hits=8, repeated_ratio=0.8298, top_branch=0000010c43fc8592 | cc87 | 0000010d43fc7943::8
+0000010c43fc96: hits=44, unique_sig8=2, unique_branches=4, repeated_hits=44, singleton_hits=0, repeated_ratio=1.0000, top_branch=0000010c43fc96e9 | 7321 | 0000010d43fcb3b2::19

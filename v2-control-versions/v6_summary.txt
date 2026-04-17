@@ -1,0 +1,30 @@
+Master Rallye PS2 BX v6 summary
+================================
+total_clusters: 31475
+mirrored_clusters: 19466
+canonical_pairs: 9733
+exact_mirror_pairs: 9733
+unmirrored_clusters: 12009
+mirror_delta: 0x182F4AF3
+
+Top unmirrored hotspots (1 MB windows):
+0x3C1004C0-0x3C1FDFBB clusters=124 primary=2 no4=11 variant=0 mixed=111
+0x3100153C-0x310FEC18 clusters=121 primary=0 no4=0 variant=2 mixed=119
+0x30F00BEE-0x30FFE7E3 clusters=114 primary=0 no4=0 variant=6 mixed=108
+0x3700013E-0x370FF0CF clusters=113 primary=6 no4=4 variant=0 mixed=103
+0x36101255-0x361FCE01 clusters=112 primary=5 no4=8 variant=0 mixed=99
+0x31C00A9C-0x31CFE7E9 clusters=110 primary=2 no4=3 variant=0 mixed=105
+0x3B50015B-0x3B5FFD3A clusters=110 primary=0 no4=0 variant=0 mixed=110
+0x36C04806-0x36CFF3F9 clusters=108 primary=4 no4=3 variant=0 mixed=101
+0x3C402EAB-0x3C4FEDF3 clusters=108 primary=0 no4=7 variant=0 mixed=101
+0x3B200874-0x3B2FC7B2 clusters=107 primary=3 no4=6 variant=2 mixed=96
+0x30E00920-0x30EFB7D2 clusters=106 primary=0 no4=0 variant=2 mixed=104
+0x36000C80-0x360F7E09 clusters=106 primary=0 no4=9 variant=0 mixed=97
+
+Suggested next carve windows:
+python master_rallye_ps2_unpacker_v5.py carve-window TNG.000 0x3C0F04C0 0x11DAFB hotspot_0x3C1004C0.bin
+python master_rallye_ps2_unpacker_v5.py carve-window TNG.000 0x30FF153C 0x11D6DC hotspot_0x3100153C.bin
+python master_rallye_ps2_unpacker_v5.py carve-window TNG.000 0x30EF0BEE 0x11DBF5 hotspot_0x30F00BEE.bin
+python master_rallye_ps2_unpacker_v5.py carve-window TNG.000 0x36FF013E 0x11EF91 hotspot_0x3700013E.bin
+python master_rallye_ps2_unpacker_v5.py carve-window TNG.000 0x360F1255 0x11BBAC hotspot_0x36101255.bin
+python master_rallye_ps2_unpacker_v5.py carve-window TNG.000 0x31BF0A9C 0x11DD4D hotspot_0x31C00A9C.bin

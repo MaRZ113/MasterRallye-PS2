@@ -1,0 +1,9 @@
+MRPS2 v155 coverage
+===================
+total_hits_under_sig7: 105
+matched_hits: 105
+quarantine_hits: 0
+coverage_ratio: 105/105 = 1.0000
+rulepack_rules: 27
+exact_hits: 44
+flex_hits: 61

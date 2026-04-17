@@ -1,0 +1,57 @@
+Master Rallye PS2 BX hotspot comparison v7
+=========================================
+
+Compared hotspots:
+- hotspot_0x3C1004C0.bin
+- hotspot_0x3100153C.bin
+- hotspot_0x3700013E.bin
+
+Key findings
+------------
+1. All three hotspots are pure BX regions: no <Scene, no <Egg.
+2. hotspot_0x3100153C is a different BX subtype:
+   - 0 BX*Hd markers
+   - dominated by BX91|BXA0|BXI1 (61 clusters)
+   - then BX91|BXA0 (46 clusters)
+   - only 2 variant_chain entries
+   This looks like an internal/secondary BX field, not a header-rich region.
+
+3. hotspot_0x3C1004C0 is header-rich:
+   - 18 BX*Hd markers
+   - 13 primary_chain_no4
+   - 2 full primary_chain
+   - many mixed extensions (BXQ/BXU/BX{/BXT)
+   Good candidate for recovering full BX header grammar.
+
+4. hotspot_0x3700013E is the cleanest balanced region:
+   - 12 BX*Hd markers
+   - 6 full primary_chain
+   - 4 primary_chain_no4
+   - many stable BX91|BXA0|BXI1 repeats
+   Best candidate for comparing header-rich and payload-like BX structures in one window.
+
+Recommended next move
+---------------------
+Do NOT rescan the whole TNG.000 again.
+Instead carve two very targeted windows:
+
+A) Around the first clean full primary_chain in hotspot_0x3700013E:
+   local cluster start: 0x197AD
+   original TNG.000 start for hotspot: 0x36FF013E
+   target absolute offset: 0x37009EEB
+
+B) Around the first clean primary_chain_no4 in hotspot_0x3C1004C0:
+   local cluster start: 0xD156
+   original TNG.000 start for hotspot: 0x3C0F04C0
+   target absolute offset: 0x3C0FD616
+
+Suggested carve commands
+------------------------
+python master_rallye_ps2_unpacker_v5.py carve-window TNG.000 0x37008EEB 0x4000 bx_chain_focus_37009EEB.bin
+python master_rallye_ps2_unpacker_v5.py carve-window TNG.000 0x3C0FC616 0x4000 bx_chain_focus_3C0FD616.bin
+
+Why these two:
+- 0x37009EEB should capture a full BX*Hd -> BX91 -> BXA0 -> BXI1 chain in a relatively clean family.
+- 0x3C0FD616 should capture a strong BX*Hd -> BX91 -> BXA0 chain from a more mixed/header-rich family.
+
+If those two line up structurally, the next step is a real BX record parser, not another hotspot hunt.

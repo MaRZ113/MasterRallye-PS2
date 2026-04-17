@@ -1,0 +1,34 @@
+chains_total: 24
+chains_len16: 16
+top_sig4_families:
+     3  BX*Hd | BX91. | BXA0. | BXL..
+     2  BX*Hd | BX91. | BXA0. | BXI1.
+     2  BX&H! | BX91. | BXA0. | BXQ0.
+     1  BpD.. | BpD.. | BpM.$ | BpM..
+     1  BX&H! | BX91. | BXA0. | BXI..
+     1  Bp<.. | Bp<.. | Bp>.X | BpD.]
+     1  BX(He | BX91. | BXA0. | BXI1.
+     1  Bp<.. | Bp<.2 | Bp>.I | Bp]..
+     1  BX(L! | BX91. | BXA0. | BXQ0.
+     1  C...E | C.f.. | C...3 | C....
+     1  BX*.. | BXE.. | BX./| | BX{.y
+     1  BX+PC | BX<.. | BX./| | BX{.y
+
+top_family: BX*Hd | BX91. | BXA0. | BXL..
+top_family_chains: 3
+  rid 01: payload_min=23 payload_med=23 payload_max=28 tags=[('BX*Hd', 3)]
+  rid 02: payload_min=21 payload_med=22 payload_max=25 tags=[('BX91.', 3)]
+  rid 03: payload_min=25 payload_med=25 payload_max=32 tags=[('BXA0.', 3)]
+  rid 04: payload_min=27 payload_med=28 payload_max=34 tags=[('BXL..', 3)]
+  rid 05: payload_min=50 payload_med=62 payload_max=64 tags=[('BZ^..', 2), ('BZ.{.', 1)]
+  rid 06: payload_min=99 payload_med=110 payload_max=118 tags=[('B}U..', 1), ('B\\...', 1), ('C{.:.', 1)]
+  rid 07: payload_min=174 payload_med=186 payload_max=207 tags=[('C....', 2), ('C}w..', 1)]
+  rid 08: payload_min=172 payload_med=198 payload_max=223 tags=[('C{...', 1), ('Bz..x', 1), ('C....', 1)]
+  rid 09: payload_min=320 payload_med=344 payload_max=345 tags=[('Cz...', 1), ('C..8.', 1), ('C.a.I', 1)]
+  rid 10: payload_min=376 payload_med=384 payload_max=389 tags=[("C..&'", 1), ('C.zL.', 1), ('C.B.+', 1)]
+  rid 11: payload_min=352 payload_med=363 payload_max=386 tags=[('C.9..', 1), ('C.D8I', 1), ("C.'..", 1)]
+  rid 12: payload_min=340 payload_med=357 payload_max=385 tags=[('C....', 3)]
+  rid 13: payload_min=275 payload_med=289 payload_max=319 tags=[('CX...', 1), ('C....', 1), ('B..lm', 1)]
+  rid 14: payload_min=392 payload_med=420 payload_max=462 tags=[('B.}..', 1), ('C|...', 1), ('C....', 1)]
+  rid 15: payload_min=370 payload_med=395 payload_max=445 tags=[('B^.c#', 1), ('B_.cE', 1), ('B_B..', 1)]
+  rid 16: terminal tags=[('C.C`.', 1), ('C.P..', 1), ('C...L', 1)]

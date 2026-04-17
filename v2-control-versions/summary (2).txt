@@ -1,0 +1,41 @@
+MRPS2 v140 coverage
+===================
+total_hits_under_sig7: 653
+matched_hits: 516
+quarantine_hits: 137
+coverage_ratio: 516/653 = 0.7902
+rulepack_rules: 168
+exact_hits: 454
+flex_hits: 62
+
+Top residual buckets:
+  none || none :: 8 | branches=8 | top=0000010c42542561 | f633::1
+  0B@-251 || none :: 3 | branches=3 | top=0000010c42542563 | 7fb1::1
+  0B@-300 || none :: 3 | branches=3 | top=0000010c42542562 | b77d::1
+  0B@-308 || none :: 2 | branches=2 | top=0000010c42542562 | bfe4::1
+  0B@-314 || none :: 2 | branches=2 | top=0000010c42542563 | ff03::1
+  0B@-330 || none :: 2 | branches=2 | top=0000010c42542561 | fd06::1
+  0B@-395 || none :: 2 | branches=2 | top=0000010c42542562 | 7c0d::1
+  none || 0D@687 :: 2 | branches=2 | top=0000010c42542563 | 7cd8 | 0000010d424864c6::1
+  0B@-228 || 0D@630 :: 1 | branches=1 | top=0000010c42542563 | 7da0 | 0000010d43683126::1
+  0B@-234 || 0D@591 :: 1 | branches=1 | top=0000010c42542563 | 7f62 | 0000010d436864c6::1
+  0B@-239 || none :: 1 | branches=1 | top=0000010c42542562 | ba61::1
+  0B@-249 || 0D@507 :: 1 | branches=1 | top=0000010c42542563 | fb00 | 0000010d42483126::1
+  0B@-250 || 0D@513 :: 1 | branches=1 | top=0000010c42542561 | befd | 0000010d42486562::1
+  0B@-255 || 0D@589 :: 1 | branches=1 | top=0000010c42542563 | 7c98 | 0000010d424864ce::1
+  0B@-259 || 0D@509 :: 1 | branches=1 | top=0000010c42542563 | fc40 | 0000010d42483126::1
+  0B@-259 || none :: 1 | branches=1 | top=0000010c42542563 | 7aa8::1
+  0B@-265 || none :: 1 | branches=1 | top=0000010c42542561 | c830::1
+  0B@-267 || 0D@511 :: 1 | branches=1 | top=0000010c42542563 | 7aa8 | 0000010d4248732c::1
+  0B@-268 || 0D@560 :: 1 | branches=1 | top=0000010c42542563 | fe80 | 0000010d424864cf::1
+  0B@-269 || 0D@555 :: 1 | branches=1 | top=0000010c42542561 | 9319 | 0000010d425cac4d::1
+  0B@-275 || none :: 1 | branches=1 | top=0000010c42542563 | 7e63::1
+  0B@-278 || 0D@535 :: 1 | branches=1 | top=0000010c42542563 | 7d30 | 0000010d4248730c::1
+  0B@-285 || 0D@527 :: 1 | branches=1 | top=0000010c42542561 | b618 | 0000010d424866cb::1
+  0B@-287 || none :: 1 | branches=1 | top=0000010c42542563 | 7d30::1
+  0B@-292 || none :: 1 | branches=1 | top=0000010c42542561 | 9589::1
+  0B@-296 || 0D@543 :: 1 | branches=1 | top=0000010c42542562 | fdad | 0000010d425c98fb::1
+  0B@-298 || none :: 1 | branches=1 | top=0000010c42542563 | 6c31::1
+  0B@-302 || none :: 1 | branches=1 | top=0000010c42542563 | ec31::1
+  0B@-304 || none :: 1 | branches=1 | top=0000010c42542562 | 7d8f::1
+  0B@-308 || 0D@522 :: 1 | branches=1 | top=0000010c42542561 | 9d80 | 0000010d424864cb::1

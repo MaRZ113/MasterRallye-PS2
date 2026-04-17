@@ -1,0 +1,30 @@
+MRPS2 v145 coverage for 43fc-family
+===================================
+total_hits_under_prefix: 3534
+matched_hits: 721
+quarantine_hits: 2813
+coverage_ratio: 721/3534 = 0.2040
+rulepack_rules: 76
+exact_hits: 205
+flex_hits: 516
+
+Covered domains:
+  0000010c43fc65 :: 439
+  0000010c43fc6f :: 282
+
+Top uncovered 43fc domains:
+  0000010c43fc6d :: 218
+  0000010c43fc98 :: 163
+  0000010c43fc67 :: 159
+  0000010c43fc7f :: 112
+  0000010c43fc7d :: 105
+  0000010c43fc9a :: 104
+  0000010c43fc81 :: 81
+  0000010c43fc7b :: 64
+  0000010c43fc9b :: 61
+  0000010c43fc46 :: 56
+  0000010c43fc71 :: 48
+  0000010c43fc85 :: 47
+  0000010c43fc96 :: 44
+  0000010c43fcc7 :: 44
+  0000010c43fc9d :: 41

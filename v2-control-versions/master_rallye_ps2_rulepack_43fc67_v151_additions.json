@@ -1,0 +1,107 @@
+[
+  {
+    "name": "singleton_promotion_v151_40_46d6_5f0a",
+    "sig7": "0000010c43fc67",
+    "prev": "none",
+    "next": "0D@632",
+    "source": "singleton_promotion_v151",
+    "mode": "exact",
+    "members": {
+      "0000010c43fc6740": {
+        "body_prefix": "46d6",
+        "body_md5": "a1a5055f1d4cd275a02c500b834a7d98",
+        "tail_sig8": "0000010d43fc5f0a"
+      }
+    }
+  },
+  {
+    "name": "singleton_promotion_v151_d7_14c1_87a9",
+    "sig7": "0000010c43fc67",
+    "prev": "none",
+    "next": "0D@1092",
+    "source": "singleton_promotion_v151",
+    "mode": "exact",
+    "members": {
+      "0000010c43fc67d7": {
+        "body_prefix": "14c1",
+        "body_md5": "0564fd4025332ed8827f391a892f6771",
+        "tail_sig8": "0000010d43fc87a9"
+      }
+    }
+  },
+  {
+    "name": "singleton_promotion_v151_25_c46b_72ec",
+    "sig7": "0000010c43fc67",
+    "prev": "none",
+    "next": "0D@1383",
+    "source": "singleton_promotion_v151",
+    "mode": "exact",
+    "members": {
+      "0000010c43fc6725": {
+        "body_prefix": "c46b",
+        "body_md5": "c2d2c9d5c1463e3c99f360ba8169df49",
+        "tail_sig8": "0000010d43fc72ec"
+      }
+    }
+  },
+  {
+    "name": "singleton_promotion_v151_85_4805_674b",
+    "sig7": "0000010c43fc67",
+    "prev": "none",
+    "next": "0D@1473",
+    "source": "singleton_promotion_v151",
+    "mode": "exact",
+    "members": {
+      "0000010c43fc6785": {
+        "body_prefix": "4805",
+        "body_md5": "88258eaaf05fe3202bcee856ac6b5f0b",
+        "tail_sig8": "0000010d43fc674b"
+      }
+    }
+  },
+  {
+    "name": "singleton_promotion_v151_85_46b1_654b",
+    "sig7": "0000010c43fc67",
+    "prev": "none",
+    "next": "0D@1259",
+    "source": "singleton_promotion_v151",
+    "mode": "exact",
+    "members": {
+      "0000010c43fc6785": {
+        "body_prefix": "46b1",
+        "body_md5": "edebefb7e684cb76574c31bb8f791a2a",
+        "tail_sig8": "0000010d43fc654b"
+      }
+    }
+  },
+  {
+    "name": "singleton_promotion_v151_85_4039_6b4b",
+    "sig7": "0000010c43fc67",
+    "prev": "none",
+    "next": "0D@1589",
+    "source": "singleton_promotion_v151",
+    "mode": "exact",
+    "members": {
+      "0000010c43fc6785": {
+        "body_prefix": "4039",
+        "body_md5": "219872f2410d02335ed9d2a604e1465e",
+        "tail_sig8": "0000010d43fc6b4b"
+      }
+    }
+  },
+  {
+    "name": "singleton_promotion_v151_85_4805_6d4b",
+    "sig7": "0000010c43fc67",
+    "prev": "none",
+    "next": "0D@1567",
+    "source": "singleton_promotion_v151",
+    "mode": "exact",
+    "members": {
+      "0000010c43fc6785": {
+        "body_prefix": "4805",
+        "body_md5": "3c01fa5ab403768d4ab1e70544bb93fb",
+        "tail_sig8": "0000010d43fc6d4b"
+      }
+    }
+  }
+]

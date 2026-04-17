@@ -1,0 +1,210 @@
+[
+  {
+    "name": "auto_domain43fc98_v148_e9_7321_b3b2",
+    "sig7": "0000010c43fc98",
+    "prev": "none",
+    "next": "0D@1434",
+    "source": "auto_domain43fc98_v148",
+    "mode": "flex",
+    "members": {
+      "0000010c43fc98e9": {
+        "body_prefix": "7321",
+        "tail_sig8": "0000010d43fcb3b2"
+      }
+    },
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 956,
+      "max": 1609
+    }
+  },
+  {
+    "name": "auto_domain43fc98_v148_e9_7321",
+    "sig7": "0000010c43fc98",
+    "prev": "none",
+    "next": "none",
+    "source": "auto_domain43fc98_v148",
+    "mode": "exact",
+    "members": {
+      "0000010c43fc98e9": {
+        "body_prefix": "7321"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc98_v148_e9_7321_7ee9",
+    "sig7": "0000010c43fc98",
+    "prev": "none",
+    "next": "0D@1511",
+    "source": "auto_domain43fc98_v148",
+    "mode": "flex",
+    "members": {
+      "0000010c43fc98e9": {
+        "body_prefix": "7321",
+        "tail_sig8": "0000010d43f17ee9"
+      }
+    },
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 1312,
+      "max": 1583
+    }
+  },
+  {
+    "name": "auto_domain43fc98_v148_e9_7321_b5b2",
+    "sig7": "0000010c43fc98",
+    "prev": "none",
+    "next": "0D@1437",
+    "source": "auto_domain43fc98_v148",
+    "mode": "flex",
+    "members": {
+      "0000010c43fc98e9": {
+        "body_prefix": "7321",
+        "tail_sig8": "0000010d43fcb5b2"
+      }
+    },
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 1248,
+      "max": 1437
+    }
+  },
+  {
+    "name": "auto_domain43fc98_v148_e9_5d90",
+    "sig7": "0000010c43fc98",
+    "prev": "none",
+    "next": "none",
+    "source": "auto_domain43fc98_v148",
+    "mode": "exact",
+    "members": {
+      "0000010c43fc98e9": {
+        "body_prefix": "5d90"
+      }
+    }
+  },
+  {
+    "name": "auto_domain43fc98_v148_e9_7321_a264",
+    "sig7": "0000010c43fc98",
+    "prev": "none",
+    "next": "0D@1107",
+    "source": "auto_domain43fc98_v148",
+    "mode": "flex",
+    "members": {
+      "0000010c43fc98e9": {
+        "body_prefix": "7321",
+        "tail_sig8": "0000010d43f0a264"
+      }
+    },
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 1106,
+      "max": 1830
+    }
+  },
+  {
+    "name": "auto_domain43fc98_v148_e9_5d90_b3b2",
+    "sig7": "0000010c43fc98",
+    "prev": "none",
+    "next": "0D@1573",
+    "source": "auto_domain43fc98_v148",
+    "mode": "flex",
+    "members": {
+      "0000010c43fc98e9": {
+        "body_prefix": "5d90",
+        "tail_sig8": "0000010d43fcb3b2"
+      }
+    },
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 1307,
+      "max": 1573
+    }
+  },
+  {
+    "name": "auto_domain43fc98_v148_e9_7321_bee9",
+    "sig7": "0000010c43fc98",
+    "prev": "none",
+    "next": "0D@1425",
+    "source": "auto_domain43fc98_v148",
+    "mode": "flex",
+    "members": {
+      "0000010c43fc98e9": {
+        "body_prefix": "7321",
+        "tail_sig8": "0000010d43f1bee9"
+      }
+    },
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 1425,
+      "max": 1428
+    }
+  },
+  {
+    "name": "auto_domain43fc98_v148_e9_7321_b1b2",
+    "sig7": "0000010c43fc98",
+    "prev": "none",
+    "next": "0D@1387",
+    "source": "auto_domain43fc98_v148",
+    "mode": "flex",
+    "members": {
+      "0000010c43fc98e9": {
+        "body_prefix": "7321",
+        "tail_sig8": "0000010d43fcb1b2"
+      }
+    },
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 1387,
+      "max": 1498
+    }
+  }
+]

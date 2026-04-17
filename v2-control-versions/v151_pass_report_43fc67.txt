@@ -1,0 +1,14 @@
+MRPS2 v151 singleton promotion pass for 43fc67
+=============================================
+baseline_v150_matched: 152/159 = 0.9560
+final_v151_matched: 159/159 = 1.0000
+new_singleton_rules: 7
+
+Promoted singleton branches:
+  0000010c43fc6740 | 46d6 | 0000010d43fc5f0a :: prev=none next=0D@632 md5=a1a5055f1d4cd275a02c500b834a7d98
+  0000010c43fc67d7 | 14c1 | 0000010d43fc87a9 :: prev=none next=0D@1092 md5=0564fd4025332ed8827f391a892f6771
+  0000010c43fc6725 | c46b | 0000010d43fc72ec :: prev=none next=0D@1383 md5=c2d2c9d5c1463e3c99f360ba8169df49
+  0000010c43fc6785 | 4805 | 0000010d43fc674b :: prev=none next=0D@1473 md5=88258eaaf05fe3202bcee856ac6b5f0b
+  0000010c43fc6785 | 46b1 | 0000010d43fc654b :: prev=none next=0D@1259 md5=edebefb7e684cb76574c31bb8f791a2a
+  0000010c43fc6785 | 4039 | 0000010d43fc6b4b :: prev=none next=0D@1589 md5=219872f2410d02335ed9d2a604e1465e
+  0000010c43fc6785 | 4805 | 0000010d43fc6d4b :: prev=none next=0D@1567 md5=3c01fa5ab403768d4ab1e70544bb93fb

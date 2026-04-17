@@ -1,0 +1,5 @@
+domain 0000010c43fc9b
+repeat v158: 57 / 61 = 93.4426%
+singleton frontier: 4
+final v159: 61 / 61 = 100.0000%
+singleton promotions: 4

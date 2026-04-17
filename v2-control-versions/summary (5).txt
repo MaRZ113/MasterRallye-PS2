@@ -1,0 +1,11 @@
+MRPS2 v141 coverage
+===================
+total_hits_under_sig7: 439
+matched_hits: 439
+quarantine_hits: 0
+coverage_ratio: 439/439 = 1.0000
+rulepack_rules: 27
+exact_hits: 129
+flex_hits: 310
+
+Top residual buckets:

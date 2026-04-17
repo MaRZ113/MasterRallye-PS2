@@ -1,0 +1,23 @@
+43fc next-move scout after v155
+===============================
+
+0000010c43fc81 :: hits=81 repeat=77 singleton=4 repeat_ratio=0.9506 unique_branches=21
+0000010c43fc7b :: hits=64 repeat=51 singleton=13 repeat_ratio=0.7969 unique_branches=29
+0000010c43fc9b :: hits=61 repeat=57 singleton=4 repeat_ratio=0.9344 unique_branches=16
+0000010c43fc46 :: hits=56 repeat=52 singleton=4 repeat_ratio=0.9286 unique_branches=17
+0000010c43fc71 :: hits=48 repeat=42 singleton=6 repeat_ratio=0.8750 unique_branches=17
+0000010c43fc85 :: hits=47 repeat=39 singleton=8 repeat_ratio=0.8298 unique_branches=19
+0000010c43fc96 :: hits=44 repeat=44 singleton=0 repeat_ratio=1.0000 unique_branches=4
+0000010c43fcc7 :: hits=44 repeat=43 singleton=1 repeat_ratio=0.9773 unique_branches=10
+0000010c43fc9d :: hits=41 repeat=40 singleton=1 repeat_ratio=0.9756 unique_branches=7
+0000010c43fcfb :: hits=40 repeat=33 singleton=7 repeat_ratio=0.8250 unique_branches=16
+0000010c43fc86 :: hits=35 repeat=32 singleton=3 repeat_ratio=0.9143 unique_branches=12
+0000010c43fc84 :: hits=35 repeat=31 singleton=4 repeat_ratio=0.8857 unique_branches=13
+0000010c43fc44 :: hits=32 repeat=27 singleton=5 repeat_ratio=0.8438 unique_branches=13
+0000010c43fcfd :: hits=28 repeat=28 singleton=0 repeat_ratio=1.0000 unique_branches=7
+0000010c43fcfe :: hits=28 repeat=27 singleton=1 repeat_ratio=0.9643 unique_branches=8
+0000010c43fc87 :: hits=28 repeat=25 singleton=3 repeat_ratio=0.8929 unique_branches=10
+0000010c43fc82 :: hits=27 repeat=25 singleton=2 repeat_ratio=0.9259 unique_branches=9
+0000010c43fc83 :: hits=27 repeat=22 singleton=5 repeat_ratio=0.8148 unique_branches=11
+0000010c43fca1 :: hits=25 repeat=25 singleton=0 repeat_ratio=1.0000 unique_branches=5
+0000010c43fc88 :: hits=25 repeat=24 singleton=1 repeat_ratio=0.9600 unique_branches=8

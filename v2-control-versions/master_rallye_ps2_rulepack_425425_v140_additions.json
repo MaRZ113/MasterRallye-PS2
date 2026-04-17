@@ -1,0 +1,633 @@
+[
+  {
+    "name": "flex_frontier_61_930c_424864cb",
+    "sig7": "0000010c425425",
+    "mode": "flex",
+    "prev": "*",
+    "next": "*",
+    "prev_family": {
+      "rids": [
+        "0B",
+        "none"
+      ],
+      "min": -434,
+      "max": -323
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 512,
+      "max": 662
+    },
+    "members": {
+      "0000010c42542561": {
+        "body_prefix": "930c",
+        "tail_sig8": "0000010d424864cb"
+      }
+    },
+    "source": "frontier_v140"
+  },
+  {
+    "name": "flex_frontier_61_930c",
+    "sig7": "0000010c425425",
+    "mode": "flex",
+    "prev": "*",
+    "next": "*",
+    "prev_family": {
+      "rids": [
+        "0B"
+      ],
+      "min": -419,
+      "max": -296
+    },
+    "next_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "members": {
+      "0000010c42542561": {
+        "body_prefix": "930c"
+      }
+    },
+    "source": "frontier_v140"
+  },
+  {
+    "name": "flex_frontier_61_a618",
+    "sig7": "0000010c425425",
+    "mode": "flex",
+    "prev": "*",
+    "next": "*",
+    "prev_family": {
+      "rids": [
+        "0B"
+      ],
+      "min": -466,
+      "max": -276
+    },
+    "next_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "members": {
+      "0000010c42542561": {
+        "body_prefix": "a618"
+      }
+    },
+    "source": "frontier_v140"
+  },
+  {
+    "name": "flex_frontier_61_9e7b",
+    "sig7": "0000010c425425",
+    "mode": "flex",
+    "prev": "*",
+    "next": "*",
+    "prev_family": {
+      "rids": [
+        "0B",
+        "none"
+      ],
+      "min": -276,
+      "max": -264
+    },
+    "next_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "members": {
+      "0000010c42542561": {
+        "body_prefix": "9e7b"
+      }
+    },
+    "source": "frontier_v140"
+  },
+  {
+    "name": "flex_frontier_61_cc58",
+    "sig7": "0000010c425425",
+    "mode": "flex",
+    "prev": "*",
+    "next": "*",
+    "prev_family": {
+      "rids": [
+        "0B"
+      ],
+      "min": -440,
+      "max": -319
+    },
+    "next_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "members": {
+      "0000010c42542561": {
+        "body_prefix": "cc58"
+      }
+    },
+    "source": "frontier_v140"
+  },
+  {
+    "name": "flex_frontier_63_7cd8_424864cb",
+    "sig7": "0000010c425425",
+    "mode": "flex",
+    "prev": "*",
+    "next": "*",
+    "prev_family": {
+      "rids": [
+        "0B",
+        "none"
+      ],
+      "min": -492,
+      "max": -331
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 545,
+      "max": 675
+    },
+    "members": {
+      "0000010c42542563": {
+        "body_prefix": "7cd8",
+        "tail_sig8": "0000010d424864cb"
+      }
+    },
+    "source": "frontier_v140"
+  },
+  {
+    "name": "flex_frontier_63_7fa1",
+    "sig7": "0000010c425425",
+    "mode": "flex",
+    "prev": "*",
+    "next": "*",
+    "prev_family": {
+      "rids": [
+        "0B"
+      ],
+      "min": -304,
+      "max": -255
+    },
+    "next_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "members": {
+      "0000010c42542563": {
+        "body_prefix": "7fa1"
+      }
+    },
+    "source": "frontier_v140"
+  },
+  {
+    "name": "flex_frontier_61_cc30",
+    "sig7": "0000010c425425",
+    "mode": "flex",
+    "prev": "*",
+    "next": "*",
+    "prev_family": {
+      "rids": [
+        "0B"
+      ],
+      "min": -319,
+      "max": -252
+    },
+    "next_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "members": {
+      "0000010c42542561": {
+        "body_prefix": "cc30"
+      }
+    },
+    "source": "frontier_v140"
+  },
+  {
+    "name": "flex_frontier_61_cc30_424864cd",
+    "sig7": "0000010c425425",
+    "mode": "flex",
+    "prev": "*",
+    "next": "*",
+    "prev_family": {
+      "rids": [
+        "0B"
+      ],
+      "min": -501,
+      "max": -466
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 616,
+      "max": 652
+    },
+    "members": {
+      "0000010c42542561": {
+        "body_prefix": "cc30",
+        "tail_sig8": "0000010d424864cd"
+      }
+    },
+    "source": "frontier_v140"
+  },
+  {
+    "name": "flex_frontier_61_cc6c",
+    "sig7": "0000010c425425",
+    "mode": "flex",
+    "prev": "*",
+    "next": "*",
+    "prev_family": {
+      "rids": [
+        "0B"
+      ],
+      "min": -346,
+      "max": -240
+    },
+    "next_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "members": {
+      "0000010c42542561": {
+        "body_prefix": "cc6c"
+      }
+    },
+    "source": "frontier_v140"
+  },
+  {
+    "name": "flex_frontier_61_df2e_424864cb",
+    "sig7": "0000010c425425",
+    "mode": "flex",
+    "prev": "*",
+    "next": "*",
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 1022,
+      "max": 1059
+    },
+    "members": {
+      "0000010c42542561": {
+        "body_prefix": "df2e",
+        "tail_sig8": "0000010d424864cb"
+      }
+    },
+    "source": "frontier_v140"
+  },
+  {
+    "name": "flex_frontier_61_ec30",
+    "sig7": "0000010c425425",
+    "mode": "flex",
+    "prev": "*",
+    "next": "*",
+    "prev_family": {
+      "rids": [
+        "0B"
+      ],
+      "min": -483,
+      "max": -420
+    },
+    "next_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "members": {
+      "0000010c42542561": {
+        "body_prefix": "ec30"
+      }
+    },
+    "source": "frontier_v140"
+  },
+  {
+    "name": "flex_frontier_62_bf49_424864cb",
+    "sig7": "0000010c425425",
+    "mode": "flex",
+    "prev": "*",
+    "next": "*",
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 884,
+      "max": 1124
+    },
+    "members": {
+      "0000010c42542562": {
+        "body_prefix": "bf49",
+        "tail_sig8": "0000010d424864cb"
+      }
+    },
+    "source": "frontier_v140"
+  },
+  {
+    "name": "flex_frontier_63_7b2e_42483126",
+    "sig7": "0000010c425425",
+    "mode": "flex",
+    "prev": "*",
+    "next": "*",
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 1021,
+      "max": 1077
+    },
+    "members": {
+      "0000010c42542563": {
+        "body_prefix": "7b2e",
+        "tail_sig8": "0000010d42483126"
+      }
+    },
+    "source": "frontier_v140"
+  },
+  {
+    "name": "flex_frontier_63_7e2e",
+    "sig7": "0000010c425425",
+    "mode": "flex",
+    "prev": "*",
+    "next": "*",
+    "prev_family": {
+      "rids": [
+        "0B"
+      ],
+      "min": -447,
+      "max": -387
+    },
+    "next_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "members": {
+      "0000010c42542563": {
+        "body_prefix": "7e2e"
+      }
+    },
+    "source": "frontier_v140"
+  },
+  {
+    "name": "flex_frontier_63_7e41",
+    "sig7": "0000010c425425",
+    "mode": "flex",
+    "prev": "*",
+    "next": "*",
+    "prev_family": {
+      "rids": [
+        "0B"
+      ],
+      "min": -412,
+      "max": -373
+    },
+    "next_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "members": {
+      "0000010c42542563": {
+        "body_prefix": "7e41"
+      }
+    },
+    "source": "frontier_v140"
+  },
+  {
+    "name": "flex_frontier_63_7e61",
+    "sig7": "0000010c425425",
+    "mode": "flex",
+    "prev": "*",
+    "next": "*",
+    "prev_family": {
+      "rids": [
+        "0B"
+      ],
+      "min": -366,
+      "max": -331
+    },
+    "next_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "members": {
+      "0000010c42542563": {
+        "body_prefix": "7e61"
+      }
+    },
+    "source": "frontier_v140"
+  },
+  {
+    "name": "flex_frontier_63_7ea0_42486562",
+    "sig7": "0000010c425425",
+    "mode": "flex",
+    "prev": "*",
+    "next": "*",
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 932,
+      "max": 1166
+    },
+    "members": {
+      "0000010c42542563": {
+        "body_prefix": "7ea0",
+        "tail_sig8": "0000010d42486562"
+      }
+    },
+    "source": "frontier_v140"
+  },
+  {
+    "name": "flex_frontier_63_7fa0",
+    "sig7": "0000010c425425",
+    "mode": "flex",
+    "prev": "*",
+    "next": "*",
+    "prev_family": {
+      "rids": [
+        "0B"
+      ],
+      "min": -326,
+      "max": -292
+    },
+    "next_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "members": {
+      "0000010c42542563": {
+        "body_prefix": "7fa0"
+      }
+    },
+    "source": "frontier_v140"
+  },
+  {
+    "name": "flex_frontier_63_7fb1_424864cb",
+    "sig7": "0000010c425425",
+    "mode": "flex",
+    "prev": "*",
+    "next": "*",
+    "prev_family": {
+      "rids": [
+        "0B"
+      ],
+      "min": -383,
+      "max": -340
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 665,
+      "max": 706
+    },
+    "members": {
+      "0000010c42542563": {
+        "body_prefix": "7fb1",
+        "tail_sig8": "0000010d424864cb"
+      }
+    },
+    "source": "frontier_v140"
+  },
+  {
+    "name": "flex_frontier_63_7fb5_424864cb",
+    "sig7": "0000010c425425",
+    "mode": "flex",
+    "prev": "*",
+    "next": "*",
+    "prev_family": {
+      "rids": [
+        "0B"
+      ],
+      "min": -444,
+      "max": -347
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 689,
+      "max": 766
+    },
+    "members": {
+      "0000010c42542563": {
+        "body_prefix": "7fb5",
+        "tail_sig8": "0000010d424864cb"
+      }
+    },
+    "source": "frontier_v140"
+  },
+  {
+    "name": "flex_frontier_63_7fb6_424864cb",
+    "sig7": "0000010c425425",
+    "mode": "flex",
+    "prev": "*",
+    "next": "*",
+    "prev_family": {
+      "rids": [
+        "0B",
+        "none"
+      ],
+      "min": -486,
+      "max": -486
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 659,
+      "max": 889
+    },
+    "members": {
+      "0000010c42542563": {
+        "body_prefix": "7fb6",
+        "tail_sig8": "0000010d424864cb"
+      }
+    },
+    "source": "frontier_v140"
+  },
+  {
+    "name": "flex_frontier_63_b141_424864c3",
+    "sig7": "0000010c425425",
+    "mode": "flex",
+    "prev": "*",
+    "next": "*",
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 564,
+      "max": 920
+    },
+    "members": {
+      "0000010c42542563": {
+        "body_prefix": "b141",
+        "tail_sig8": "0000010d424864c3"
+      }
+    },
+    "source": "frontier_v140"
+  },
+  {
+    "name": "flex_frontier_63_b1e2_424864cb",
+    "sig7": "0000010c425425",
+    "mode": "flex",
+    "prev": "*",
+    "next": "*",
+    "prev_family": {
+      "rids": [
+        "0B",
+        "none"
+      ],
+      "min": -416,
+      "max": -416
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 507,
+      "max": 535
+    },
+    "members": {
+      "0000010c42542563": {
+        "body_prefix": "b1e2",
+        "tail_sig8": "0000010d424864cb"
+      }
+    },
+    "source": "frontier_v140"
+  }
+]

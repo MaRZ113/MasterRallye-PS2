@@ -1,0 +1,32 @@
+RID0C top-domain scouting after closing 425425**
+===============================================
+Total RID0C hits in full TNG.000: 58875
+Unique sig7 domains: 8829
+
+Top 10 sig7 domains by hit count:
+- 0000010c425425 :: hits=653, unique_sig8=4, unique_buckets=244, top_branch_ratio=0.0322, clusters=37
+- 0000010c43fc65 :: hits=439, unique_sig8=4, unique_buckets=155, top_branch_ratio=0.5057, clusters=13
+- 0000010c423fcf :: hits=299, unique_sig8=55, unique_buckets=131, top_branch_ratio=0.0468, clusters=99
+- 0000010c425bbf :: hits=292, unique_sig8=23, unique_buckets=151, top_branch_ratio=0.0342, clusters=83
+- 0000010c43fc6f :: hits=282, unique_sig8=6, unique_buckets=135, top_branch_ratio=0.0851, clusters=17
+- 0000010c43d041 :: hits=273, unique_sig8=33, unique_buckets=143, top_branch_ratio=0.022, clusters=74
+- 0000010c43a0c5 :: hits=253, unique_sig8=25, unique_buckets=129, top_branch_ratio=0.0277, clusters=101
+- 0000010c426830 :: hits=243, unique_sig8=47, unique_buckets=121, top_branch_ratio=0.0329, clusters=108
+- 0000010c423fce :: hits=224, unique_sig8=52, unique_buckets=98, top_branch_ratio=0.0312, clusters=89
+- 0000010c43fc6d :: hits=218, unique_sig8=8, unique_buckets=96, top_branch_ratio=0.1697, clusters=27
+
+Why 43fc65 was selected next:
+- second-largest uncovered sig7 domain after 425425**
+- only 4 sig8 variants across 439 hits
+- only 27 branches total
+- 435/439 hits are in repeated branches; only 4 singletons
+- dominant repeated branch 0000010c43fc6585 | 4039 | 0000010d43fc654b alone accounts for 222 hits
+
+Family-level signal:
+- aggregate prefix 0000010c43fc** totals 3534 hits across multiple sibling domains
+- notable sibling sig7 domains include 43fc6f and 43fc6d, suggesting a larger 43fc-family worth treating as a superdomain after 43fc65
+
+Recommended next strategic move after 43fc65 closure:
+1. Treat 43fc6f and 43fc6d as sibling follow-up domains.
+2. If they show the same regularity, build a 43fc-family multi-domain rulepack rather than isolated single-domain packs.
+3. Only after that pivot to broader high-mass families such as 423f** or 425b**.

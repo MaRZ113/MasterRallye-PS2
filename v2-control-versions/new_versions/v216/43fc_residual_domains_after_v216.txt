@@ -1,0 +1,11 @@
+43fc residual domains after v216
+================================
+STATUS: reconstructed helper file
+PROVENANCE: restored from contemporaneous session notes because the original v216 residual-domain export was not present on disk.
+SCOPE: top residual domains only; not a full exhaustive frontier dump.
+
+43fc9f	236
+43fc7b	53
+43fcd2	20
+43fcfa	19
+43fc48	18

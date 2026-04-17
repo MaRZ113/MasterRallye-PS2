@@ -1,0 +1,17 @@
+{
+  "total_best_mapped_records": 56,
+  "safe_playable_records": 27,
+  "experimental_records": 19,
+  "rejected_records": 10,
+  "safe_clusters": [
+    "43fc65_refined_rank01_supp9_video_33594A33_33964A33.pss",
+    "43fc65_refined_rank05_supp7_video_006EA701_00B8A085.pss"
+  ],
+  "experimental_clusters": [
+    "43fc65_refined_rank02_supp9_video_01F67B47_022A1F33.pss",
+    "43fc65_refined_rank07_supp6_audio-video_0CB8B009_0D8F0071.pss"
+  ],
+  "rejected_clusters": [
+    "43fc65_refined_rank04_supp7_video_01C6BF05_01CC9B0C.pss"
+  ]
+}

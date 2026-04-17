@@ -1,0 +1,6 @@
+cluster_rank,cand_idx,start,end,size,back_shift,end_extend,support,ffmpeg_stderr_len,ffmpeg_line_count,score,ffprobe_ok,format_name,duration,stream_count,stream_types,export_file,md5
+1,1,861489715,865487411,3997700,0,0,9,94,2,120.712,True,mpeg,17.120000,1,video,43fc65_refined_rank01_supp9_video_33594A33_33964A33.pss,4cc128b8a1e0d95a0eb4c5c8f1581185
+2,2,32930631,36314931,3384304,16533,0,9,5672,106,104.356,True,mpeg,14.160000,1,video,43fc65_refined_rank02_supp9_video_01F67B47_022A1F33.pss,841c552fb9016fc37695c74a67fc76fc
+4,4,29802245,30186252,384011,49610,0,7,158,3,118.534,True,mpeg,24061.028022,1,video,43fc65_refined_rank04_supp7_video_01C6BF05_01CC9B0C.pss,7727fdbeac6411e909a1dcdb844a3a15
+5,1,7251713,12099717,4848008,0,0,7,3144,59,109.762,True,mpeg,4.672122,1,video,43fc65_refined_rank05_supp7_video_006EA701_00B8A085.pss,fa347af345834439927b17c9a08ec9cd
+7,2,213430281,227475569,14045292,0,3756943,6,15700,267,205.25,True,mpeg,63432.553766,12,"audio,video",43fc65_refined_rank07_supp6_audio-video_0CB8B009_0D8F0071.pss,1c3a9620cb7e607c25603361c57d5bfb

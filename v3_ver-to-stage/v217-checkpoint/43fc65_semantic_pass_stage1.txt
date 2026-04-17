@@ -1,0 +1,39 @@
+43fc65 semantic pass - initial feature extraction
+total_hits=439 filesize=1225915283
+top sig8:
+  0000010c43fc6585 :: 432
+  0000010c43fc652b :: 3
+  0000010c43fc65c5 :: 3
+  0000010c43fc65c0 :: 1
+top body_prefix:
+  4039 :: 386
+  4805 :: 33
+  4848 :: 10
+  4029 :: 3
+  de32 :: 3
+  f3d8 :: 3
+  7eb5 :: 1
+top tail_sig8:
+  0000010d43fc654b :: 240
+  <none> :: 125
+  0000010d43fc674b :: 14
+  0000010d43fc6562 :: 10
+  0000010d43fc647b :: 9
+  0000010d43fc69b0 :: 7
+  0000010d43fc6af9 :: 6
+  0000010d43fc67b0 :: 4
+  0000010d43fc6762 :: 4
+  0000010d43fc655a :: 3
+top candidate aligned u32 positions (heuristic):
+  pos=0x008 in_range=0.893 align16=0.992 align800=0.000 uniq=17 starts=3f0080cd3e68312f | be67be0cc403bc0c | 3f0080cd3e68312f
+  pos=0x018 in_range=0.656 align16=0.031 align800=0.000 uniq=40 starts=oor | 8a013169c03a0320 | oor
+  pos=0x024 in_range=0.611 align16=0.086 align800=0.022 uniq=65 starts=9544be5d0cb7cc06 | 7c60d09e4f7a3ba5 | f9a3c83769947a78
+  pos=0x028 in_range=0.497 align16=0.005 align800=0.000 uniq=65 starts=oor | oor | oor
+  pos=0x01C in_range=0.394 align16=0.000 align800=0.000 uniq=67 starts=oor | oor | oor
+  pos=0x054 in_range=0.374 align16=0.134 align800=0.000 uniq=117 starts=869e0a7aee403dc5 | oor | oor
+  pos=0x148 in_range=0.374 align16=0.061 align800=0.000 uniq=196 starts=oor | oor | eb67c785d254744b
+  pos=0x06C in_range=0.371 align16=0.184 align800=0.025 uniq=125 starts=oor | oor | 000001e00ffa8300
+  pos=0x0B8 in_range=0.369 align16=0.117 align800=0.000 uniq=158 starts=oor | 6d022327cc00dccf | 0031ba009f97f5c0
+  pos=0x044 in_range=0.358 align16=0.006 align800=0.000 uniq=81 starts=c47e88524183e3e0 | d612994001f00c18 | oor
+  pos=0x09C in_range=0.355 align16=0.103 align800=0.000 uniq=153 starts=oor | dcac0601f238f8be | 42ae540d000b202f
+  pos=0x0A8 in_range=0.353 align16=0.071 align800=0.000 uniq=152 starts=oor | oor | oor

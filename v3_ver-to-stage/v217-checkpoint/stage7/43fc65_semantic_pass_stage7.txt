@@ -1,0 +1,32 @@
+43fc65 semantic pass stage 7 (packet-level salvage for rank07)
+
+Goal
+- attempt packet-level salvage on the stage6 research mux rank07 blob.
+- split the long noisy multiplex blob into smaller pack-header anchored subsegments.
+- identify candidate A/V or cleaner video-only subsegments.
+
+Method
+- locate MPEG sequence headers (0x000001B3) inside rank07.
+- map each sequence header to the nearest previous pack header (0x000001BA).
+- cut provisional subsegments from that pack header to the next pack header associated with the next sequence header.
+- validate each subsegment with ffprobe.
+
+Results
+- total provisional packet-level subsegments: 19 (excluding broken final negative span).
+- subsegments with both audio and video detected by ffprobe: 2
+  * segment 11: /mnt/data/semantic_pass_43fc65_stage7/packet_exports/43fc65_rank07_candidate_av_long_0047748B_0064427C.pss
+  * segment 16: /mnt/data/semantic_pass_43fc65_stage7/packet_exports/43fc65_rank07_candidate_av_short_009CE1A8_00A2456D.pss
+- segment 11 looks like a 7.44s A/V candidate but ffmpeg reports invalid PES extension and DTS discontinuities.
+- segment 16 looks like a 2.8s A/V candidate but still has MP2 header errors and unknown video codec parameters.
+- several video-only subsegments exist and are shorter/cleaner than the whole rank07 blob, notably segments 0 and 17.
+
+Conclusion
+- packet-level salvage improved interpretability of rank07: it is not one clean clip, but a composite multiplex region containing multiple shorter candidate subsegments.
+- no clean multiplexed A/V export is yet confirmed.
+- best next action is to keep rank07 in RESEARCH and either:
+  (a) try PES-stream specific salvage / timestamp scrubbing, or
+  (b) transfer the SAFE/RESEARCH/REJECTED workflow to 43fc6f while rank07 remains an advanced research target.
+
+Practical status
+- SAFE defaults for 43fc65 remain unchanged from stage6.
+- packet-level exports are provided for local validation.

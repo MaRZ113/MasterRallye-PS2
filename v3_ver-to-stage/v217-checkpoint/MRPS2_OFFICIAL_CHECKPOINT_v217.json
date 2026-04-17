@@ -1,0 +1,53 @@
+{
+  "checkpoint_name": "MRPS2_PROVISIONAL_CHECKPOINT_v217_candidate",
+  "status": "provisional_do_not_use_as_official_baseline",
+  "canonical_input_ref": "MRPS2_CANONICAL_INPUT.json",
+  "principle": "Only merged-pack full runs on the canonical TNG.000 may change the official percentage.",
+  "components": [
+    {
+      "component_name": "RID0C sig7 425425** standalone domain",
+      "rulepack_file": "master_rallye_ps2_rulepack_425425_v141.json",
+      "summary_file": "v141_cov_full/summary.txt",
+      "total_hits": 653,
+      "matched_hits": 653,
+      "quarantine_hits": 0,
+      "coverage_numerator": 653,
+      "coverage_denominator": 653,
+      "coverage_fraction": 1.0,
+      "rulepack_rules": 305,
+      "exact_hits": 591,
+      "flex_hits": 62
+    },
+    {
+      "component_name": "RID0C sig7 43fc** reconciled family",
+      "rulepack_file": "master_rallye_ps2_rulepack_43fc_family_reconciled_v217.json",
+      "manifest_file": "master_rallye_ps2_rulepack_43fc_family_reconciled_v217_manifest.json",
+      "summary_file": "v217_cov_43fc_family_reconciled/summary.txt",
+      "total_hits": 3534,
+      "matched_hits": 2240,
+      "quarantine_hits": 1294,
+      "coverage_numerator": 2240,
+      "coverage_denominator": 3534,
+      "coverage_fraction": 0.6338,
+      "rulepack_rules": 528,
+      "exact_hits": 1576,
+      "flex_hits": 664
+    }
+  ],
+  "official_tracked_total_hits": 2893,
+  "official_tracked_scope_total": 4187,
+  "official_tracked_scope_fraction": 0.6909481729161691,
+  "notes": [
+    "This checkpoint is intentionally conservative.",
+    "Later local domain wins are not official until they are merged and re-run against the canonical input.",
+    "Do not infer whole-project coverage from this file; it covers only the tracked official families/components listed above.",
+    "v212 adds domain 43fc83 to the official reconciled family pack.",
+    "v213 adds domain 43fc4d to the official reconciled family pack.",
+    "v214 adds 43fc4c via exact+md5 reconciliation and re-runs the full merged family pack.",
+    "v215 replaces 43fccc with a reproducible live-hit reconciliation rulepack and re-runs the full merged family pack.",
+    "v216 adds 43fcc4 via reproducible standalone+merged reconciliation and re-runs the full merged family pack.",
+    "v217 adds 43fcd2 via reproducible standalone+merged reconciliation and re-runs the full merged family pack.",
+    "Generated during 43fcd2 work, but current environment failed to reproduce the stated v216 family coverage. Treat this file as a candidate only.",
+    "Canonical TNG.000 hash does match the official canonical input; the reproducibility issue is with historical merged-pack state, not the input file."
+  ]
+}

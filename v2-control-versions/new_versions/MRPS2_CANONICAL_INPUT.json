@@ -1,0 +1,35 @@
+{
+  "canonical_asset_name": "TNG.000",
+  "canonical_container": "TNG-000_1_full.zip",
+  "reconstruction_method": "Concatenate .001/.002/.003 into one ZIP archive, then read the single TNG.000 entry from the ZIP.",
+  "zip_entry": {
+    "filename": "TNG.000",
+    "zip_crc32": "C740B8AA",
+    "file_size_bytes": 1225915283,
+    "compressed_size_bytes": 1119156934,
+    "compression_method": "deflate"
+  },
+  "source_parts": [
+    {
+      "file": "TNG-000_1.zip(1).001",
+      "size_bytes": 524288000,
+      "sha256": "f1345f34d79b964bc8919dbbff3d7492684b45c05811feeed5fd475378579c1c"
+    },
+    {
+      "file": "TNG-000_1.zip(1).002",
+      "size_bytes": 524288000,
+      "sha256": "8a24a735d513fa385fe504c81db1cc2d0f8c303d5b7d0a753a6c6a097353e4ca"
+    },
+    {
+      "file": "TNG-000_1.zip(1).003",
+      "size_bytes": 70581082,
+      "sha256": "8efa2aa343b7204d493cee871c8b50f8fde3bf5f758cfe73b5109bb00ec56ca5"
+    }
+  ],
+  "content_hashes": {
+    "md5": "a9467ead3da8e34e54cef7ed2d47d4e8",
+    "sha1": "b656a72873aec7af4640b2d2d8301e960c8976f5",
+    "sha256": "004ac1676376275bf40c1fd5c1c4a9dcfaae870bf1a7916434eb73b0b1faff86"
+  },
+  "status": "official_canonical_input"
+}

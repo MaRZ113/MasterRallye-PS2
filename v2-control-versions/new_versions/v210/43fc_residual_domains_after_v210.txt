@@ -1,0 +1,23 @@
+Residual 43fc domains after reconciled v210
+========================================
+
+43fc7b :: residual_hits=64
+43fc83 :: residual_hits=27
+43fc4d :: residual_hits=22
+43fc4c :: residual_hits=21
+43fc87 :: residual_hits=20
+43fccc :: residual_hits=20
+43fcd2 :: residual_hits=20
+43fc79 :: residual_hits=20
+43fcc4 :: residual_hits=18
+43fc9f :: residual_hits=17
+43fc8a :: residual_hits=17
+43fcda :: residual_hits=17
+43fcac :: residual_hits=16
+43fcfa :: residual_hits=16
+43fc48 :: residual_hits=16
+43fced :: residual_hits=15
+43fc8b :: residual_hits=14
+43fcf2 :: residual_hits=14
+43fcbb :: residual_hits=13
+43fc8c :: residual_hits=13

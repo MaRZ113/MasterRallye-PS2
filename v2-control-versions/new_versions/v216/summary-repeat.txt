@@ -1,0 +1,41 @@
+MRPS2 v174 coverage
+===================
+total_hits_under_sig7: 3534
+matched_hits: 2484
+quarantine_hits: 1050
+coverage_ratio: 2484/3534 = 0.7029
+rulepack_rules: 516
+exact_hits: 714
+flex_hits: 1770
+
+Top residual buckets:
+  none || none :: 229 | branches=105 | top=0000010c43fc9fd6 | 7964::5
+  none || 0D@856 :: 8 | branches=4 | top=0000010c43fc4590 | e8dd | 0000010d43fc52fa::3
+  none || 0D@1440 :: 6 | branches=4 | top=0000010c43fcd3ce | 512e | 0000010d43f1a264::2
+  none || 0D@1628 :: 5 | branches=2 | top=0000010c43fc9ee9 | 6643 | 0000010d43f0e264::3
+  none || 0D@785 :: 5 | branches=2 | top=0000010c43fca0e7 | 4d74 | 0000010d43fc5321::3
+  none || 0D@889 :: 5 | branches=2 | top=0000010c43fcfa2c | d956 | 0000010d43fcedc7::3
+  none || 0D@925 :: 5 | branches=2 | top=0000010c43fce732 | e176 | 0000010d43f8b898::3
+  none || 0D@939 :: 5 | branches=2 | top=0000010c43fca7ce | bf65 | 0000010d43f8773f::3
+  none || 0D@791 :: 5 | branches=3 | top=0000010c43fcc30d | fb99 | 0000010d43fc4472::3
+  none || 0D@1134 :: 4 | branches=2 | top=0000010c43fce9f2 | 8442 | 0000010d43fc832e::3
+  none || 0D@1327 :: 4 | branches=2 | top=0000010c43fc68e8 | 63a4 | 0000010d43fc654b::3
+  none || 0D@1609 :: 4 | branches=2 | top=0000010c43fc7322 | 4805 | 0000010d43fc93b2::3
+  none || 0D@1704 :: 4 | branches=2 | top=0000010c43fc7b92 | c900 | 0000010d43fc95b2::3
+  none || 0D@739 :: 4 | branches=2 | top=0000010c43fc6ab3 | 6334 | 0000010d43fc4b98::3
+  none || 0D@844 :: 4 | branches=2 | top=0000010c43fcbbdf | 1362 | 0000010d43fcdf1d::3
+  none || 0D@875 :: 4 | branches=2 | top=0000010c43fce000 | 5793 | 0000010d43f8ef4e::3
+  none || 0D@893 :: 4 | branches=2 | top=0000010c43fcda2e | ec8a | 0000010d43f90663::3
+  none || 0D@976 :: 4 | branches=2 | top=0000010c43fcf5f7 | e0d2 | 0000010d43f83e38::3
+  none || 0D@984 :: 4 | branches=2 | top=0000010c43fcbfde | 5d8b | 0000010d43fca15c::3
+  none || 0D@985 :: 4 | branches=2 | top=0000010c43fcf4f7 | 6bb5 | 0000010d43fb6ef3::3
+  none || 0D@1646 :: 4 | branches=2 | top=0000010c43fc87c4 | 445b | 0000010d43f81002::2
+  none || 0D@1467 :: 4 | branches=3 | top=0000010c43fcfa00 | f7e1 | 0000010d43fcc446::2
+  none || 0D@1485 :: 4 | branches=3 | top=0000010c43fc7ce2 | a43f | 0000010d43fc7743::2
+  none || 0D@1670 :: 4 | branches=3 | top=0000010c43fce22d | 4571 | 0000010d43fcf000::2
+  none || 0D@880 :: 4 | branches=3 | top=0000010c43fcd245 | 96c5 | 0000010d43f957c7::2
+  none || 0D@906 :: 4 | branches=3 | top=0000010c43fcebd1 | 3f64 | 0000010d43f80913::2
+  none || 0D@964 :: 4 | branches=3 | top=0000010c43fc5a8b | 55ae | 0000010d43fc962e::2
+  0B@-212 || none :: 3 | branches=1 | top=0000010c43fcf8d9 | 17bf::3
+  0B@-252 || none :: 3 | branches=1 | top=0000010c43fc3b1d | 3ff9::3
+  0B@-264 || none :: 3 | branches=1 | top=0000010c43fcf93e | fef4::3

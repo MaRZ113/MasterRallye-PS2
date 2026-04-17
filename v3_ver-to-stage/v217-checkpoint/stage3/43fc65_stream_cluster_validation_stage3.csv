@@ -1,0 +1,21 @@
+cluster_rank,file,start,end,size,support,unique_records,unique_positions,file_ident,ffprobe_ok,format_name,duration,stream_count,stream_types,mean_delta,min_delta,max_delta
+1,cluster_01_33594A33_33964A33.pss,861489715,865487411,3997700,9,9,1,"MPEG sequence, v2, program multiplex",True,mpeg,17.120000,1,video,12906.0,12906,12906
+2,cluster_02_1F6BBDC_22A1F33.pss,32947164,36314931,3367771,9,9,1,"MPEG sequence, v2, program multiplex",True,mpeg,14.160000,1,video,3120.0,3120,3120
+3,cluster_03_3FAC4A16_3FAF08CF.pss,1068255766,1068435663,179901,9,9,1,"MPEG sequence, v1, system multiplex",False,,,0,,70688.0,70688,70688
+4,cluster_04_1C780CF_1CC9B0C.pss,29851855,30186252,334401,7,7,2,"MPEG sequence, v2, program multiplex",True,mpeg,24060.988022,1,audio,60272.28571428572,58417,62746
+5,cluster_05_6EA701_B8A085.pss,7251713,12099717,4848008,7,7,1,"MPEG sequence, v2, program multiplex",True,mpeg,4.672122,1,video,13923.0,13923,13923
+6,cluster_06_B25D3FF_B5DADD7.pss,187028479,190688727,3660252,7,7,1,"MPEG sequence, v2, program multiplex",True,mpeg,,2,video,2238.0,2238,2238
+7,cluster_07_CB8B009_D55ACE2.pss,213430281,223718626,10288349,6,6,1,"MPEG sequence, v2, program multiplex",True,mpeg,27765.702633,4,"audio,video",9682.0,9682,9682
+8,cluster_08_1BDF92BD_1C2B650F.pss,467636925,472605967,4969046,6,6,1,"MPEG sequence, v2, program multiplex",True,mpeg,20.120000,2,video,21828.0,21828,21828
+9,cluster_09_36A5AB0D_36DA6B0D.pss,916826893,920283917,3457028,6,6,1,"MPEG sequence, v2, program multiplex",True,mpeg,22.680000,1,video,3472.0,409,6535
+10,cluster_10_6DFE39F_707376B.pss,115336095,117913451,2577360,6,6,1,"MPEG sequence, v2, program multiplex",True,mpeg,14.640000,1,video,8257.0,8257,8257
+11,cluster_11_3BAD4A3F_3BED8A3F.pss,1001212479,1005423167,4210692,4,4,2,"MPEG sequence, v2, program multiplex",True,mpeg,23.360000,1,video,8908.0,2893,10913
+12,cluster_12_197FE693_19A550E5.pss,427812499,430264549,2452054,4,4,1,"MPEG sequence, v2, program multiplex",True,mpeg,71399.068478,1,video,10477.0,10477,10477
+13,cluster_13_39401E38_3A389E38.pss,960503352,976789048,16285700,3,3,1,"MPEG sequence, v2, program multiplex",True,mpeg,96.280000,1,video,1731.0,1731,1731
+14,cluster_14_39725E38_3A389E38.pss,963796536,976789048,12992516,3,3,1,"MPEG sequence, v2, program multiplex",True,mpeg,77.800000,1,video,4299.0,4299,4299
+15,cluster_15_3CF8F906_3D9EFE02.pss,1022949638,1033829890,10880256,3,3,1,"MPEG sequence, v2, program multiplex",True,mpeg,41.320000,2,audio,8475.0,8475,8475
+16,cluster_16_CB42A78_D55ACE2.pss,213133944,223718626,10584686,3,3,1,"MPEG sequence, v2, program multiplex",True,mpeg,95483.517689,4,audio,12670.0,12670,12670
+17,cluster_17_A8014F5_B1B805B.pss,176166133,186351707,10185578,3,3,1,"MPEG sequence, v2, program multiplex",True,mpeg,18.674122,1,video,37542.0,37542,37542
+18,cluster_18_3D0DB993_3D9EFE02.pss,1024309651,1033829890,9520243,3,3,1,"MPEG sequence, v2, program multiplex",True,mpeg,37.500000,2,"audio,video",1833.0,1833,1833
+19,cluster_19_39B29E38_3A389E38.pss,968007224,976789048,8781828,3,3,1,"MPEG sequence, v2, program multiplex",True,mpeg,55.440000,1,video,6198.0,6198,6198
+20,cluster_20_9ED5C05_A723C09.pss,166550533,175258633,8708104,3,3,1,"MPEG sequence, v2, program multiplex",True,mpeg,23.687367,3,"audio,video",12549.0,12549,12549

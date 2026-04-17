@@ -1,0 +1,127 @@
+43fc65 semantic pass stage 2
+Canonical TNG.000 size=1225915283
+Objective: rank absolute/relative u32 field hypotheses and validate first candidate payload exports.
+
+Top field hypotheses
+- pos=0x6C mode=<bound method Series.mode of pos                                                  108
+mode                                                 abs
+inrange                                              163
+strong_hits                                            9
+exact_hits                                             6
+unique_target_offsets                                  2
+score                                             50.371
+top_matches              mpeg_video@0 x6 | pss_pack@1 x3
+Name: 50, dtype: object> inrange=163 strong=9 exact=6 unique_targets=2 score=50.371 top=mpeg_video@0 x6 | pss_pack@1 x3
+- pos=0x128 mode=<bound method Series.mode of pos                                296
+mode                               abs
+inrange                            129
+strong_hits                          1
+exact_hits                           1
+unique_target_offsets                1
+score                            8.294
+top_matches              mpeg_sys@0 x1
+Name: 144, dtype: object> inrange=129 strong=1 exact=1 unique_targets=1 score=8.294 top=mpeg_sys@0 x1
+- pos=0x154 mode=<bound method Series.mode of pos                                  340
+mode                                 abs
+inrange                              144
+strong_hits                            3
+exact_hits                             0
+unique_target_offsets                  1
+score                              7.328
+top_matches              mpeg_video@5 x3
+Name: 166, dtype: object> inrange=144 strong=3 exact=0 unique_targets=1 score=7.328 top=mpeg_video@5 x3
+- pos=0x15C mode=<bound method Series.mode of pos                                348
+mode                               abs
+inrange                            126
+strong_hits                          3
+exact_hits                           0
+unique_target_offsets                1
+score                            7.287
+top_matches              pss_pack@6 x3
+Name: 170, dtype: object> inrange=126 strong=3 exact=0 unique_targets=1 score=7.287 top=pss_pack@6 x3
+- pos=0x88 mode=<bound method Series.mode of pos                                   136
+mode                                  abs
+inrange                               118
+strong_hits                             3
+exact_hits                              0
+unique_target_offsets                   1
+score                               7.269
+top_matches              mpeg_video@12 x3
+Name: 64, dtype: object> inrange=118 strong=3 exact=0 unique_targets=1 score=7.269 top=mpeg_video@12 x3
+- pos=0x54 mode=<bound method Series.mode of pos                                 84
+mode                               rel
+inrange                             90
+strong_hits                          2
+exact_hits                           0
+unique_target_offsets                2
+score                            6.205
+top_matches              pss_pack@1 x2
+Name: 39, dtype: object> inrange=90 strong=2 exact=0 unique_targets=2 score=6.205 top=pss_pack@1 x2
+- pos=0x94 mode=<bound method Series.mode of pos                                   148
+mode                                  rel
+inrange                                88
+strong_hits                             2
+exact_hits                              0
+unique_target_offsets                   2
+score                                 6.2
+top_matches              mpeg_video@10 x2
+Name: 71, dtype: object> inrange=88 strong=2 exact=0 unique_targets=2 score=6.2 top=mpeg_video@10 x2
+- pos=0x154 mode=<bound method Series.mode of pos                                 340
+mode                                rel
+inrange                              81
+strong_hits                           2
+exact_hits                            0
+unique_target_offsets                 2
+score                             6.185
+top_matches              pss_pack@12 x2
+Name: 167, dtype: object> inrange=81 strong=2 exact=0 unique_targets=2 score=6.185 top=pss_pack@12 x2
+- pos=0x11C mode=<bound method Series.mode of pos                                284
+mode                               rel
+inrange                             73
+strong_hits                          2
+exact_hits                           0
+unique_target_offsets                2
+score                            6.166
+top_matches              pss_pack@1 x2
+Name: 139, dtype: object> inrange=73 strong=2 exact=0 unique_targets=2 score=6.166 top=pss_pack@1 x2
+- pos=0x1E4 mode=<bound method Series.mode of pos                                  484
+mode                                 abs
+inrange                              140
+strong_hits                            2
+exact_hits                             0
+unique_target_offsets                  1
+score                              5.319
+top_matches              mpeg_video@3 x2
+Name: 238, dtype: object> inrange=140 strong=2 exact=0 unique_targets=1 score=5.319 top=mpeg_video@3 x2
+- pos=0x108 mode=<bound method Series.mode of pos                                264
+mode                               abs
+inrange                            127
+strong_hits                          2
+exact_hits                           0
+unique_target_offsets                1
+score                            5.289
+top_matches              pss_pack@2 x2
+Name: 128, dtype: object> inrange=127 strong=2 exact=0 unique_targets=1 score=5.289 top=pss_pack@2 x2
+- pos=0x124 mode=<bound method Series.mode of pos                                  292
+mode                                 abs
+inrange                              109
+strong_hits                            2
+exact_hits                             0
+unique_target_offsets                  1
+score                              5.248
+top_matches              mpeg_video@5 x2
+Name: 142, dtype: object> inrange=109 strong=2 exact=0 unique_targets=1 score=5.248 top=mpeg_video@5 x2
+
+Validated candidate exports
+- 43fc65_pos108_off06E003E0_cand1.pss: field_pos=0x6C cand_off=0x06E003E0 start=0x06DFE39F end=0x0707376B size=2577360 file_ident='MPEG sequence, v2, program multiplex' ffprobe_rc=0 streams=1 format=mpeg duration=14.640000
+- 43fc65_pos256_off0760F3AD_cand2.pss: field_pos=0x100 cand_off=0x0760F3AD start=0x0760B31E end=0x07CDE0AD size=7155091 file_ident='MPEG sequence, v2, program multiplex' ffprobe_rc=0 streams=1 format=mpeg duration=17.476089
+- 43fc65_pos136_off3D305929_cand3.pss: field_pos=0x88 cand_off=0x3D305929 start=0x3D3018E5 end=0x3D9EFE02 size=7267617 file_ident='MPEG sequence, v2, program multiplex' ffprobe_rc=0 streams=2 format=mpeg duration=28.584000
+- 43fc65_pos340_off33E40A40_cand4.pss: field_pos=0x154 cand_off=0x33E40A40 start=0x33E40A37 end=0x33F74A37 size=1261572 file_ident='MPEG sequence, v2, program multiplex' ffprobe_rc=0 streams=1 format=mpeg duration=4.680000
+
+Interpretation
+- The strongest direct payload-pointer candidate so far is pos 0x6C (decimal 108).
+- pos 0x6C lands exactly on MPEG video packet starts six times and near a PSS pack header three more times.
+- pos 0x88 (136), pos 0x100 (256) and pos 0x154 (340) also produce valid MPEG program-stream exports.
+- This is the first concrete semantic evidence that at least part of 43fc65 points into real media payload regions, not only abstract control structures.
+- The repeated field at pos 0x08 remains structurally important, but behaves more like a small bank/table selector than a direct file offset.
+- Next step should be stage 3: cluster repeated target offsets, infer whether these fields point into shared banks/streams, and derive a stable start/end heuristic.

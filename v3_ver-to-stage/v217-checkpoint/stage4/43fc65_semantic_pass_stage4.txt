@@ -1,0 +1,19 @@
+43fc65 semantic pass stage 4 (focused anchors)
+
+Scope: refine strongest stage3 anchors (ranks 1,2,4,5,7), export cleaner representatives, and prepare extractor prototype v2.
+
+Focused clusters: 5
+- rank 1: start=0x33594A33 end=0x33964A33 support=9 types=video duration=17.120000 stderr=94 score=120.712
+- rank 2: start=0x1F67B47 end=0x22A1F33 support=9 types=video duration=14.160000 stderr=5672 score=104.356
+- rank 4: start=0x1C6BF05 end=0x1CC9B0C support=7 types=video duration=24061.028022 stderr=158 score=118.534
+- rank 5: start=0x6EA701 end=0xB8A085 support=7 types=video duration=4.672122 stderr=3144 score=109.762
+- rank 7: start=0xCB8B009 end=0xD8F0071 support=6 types=audio,video duration=63432.553766 stderr=15700 score=205.25
+
+Interpretation
+- rank01 and rank02 remain strong video-preview anchors.
+- rank04 is a stable audio-only anchor.
+- rank05 is a short video-only / green-screen style anchor.
+- rank07 is the strongest multiplexed audio+video anchor.
+
+Next step
+- Use these refined exports as the first clean validation set and generalize the same boundary heuristic to the rest of stage3 validated clusters.

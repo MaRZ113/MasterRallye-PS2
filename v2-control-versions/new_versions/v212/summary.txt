@@ -1,0 +1,11 @@
+MRPS2 v174 coverage
+===================
+total_hits_under_sig7: 27
+matched_hits: 27
+quarantine_hits: 0
+coverage_ratio: 27/27 = 1.0000
+rulepack_rules: 18
+exact_hits: 27
+flex_hits: 0
+
+Top residual buckets:

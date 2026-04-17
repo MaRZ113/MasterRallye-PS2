@@ -1,0 +1,34 @@
+43fc65 semantic pass stage 5
+
+Goal
+- convert stage4 structural validity into practical extraction guidance using local playback feedback.
+- separate SAFE playable anchors from EXPERIMENTAL ffprobe-only / noisy anchors.
+
+Manual validation incorporated
+- rank01 refined: SAFE_PLAYABLE
+- rank02 refined: FFPROBE_ONLY (black screen / not truly playable)
+- rank04 refined: REJECTED
+- rank05 refined: SAFE_PLAYABLE (short green-screen preview-like stream)
+- rank07 refined: AGGRESSIVE_BLOB
+- rank04 original audio anchor: REJECTED
+- rank07 original A/V anchor: REJECTED
+
+Outcome
+- Best mapped records from stage4 v2: 56
+- SAFE playable records: 27
+- EXPERIMENTAL records: 19
+- REJECTED records: 10
+
+Safe anchors retained for extractor default mode
+- rank01 refined (12 records)
+- rank05 refined (15 records)
+
+Interpretation
+- 43fc65 definitely addresses real PS/PSS payload, but not every structurally valid cluster is a clean user-facing export.
+- The practical extractor should default to SAFE anchors only.
+- rank02/rank07 remain useful research anchors, but should be exported only under an experimental mode.
+- rank04 and original anchors are demoted out of default extraction.
+
+Next step (stage 6)
+- refine boundary search specifically around rank02 and rank07 to try to salvage a clean playable variant.
+- generalize the SAFE/EXPERIMENTAL triage to neighboring semantic domain 43fc6f.

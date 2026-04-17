@@ -1,0 +1,19 @@
+{
+  "goal": "stage6 boundary salvage for rank02 and rank07 with practical playability emphasis",
+  "safe_playable_records": 27,
+  "research_mux_records": 9,
+  "rejected_nonplayable_records": 20,
+  "rank02_status": "no clean salvage found; remains rejected_nonplayable",
+  "rank07_status": "shorter 39.38s multiplex candidate isolated; keep research-only pending stronger validation",
+  "recommended_default_clusters": [
+    1,
+    5
+  ],
+  "research_clusters": [
+    7
+  ],
+  "rejected_clusters": [
+    2,
+    4
+  ]
+}

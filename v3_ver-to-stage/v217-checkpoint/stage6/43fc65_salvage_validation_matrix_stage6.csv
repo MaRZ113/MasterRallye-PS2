@@ -1,0 +1,6 @@
+cluster_rank,candidate,source,start,end,size,ffprobe_ok,playback_status,notes
+1,43fc65_refined_rank01_supp9_video_33594A33_33964A33.pss,stage5_safe,0x33594A33,0x33964A33,3997696,True,stable_playable,Confirmed playable challenge preview video-only anchor.
+5,43fc65_refined_rank05_supp7_video_006EA701_00B8A085.pss,stage5_safe,0x006EA701,0x00B8A085,4848004,True,stable_playable,Short green-screen/video-only preview-like block; accepted as safe.
+2,rank02_01F6FC6B_022A1F33.pss,stage6_salvage_scan,0x01F6FC6B,0x022A1F33,3351240,True,rejected_nonplayable,Multiple start refinements still decode as black/non-playable video; no clean salvage found.
+7,rank07_0CB72ED3_0D8F0071.pss,stage6_salvage_scan,0x0CB72ED3,0x0D8F0071,14143902,True,experimental_mux,Shorter 39.38s multiplex candidate; ffprobe sane duration but ffmpeg decoder still reports MP2 header errors. Keep as research-only.
+7,rank07_0CB8B009_0D55ACE2.pss,stage4_original_anchor,0x0CB8B009,0x0D55ACE2,10288345,True,rejected_blob,Original A/V anchor remains too noisy; absurd duration and unusable playback.

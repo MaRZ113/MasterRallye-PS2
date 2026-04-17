@@ -1,0 +1,6 @@
+cluster_rank,cand_idx,start,end,size,back_shift,end_extend,support,ffmpeg_stderr_len,ffmpeg_line_count,score,ffprobe_ok,format_name,duration,stream_count,stream_types
+1,1,861489715,865487411,3997700,0,0,9,94,2,120.712,True,mpeg,17.120000,1,video
+2,2,32930631,36314931,3384304,16533,0,9,5672,106,104.356,True,mpeg,14.160000,1,video
+4,4,29802245,30186252,384011,49610,0,7,158,3,118.534,True,mpeg,24061.028022,1,video
+5,1,7251713,12099717,4848008,0,0,7,3144,59,109.762,True,mpeg,4.672122,1,video
+7,2,213430281,227475569,14045292,0,3756943,6,15700,267,205.25,True,mpeg,63432.553766,12,"audio,video"

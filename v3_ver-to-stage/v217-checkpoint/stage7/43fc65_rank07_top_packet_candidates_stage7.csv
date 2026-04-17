@@ -1,0 +1,11 @@
+segment_idx,start_off,seq_header_off,end_off,size,n_streams,stream_ids,codec_types,codec_names,has_video,has_audio,duration,format_name
+16,10281384,10320429,10634605,353221,3,"0x1e0,0x1df,0x1e8","audio,audio,video","mp3,mp2,?",True,True,2.800000,mpeg
+11,4682891,4691638,6570620,1887729,2,"0x1e0,0x1e2","video,audio","?,mp3",True,True,7.440000,mpeg
+0,757511,765940,1529606,772095,1,0x1e0,video,?,True,False,2.680000,mpeg
+17,10634605,10637168,11377372,742767,1,0x1e0,video,?,True,False,8.040000,mpeg
+9,3975601,3982462,4534766,559165,1,0x1e0,video,?,True,False,1.680000,mpeg
+14,9150726,9153045,9660990,510264,1,0x1e0,video,?,True,False,1.320000,mpeg
+2,1644424,1657207,2104545,460121,1,0x1e0,video,?,True,False,1.000133,mpeg
+6,2433372,2493960,2823405,390033,1,0x1e0,video,?,True,False,1.920000,mpeg
+13,8854898,8856210,9150726,295828,1,0x1e0,video,?,True,False,0.800133,mpeg
+8,3810914,3819286,3975601,164687,1,0x1e0,video,?,True,False,0.360000,mpeg

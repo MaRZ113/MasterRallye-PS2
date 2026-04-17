@@ -1,0 +1,17 @@
+43fc65 semantic pass stage 6
+
+Goal
+- salvage problematic stage5 anchors rank02 and rank07.
+- refine boundary heuristics using practical playback feedback rather than ffprobe structure alone.
+
+Results
+- rank02: scanned multiple earlier/later BA-aligned starts to the same B9 end. All candidates remain ffprobe-readable 512x256 MPEG video, but practical behavior stays black/non-playable. Salvage unsuccessful.
+- rank07: scanning alternate BA starts against the shorter/longer B9 ends discovered a shorter 39.3s multiplex family around starts 0x0CB72ED3 and 0x0CB7AFFF. These are more sane than the original 7h/17h blobs, but ffmpeg still reports MP2 header errors and video streams do not decode cleanly. Keep as research-only, not default export.
+
+Operational outcome
+- DEFAULT safe extractor mode remains cluster ranks 1 and 5 only.
+- rank02 is demoted out of experimental promotion into rejected_nonplayable.
+- rank07 is narrowed from aggressive_blob to research_mux.
+
+Next step
+- stage7 should either (a) do packet-level salvage on rank07 to split valid sub-streams, or (b) transfer the proven SAFE/RESEARCH/REJECTED triage pipeline to neighboring domain 43fc6f.

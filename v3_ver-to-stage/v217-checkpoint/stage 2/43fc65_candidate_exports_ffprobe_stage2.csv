@@ -1,0 +1,6 @@
+candidate_file,stream_index,codec_type,codec_name,width,height,r_frame_rate,duration,format_name,format_duration
+43fc65_pos108_off06E003E0_cand1.pss,0,video,mpeg2video,512.0,256.0,25/1,14.640000,mpeg,14.640000
+43fc65_pos256_off0760F3AD_cand2.pss,0,video,mpeg2video,512.0,256.0,25/1,17.476089,mpeg,17.476089
+43fc65_pos136_off3D305929_cand3.pss,0,audio,mp3,,,0/0,28.584000,mpeg,28.584000
+43fc65_pos136_off3D305929_cand3.pss,1,audio,mp2,,,0/0,,mpeg,28.584000
+43fc65_pos340_off33E40A40_cand4.pss,0,video,mpeg2video,512.0,256.0,25/1,4.680000,mpeg,4.680000

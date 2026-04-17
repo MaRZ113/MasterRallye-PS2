@@ -1,0 +1,109 @@
+[
+  {
+    "name": "43fcc4_v216_flex_447_tail",
+    "sig7": "0000010c43fcc4",
+    "prev": "none",
+    "next": "0D@1510",
+    "source": "reconciliation_v216",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 1385,
+      "max": 1510
+    },
+    "members": {
+      "0000010c43fcc447": {
+        "body_prefix": "84ec",
+        "tail_sig8": "0000010d43f9f8b9"
+      }
+    }
+  },
+  {
+    "name": "43fcc4_v216_exact_447_none",
+    "sig7": "0000010c43fcc4",
+    "prev": "none",
+    "next": "none",
+    "source": "reconciliation_v216",
+    "mode": "exact",
+    "members": {
+      "0000010c43fcc447": {
+        "body_prefix": "84ec",
+        "body_md5": "24563f7d00cc9d2669b5405af52ac2b5"
+      }
+    }
+  },
+  {
+    "name": "43fcc4_v216_flex_446_tail",
+    "sig7": "0000010c43fcc4",
+    "prev": "none",
+    "next": "0D@1010",
+    "source": "reconciliation_v216",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 990,
+      "max": 1010
+    },
+    "members": {
+      "0000010c43fcc446": {
+        "body_prefix": "7def",
+        "tail_sig8": "0000010d43fc570a"
+      }
+    }
+  },
+  {
+    "name": "43fcc4_v216_flex_4fc_tail",
+    "sig7": "0000010c43fcc4",
+    "prev": "none",
+    "next": "0D@1469",
+    "source": "reconciliation_v216",
+    "mode": "flex",
+    "prev_family": {
+      "rids": [
+        "none"
+      ]
+    },
+    "next_family": {
+      "rids": [
+        "0D"
+      ],
+      "min": 1310,
+      "max": 1469
+    },
+    "members": {
+      "0000010c43fcc4fc": {
+        "body_prefix": "a2f8",
+        "tail_sig8": "0000010d43f18264"
+      }
+    }
+  },
+  {
+    "name": "43fcc4_v216_exact_400_tail",
+    "sig7": "0000010c43fcc4",
+    "prev": "none",
+    "next": "0D@750",
+    "source": "reconciliation_v216",
+    "mode": "exact",
+    "members": {
+      "0000010c43fcc400": {
+        "body_prefix": "d001",
+        "tail_sig8": "0000010d43fc40d1",
+        "body_md5": "835accb3401d20cc09ea723afbee0af1"
+      }
+    }
+  }
+]

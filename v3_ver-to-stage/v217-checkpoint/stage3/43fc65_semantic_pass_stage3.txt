@@ -1,0 +1,38 @@
+43fc65 semantic pass stage 3
+
+Objective: stabilize stream start/end heuristics and build first branch-aware extractor prototype for PSS/PS payloads.
+
+Heuristic
+- Candidate fields considered: 0x6C, 0x88, 0x100, 0x154
+- For each candidate offset: search backward up to 0x20000 for nearest pack header 0x000001BA
+- Search forward up to 0x1000000 for nearest MPEG program end code 0x000001B9
+- Accept cluster if both boundaries exist and size < 0x2000000
+- Validate clusters with file + ffprobe
+
+Clusters found: 108
+Validated ffprobe-readable clusters: 19
+Records assigned to validated clusters: 89 / 439
+
+Strongest validated streams
+- rank 1 start=0x33594A33 end=0x33964A33 size=17 support=9 types=video duration=17.12 file=cluster_01_33594A33_33964A33.pss
+- rank 2 start=0x1F6BBDC end=0x22A1F33 size=17 support=9 types=video duration=14.16 file=cluster_02_1F6BBDC_22A1F33.pss
+- rank 6 start=0xB25D3FF end=0xB5DADD7 size=17 support=7 types=video duration=nan file=cluster_06_B25D3FF_B5DADD7.pss
+- rank 5 start=0x6EA701 end=0xB8A085 size=17 support=7 types=video duration=4.672122 file=cluster_05_6EA701_B8A085.pss
+- rank 4 start=0x1C780CF end=0x1CC9B0C size=17 support=7 types=audio duration=24060.988022 file=cluster_04_1C780CF_1CC9B0C.pss
+- rank 7 start=0xCB8B009 end=0xD55ACE2 size=17 support=6 types=audio,video duration=27765.702633 file=cluster_07_CB8B009_D55ACE2.pss
+- rank 8 start=0x1BDF92BD end=0x1C2B650F size=17 support=6 types=video duration=20.12 file=cluster_08_1BDF92BD_1C2B650F.pss
+- rank 9 start=0x36A5AB0D end=0x36DA6B0D size=17 support=6 types=video duration=22.68 file=cluster_09_36A5AB0D_36DA6B0D.pss
+- rank 10 start=0x6DFE39F end=0x707376B size=17 support=6 types=video duration=14.64 file=cluster_10_6DFE39F_707376B.pss
+- rank 11 start=0x3BAD4A3F end=0x3BED8A3F size=17 support=4 types=video duration=23.36 file=cluster_11_3BAD4A3F_3BED8A3F.pss
+
+Interpretation
+- 43fc65 clearly points into real MPEG program-stream / PSS-like payload regions.
+- The same domain does not map to a single stream; it maps into many distinct PS/PSS blocks.
+- Best media pointer fields remain 0x6C, 0x88, 0x100, 0x154.
+- Different records frequently land inside the same stream cluster, which supports a bank/entry model rather than one-record-one-file.
+- Candidate cluster #07 is the strongest multiplexed anchor so far because ffprobe reports both audio and video streams.
+- Candidate cluster #04 looks like audio-only PS content, which may indicate separate audio banks or partial multiplexes.
+
+Next extractor step
+- Promote validated stream clusters into a branch-aware prototype that exports unique PS/PSS blocks once and maps records to cluster IDs.
+- Then refine boundaries by scanning for earlier/later system headers to remove sync-loss cases from stage 2.

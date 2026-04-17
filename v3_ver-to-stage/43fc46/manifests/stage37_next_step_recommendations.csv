@@ -1,0 +1,4 @@
+priority,recommendation
+1,"Review rank01, rank02, rank03, rank05 first"
+2,Promote only fully playable segments to clean layer
+3,Use trim/recovery if candidate starts or ends inside a valid preview

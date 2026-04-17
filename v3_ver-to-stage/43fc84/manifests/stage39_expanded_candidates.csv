@@ -1,0 +1,8 @@
+rank,source_file,field_pos,orig_start_hex,orig_end_hex,expanded_start_hex,expanded_end_hex,expanded_size_bytes,expanded_size_mib,family_hint,ok,video,audio,vcodec,width,height,duration,sheet_generated
+1,43fc84_stage38_rank01_pos148_3603C454_36068454.pss,0x094,3603C454,36068454,3603A000,3623A000,2097152,2.0,track_menu_preview_family_01?,True,True,False,mpeg2video,512,256,14.72,True
+2,43fc84_stage38_rank02_pos008_37FA8764_37FD4764.pss,0x008,37FA8764,37FD4764,37FA6000,381A6000,2097152,2.0,track_menu_preview_family_01?,True,True,False,mpeg2video,512,256,12.36,True
+3,43fc84_stage38_rank03_pos164_3B3DCF88_3B408F88.pss,0x0A4,3B3DCF88,3B408F88,3B3DA000,3B5DA000,2097152,2.0,track_menu_preview_family_01?,True,True,False,mpeg2video,512,256,14.08,True
+4,43fc84_stage38_rank04_pos032_39B0DFED_39B39FED.pss,0x020,39B0DFED,39B39FED,39B0B000,39D0B000,2097152,2.0,challenge_preview_family_misc?,True,True,False,mpeg2video,512,256,11.8,True
+5,43fc84_stage38_rank05_pos136_3936BFFA_39397FFA.pss,0x088,3936BFFA,39397FFA,39369000,39569000,2097152,2.0,unknown_video_like,True,True,False,mpeg2video,512,256,11.72,True
+6,43fc84_stage38_rank06_pos028_31F8D0CF_31FB90CF.pss,0x01C,31F8D0CF,31FB90CF,31F8B000,3218B000,2097152,2.0,challenge_preview_family_misc?,True,True,False,mpeg2video,512,256,9.36,True
+7,43fc84_stage38_rank07_pos040_37B488BD_37B748BD.pss,0x028,37B488BD,37B748BD,37B46000,37D46000,2097152,2.0,challenge_preview_family_misc?,True,True,False,mpeg2video,512,256,14.4,True

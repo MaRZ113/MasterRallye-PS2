@@ -1,0 +1,4 @@
+priority,recommendation
+1,"Manually validate rank01, rank02, rank03, rank05 first."
+2,"If a candidate is composite, run split-aware recovery before promotion."
+3,Keep family-aware comparison against existing menu/track/challenge families.

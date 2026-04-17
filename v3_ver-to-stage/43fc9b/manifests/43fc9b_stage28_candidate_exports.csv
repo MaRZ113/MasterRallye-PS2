@@ -1,0 +1,8 @@
+rank,candidate_file,field_pos,start_offset,end_offset,support,pack_pos,seq_pos,pes_pos,video_codec,audio_codecs,duration,resolution,family_hint,family_hint_confidence
+1,43fc9b_stage28_rank01_pos008_219590B9_21BF90B9.pss,8,563450041,566202553,14,15940,85324,7692,mpeg1video,,17.42,512x256,track_or_challenge_preview_family,medium
+2,43fc9b_stage28_rank02_pos148_00FBFA00_0125FA00.pss,148,16513536,19266048,6,13978,22164,5727,mpeg1video,,,512x256,unknown_media_family,low
+3,43fc9b_stage28_rank03_pos040_0D0034D8_0D2A34D8.pss,40,218117336,220869848,7,12304,-1,4052,,mp3,95454.037689,,no_video_hint,low
+4,43fc9b_stage28_rank04_pos040_36A448D2_36CE48D2.pss,40,916736210,919488722,1,8763,9637,585,mpeg2video,,18.36,512x256,track_or_challenge_preview_family,medium
+5,43fc9b_stage28_rank05_pos020_21AF612C_21D9612C.pss,20,565141804,567894316,5,10139,51625,10153,,mp3,17.6,,no_video_hint,low
+6,43fc9b_stage28_rank06_pos148_31821C53_31AC1C53.pss,148,830610515,833363027,3,4306,-1,4320,mpeg2video,,,512x256,unknown_media_family,low
+7,43fc9b_stage28_rank07_pos164_009C6F9F_00C66F9F.pss,164,10252191,13004703,3,5562,246681,5576,,mp3,,,no_video_hint,low

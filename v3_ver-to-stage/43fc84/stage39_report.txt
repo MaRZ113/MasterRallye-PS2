@@ -1,0 +1,29 @@
+Stage 39 — adaptive expansion for 43fc84
+
+Goal
+Expand the seven live micro-window scout candidates from Stage 38 into longer playable segments.
+
+Input
+- full TNG.000 integrity checked
+- source domain: 43fc84
+- source scout windows: 7 live micro-window candidates from Stage 38
+
+Method
+- fixed scout windows from Stage 38 were expanded into 2 MiB windows
+- each expanded window starts slightly before the original scout start (0x2000 bytes lead-in, aligned down to 0x1000)
+- outputs were probed with ffprobe and contact sheets were generated
+
+Result
+All seven expanded windows remain video-valid and now probe in the ~9–15 second range.
+This is the expected next step after a micro-window scout hit.
+
+Top review order
+1. rank01 expanded
+2. rank02 expanded
+3. rank03 expanded
+4. rank04 expanded
+
+Notes
+- no clean promotion was performed in Stage 39
+- this is still a recovery / review stage
+- if one or more expanded candidates are confirmed by manual review, the next stage should be curated promotion or trim-recovery

@@ -1,0 +1,16 @@
+Stage 30 — family-aware transfer scout for 43fc7b
+
+Domain hits: 64
+Selected candidates: 7
+Strongest fields by repeated values: 0x024, 0x020, 0x008, 0x01C, 0x014
+
+Top candidates:
+- rank01: field 0x088, support 4, codec=mpeg1video, duration=18460.050366, branches=0000010c43fc7b92|c90f:4
+- rank02: field 0x0A4, support 6, codec=mpeg1video, duration=19.54, branches=0000010c43fc7b92|c900:6
+- rank03: field 0x024, support 3, codec=mpeg2video, duration=19.4, branches=0000010c43fc7b16|643f:3
+- rank04: field 0x094, support 4, codec=mp2,mpeg1video, duration=10.58, branches=0000010c43fc7b92|c90f:4
+- rank05: field 0x014, support 3, codec=mp2,mpeg1video, duration=11.42, branches=0000010c43fc7b92|c900:3
+- rank06: field 0x088, support 6, codec=mpeg2video, duration=10.32, branches=0000010c43fc7b92|c900:6
+- rank07: field 0x014, support 3, codec=mpeg2video, duration=15.76, branches=0000010c43fc7bdf|1bb2:3
+
+This stage keeps 43fc7b in the secondary family-aware layer only. No clean promotion is performed before manual validation.

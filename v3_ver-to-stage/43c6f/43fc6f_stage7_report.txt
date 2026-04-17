@@ -1,0 +1,41 @@
+43fc6f stage 7
+Status: completed on content-aware cataloguing
+
+Purpose
+- Promote stage6 curated FMV outputs into stable content labels.
+- Measure real content reuse across branch families and records.
+- Re-extract canonical assets from TNG.000 and attach frame-level review artifacts.
+
+Canonical TNG.000: /mnt/data/TNG_rebuilt/TNG.000 :: size=1225915283 bytes
+
+Stable content labels
+- challenge_preview_01 :: Challenge preview A :: BANK_14 :: challenge_preview_fmv :: 0x328C4A2B-0x32E14A2B :: duration=23.16 :: sha256=9216fba9f80d37635136ab7e7e66b5e11ae387413ae84d0c688e501d5da9c51b
+- challenge_preview_02 :: Challenge preview B :: BANK_16 :: challenge_preview_fmv :: 0x34670A3F-0x34B18A3F :: duration=19.8 :: sha256=d7f20dc7abe02b461103d5d95460ad8b08e00217e450845120450f8072b218e3
+- challenge_preview_03 :: Challenge preview C :: BANK_17 :: challenge_preview_fmv :: 0x34B5CA43-0x350B4A43 :: duration=23.76 :: sha256=b632bd1be2e26a2390af486de1fbf953094b5a3a05c9a8ed94ff3d73645ee1b3
+- menu_background_01 :: Main menu background FMV :: BANK_20 :: menu_background_fmv :: 0x39B31E38-0x3A389E38 :: duration=55.16 :: sha256=994ccf2efb90116241e58305c9cd6e709c85d193432417076ba881ec485f6da2
+
+Content reuse findings
+- challenge_preview_01 reused by 9 records across 2 branch families :: 0000010c43fc6f91|2402 | 0000010c43fc6f92|c900
+- challenge_preview_02 reused by 21 records across 2 branch families :: 0000010c43fc6f8b|2402 | 0000010c43fc6f92|c807
+- challenge_preview_03 reused by 12 records across 1 branch families :: 0000010c43fc6f91|201c
+- menu_background_01 reused by 10 records across 2 branch families :: 0000010c43fc6f85|4805 | 0000010c43fc6f91|2015
+
+Key interpretation
+- The domain is now confirmed as a small curated FMV family with 4 stable unique assets.
+- 3 unique assets belong to challenge preview FMV content.
+- 1 unique asset belongs to menu background FMV content.
+- Several different branch families map onto the same canonical preview asset, which is good news for scaling extraction.
+
+Most important reuse
+- challenge_preview_01: 9 records :: 2 branches :: 0000010c43fc6f91|2402 | 0000010c43fc6f92|c900
+- challenge_preview_02: 21 records :: 2 branches :: 0000010c43fc6f8b|2402 | 0000010c43fc6f92|c807
+- challenge_preview_03: 12 records :: 1 branches :: 0000010c43fc6f91|201c
+- menu_background_01: 10 records :: 2 branches :: 0000010c43fc6f85|4805 | 0000010c43fc6f91|2015
+
+Stage7 outputs
+- 43fc6f_stage7_content_catalog.csv
+- 43fc6f_stage7_record_content_assignments.csv
+- 43fc6f_stage7_branch_content_summary.csv
+- 43fc6f_stage7_content_reuse_summary.csv
+- 43fc6f_stage7_content_graph_edges.csv
+- contact sheets + re-extracted canonical media

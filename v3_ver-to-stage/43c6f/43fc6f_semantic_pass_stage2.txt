@@ -1,0 +1,35 @@
+43fc6f semantic pass stage 2
+Status: completed on reconstructed canonical TNG.000
+
+Main outcome
+- Stage 2 is positive: multiple 43fc6f fields repeatedly converge into ffprobe-valid MPEG/PSS-like streams.
+- The biggest surprise is pos 0x14 in absolute mode: despite being only a mid-tier stage1 heuristic candidate, it becomes the strongest repeated payload-link hypothesis in stage2.
+- Among the stage1-preferred 43fc6f-specific fields, 0x8C, 0xA4, 0x94 and 0x88 in absolute mode all validate cleanly.
+- Legacy comparison fields 0x6C, 0x100 and 0x154 still reach valid streams, but they no longer dominate the ranking.
+
+Top hypotheses
+- pos=0x14 mode=abs inrange=110 strong=43 exact=0 unique_targets=5 score=215.71 top=mpeg_seq_ext@-7 x1 | mpeg_cluster_max 21
+- pos=0x8C mode=abs inrange=130 strong=25 exact=0 unique_targets=4 score=125.21 top=mpeg_cluster_max 7
+- pos=0xA4 mode=abs inrange=123 strong=24 exact=0 unique_targets=4 score=120.203 top=mpeg_cluster_max 6
+- pos=0x94 mode=abs inrange=117 strong=24 exact=0 unique_targets=4 score=120.197 top=mpeg_cluster_max 6
+- pos=0x6C mode=abs inrange=78 strong=21 exact=0 unique_targets=4 score=105.158 top=mpeg_cluster_max 6
+- pos=0x58 mode=abs inrange=109 strong=19 exact=0 unique_targets=5 score=95.209 top=mpeg_cluster_max 9
+- pos=0x88 mode=abs inrange=110 strong=19 exact=0 unique_targets=4 score=95.19 top=mpeg_cluster_max 6
+- pos=0x114 mode=abs inrange=108 strong=12 exact=0 unique_targets=4 score=60.188 top=mpeg_cluster_max 3
+- pos=0x118 mode=abs inrange=108 strong=12 exact=0 unique_targets=4 score=60.188 top=mpeg_cluster_max 3
+- pos=0x100 mode=abs inrange=89 strong=12 exact=0 unique_targets=4 score=60.169 top=mpeg_cluster_max 3
+- pos=0x154 mode=abs inrange=78 strong=12 exact=0 unique_targets=4 score=60.158 top=mpeg_cluster_max 3
+- pos=0x8C mode=rel inrange=108 strong=4 exact=0 unique_targets=4 score=22.188 top=mpeg_seq_ext@-19 x2 | pss_pack@7 x1 | mpeg_seq_ext@11 x1 | mpeg_cluster_max 1
+
+Revised candidate exports
+- 43fc6f_stage2_revised_pos20_modeabs_cand1_34670A3F_34B18A3F.pss: pos=0x14 mode=abs start=0x34670A3F end=0x34B18A3F size=4882436 support=21 streams=1 format=mpeg duration=19.8
+- 43fc6f_stage2_revised_pos140_modeabs_cand2_2119C627_2219E229.pss: pos=0x8C mode=abs start=0x2119C627 end=0x2219E229 size=16784390 support=6 streams=5 format=mpeg duration=98.08
+- 43fc6f_stage2_revised_pos164_modeabs_cand3_328C4A2B_32E14A2B.pss: pos=0xA4 mode=abs start=0x328C4A2B end=0x32E14A2B size=5570564 support=6 streams=1 format=mpeg duration=23.16
+- 43fc6f_stage2_revised_pos148_modeabs_cand4_043AA9BD_04B54026.pss: pos=0x94 mode=abs start=0x043AA9BD end=0x04B54026 size=8033901 support=6 streams=2 format=mpeg duration=8.499622
+- 43fc6f_stage2_revised_pos136_modeabs_cand5_22BAF7A5_234ACB4E.pss: pos=0x88 mode=abs start=0x22BAF7A5 end=0x234ACB4E size=9425837 support=6 streams=1 format=mpeg duration=14.094122
+- 43fc6f_stage2_revised_pos108_modeabs_cand6_34B5CA43_350B4A43.pss: pos=0x6C mode=abs start=0x34B5CA43 end=0x350B4A43 size=5603332 support=6 streams=1 format=mpeg duration=23.76
+
+Reading of the result
+- 43fc6f is confirmed as a branching neighbour of 43fc65, not a copy: semantic hotspots shift into the 0x8C/0xA4/0x94/0x88 zone, while 0x14 emerges as an additional strong absolute pointer candidate.
+- Local exact header landings remain rare, so cluster convergence is the main evidence channel here.
+- The next correct step is stage 3: cluster repeated target offsets by branch family, assign stable banks/streams, and start a first 43fc6f extractor prototype.

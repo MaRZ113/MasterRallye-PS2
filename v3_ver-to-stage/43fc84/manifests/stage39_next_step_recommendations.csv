@@ -1,0 +1,5 @@
+priority,candidate,reason
+1,rank01 expanded,"track-menu family hint, longest stable probe"
+2,rank02 expanded,"track-menu family hint, likely cleaner GO Cup window"
+3,rank03 expanded,"track-menu family hint, second cluster worth comparing"
+4,rank04 expanded,challenge-preview-like family hint

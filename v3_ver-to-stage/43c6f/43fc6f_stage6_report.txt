@@ -1,0 +1,64 @@
+43fc6f stage 6
+Status: completed on media-aware extractor prototype
+
+Purpose
+- Convert stage5 curated validation into a runnable extractor prototype.
+- Separate media classes at extraction time instead of treating all validated banks as one bucket.
+- Re-extract clean confirmed FMVs directly from canonical TNG.000.
+- Emit manifests that map records -> curated media outputs.
+
+Input basis
+- Canonical TNG.000: /mnt/data/TNG_rebuilt/TNG.000
+- Stage3 record-bank assignments
+- Stage5 curated extractor rules
+- Stage5 curated media catalog
+
+Main outcome
+- Curated rules promoted into a media-aware prototype extractor.
+- 7 curated branch rules are now executable.
+- 4 unique clean FMV assets were re-extracted directly from TNG.000.
+- 52 record-level assignments now resolve cleanly to curated media outputs.
+- Media split:
+  - challenge_preview_fmv: 42 record assignments across BANK_14 / BANK_16 / BANK_17
+  - menu_background_fmv: 10 record assignments across BANK_20
+
+Unique curated media outputs
+- BANK_14 -> challenge_preview_fmv :: 0x328C4A2B-0x32E14A2B :: size=5570560 bytes :: duration=23.16 :: streams=1 :: sha256=9216fba9f80d37635136ab7e7e66b5e11ae387413ae84d0c688e501d5da9c51b
+- BANK_16 -> challenge_preview_fmv :: 0x34670A3F-0x34B18A3F :: size=4882432 bytes :: duration=19.8 :: streams=1 :: sha256=d7f20dc7abe02b461103d5d95460ad8b08e00217e450845120450f8072b218e3
+- BANK_17 -> challenge_preview_fmv :: 0x34B5CA43-0x350B4A43 :: size=5603328 bytes :: duration=23.76 :: streams=1 :: sha256=b632bd1be2e26a2390af486de1fbf953094b5a3a05c9a8ed94ff3d73645ee1b3
+- BANK_20 -> menu_background_fmv :: 0x39B31E38-0x3A389E38 :: size=8749056 bytes :: duration=55.16 :: streams=1 :: sha256=994ccf2efb90116241e58305c9cd6e709c85d193432417076ba881ec485f6da2
+
+Branch resolution carried into stage6
+- 0000010c43fc6f8b|2402 -> BANK_16 -> challenge_preview_fmv :: records=6 :: outcome=resolved_clean_challenge_preview
+- 0000010c43fc6f91|201c -> BANK_17 -> challenge_preview_fmv :: records=12 :: outcome=resolved_clean_challenge_preview
+- 0000010c43fc6f91|2402 -> BANK_14 -> challenge_preview_fmv :: records=3 :: outcome=resolved_clean_challenge_preview
+- 0000010c43fc6f92|c807 -> BANK_16 -> challenge_preview_fmv :: records=15 :: outcome=resolved_clean_challenge_preview
+- 0000010c43fc6f92|c900 -> BANK_14 -> challenge_preview_fmv :: records=6 :: outcome=resolved_clean_challenge_preview
+- 0000010c43fc6f85|4805 -> BANK_20 -> menu_background_fmv :: records=6 :: outcome=resolved_clean_menu_background
+- 0000010c43fc6f91|2015 -> BANK_20 -> menu_background_fmv :: records=4 :: outcome=resolved_clean_menu_background
+
+Extractor prototype outputs
+- 43fc6f_stage6_media_aware_prototype_rules.csv
+  Curated branch -> bank -> media_class rules with explicit start/end offsets.
+- 43fc6f_stage6_unique_media_manifest.csv
+  One row per unique extracted FMV with hashes and ffprobe metadata.
+- 43fc6f_stage6_record_media_assignments.csv
+  One row per resolved record assignment, pointing at its canonical extracted output.
+- 43fc6f_stage6_branch_media_summary.csv
+  Branch-level summary of resolved record counts and selected outputs.
+
+How to rerun
+python3 /mnt/data/semantic_pass_43fc6f_stage6/master_rallye_ps2_media_aware_extractor_43fc6f_stage6.py \
+  --tng /mnt/data/TNG_rebuilt/TNG.000 \
+  --out /mnt/data/semantic_pass_43fc6f_stage6/run
+
+Interpretation
+- Stage6 is the first point where 43fc6f behaves like a usable extractor target instead of only a semantic-analysis domain.
+- The prototype is intentionally conservative: it only emits manually validated clean media classes.
+- Rejected / artifact-prone banks are excluded on purpose rather than being forced into output.
+
+Next sensible step
+- Stage7 should move from media-aware extraction to content-aware cataloguing:
+  - assign stable human labels to the 3 clean challenge previews;
+  - confirm whether the same preview bank is reused by multiple challenge records or whether there are hidden sub-variants inside the same banks;
+  - expand the same extractor pattern to the next validated domain once enough manual truth exists.

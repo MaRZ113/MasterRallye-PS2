@@ -1,0 +1,4 @@
+priority,next_step,reason
+1,Manual review of 43fc85 rank01/rank02/rank03/rank04,These four have the strongest repeated video-like windows and weak track-menu family hints.
+2,Promote only clean playable clips,43fc85 candidates are very short; avoid contaminating primary clean layer with fragments or grey/black intros.
+3,Consider XML/GXI reconnaissance soon,"Media yield is still positive but clip lengths are shrinking, a sign of approaching diminishing returns."

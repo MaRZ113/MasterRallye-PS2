@@ -1,0 +1,8 @@
+rank,field,support,video_streams,audio_streams,video_codec,width,height,duration_s,family_hint,candidate_file
+1.0,pos028,6,1,0,mpeg2video,512.0,256.0,0.96,possible_track_or_menu_preview,/mnt/data/semantic_pass_cross_domain_stage41/candidate_media/43fc86_stage41_rank01_pos028_34FD27FB_34FFE7FB.pss
+2.0,pos01c,3,1,0,mpeg2video,512.0,256.0,1.36,possible_track_or_menu_preview,/mnt/data/semantic_pass_cross_domain_stage41/candidate_media/43fc86_stage41_rank02_pos01c_3625B5A0_362875A0.pss
+3.0,pos094,3,1,0,mpeg2video,512.0,256.0,1.16,possible_track_or_menu_preview,/mnt/data/semantic_pass_cross_domain_stage41/candidate_media/43fc86_stage41_rank03_pos094_36AA429B_36AD029B.pss
+4.0,pos020,3,1,0,,0.0,0.0,1.059633,video_like_nonstandard,/mnt/data/semantic_pass_cross_domain_stage41/candidate_media/43fc86_stage41_rank04_pos020_2436F4D6_2439B4D6.pss
+5.0,pos01c,3,1,0,mpeg2video,512.0,256.0,1.0,possible_track_or_menu_preview,/mnt/data/semantic_pass_cross_domain_stage41/candidate_media/43fc86_stage41_rank05_pos01c_30B67AE2_30B93AE2.pss
+6.0,pos094,3,1,0,mpeg2video,512.0,256.0,0.96,possible_track_or_menu_preview,/mnt/data/semantic_pass_cross_domain_stage41/candidate_media/43fc86_stage41_rank06_pos094_350D5479_35101479.pss
+7.0,pos008,3,1,0,,0.0,0.0,0.6,video_like_nonstandard,/mnt/data/semantic_pass_cross_domain_stage41/candidate_media/43fc86_stage41_rank07_pos008_23858764_23884764.pss

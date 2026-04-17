@@ -1,0 +1,117 @@
+record_offset,sig8,body_prefix,matched_field,field_value,window_start,window_end,window_state,status,content_class,family_id,confidence,semantic_label,source_candidate,rationale
+127361425,0000010c43fc9ae9,71d0,pos020,162754444,162623372,165506956,routable,soft_clean,track_menu_preview,track_menu_preview_family_01,medium_high,audio-backed track/menu preview candidate,43fc9a_stage24_rank02_pos020_09B16F8C_09DD6F8C.pss,audio_present|mpeg1video|sane_duration|visual_sheet_unreliable
+533113988,0000010c43fc9ae9,71d0,pos020,162754444,162623372,165506956,routable,soft_clean,track_menu_preview,track_menu_preview_family_01,medium_high,audio-backed track/menu preview candidate,43fc9a_stage24_rank02_pos020_09B16F8C_09DD6F8C.pss,audio_present|mpeg1video|sane_duration|visual_sheet_unreliable
+929497332,0000010c43fc9ae9,71d0,pos020,162754444,162623372,165506956,routable,soft_clean,track_menu_preview,track_menu_preview_family_01,medium_high,audio-backed track/menu preview candidate,43fc9a_stage24_rank02_pos020_09B16F8C_09DD6F8C.pss,audio_present|mpeg1video|sane_duration|visual_sheet_unreliable
+934140139,0000010c43fc9ae9,71d0,pos020,162754444,162623372,165506956,routable,soft_clean,track_menu_preview,track_menu_preview_family_01,medium_high,audio-backed track/menu preview candidate,43fc9a_stage24_rank02_pos020_09B16F8C_09DD6F8C.pss,audio_present|mpeg1video|sane_duration|visual_sheet_unreliable
+938014466,0000010c43fc9ae9,71d0,pos020,162754444,162623372,165506956,routable,soft_clean,track_menu_preview,track_menu_preview_family_01,medium_high,audio-backed track/menu preview candidate,43fc9a_stage24_rank02_pos020_09B16F8C_09DD6F8C.pss,audio_present|mpeg1video|sane_duration|visual_sheet_unreliable
+68966,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+265660,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+447457,0000010c43fc9ae9,7321,pos024,925218112,925087040,927970624,routable,clean,track_menu_preview,track_menu_preview_family_01,high,Fujitsu Siemens track/menu preview,fujitsu-NORM-43fc9a_stage24_rank03_pos024_3723B540_374FB540.pss,visual_confirmed|single_car_sponsor_backdrop
+447457,0000010c43fc9ae9,7321,pos094,115344352,115213280,118096864,routable,evidence,track_menu_preview,track_menu_preview_family_01,medium,degraded track/menu preview window,43fc9a_stage24_rank04/05/07_pos094_series,mpeg2video|sane_duration|mostly_black_or_degraded_contact_sheets
+778056,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+1133158,0000010c43fc9ae9,7321,pos094,33030392,32899320,35782904,routable,evidence,track_menu_preview,track_menu_preview_family_01,medium,degraded track/menu preview window,43fc9a_stage24_rank04/05/07_pos094_series,mpeg2video|sane_duration|mostly_black_or_degraded_contact_sheets
+1868899,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+1930605,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+2267183,0000010c43fc9ae9,7321,pos094,4461302,4330230,7213814,routable,evidence,track_menu_preview,track_menu_preview_family_01,medium,degraded track/menu preview window,43fc9a_stage24_rank04/05/07_pos094_series,mpeg2video|sane_duration|mostly_black_or_degraded_contact_sheets
+2267183,0000010c43fc9ae9,7321,pos0a4,85835445,85704373,88587957,routable,evidence,track_menu_preview,track_menu_preview_family_01,medium,audio-backed degraded preview candidate,43fc9a_stage24_rank01_pos0a4_051BBEB5_0547BEB5.pss,audio_present|mpeg2video|mostly_black_sheet
+3084231,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+3990595,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+4240891,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+5104799,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+5581666,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+6024836,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+6117662,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+6563410,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+6992822,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+7597666,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+8620055,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+8826465,0000010c43fc9ae9,7321,pos024,925218112,925087040,927970624,routable,clean,track_menu_preview,track_menu_preview_family_01,high,Fujitsu Siemens track/menu preview,fujitsu-NORM-43fc9a_stage24_rank03_pos024_3723B540_374FB540.pss,visual_confirmed|single_car_sponsor_backdrop
+8826465,0000010c43fc9ae9,7321,pos094,115344352,115213280,118096864,routable,evidence,track_menu_preview,track_menu_preview_family_01,medium,degraded track/menu preview window,43fc9a_stage24_rank04/05/07_pos094_series,mpeg2video|sane_duration|mostly_black_or_degraded_contact_sheets
+9345101,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+9574459,0000010c43fc9ae9,7321,pos094,33030392,32899320,35782904,routable,evidence,track_menu_preview,track_menu_preview_family_01,medium,degraded track/menu preview window,43fc9a_stage24_rank04/05/07_pos094_series,mpeg2video|sane_duration|mostly_black_or_degraded_contact_sheets
+10368402,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+10725334,0000010c43fc9ae9,7321,pos094,4461302,4330230,7213814,routable,evidence,track_menu_preview,track_menu_preview_family_01,medium,degraded track/menu preview window,43fc9a_stage24_rank04/05/07_pos094_series,mpeg2video|sane_duration|mostly_black_or_degraded_contact_sheets
+10725334,0000010c43fc9ae9,7321,pos0a4,85835445,85704373,88587957,routable,evidence,track_menu_preview,track_menu_preview_family_01,medium,audio-backed degraded preview candidate,43fc9a_stage24_rank01_pos0a4_051BBEB5_0547BEB5.pss,audio_present|mpeg2video|mostly_black_sheet
+11539647,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+120103137,0000010c43fc9ae9,7321,pos024,886042620,885911548,888795132,routable,clean,challenge_preview,challenge_preview_family_misc,high,challenge preview two-car backdrop,challenge-NORM-43fc9a_stage24_rank06_pos024_34CDEFFC_34F9EFFC.pss,visual_confirmed|two_cars_background|challenge_taxonomy
+120556372,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+128578709,0000010c43fc9ae9,7321,pos024,886042620,885911548,888795132,routable,clean,challenge_preview,challenge_preview_family_misc,high,challenge preview two-car backdrop,challenge-NORM-43fc9a_stage24_rank06_pos024_34CDEFFC_34F9EFFC.pss,visual_confirmed|two_cars_background|challenge_taxonomy
+129034696,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+405821528,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+406018223,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+406200020,0000010c43fc9ae9,7321,pos024,925218112,925087040,927970624,routable,clean,track_menu_preview,track_menu_preview_family_01,high,Fujitsu Siemens track/menu preview,fujitsu-NORM-43fc9a_stage24_rank03_pos024_3723B540_374FB540.pss,visual_confirmed|single_car_sponsor_backdrop
+406200020,0000010c43fc9ae9,7321,pos094,115344352,115213280,118096864,routable,evidence,track_menu_preview,track_menu_preview_family_01,medium,degraded track/menu preview window,43fc9a_stage24_rank04/05/07_pos094_series,mpeg2video|sane_duration|mostly_black_or_degraded_contact_sheets
+406530619,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+406885721,0000010c43fc9ae9,7321,pos094,33030392,32899320,35782904,routable,evidence,track_menu_preview,track_menu_preview_family_01,medium,degraded track/menu preview window,43fc9a_stage24_rank04/05/07_pos094_series,mpeg2video|sane_duration|mostly_black_or_degraded_contact_sheets
+407621462,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+407683168,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+408019746,0000010c43fc9ae9,7321,pos094,4461302,4330230,7213814,routable,evidence,track_menu_preview,track_menu_preview_family_01,medium,degraded track/menu preview window,43fc9a_stage24_rank04/05/07_pos094_series,mpeg2video|sane_duration|mostly_black_or_degraded_contact_sheets
+408019746,0000010c43fc9ae9,7321,pos0a4,85835445,85704373,88587957,routable,evidence,track_menu_preview,track_menu_preview_family_01,medium,audio-backed degraded preview candidate,43fc9a_stage24_rank01_pos0a4_051BBEB5_0547BEB5.pss,audio_present|mpeg2video|mostly_black_sheet
+408836794,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+409743158,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+409993454,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+410857362,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+411334229,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+411777399,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+411870225,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+412315973,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+412745385,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+413350229,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+414372618,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+414579028,0000010c43fc9ae9,7321,pos024,925218112,925087040,927970624,routable,clean,track_menu_preview,track_menu_preview_family_01,high,Fujitsu Siemens track/menu preview,fujitsu-NORM-43fc9a_stage24_rank03_pos024_3723B540_374FB540.pss,visual_confirmed|single_car_sponsor_backdrop
+414579028,0000010c43fc9ae9,7321,pos094,115344352,115213280,118096864,routable,evidence,track_menu_preview,track_menu_preview_family_01,medium,degraded track/menu preview window,43fc9a_stage24_rank04/05/07_pos094_series,mpeg2video|sane_duration|mostly_black_or_degraded_contact_sheets
+415097664,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+415327022,0000010c43fc9ae9,7321,pos094,33030392,32899320,35782904,routable,evidence,track_menu_preview,track_menu_preview_family_01,medium,degraded track/menu preview window,43fc9a_stage24_rank04/05/07_pos094_series,mpeg2video|sane_duration|mostly_black_or_degraded_contact_sheets
+416120965,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+416477897,0000010c43fc9ae9,7321,pos094,4461302,4330230,7213814,routable,evidence,track_menu_preview,track_menu_preview_family_01,medium,degraded track/menu preview window,43fc9a_stage24_rank04/05/07_pos094_series,mpeg2video|sane_duration|mostly_black_or_degraded_contact_sheets
+416477897,0000010c43fc9ae9,7321,pos0a4,85835445,85704373,88587957,routable,evidence,track_menu_preview,track_menu_preview_family_01,medium,audio-backed degraded preview candidate,43fc9a_stage24_rank01_pos0a4_051BBEB5_0547BEB5.pss,audio_present|mpeg2video|mostly_black_sheet
+417292210,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+525855700,0000010c43fc9ae9,7321,pos024,886042620,885911548,888795132,routable,clean,challenge_preview,challenge_preview_family_misc,high,challenge preview two-car backdrop,challenge-NORM-43fc9a_stage24_rank06_pos024_34CDEFFC_34F9EFFC.pss,visual_confirmed|two_cars_background|challenge_taxonomy
+526308935,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+534331272,0000010c43fc9ae9,7321,pos024,886042620,885911548,888795132,routable,clean,challenge_preview,challenge_preview_family_misc,high,challenge preview two-car backdrop,challenge-NORM-43fc9a_stage24_rank06_pos024_34CDEFFC_34F9EFFC.pss,visual_confirmed|two_cars_background|challenge_taxonomy
+534787259,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+811573742,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+811769458,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+811950391,0000010c43fc9ae9,7321,pos024,925218112,925087040,927970624,routable,clean,track_menu_preview,track_menu_preview_family_01,high,Fujitsu Siemens track/menu preview,fujitsu-NORM-43fc9a_stage24_rank03_pos024_3723B540_374FB540.pss,visual_confirmed|single_car_sponsor_backdrop
+811950391,0000010c43fc9ae9,7321,pos094,115344352,115213280,118096864,routable,evidence,track_menu_preview,track_menu_preview_family_01,medium,degraded track/menu preview window,43fc9a_stage24_rank04/05/07_pos094_series,mpeg2video|sane_duration|mostly_black_or_degraded_contact_sheets
+812279453,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+812418275,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+812633042,0000010c43fc9ae9,7321,pos094,33030392,32899320,35782904,routable,evidence,track_menu_preview,track_menu_preview_family_01,medium,degraded track/menu preview window,43fc9a_stage24_rank04/05/07_pos094_series,mpeg2video|sane_duration|mostly_black_or_degraded_contact_sheets
+813365276,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+813426705,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+813761605,0000010c43fc9ae9,7321,pos094,4461302,4330230,7213814,routable,evidence,track_menu_preview,track_menu_preview_family_01,medium,degraded track/menu preview window,43fc9a_stage24_rank04/05/07_pos094_series,mpeg2video|sane_duration|mostly_black_or_degraded_contact_sheets
+813761605,0000010c43fc9ae9,7321,pos0a4,85835445,85704373,88587957,routable,evidence,track_menu_preview,track_menu_preview_family_01,medium,audio-backed degraded preview candidate,43fc9a_stage24_rank01_pos0a4_051BBEB5_0547BEB5.pss,audio_present|mpeg2video|mostly_black_sheet
+814574699,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+815475919,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+815724238,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+816158971,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+816323184,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+816581985,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+817055022,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+817494638,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+817586776,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+818028930,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+818455121,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+819055472,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+819315771,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+819879816,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+820084471,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+820289382,0000010c43fc9ae9,7321,pos024,925218112,925087040,927970624,routable,clean,track_menu_preview,track_menu_preview_family_01,high,Fujitsu Siemens track/menu preview,fujitsu-NORM-43fc9a_stage24_rank03_pos024_3723B540_374FB540.pss,visual_confirmed|single_car_sponsor_backdrop
+820289382,0000010c43fc9ae9,7321,pos094,115344352,115213280,118096864,routable,evidence,track_menu_preview,track_menu_preview_family_01,medium,degraded track/menu preview window,43fc9a_stage24_rank04/05/07_pos094_series,mpeg2video|sane_duration|mostly_black_or_degraded_contact_sheets
+820644292,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+820804178,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+821032022,0000010c43fc9ae9,7321,pos094,33030392,32899320,35782904,routable,evidence,track_menu_preview,track_menu_preview_family_01,medium,degraded track/menu preview window,43fc9a_stage24_rank04/05/07_pos094_series,mpeg2video|sane_duration|mostly_black_or_degraded_contact_sheets
+821413545,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+821750006,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+821820082,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+822174432,0000010c43fc9ae9,7321,pos094,4461302,4330230,7213814,routable,evidence,track_menu_preview,track_menu_preview_family_01,medium,degraded track/menu preview window,43fc9a_stage24_rank04/05/07_pos094_series,mpeg2video|sane_duration|mostly_black_or_degraded_contact_sheets
+822174432,0000010c43fc9ae9,7321,pos0a4,85835445,85704373,88587957,routable,evidence,track_menu_preview,track_menu_preview_family_01,medium,audio-backed degraded preview candidate,43fc9a_stage24_rank01_pos0a4_051BBEB5_0547BEB5.pss,audio_present|mpeg2video|mostly_black_sheet
+822504504,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+822844343,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+822984181,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+823184810,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+930794804,0000010c43fc9ae9,7321,pos024,886042620,885911548,888795132,routable,clean,challenge_preview,challenge_preview_family_misc,high,challenge preview two-car backdrop,challenge-NORM-43fc9a_stage24_rank06_pos024_34CDEFFC_34F9EFFC.pss,visual_confirmed|two_cars_background|challenge_taxonomy
+931244150,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+935484091,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match
+939221671,0000010c43fc9ae9,7321,pos024,886042620,885911548,888795132,routable,clean,challenge_preview,challenge_preview_family_misc,high,challenge preview two-car backdrop,challenge-NORM-43fc9a_stage24_rank06_pos024_34CDEFFC_34F9EFFC.pss,visual_confirmed|two_cars_background|challenge_taxonomy
+939673642,0000010c43fc9ae9,7321,,,,,unresolved,unresolved,unresolved,unresolved,none,unresolved_43fc9a,,no_stage50_rule_match

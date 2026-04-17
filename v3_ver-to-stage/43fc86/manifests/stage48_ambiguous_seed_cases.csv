@@ -1,0 +1,5 @@
+sig8,body_prefix,unique_fields,unique_classes,unique_families,statuses,seed_count,needs_field_resolution
+0000010c43fc86e9,4cc3,"pos01c,pos028,pos094","challenge_preview,track_menu_preview","challenge_preview_family_misc,track_menu_preview_family_01","promoted_clean,promoted_clean_soft,secondary_evidence",9,True
+0000010c43fc86e9,521f,"pos01c,pos028","challenge_preview,track_menu_preview","challenge_preview_family_misc,track_menu_preview_family_01","promoted_clean,secondary_evidence",6,True
+0000010c43fc86e9,530f,pos094,track_menu_preview,track_menu_preview_family_01,promoted_clean,3,False
+0000010c43fc86e9,6487,"pos008,pos020",video_like_nonstandard,video_like_nonstandard,rejected,6,True

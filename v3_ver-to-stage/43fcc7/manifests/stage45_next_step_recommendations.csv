@@ -1,0 +1,4 @@
+priority,recommendation
+1,"Review rank01, rank02, and rank03 first; they have the strongest 512x256 MPEG-2 signal."
+2,"If at least one candidate is alive, the next step should be adaptive expansion rather than direct promotion."
+3,Treat rank04-07 as lower-confidence or malformed probe windows until manual review confirms otherwise.

@@ -1,0 +1,8 @@
+rank,candidate_file,start_hex,end_hex,status,note
+1,/mnt/data/semantic_pass_cross_domain_stage41/candidate_media/43fc86_stage41_rank01_pos028_34FD27FB_34FFE7FB.pss,34FD27FB,34FFE7FB,launches,user confirmed launches
+2,/mnt/data/semantic_pass_cross_domain_stage41/candidate_media/43fc86_stage41_rank02_pos01c_3625B5A0_362875A0.pss,3625B5A0,362875A0,launches,user confirmed launches
+3,/mnt/data/semantic_pass_cross_domain_stage41/candidate_media/43fc86_stage41_rank03_pos094_36AA429B_36AD029B.pss,36AA429B,36AD029B,launches,user confirmed launches
+4,/mnt/data/semantic_pass_cross_domain_stage41/candidate_media/43fc86_stage41_rank04_pos020_2436F4D6_2439B4D6.pss,2436F4D6,2439B4D6,broken,user confirmed broken
+5,/mnt/data/semantic_pass_cross_domain_stage41/candidate_media/43fc86_stage41_rank05_pos01c_30B67AE2_30B93AE2.pss,30B67AE2,30B93AE2,launches,user confirmed launches
+6,/mnt/data/semantic_pass_cross_domain_stage41/candidate_media/43fc86_stage41_rank06_pos094_350D5479_35101479.pss,350D5479,35101479,launches,user confirmed launches
+7,/mnt/data/semantic_pass_cross_domain_stage41/candidate_media/43fc86_stage41_rank07_pos008_23858764_23884764.pss,23858764,23884764,broken,user confirmed broken

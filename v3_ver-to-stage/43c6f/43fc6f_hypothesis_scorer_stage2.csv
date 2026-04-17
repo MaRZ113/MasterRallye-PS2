@@ -1,0 +1,23 @@
+pos,mode,inrange,strong_hits,exact_hits,unique_target_offsets,score,top_matches
+20,abs,110,43,0,5,215.71,mpeg_seq_ext@-7 x1 | mpeg_cluster_max 21
+140,abs,130,25,0,4,125.21,mpeg_cluster_max 7
+164,abs,123,24,0,4,120.203,mpeg_cluster_max 6
+148,abs,117,24,0,4,120.197,mpeg_cluster_max 6
+108,abs,78,21,0,4,105.158,mpeg_cluster_max 6
+88,abs,109,19,0,5,95.209,mpeg_cluster_max 9
+136,abs,110,19,0,4,95.19,mpeg_cluster_max 6
+276,abs,108,12,0,4,60.188,mpeg_cluster_max 3
+280,abs,108,12,0,4,60.188,mpeg_cluster_max 3
+256,abs,89,12,0,4,60.169,mpeg_cluster_max 3
+340,abs,78,12,0,4,60.158,mpeg_cluster_max 3
+140,rel,108,4,0,4,22.188,mpeg_seq_ext@-19 x2 | pss_pack@7 x1 | mpeg_seq_ext@11 x1 | mpeg_cluster_max 1
+108,rel,78,4,0,4,21.158,mpeg_seq_ext@17 x2 | mpeg_cluster_max 1
+148,rel,100,4,0,4,20.68,mpeg_seq_ext@-11 x1 | mpeg_cluster_max 1
+280,rel,95,4,0,4,20.675,pss_pack@3 x1 | mpeg_cluster_max 1
+256,rel,91,4,0,4,20.671,mpeg_seq_ext@8 x1 | mpeg_cluster_max 1
+88,rel,107,4,0,4,20.187,mpeg_cluster_max 1
+276,rel,99,4,0,4,20.179,mpeg_cluster_max 1
+164,rel,98,4,0,4,20.178,mpeg_cluster_max 1
+20,rel,77,4,0,4,20.157,mpeg_cluster_max 1
+136,rel,85,3,0,3,15.145,mpeg_cluster_max 1
+340,rel,91,2,0,2,10.631,mpeg_seq_ext@-22 x1 | mpeg_cluster_max 1

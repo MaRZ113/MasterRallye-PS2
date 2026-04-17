@@ -1,0 +1,4 @@
+priority,next_step,why
+1,"Manual validation of ranks 01, 03, 04, 06, 07.",These are the strongest media-like candidates with stable MPEG probes in the new domain.
+2,Check family-aware alignment for any validated menu-like candidate before promotion.,Stage16/15 showed menu segments can be family members rather than new unique media.
+3,Promote only manually validated clean candidates into the primary extractor.,Secondary-layer scout should not contaminate the clean rule catalog.

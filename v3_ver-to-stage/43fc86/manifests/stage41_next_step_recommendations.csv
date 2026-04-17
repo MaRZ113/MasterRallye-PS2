@@ -1,0 +1,3 @@
+priority,next_step,action,reason
+1,Manual validation,Review top candidates and identify clean/full/partial/composite behavior,43fc86 is still at family-aware scout stage
+2,Stage 42,Promote only manually validated clean or clean-partial media,Avoid contaminating clean layer with scout artifacts

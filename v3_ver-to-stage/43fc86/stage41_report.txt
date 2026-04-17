@@ -1,0 +1,17 @@
+Stage 41 - family-aware transfer scout for domain 43fc86
+
+Summary
+- Domain: 43fc86
+- Hits: 35
+- Candidate exports: 7
+- This stage is still scout-only; no clean promotion was performed.
+- Full TNG.000 integrity was rechecked for this stage.
+
+Priority review order
+- rank01: pos028, mpeg2video, 0.96
+- rank02: pos01c, mpeg2video, 1.36
+- rank03: pos094, mpeg2video, 1.16
+- rank04: pos020, nan, 1.059633
+- rank05: pos01c, mpeg2video, 1.0
+- rank06: pos094, mpeg2video, 0.96
+- rank07: pos008, nan, 0.6

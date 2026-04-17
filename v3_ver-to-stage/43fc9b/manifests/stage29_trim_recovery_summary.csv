@@ -1,0 +1,2 @@
+source_candidate,trim_method,trim_start_seconds,trim_end_seconds,output_media_id,output_file,output_duration_seconds,notes
+43fc9b_stage28_rank06_pos148_31821C53_31AC1C53.pss,ffmpeg_remux_trim,9.0,17.0,43fc9b_track_menu_preview_02_trimmed,43fc9b_track_menu_preview_02_trimmed.pss,7.0,Grey/black prologue removed; playable preview segment retained.

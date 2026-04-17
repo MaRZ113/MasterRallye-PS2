@@ -1,0 +1,9 @@
+field_pos,unique_values,repeated_values_ge2,top_support
+0x014,20,16,12
+0x024,19,16,12
+0x028,17,14,12
+0x01C,21,17,7
+0x088,24,20,6
+0x094,24,20,6
+0x0A4,24,20,6
+0x020,23,19,6

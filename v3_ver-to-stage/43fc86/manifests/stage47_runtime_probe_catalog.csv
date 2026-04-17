@@ -1,0 +1,6 @@
+file,duration_s,codec,width,height,decode_frames,decode_time,error_flags,contact_sheet
+43fc86_stage42_rank01_expanded_34FD2000_351D2000.pss,,mpeg2video,512,256,229,00:00:09.40,corrupt decoded frame | Invalid frame dimensions | ac-tex damaged | Packet corrupt,43fc86_stage42_rank01_expanded_34FD2000_351D2000.png
+43fc86_stage42_rank02_expanded_3625B000_3645B000.pss,,mpeg2video,512,256,103,00:00:15.08,corrupt decoded frame | Invalid frame dimensions | ac-tex damaged | invalid cbp,43fc86_stage42_rank02_expanded_3625B000_3645B000.png
+43fc86_stage42_rank03_expanded_36AA4000_36CA4000.pss,13.640000,mpeg2video,512,256,331,00:00:13.52,corrupt decoded frame | Invalid frame dimensions | invalid cbp | Packet corrupt,43fc86_stage42_rank03_expanded_36AA4000_36CA4000.png
+43fc86_stage42_rank05_expanded_30B67000_30D67000.pss,11.560000,mpeg2video,512,256,281,00:00:11.56,corrupt decoded frame | Invalid frame dimensions | ac-tex damaged | Packet corrupt,43fc86_stage42_rank05_expanded_30B67000_30D67000.png
+43fc86_stage42_rank06_expanded_350D5000_352D5000.pss,9.000000,mpeg2video,512,256,215,00:00:09.00,corrupt decoded frame | Invalid frame dimensions | ac-tex damaged | Packet corrupt,43fc86_stage42_rank06_expanded_350D5000_352D5000.png

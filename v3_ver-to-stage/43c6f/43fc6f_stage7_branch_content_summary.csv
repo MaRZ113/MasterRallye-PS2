@@ -1,0 +1,8 @@
+branch_family,sig8,body_prefix,content_label,human_label,bank_id,media_class,record_count,first_record_index,last_record_index
+0000010c43fc6f91|2402,0000010c43fc6f91,2402,challenge_preview_01,Challenge preview A,BANK_14,challenge_preview_fmv,3,69,264
+0000010c43fc6f92|c900,0000010c43fc6f92,c900,challenge_preview_01,Challenge preview A,BANK_14,challenge_preview_fmv,6,20,226
+0000010c43fc6f8b|2402,0000010c43fc6f8b,2402,challenge_preview_02,Challenge preview B,BANK_16,challenge_preview_fmv,6,15,221
+0000010c43fc6f92|c807,0000010c43fc6f92,c807,challenge_preview_02,Challenge preview B,BANK_16,challenge_preview_fmv,15,6,225
+0000010c43fc6f91|201c,0000010c43fc6f91,201c,challenge_preview_03,Challenge preview C,BANK_17,challenge_preview_fmv,12,7,224
+0000010c43fc6f85|4805,0000010c43fc6f85,4805,menu_background_01,Main menu background FMV,BANK_20,menu_background_fmv,6,53,266
+0000010c43fc6f91|2015,0000010c43fc6f91,2015,menu_background_01,Main menu background FMV,BANK_20,menu_background_fmv,4,22,228

@@ -1,0 +1,5 @@
+priority,action,reason
+1,"Manually review 43fc81 rank01, rank02, rank03, rank06 first.",These have the strongest probe scores and real 512x256 video streams.
+2,Promote only manually validated clean candidates in Stage 33.,"Stage 32 is a scout, not a promotion pass."
+3,Treat c909 candidates cautiously.,They may be composite or hybrid previews and may require trim or split-aware recovery.
+4,Consider XML/GXI reconnaissance after 1-3 more media cycles.,Media branch is still productive but nearing diminishing returns.

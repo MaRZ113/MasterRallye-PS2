@@ -1,0 +1,17 @@
+Stage 45 - family-aware transfer scout
+Domain: 43fcc7
+Input TNG: /mnt/data/TNG_rebuilt/TNG.000
+TNG size: 1225915283
+TNG sha256: 004ac1676376275bf40c1fd5c1c4a9dcfaae870bf1a7916434eb73b0b1faff86
+
+Summary
+- Hit count: 44
+- Candidate windows exported: 7
+- Strategy: scout-only micro-window extraction around repeated in-record offset fields
+- No clean promotion performed in this stage
+
+Most promising candidates by probe
+- rank01: field 0x008 start 0x0A0F3BBC support 12 codec=mpeg2video 512x256 duration=0.760000
+- rank02: field 0x01C start 0x37526070 support 7 codec=mpeg2video 512x256 duration=0.880000
+- rank03: field 0x088 start 0x3756216A support 3 codec=mpeg2video 512x256 duration=0.960000
+- rank04: field 0x094 start 0x0D404123 support 7 codec=None 0x0 duration=24088.464200

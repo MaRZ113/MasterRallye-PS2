@@ -1,0 +1,26 @@
+Stage 17 · family-aware transfer-scout on domain 43fc98
+
+Domain hits: 100
+Candidate exports: 7
+
+Top fields by repeated support:
+- 0x014: support=48, clusters=4, top=0x0A0CE66F:30|0x0283F9FB:6|0x05877C68:6|0x1C327F37:6
+- 0x088: support=23, clusters=6, top=0x11BA2825:6|0x1954003F:6|0x085D9492:4|0x1140D5B7:3|0x118377FE:2|0x2013AE96:2
+- 0x0A4: support=23, clusters=6, top=0x16A68DD8:6|0x1AB3EFA1:6|0x009C0D80:4|0x158CF856:3|0x000D004C:2|0x2B9AF7CC:2
+- 0x094: support=21, clusters=5, top=0x29CEDC8A:6|0x3080D0DB:6|0x2B4297CE:4|0x0494B801:3|0x290AC0EC:2
+- 0x028: support=12, clusters=3, top=0x1BBFC9DB:6|0x1B69F276:4|0x21ED8E00:2
+- 0x020: support=6, clusters=2, top=0x1BB961B3:4|0x1BD9B0D8:2
+
+Candidate summary:
+- rank01: mp2|mpeg2video 512x256 dur= family_hint=challenge_preview_like best_ref=challenge_preview_01_BANK_14_328C4A2B_32E14A2B dist=111
+- rank02: |mpeg1video 512x256 dur= family_hint=unknown best_ref=43fc67_menu_background_segment_01_39A35E38_39E35E38 dist=90
+- rank03: mpeg1video 512x256 dur=12.220000 family_hint=unknown best_ref=43fc67_menu_background_segment_01_39A35E38_39E35E38 dist=90
+- rank04: mpeg2video 512x256 dur= family_hint=challenge_preview_like best_ref=challenge_preview_01_BANK_14_328C4A2B_32E14A2B dist=111
+- rank05: mp2|mpeg1video 512x256 dur=29630.414889 family_hint=challenge_preview_like best_ref=challenge_preview_02_BANK_16_34670A3F_34B18A3F dist=85
+- rank06: mpeg2video 512x256 dur=2969.145489 family_hint=unknown best_ref=challenge_preview_01_BANK_14_328C4A2B_32E14A2B dist=1000000000
+- rank07: mpeg2video 512x256 dur= family_hint=unknown best_ref=43fc67_menu_background_segment_01_39A35E38_39E35E38 dist=100
+
+Interpretation:
+- This is a family-aware secondary-layer scout only; no clean promotion is performed in Stage 17.
+- Family hints are advisory and based on contact-sheet image hash similarity against the current atlas.
+- Manual validation is required before any candidate is promoted into the primary clean extractor.

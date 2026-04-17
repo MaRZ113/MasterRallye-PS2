@@ -1,0 +1,6 @@
+rank,candidate_file,contact_sheet,visual_summary,promoted_status
+expanded,43fc86_stage42_rank01_expanded_34FD2000_351D2000.pss,43fc86_stage42_rank01_expanded_34FD2000_351D2000.png,"Playable branded preview variant; last tiles degrade into black/corruption, so kept outside clean lane.",secondary_evidence
+expanded,43fc86_stage42_rank02_expanded_3625B000_3645B000.pss,43fc86_stage42_rank02_expanded_3625B000_3645B000.png,Elf branding visible; contact sheet remains coherent despite missing ffprobe duration.,promoted_clean_soft
+expanded,43fc86_stage42_rank03_expanded_36AA4000_36CA4000.pss,43fc86_stage42_rank03_expanded_36AA4000_36CA4000.png,Fujitsu Siemens branding visible across multiple track-preview frames; coherent menu-style preview.,promoted_clean
+expanded,43fc86_stage42_rank05_expanded_30B67000_30D67000.pss,43fc86_stage42_rank05_expanded_30B67000_30D67000.png,Bago-branded road/track preview with consistent motion and sponsor card overlays.,promoted_clean
+expanded,43fc86_stage42_rank06_expanded_350D5000_352D5000.pss,43fc86_stage42_rank06_expanded_350D5000_352D5000.png,Branded off-road car preview; one dark tail tile but core content is stable.,promoted_clean

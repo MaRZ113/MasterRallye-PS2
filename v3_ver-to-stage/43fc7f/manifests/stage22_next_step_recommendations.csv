@@ -1,0 +1,4 @@
+priority,recommended_stage,action,why
+1,Stage 23,Manually validate rank07 prefix/tail recovered files and decide whether both belong to same cup family or need separate track IDs.,This will unlock record-level routing for composite bundle assignments.
+2,Stage 23 or 24,Use recovered clean rank04 trim as anchor for track_menu_preview_family_02 and compare against future domains before promoting more menu-like previews.,Family-aware reuse will reduce false unique entities.
+3,Later,Continue family-aware scout on next unrecovered 43fc** domain after routing stability improves.,Cleaner atlas > raw domain count.

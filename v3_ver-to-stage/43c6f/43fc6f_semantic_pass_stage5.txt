@@ -1,0 +1,64 @@
+43fc6f semantic pass stage 5
+Status: completed on curated manual-validation pass
+
+Purpose
+- Freeze the manually curated playable subset after stage4 review.
+- Separate clean challenge-preview FMVs from false positives / artifact-prone cuts.
+- Preserve clean non-challenge media (menu/background FMV) without forcing it into the preview bucket.
+- Emit a cleaner extractor rule subset for the resolved portion of 43fc6f.
+
+Manual validation ingested in stage5
+Positive / clean
+- BANK_16: clean challenge preview (cand1)
+- BANK_14: clean challenge preview (cand3)
+- BANK_17: clean challenge preview (stage4 review bundle)
+- BANK_20: clean menu/background FMV (stage4 review bundle)
+
+Negative / unusable
+- BANK_01: did not open
+- BANK_02: visible but artifacted / not playable
+- BANK_03: broken / not playable even after re-cut
+- BANK_07: broken / not playable
+- BANK_08: visible but artifacted / not playable
+- BANK_09: visible but artifacted / not playable
+- BANK_11: garbled / artifact-prone (legacy manual note)
+- BANK_12: artifacted / not playable
+- BANK_18: visible but artifacted / not playable
+
+Key outcomes
+- Clean manually validated media banks frozen: 4
+- Clean challenge-preview banks: 3
+- Clean menu/background banks: 1
+- Rejected broken/artifact banks from the review queue: 9
+- Branch families with clean curated assignments: 7/11
+- Branch families resolved as rejected/nonpreview: 4/11
+- Branch families still open: 0/11
+
+Resolved clean branch families
+- 0000010c43fc6f8b|2402 -> BANK_16 :: challenge_preview_fmv :: pos=0x014 hits=6/41 (14.63%)
+- 0000010c43fc6f91|201c -> BANK_17 :: challenge_preview_fmv :: pos=0x06C hits=12/31 (38.71%)
+- 0000010c43fc6f91|2402 -> BANK_14 :: challenge_preview_fmv :: pos=0x094 hits=3/53 (5.66%)
+- 0000010c43fc6f92|c807 -> BANK_16 :: challenge_preview_fmv :: pos=0x014 hits=15/40 (37.50%)
+- 0000010c43fc6f92|c900 -> BANK_14 :: challenge_preview_fmv :: pos=0x0A4 hits=6/61 (9.84%)
+- 0000010c43fc6f85|4805 -> BANK_20 :: menu_background_fmv :: pos=0x014 hits=6/29 (20.69%)
+- 0000010c43fc6f91|2015 -> BANK_20 :: menu_background_fmv :: pos=0x014 hits=4/6 (66.67%)
+
+Rejected or unresolved highlights
+- 0000010c43fc6f25|9201 -> BANK_10 :: resolved_nonpreview_or_noise :: class=likely_nonpreview_or_noise :: pos=0x08C hits=1/4 (25.00%)
+- 0000010c43fc6f85|4039 -> BANK_02 :: resolved_rejected_nonusable :: class=rejected_artifact :: pos=0x094 hits=6/9 (66.67%) :: User reported visible but artifacted / not playable.
+- 0000010c43fc6f8b|201c -> BANK_07 :: resolved_rejected_nonusable :: class=rejected_broken :: pos=0x088 hits=1/2 (50.00%) :: User reported file is broken / does not play cleanly.
+- 0000010c43fc6ff3|d6cd -> BANK_11 :: resolved_rejected_nonusable :: class=rejected_artifact :: pos=0x0A4 hits=3/3 (100.00%) :: User reported garbled/unclear playback with artifacts (cand2).
+
+Interpretation
+- 43fc6f is now confirmed as a mixed FMV family rather than a pure single-purpose preview family.
+- The clean challenge-preview subset is no longer hypothetical: BANK_14 / BANK_16 / BANK_17 are human-validated true positives.
+- BANK_20 is also real and clean, but it should be classified separately as menu/background FMV rather than challenge-preview content.
+- Several stage4 likely-preview candidates were false positives at the playback level. Stage5 intentionally freezes them as rejected instead of keeping them in a hopeful queue.
+- The clean extractor subset for 43fc6f should therefore target the resolved curated banks first, and only later revisit the remaining unresolved/rejected branches if new cutting logic appears.
+
+Next correct move
+- Build stage6 around a media-aware extractor prototype:
+  * challenge_preview_fmv rules for BANK_14 / BANK_16 / BANK_17
+  * menu_background_fmv rules for BANK_20
+- Keep 0000010c43fc6f25|9201 as the main unresolved branch for future work.
+- Do not spend time re-reviewing BANK_01 / BANK_02 / BANK_03 / BANK_07 / BANK_08 / BANK_09 / BANK_12 / BANK_18 unless a materially different cut strategy is introduced.

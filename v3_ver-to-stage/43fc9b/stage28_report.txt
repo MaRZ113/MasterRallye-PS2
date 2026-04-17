@@ -1,0 +1,26 @@
+Stage 28 — family-aware transfer-scout on 43fc9b
+
+TNG.000 integrity
+- path: /mnt/data/TNG_rebuilt/TNG.000
+- size: 1225915283
+- CRC32: 0xC740B8AA
+- SHA-256: 004ac1676376275bf40c1fd5c1c4a9dcfaae870bf1a7916434eb73b0b1faff86
+
+Why this domain
+- 43fc9b is one of the densest unresolved 43fc** families and shows repeated MPEG-like windows with sane 512x256 probes.
+- This stage stays in the secondary layer. No clean promotion was attempted.
+
+Summary
+- domain hits: 61
+- candidates exported: 7
+- strongest fields: 0x94, 0x14, 0x88, 0xa4, 0x24
+
+Most promising candidates for manual review
+- rank01
+- rank02
+- rank03
+- rank06
+
+Current stop condition for media passes
+- We keep doing these passes while new domains still produce clean media or useful family evidence at a good rate.
+- Realistically, this probably means a handful more high-yield family-aware scouts before the return drops enough to pivot harder into XML/GXI.

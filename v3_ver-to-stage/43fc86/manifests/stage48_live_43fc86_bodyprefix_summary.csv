@@ -1,0 +1,6 @@
+sig8,body_prefix,hit_count,min_record_offset,max_record_offset,unique_fields,unique_classes,needs_field_resolution
+0000010c43fc86e9,521f,13,195287425,1008108392,"pos01c,pos028","challenge_preview,track_menu_preview",True
+0000010c43fc86e9,4cc3,9,195890308,1008164955,"pos01c,pos028,pos094","challenge_preview,track_menu_preview",True
+0000010c43fc86e9,530f,7,196890762,1008418041,pos094,track_menu_preview,False
+0000010c43fc86e9,6487,3,196524627,1006767870,"pos008,pos020",video_like_nonstandard,True
+0000010c43fc86e9,7243,3,197584664,1007819638,,,

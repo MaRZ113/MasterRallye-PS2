@@ -1,0 +1,10 @@
+Stage 35 — adaptive expansion from fixed micro-window scout candidates for domain 43fc85.
+
+Key point:
+Stage 34 used a fixed scout window of 0x2C000 bytes (180,224 bytes), so equal-sized .pss files and sub-second playback were expected.
+Stage 35 expands the live micro-windows into larger candidate windows starting from the nearest preceding MPEG pack header.
+
+Domain: 43fc85
+Input live scout ranks expanded: 1-6
+Expanded candidates: 6
+Primary goal: convert <1s probe glimpses into multi-second playable recovery candidates.

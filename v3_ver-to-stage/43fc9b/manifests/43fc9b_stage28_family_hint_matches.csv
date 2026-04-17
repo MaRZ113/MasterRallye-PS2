@@ -1,0 +1,8 @@
+candidate_file,family_hint,confidence,reason
+43fc9b_stage28_rank01_pos008_219590B9_21BF90B9.pss,track_or_challenge_preview_family,medium,duration/resolution heuristic against current preview/menu atlas
+43fc9b_stage28_rank02_pos148_00FBFA00_0125FA00.pss,unknown_media_family,low,duration/resolution heuristic against current preview/menu atlas
+43fc9b_stage28_rank03_pos040_0D0034D8_0D2A34D8.pss,no_video_hint,low,no valid video stream
+43fc9b_stage28_rank04_pos040_36A448D2_36CE48D2.pss,track_or_challenge_preview_family,medium,duration/resolution heuristic against current preview/menu atlas
+43fc9b_stage28_rank05_pos020_21AF612C_21D9612C.pss,no_video_hint,low,no valid video stream
+43fc9b_stage28_rank06_pos148_31821C53_31AC1C53.pss,unknown_media_family,low,duration/resolution heuristic against current preview/menu atlas
+43fc9b_stage28_rank07_pos164_009C6F9F_00C66F9F.pss,no_video_hint,low,no valid video stream

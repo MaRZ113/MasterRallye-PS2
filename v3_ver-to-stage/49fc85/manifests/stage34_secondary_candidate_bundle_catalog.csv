@@ -1,0 +1,8 @@
+rank,candidate_file,hint_family,hint_confidence,support,codec_name,width,height,duration,domain,layer
+1,/mnt/data/semantic_pass_cross_domain_stage34/candidate_media/43fc85_stage34_rank01_pos008_36FA87CC_36FD47CC.pss,track_menu_preview_family_01,weak,11,mpeg2video,512,256,1.320000,43fc85,secondary_candidate
+2,/mnt/data/semantic_pass_cross_domain_stage34/candidate_media/43fc85_stage34_rank02_pos024_375B1DBA_375DDDBA.pss,track_menu_preview_family_01,weak,6,mpeg2video,512,256,1.160000,43fc85,secondary_candidate
+3,/mnt/data/semantic_pass_cross_domain_stage34/candidate_media/43fc85_stage34_rank03_pos014_377A06F3_377CC6F3.pss,track_menu_preview_family_01,weak,3,mpeg2video,512,256,0.960000,43fc85,secondary_candidate
+4,/mnt/data/semantic_pass_cross_domain_stage34/candidate_media/43fc85_stage34_rank04_pos020_37FEFCEB_3801BCEB.pss,track_menu_preview_family_01,weak,3,mpeg2video,512,256,1.080000,43fc85,secondary_candidate
+5,/mnt/data/semantic_pass_cross_domain_stage34/candidate_media/43fc85_stage34_rank05_pos024_35B4FADE_35B7BADE.pss,track_menu_preview_family_01,weak,3,mpeg2video,512,256,0.760000,43fc85,secondary_candidate
+6,/mnt/data/semantic_pass_cross_domain_stage34/candidate_media/43fc85_stage34_rank06_pos028_3DC07E4A_3DC33E4A.pss,track_menu_preview_family_01,weak,3,mpeg2video,512,256,0.280000,43fc85,secondary_candidate
+7,/mnt/data/semantic_pass_cross_domain_stage34/candidate_media/43fc85_stage34_rank07_pos094_1ED9FD13_1EDCBD13.pss,challenge_preview_like,weak,3,mpeg2video,512,256,1.040000,43fc85,secondary_candidate

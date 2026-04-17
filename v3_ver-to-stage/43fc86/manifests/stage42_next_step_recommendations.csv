@@ -1,0 +1,3 @@
+recommendation,rationale
+manually review expanded rank01/02/03/05/06,"all corresponding stage41 micro-windows launched, so these are highest-yield recovery candidates"
+"if semantics are clear, use Stage 43 for curated promotion",do not promote before semantic/manual validation

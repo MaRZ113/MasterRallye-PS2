@@ -1,0 +1,12 @@
+field_offset,field_name,hits,unique_values,valid_video_candidates,best_support
+0x024,pos024,14,5,3,6
+0x008,pos008,24,4,2,11
+0x020,pos020,14,5,2,6
+0x094,pos094,18,8,2,4
+0x0A4,pos0a4,23,9,2,3
+0x148,pos148,16,7,2,3
+0x028,pos028,19,6,1,6
+0x088,pos088,7,3,1,3
+0x014,pos014,6,2,1,3
+0x164,pos164,6,4,1,3
+0x01C,pos01c,7,3,0,3

@@ -1,0 +1,2 @@
+stage,fixed_probe_size_bytes,fixed_probe_size_hex,meaning
+34,180224,0x2C000,micro-window scout candidate size; equal size and sub-second playback are expected at this stage

@@ -1,0 +1,40 @@
+Master Rallye PS2 · Stage 22
+
+Goal
+- Prefer the step most useful for a full unpacker.
+- Chosen path: resolve current composite domain 43fc7f before opening another domain.
+
+Inputs
+- Full TNG.000: /mnt/data/TNG_rebuilt/TNG.000
+- Stage20 source bundles:
+  - 43fc7f_stage20_rank04_pos01c_37D8EA40_3802EA40.pss
+  - 43fc7f_stage20_rank07_pos008_36F887CC_372287CC.pss
+
+Integrity
+- TNG.000 size: 1225915283 bytes
+- CRC32: 0xC740B8AA
+- SHA256: 004ac1676376275bf40c1fd5c1c4a9dcfaae870bf1a7916434eb73b0b1faff86
+
+Recovery decisions
+1) rank04
+- ffprobe packet PTS reset/keyframe boundary at local pos 98558 (0x180FE)
+- absolute trim start: 0x37DA6B3E
+- result: clean promotion
+- output: 43fc7f_track_menu_preview_01_trimmed_37DA6B3E_3802EA40.pss
+
+2) rank07
+- ffprobe packet PTS reset/keyframe boundary at local pos 1942374 (0x1DA366)
+- absolute split start: 0x37162B32
+- result: composite split into two recovered subsegments, not clean-promoted yet
+- outputs:
+  - 43fc7f_composite_bundle_01_prefix_preview_36F887CC_37162B32.pss
+  - 43fc7f_composite_bundle_01_tail_preview_37162B32_372287CC.pss
+
+Rationale
+- rank04 behaves like a foreign lead-in followed by one stable track preview, so trim is safe and useful for the unpacker.
+- rank07 contains two different previews of the same cup; without honest record-level routing, promoting both to clean layer would overstate certainty.
+
+Summary
+- New clean file added: 1
+- New recovered secondary subsegments: 2
+- Preferred next step: validate prefix/tail as separate track previews and then resolve routing.

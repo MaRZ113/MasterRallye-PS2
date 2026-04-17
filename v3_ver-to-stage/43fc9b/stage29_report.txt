@@ -1,0 +1,26 @@
+Stage 29 · Curated promotion for 43fc9b
+
+Integrity
+- TNG.000 size: 1225915283
+- CRC32: 0xC740B8AA
+- SHA-256: 004ac1676376275bf40c1fd5c1c4a9dcfaae870bf1a7916434eb73b0b1faff86
+
+Manual validation outcome
+- rank04 accepted as clean track-menu preview (Fujitsu Cup)
+- rank06 accepted after trim recovery; usable preview begins ~9s and runs to ~17s
+- rank01 artifact only
+- rank02 grey screen
+- rank03/rank05/rank07 broken
+
+Promotions
+- 43fc9b_track_menu_preview_01 -> track_menu_preview_family_01
+- 43fc9b_track_menu_preview_02_trimmed -> track_menu_preview_family_01
+
+Record-level additions
+- rank04 branch 43fc9bf6|ba01 -> 1 clean assignment
+- rank06 branch 43fc9b4d|7f94 -> 3 clean assignments (trimmed canonical variant)
+
+Net effect
+- 2 new clean media promoted
+- track_menu_preview_family_01 expanded by 2 members
+- 4 clean record-level assignments added

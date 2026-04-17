@@ -1,0 +1,8 @@
+rank,file,sheet,field_pos,start_offset,end_offset,bytes,support,sig8,body_prefix,codec,resolution,duration,audio_streams,probe_score,family_hint,family_hint_confidence
+1,43fc81_stage32_rank01_pos028_35D29FB0_35FE9FB0.pss,43fc81_stage32_rank01_pos028_35D29FB0_35FE9FB0.png,0x028,0x35D29FB0,0x35FE9FB0,2883584,12,0000010c43fc8192,c900,mpeg2video,512x256,14.36,0,175.0,track_menu_preview_family_01,low
+2,43fc81_stage32_rank02_pos024_379EAD0D_37CAAD0D.pss,43fc81_stage32_rank02_pos024_379EAD0D_37CAAD0D.png,0x024,0x379EAD0D,0x37CAAD0D,2883584,12,0000010c43fc8192,c900,mpeg2video,512x256,,0,155.0,track_menu_preview_family_01,low
+3,43fc81_stage32_rank03_pos088_01EDCDE2_0219CDE2.pss,43fc81_stage32_rank03_pos088_01EDCDE2_0219CDE2.png,0x088,0x01EDCDE2,0x0219CDE2,2883584,6,0000010c43fc8192,c90f,mpeg1video,512x256,11.34,0,115.0,challenge_preview_like,low
+4,43fc81_stage32_rank04_pos014_1BB7B6F3_1BE3B6F3.pss,43fc81_stage32_rank04_pos014_1BB7B6F3_1BE3B6F3.png,0x014,0x1BB7B6F3,0x1BE3B6F3,2883584,6,0000010c43fc8192,c909,mpeg1video,512x256,,1,97.0,composite_or_hybrid_preview_like,low
+5,43fc81_stage32_rank05_pos088_1B96EBE7_1BC2EBE7.pss,43fc81_stage32_rank05_pos088_1B96EBE7_1BC2EBE7.png,0x088,0x1B96EBE7,0x1BC2EBE7,2883584,4,0000010c43fc8192,c90f,mpeg2video,512x256,10.61,0,95.0,challenge_preview_like,low
+6,43fc81_stage32_rank06_pos014_31BB7B6F_31E77B6F.pss,43fc81_stage32_rank06_pos014_31BB7B6F_31E77B6F.png,0x014,0x31BB7B6F,0x31E77B6F,2883584,6,0000010c43fc8192,c900,mpeg2video,512x256,,0,95.0,track_menu_preview_family_01,low
+7,43fc81_stage32_rank07_pos028_1B2BC413_1B57C413.pss,43fc81_stage32_rank07_pos028_1B2BC413_1B57C413.png,0x028,0x1B2BC413,0x1B57C413,2883584,3,0000010c43fc8192,c909,mpeg1video,512x256,11.9,0,85.0,composite_or_hybrid_preview_like,low

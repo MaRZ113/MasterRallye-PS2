@@ -1,0 +1,10 @@
+Stage 44 family-aware scout
+
+Domain: 43fc96
+Hits: 44
+Probe window: 0x2C000 (180224 bytes)
+Candidates: 7
+
+This stage is scout-only. The extracted .pss files are fixed-size micro-windows around repeated field values. A playable candidate here does not imply a full clean promotion yet; it should first be reviewed manually, and if needed expanded or trimmed in a later stage.
+
+Most promising ranks by probe: rank01, rank02, rank03, rank04.

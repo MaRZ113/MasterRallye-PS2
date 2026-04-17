@@ -1,0 +1,19 @@
+Stage 37 — family-aware transfer scout on 43fc46
+
+Selected domain: 43fc46
+Total domain hits: 56
+Exported candidates: 7
+
+Why this domain:
+- among remaining 43fc** domains, 43fc46 produced the strongest mix of repeated values and video-like probe windows
+- scout now exports expanded windows (0x200000) instead of tiny probe windows, to make manual validation easier
+
+Suggested first checks:
+- rank01
+- rank02
+- rank03
+- rank05
+
+Notes:
+- this is still a secondary-layer scout, not a clean promotion stage
+- no new clean media were promoted automatically

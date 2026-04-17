@@ -1,0 +1,29 @@
+Stage 42 · 43fc86 adaptive expansion
+
+Input container:
+- /mnt/data/TNG_rebuilt/TNG.000
+- size: 1225915283
+- crc32: 0xC740B8AA
+- sha256: 004ac1676376275bf40c1fd5c1c4a9dcfaae870bf1a7916434eb73b0b1faff86
+
+Reason for Stage 42:
+- User confirmed stage41 rank01/02/03/05/06 launch.
+- Stage41 files were fixed-size scout windows (~0x2C000 bytes).
+- Therefore Stage42 expands only live windows into larger 0x200000-byte candidates.
+
+Manual validation imported from user:
+- rank01: launches
+- rank02: launches
+- rank03: launches
+- rank04: broken
+- rank05: launches
+- rank06: launches
+- rank07: broken
+
+Outputs:
+- expanded candidates: 5
+- broken candidates skipped: 2
+
+Next step:
+- Manual review of expanded rank01/02/03/05/06
+- If semantic meaning is clear, continue with curated promotion in Stage 43

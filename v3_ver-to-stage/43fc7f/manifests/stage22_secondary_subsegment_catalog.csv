@@ -1,0 +1,3 @@
+bundle,segment,output_file,start_hex,end_hex,status,notes
+rank07,prefix_preview,43fc7f_composite_bundle_01_prefix_preview_36F887CC_37162B32.pss,0x36F887CC,0x37162B32,recovered_secondary,First track-preview of composite bundle.
+rank07,tail_preview,43fc7f_composite_bundle_01_tail_preview_37162B32_372287CC.pss,0x37162B32,0x372287CC,recovered_secondary,Second track-preview of composite bundle.

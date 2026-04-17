@@ -1,0 +1,14 @@
+bank_id,manual_status_stage5,manual_note_stage5
+BANK_14,validated_preview_clean,User-confirmed clean challenge preview (cand3).
+BANK_16,validated_preview_clean,User-confirmed clean challenge preview (cand1).
+BANK_11,artifact_prone_unusable,User reported garbled/unclear playback with artifacts (cand2).
+BANK_03,broken_unusable,User reported stage4 re-cut still broken / not playable.
+BANK_12,artifact_prone_unusable,User reported stage4 re-cut still artifacted / not playable.
+BANK_17,validated_preview_clean,User-confirmed clean challenge preview (stage4 BANK_17).
+BANK_20,validated_menu_background_clean,User-confirmed clean main-menu background FMV / ambient loop (stage4 BANK_20).
+BANK_01,broken_unusable,User reported file did not open at all.
+BANK_07,broken_unusable,User reported file is broken / does not play cleanly.
+BANK_02,artifact_prone_unusable,User reported visible but artifacted / not playable.
+BANK_08,artifact_prone_unusable,User reported visible but artifacted / not playable.
+BANK_09,artifact_prone_unusable,User reported visible but artifacted / not playable.
+BANK_18,artifact_prone_unusable,User reported visible but artifacted / not playable.

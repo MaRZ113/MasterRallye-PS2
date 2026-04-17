@@ -1,0 +1,4 @@
+priority,next_step,reason
+1,Stage 30 family-aware scout,Continue media-domain expansion now that 43fc9b has been cleanly integrated.
+2,Cross-family overlap audit,Check whether trimmed/canonical track-menu variants cluster into subfamilies by cup.
+3,Shift to XML/GXI reconnaissance,"If media yield drops, open the next resource type while keeping media pipeline stable."

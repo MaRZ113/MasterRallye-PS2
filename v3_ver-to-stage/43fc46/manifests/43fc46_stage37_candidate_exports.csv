@@ -1,0 +1,8 @@
+rank,score,field_pos,start_hex,micro_end_hex,expanded_end_hex,support,micro_video_streams,micro_audio_streams,micro_codec,micro_width,micro_height,micro_duration,expanded_video_streams,expanded_audio_streams,expanded_codec,expanded_width,expanded_height,expanded_duration,candidate_file
+1,159,0x020,06B8370C,06BAF70C,06D8370C,3,1,0,mpeg2video,512,256,1.080000,1,0,mpeg2video,512,256,28885.086978,43fc46_stage37_rank01_pos020_06B8370C_06D8370C.pss
+2,153.0,0x020,21B52D3D,21B7ED3D,21D52D3D,3,1,0,,0,0,1.181856,1,0,,0,0,14.000000,43fc46_stage37_rank02_pos020_21B52D3D_21D52D3D.pss
+3,147.33,0x01C,02520F18,0254CF18,02720F18,3,1,0,,0,0,0.720000,1,0,mpeg2video,512,256,8.330000,43fc46_stage37_rank03_pos01c_02520F18_02720F18.pss
+4,129,0x01C,0928343C,092AF43C,0948343C,3,0,1,,,,1.120000,1,0,mpeg1video,512,256,35652.709956,43fc46_stage37_rank04_pos01c_0928343C_0948343C.pss
+5,129,0x020,246BC8ED,246E88ED,248BC8ED,3,0,1,,,,2966.312178,1,0,mpeg1video,512,256,33362.059067,43fc46_stage37_rank05_pos020_246BC8ED_248BC8ED.pss
+6,121.14,0x01C,07E7B607,07EA7607,0807B607,3,0,1,,,,0.720000,1,0,mpeg1video,512,256,12.140000,43fc46_stage37_rank06_pos01c_07E7B607_0807B607.pss
+7,118.22,0x014,030F7C17,03123C17,032F7C17,3,0,1,,,,0.440000,1,0,mpeg1video,512,256,9.220000,43fc46_stage37_rank07_pos014_030F7C17_032F7C17.pss

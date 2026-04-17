@@ -1,0 +1,8 @@
+file,rank,content_layer,domain,field_pos,support,codec,duration,resolution,hint_family_id,hint_content_class,top_branches
+43fc7f_stage20_rank01_pos028_07D64FE9_08004FE9.pss,1,secondary_candidate_bundle,43fc7f,40,21,"mp2,mpeg1video",15.58,512x256,challenge_preview_family_misc,challenge_preview_fmv,0000010c43fc7f92|c90f:15 | 0000010c43fc7f92|c909:6
+43fc7f_stage20_rank02_pos024_1A583D6F_1A823D6F.pss,2,secondary_candidate_bundle,43fc7f,36,21,mpeg2video,,512x256,challenge_preview_family_misc,challenge_preview_fmv,0000010c43fc7f92|c90f:15 | 0000010c43fc7f92|c909:6
+43fc7f_stage20_rank03_pos008_2110B6C4_213AB6C4.pss,3,secondary_candidate_bundle,43fc7f,8,7,"mp2,mpeg1video",13.78,512x256,track_menu_preview_family_01,track_menu_preview_fmv,0000010c43fc7ff1|c4b6:7
+43fc7f_stage20_rank04_pos01c_37D8EA40_3802EA40.pss,4,secondary_candidate_bundle,43fc7f,28,13,mpeg2video,,512x256,challenge_preview_family_misc,challenge_preview_fmv,0000010c43fc7f92|c909:6 | 0000010c43fc7f92|c90f:6 | 0000010c43fc7f8b|243f:1
+43fc7f_stage20_rank05_pos028_01F453BA_021E53BA.pss,5,secondary_candidate_bundle,43fc7f,40,7,mpeg2video,11.56,512x256,track_menu_preview_family_01,track_menu_preview_fmv,0000010c43fc7f8b|243f:4 | 0000010c43fc7f92|c909:3
+43fc7f_stage20_rank06_pos088_387163D9_389B63D9.pss,6,secondary_candidate_bundle,43fc7f,136,4,mpeg1video,15.3,512x256,challenge_preview_family_misc,challenge_preview_fmv,0000010c43fc7f92|c90f:4
+43fc7f_stage20_rank07_pos008_36F887CC_372287CC.pss,7,secondary_candidate_bundle,43fc7f,8,7,mpeg2video,,512x256,challenge_preview_family_misc,challenge_preview_fmv,0000010c43fc7f92|cc87:6 | 0000010c43fc7fc2|cc87:1

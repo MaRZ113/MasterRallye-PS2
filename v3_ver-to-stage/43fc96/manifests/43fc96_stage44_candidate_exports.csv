@@ -1,0 +1,8 @@
+rank,domain,position_hex,start_hex,end_hex,size_bytes,exact_count,bucket_count,video_codec,audio_codec,width,height,duration_sec,hint,file,contact_sheet
+1,43fc96,0x008,0x0A91105E,0x0A93D05E,180224,9,9,mpeg2video,,512,256,1.280000,family_aware_micro_window,/mnt/data/semantic_pass_cross_domain_stage44/candidate_media/43fc96_stage44_rank01_pos008_0A91105E_0A93D05E.pss,
+2,43fc96,0x014,0x115FB4F9,0x116274F9,180224,9,9,,,,,,needs_manual_validation,/mnt/data/semantic_pass_cross_domain_stage44/candidate_media/43fc96_stage44_rank02_pos014_115FB4F9_116274F9.pss,
+3,43fc96,0x088,0x269009D7,0x2692C9D7,180224,9,9,,,,,,needs_manual_validation,/mnt/data/semantic_pass_cross_domain_stage44/candidate_media/43fc96_stage44_rank03_pos088_269009D7_2692C9D7.pss,
+4,43fc96,0x094,0x43FAB722,0x43FD7722,180224,9,9,,,,,,needs_manual_validation,/mnt/data/semantic_pass_cross_domain_stage44/candidate_media/43fc96_stage44_rank04_pos094_43FAB722_43FD7722.pss,
+5,43fc96,0x0A4,0x00D2D6E6,0x00D596E6,180224,7,7,,,,,0.880000,needs_manual_validation,/mnt/data/semantic_pass_cross_domain_stage44/candidate_media/43fc96_stage44_rank05_pos0a4_00D2D6E6_00D596E6.pss,
+6,43fc96,0x0A4,0x157C7EAB,0x157F3EAB,180224,7,7,,,,,,needs_manual_validation,/mnt/data/semantic_pass_cross_domain_stage44/candidate_media/43fc96_stage44_rank06_pos0a4_157C7EAB_157F3EAB.pss,
+7,43fc96,0x0A4,0x02505BFB,0x02531BFB,180224,5,5,,mp3,,,0.360000,likely_non_fmv_or_audio,/mnt/data/semantic_pass_cross_domain_stage44/candidate_media/43fc96_stage44_rank07_pos0a4_02505BFB_02531BFB.pss,

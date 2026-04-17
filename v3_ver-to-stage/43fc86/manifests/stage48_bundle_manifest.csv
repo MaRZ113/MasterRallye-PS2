@@ -1,0 +1,15 @@
+relative_path,size_bytes
+manifests/stage48_43fc86_candidate_record_map.csv,5504
+manifests/stage48_ambiguous_seed_cases.csv,694
+manifests/stage48_bundle_manifest.csv,555
+manifests/stage48_field_aware_router_43fc86.csv,1766
+manifests/stage48_live_43fc86_bodyprefix_summary.csv,547
+manifests/stage48_live_domain_summary.csv,195477
+manifests/stage48_live_runtime_status_summary.csv,372
+manifests/stage48_live_seed_hit_summary.csv,431
+manifests/stage48_seed_router_table_v2.csv,1517
+manifests/stage48_tng_integrity_check.csv,136
+runtime/stage48_runtime_classified_subset.csv,25445
+runtime/stage48_runtime_field_aware_examples.csv,3555
+stage48_generalized_extractor_scaffold_v2.py,2976
+stage48_report.md,2971

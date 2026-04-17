@@ -1,0 +1,5 @@
+priority,next_step,rationale
+1,merge promoted clean and soft-clean 43fc86 seeds into generalized media router,"Stage 47 proves 43fc86 is promotion-worthy, not scout-only"
+2,keep rank01 as secondary evidence only,Tail corruption/black region still blocks clean promotion
+3,run generalized extractor on 43fc86 using promoted offsets as clean seeds,This validates Stage 46A runtime routing on live TNG
+4,"only after routing pass, revisit 43fc84 or later scout domains",43fc86 has now cleared the best pending promotion target

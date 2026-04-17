@@ -1,0 +1,45 @@
+43fc6f semantic pass stage 3
+Status: completed on reconstructed canonical TNG.000
+
+Main outcome
+- Stage 3 converts stage2 validated intervals into 20 stable preview/media banks.
+- Stable-bank mapping is now explicit at record level: 224 record-to-bank assignments across the top 43fc6f fields.
+- The domain is confirmed as a multi-bank preview family rather than a single-stream class.
+- Human validation is now attached to 2 banks: BANK_14 (user-confirmed clean challenge preview (cand3)); BANK_16 (user-confirmed clean challenge preview (cand1))
+
+Stable banks
+- BANK_16: union=0x34670A3F-0x34B18A3F rep=0x34670A3F-0x34B18A3F rep_support=21 support_sum=21 positions=0x14 human_validated=True
+- BANK_01: union=0x00C3F83C-0x01013676 rep=0x00C3F83C-0x01013676 rep_support=6 support_sum=12 positions=0x8C|0xA4 human_validated=False
+- BANK_02: union=0x02DD6352-0x033D644F rep=0x02DD6352-0x033D644F rep_support=6 support_sum=12 positions=0x94 human_validated=False
+- BANK_03: union=0x043AA9BD-0x04B54026 rep=0x043AA9BD-0x04B54026 rep_support=6 support_sum=12 positions=0x88|0x94 human_validated=False
+- BANK_17: union=0x34B5CA43-0x350B4A43 rep=0x34B5CA43-0x350B4A43 rep_support=6 support_sum=12 positions=0x6C human_validated=False
+- BANK_18: union=0x366734E5-0x36A02AFE rep=0x366734E5-0x36A02AFE rep_support=8 support_sum=8 positions=0x14 human_validated=False
+- BANK_20: union=0x39B31E38-0x3A389E38 rep=0x39B31E38-0x3A389E38 rep_support=8 support_sum=8 positions=0x14 human_validated=False
+- BANK_13: union=0x2423EDA7-0x243F527C rep=0x2423EDA7-0x243F527C rep_support=7 support_sum=7 positions=0x8C human_validated=False
+- BANK_04: union=0x0640905C-0x0687580B rep=0x0640905C-0x0687580B rep_support=6 support_sum=6 positions=0x94 human_validated=False
+- BANK_05: union=0x18D9A68B-0x18E7EB78 rep=0x18D9A68B-0x18E7EB78 rep_support=6 support_sum=6 positions=0xA4 human_validated=False
+- BANK_07: union=0x1A00B153-0x1A596A26 rep=0x1A00B153-0x1A596A26 rep_support=6 support_sum=6 positions=0x8C human_validated=False
+- BANK_08: union=0x1A68CDE1-0x1AB62813 rep=0x1A68CDE1-0x1AB62813 rep_support=6 support_sum=6 positions=0x6C human_validated=False
+
+Best branch anchors
+- 0000010c43fc6f92|c807 :: rank=1 pos=0x014 -> BANK_16 hits=15 coverage=37.50%
+- 0000010c43fc6f91|201c :: rank=1 pos=0x06C -> BANK_17 hits=12 coverage=38.71%
+- 0000010c43fc6f92|c900 :: rank=1 pos=0x014 -> BANK_18 hits=8 coverage=13.11%
+- 0000010c43fc6f85|4039 :: rank=1 pos=0x094 -> BANK_02 hits=6 coverage=66.67%
+- 0000010c43fc6f85|4805 :: rank=1 pos=0x014 -> BANK_20 hits=6 coverage=20.69%
+- 0000010c43fc6f8b|2402 :: rank=1 pos=0x014 -> BANK_16 hits=6 coverage=14.63%
+- 0000010c43fc6f91|2402 :: rank=1 pos=0x014 -> BANK_10 hits=6 coverage=11.32%
+- 0000010c43fc6f91|2015 :: rank=1 pos=0x014 -> BANK_20 hits=4 coverage=66.67%
+- 0000010c43fc6ff3|d6cd :: rank=1 pos=0x0A4 -> BANK_11 hits=3 coverage=100.00%
+- 0000010c43fc6f8b|201c :: rank=1 pos=0x088 -> BANK_07 hits=1 coverage=50.00%
+- 0000010c43fc6f25|9201 :: rank=1 pos=0x08C -> BANK_10 hits=1 coverage=25.00%
+- 0000010c43fc6f91|201c :: rank=2 pos=0x08C -> BANK_13 hits=7 coverage=22.58%
+
+Interpretation
+- 43fc6f branches do not collapse onto one universal pointer field; each major branch family carries its own preferred field-to-bank mapping.
+- The strongest global anchor remains pos 0x14, but stage3 shows that 0x8C / 0xA4 / 0x94 / 0x88 / 0x6C are the fields that actually fan the domain out into distinct stable banks.
+- User confirmation for BANK_16 and BANK_14 upgrades them from ffprobe-valid candidates to trusted preview-stream anchors.
+- The stage3 prototype is therefore bank-aware: it emits all stable branch/field/bank assignments instead of forcing a single pointer hypothesis.
+
+Next correct move
+- Stage 4 should validate the prototype against more user-opened exports, prune noisy low-support banks, and then attempt a challenge-preview catalog for the whole 43fc6f domain.

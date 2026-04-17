@@ -1,0 +1,48 @@
+43fc6f semantic pass stage 4
+Status: completed on reconstructed canonical TNG.000
+
+Purpose
+- Inject manual user playback validation from stage2 exports.
+- Re-cut artifact-prone banks using contributor-level best cuts rather than the older union/rep intervals.
+- Prune low-confidence banks from the challenge-preview prototype and build a review-ready catalog.
+
+Manual validation incorporated
+- BANK_16: validated_preview :: User-confirmed clean challenge preview (cand1).
+- BANK_14: validated_preview :: User-confirmed clean challenge preview (cand3).
+- BANK_11: artifact_prone :: User reported garbled/unclear playback with artifacts (cand2).
+- BANK_03: artifact_prone :: User reported garbled/unclear playback with artifacts on the original union cut (cand4).
+- BANK_12: artifact_prone :: User reported garbled/unclear playback with artifacts (cand5).
+
+Key outcomes
+- Stable-bank review catalog built for 20 banks.
+- Review bundle exported for 10 banks needing validation or likely to be real previews.
+- Branch-level pruned catalog resolves 9/11 prototype branch families after stage4 pruning.
+- Best-rule hit sum before pruning: 68; after stage4 pruned catalog: 56.
+
+Highest-confidence preview banks
+- BANK_01: status=likely_preview start=00C3F83C-01013676 dur=20.96s streams=1 pos=0x0A4
+- BANK_07: status=likely_preview start=1A00B153-1A596A26 dur=23.34s streams=1 pos=0x08C
+- BANK_08: status=likely_preview start=1A68CDE1-1AB62813 dur=20.68s streams=1 pos=0x06C
+- BANK_17: status=likely_preview start=34B5CA43-350B4A43 dur=23.76s streams=1 pos=0x06C
+- BANK_02: status=likely_preview start=02FDE80B-033D644F dur=16.90s streams=1 pos=0x094
+- BANK_16: status=validated_preview start=34670A3F-34B18A3F dur=19.80s streams=1 pos=0x014
+- BANK_14: status=validated_preview start=328C4A2B-32E14A2B dur=23.16s streams=1 pos=0x0A4
+
+Banks that were improved or explicitly downgraded
+- BANK_11: status=artifact_prone_nonpreview dur=98.08s streams=5 pos=0x08C User reported garbled/unclear playback with artifacts (cand2).
+- BANK_20: status=extended_preview_candidate dur=55.16s streams=1 pos=0x014
+- BANK_18: status=multistream_preview_candidate dur=22.68s streams=2 pos=0x014
+- BANK_09: status=multistream_preview_candidate dur=18.48s streams=2 pos=0x0A4
+- BANK_03: status=needs_recut_review dur=16.14s streams=1 pos=0x088 User reported garbled/unclear playback with artifacts on the original union cut (cand4).
+- BANK_12: status=needs_recut_review dur=14.09s streams=1 pos=0x088 User reported garbled/unclear playback with artifacts (cand5).
+
+Interpretation
+- Stage4 confirms that user playback feedback matters: the original stage2/stage3 representative cuts were not always the cleanest contributor intervals for a bank.
+- BANK_03 is the clearest salvage case: the old user-opened union cut was artifact-prone, but the contributor-level re-cut now targets the cleaner 0x088 single-stream interval.
+- BANK_11 is now explicitly downgraded: 5 streams + 98s + user-garbled playback makes it a bad challenge-preview candidate.
+- BANK_01 / BANK_07 / BANK_08 / BANK_17 remain the strongest unvalidated likely-preview queue.
+- BANK_18 and BANK_20 remain worth checking, but they should be treated as separate classes: multistream preview candidate and extended preview candidate respectively.
+
+Next correct move
+- User should manually open the new stage4 review bundle, especially BANK_01 / BANK_02 / BANK_03 / BANK_07 / BANK_08 / BANK_17 / BANK_18 / BANK_20.
+- After that, stage5 can freeze a curated challenge-preview catalog and emit a cleaner extractor prototype for the resolved subset of 43fc6f.

@@ -1,0 +1,29 @@
+Stage 34 · family-aware transfer scout on 43fc85
+
+Domain summary
+- domain: 43fc85
+- hits: 47
+- primary target: scout-only, no clean promotion
+- strongest field candidates: 0x024, 0x008, 0x020, 0x094, 0x0A4
+
+Scout outcome
+- built 7 ranked candidate exports
+- 7 / 7 candidates contain at least one video stream
+- all top-ranked family hints are weak; strongest nearest-neighbor matches lean toward track_menu_preview_family_01
+- clip durations are short (mostly ~0.76s to ~1.32s), so this is likely fragment-heavy territory
+
+Most promising manual-review queue
+- rank01: 43fc85_stage34_rank01_pos008_36FA87CC_36FD47CC.pss
+- rank02: 43fc85_stage34_rank02_pos024_375B1DBA_375DDDBA.pss
+- rank03: 43fc85_stage34_rank03_pos014_377A06F3_377CC6F3.pss
+- rank04: 43fc85_stage34_rank04_pos020_37FEFCEB_3801BCEB.pss
+
+Integrity
+- TNG path: /mnt/data/TNG_rebuilt/TNG.000
+- size: 1225915283
+- CRC32: 0xC740B8AA
+- SHA-256: 004ac1676376275bf40c1fd5c1c4a9dcfaae870bf1a7916434eb73b0b1faff86
+
+Decision
+- Stage 34 remains in secondary-layer scout mode
+- do not promote anything to clean media until manual validation confirms playable content

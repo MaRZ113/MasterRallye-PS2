@@ -1,0 +1,7 @@
+candidate_file,field_pos,mode,start,end,size_bytes,support,streams,format_name,duration,file_ident
+43fc6f_stage2_revised_pos20_modeabs_cand1_34670A3F_34B18A3F.pss,20,abs,879168063,884050495,4882436,21,1,mpeg,19.8,"MPEG sequence, v2, program multiplex"
+43fc6f_stage2_revised_pos140_modeabs_cand2_2119C627_2219E229.pss,140,abs,555337255,572121641,16784390,6,5,mpeg,98.08,"MPEG sequence, v2, program multiplex"
+43fc6f_stage2_revised_pos164_modeabs_cand3_328C4A2B_32E14A2B.pss,164,abs,848054827,853625387,5570564,6,1,mpeg,23.16,"MPEG sequence, v2, program multiplex"
+43fc6f_stage2_revised_pos148_modeabs_cand4_043AA9BD_04B54026.pss,148,abs,70953405,78987302,8033901,6,2,mpeg,8.499622,"MPEG sequence, v2, program multiplex"
+43fc6f_stage2_revised_pos136_modeabs_cand5_22BAF7A5_234ACB4E.pss,136,abs,582678437,592104270,9425837,6,1,mpeg,14.094122,"MPEG sequence, v2, program multiplex"
+43fc6f_stage2_revised_pos108_modeabs_cand6_34B5CA43_350B4A43.pss,108,abs,884329027,889932355,5603332,6,1,mpeg,23.76,"MPEG sequence, v2, program multiplex"

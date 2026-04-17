@@ -1,0 +1,6 @@
+file,size_bytes,duration,nb_streams,video_codecs,audio_codecs,width,height
+43fc7f_stage20_rank04_pos01c_37D8EA40_3802EA40.pss,2752512,,1,mpeg2video,,512,256
+43fc7f_stage20_rank07_pos008_36F887CC_372287CC.pss,2752512,,1,mpeg2video,,512,256
+43fc7f_track_menu_preview_01_trimmed_37DA6B3E_3802EA40.pss,2653954,14.680000,1,mpeg2video,,512,256
+43fc7f_composite_bundle_01_prefix_preview_36F887CC_37162B32.pss,1942374,12.440000,1,mpeg2video,,512,256
+43fc7f_composite_bundle_01_tail_preview_37162B32_372287CC.pss,810138,4.720000,1,mpeg2video,,512,256

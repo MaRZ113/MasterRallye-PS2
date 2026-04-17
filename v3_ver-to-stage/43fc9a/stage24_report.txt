@@ -1,0 +1,12 @@
+Stage 24: family-aware transfer-scout on domain 43fc9a
+TNG size: 1225915283
+Domain hits: 104
+Top candidates:
+rank01: pos0a4 support=6 codec=mp2,mpeg2video dur=12.64 res=512x256 branches=0000010c43fc9ae9|7321:6
+rank02: pos020 support=5 codec=mp2,mpeg1video dur=14.38 res=512x256 branches=0000010c43fc9ae9|71d0:5
+rank03: pos024 support=6 codec=mpeg2video dur=16.8 res=512x256 branches=0000010c43fc9ae9|7321:6
+rank04: pos094 support=6 codec=mpeg2video dur=15.4 res=512x256 branches=0000010c43fc9ae9|7321:6
+rank05: pos094 support=6 codec=mpeg2video dur=15.12 res=512x256 branches=0000010c43fc9ae9|7321:6
+rank06: pos024 support=6 codec=mpeg2video dur=12.6 res=512x256 branches=0000010c43fc9ae9|7321:6
+rank07: pos094 support=6 codec=mpeg2video dur=12.24 res=512x256 branches=0000010c43fc9ae9|7321:6
+Rationale: 43fc9a selected over 43fc7d/43fc81 due to healthier ffprobe signals and sane durations.

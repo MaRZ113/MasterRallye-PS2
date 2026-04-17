@@ -1,0 +1,3 @@
+source_bundle,support_assignments,top_branches,bundle_status,clean_entity,resolved_mode,notes
+43fc7f_stage20_rank04_pos01c_37D8EA40_3802EA40.pss,13,0000010c43fc7f92|c909:6 | 0000010c43fc7f92|c90f:6 | 0000010c43fc7f8b|243f:1,resolved_via_trim,43fc7f_track_menu_preview_01_trimmed,trim_policy,Contaminated intro removed at stable I-frame; remaining content is a single coherent track preview.
+43fc7f_stage20_rank07_pos008_36F887CC_372287CC.pss,7,0000010c43fc7f92|cc87:6 | 0000010c43fc7fc2|cc87:1,split_recovered_but_not_promoted,,secondary_composite_with_subsegments,Contains two distinct track previews; recovered prefix and tail kept as evidence until routing is known.

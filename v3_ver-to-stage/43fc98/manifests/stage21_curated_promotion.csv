@@ -1,0 +1,2 @@
+media_label,media_class,family,recovery_source_bundle,absolute_start_hex,absolute_end_hex,assignment_count,promotion_reason,promotion_policy
+43fc7f_track_menu_preview_01_trimmed,track_menu_preview_fmv,track_menu_preview_family_02,43fc7f_stage20_rank04_pos01c_37D8EA40_3802EA40.pss,0x37DB8B2F,0x3802EA40,13,Recovered clean main body after contaminated lead-in,clean promotion with trim policy

@@ -1,0 +1,51 @@
+Stage 21 · 43fc7f split-aware recovery and selective promotion
+==============================================================
+
+Goal
+----
+Convert the manual validation from Stage 20 into a conservative recovery step:
+- resolve rank04 as a recoverable clean track preview after trimming contaminated lead-in
+- split rank07 into recovered subsegments without falsely promoting an unresolved composite bundle
+
+Integrity / environment
+-----------------------
+TNG.000 retained at: /mnt/data/TNG_rebuilt/TNG.000
+Size: 1,225,915,283 bytes
+
+Recovered results
+-----------------
+1) rank04 -> clean promotion
+   Source bundle: 43fc7f_stage20_rank04_pos01c_37D8EA40_3802EA40.pss
+   Trim point: local 0x2A0EF (absolute 0x37DB8B2F)
+   Recovered media: 43fc7f_track_menu_preview_01_trimmed_37DB8B2F_3802EA40.pss
+   Duration: 14.200000s
+   Frame count: 352
+   Policy: clean promotion with trim
+
+2) rank07 -> split-aware recovery only
+   Source bundle: 43fc7f_stage20_rank07_pos008_36F887CC_372287CC.pss
+   Prefix recovered: 43fc7f_composite_bundle_01_prefix_preview_36F887CC_37104B1F.pss
+   Tail recovered:   43fc7f_composite_bundle_01_tail_preview_3711AB1F_372287CC.pss
+   Transition gap removed: 0x16000 bytes
+   Policy: keep parent bundle in secondary layer; recovered subsegments are evidence-only until routing is solved
+
+Why rank07 was NOT promoted
+---------------------------
+The user confirmed that rank07 contains two different track previews inside a single source bundle.
+That means the 7 assignments attached to the source bundle cannot be cleanly routed to prefix or tail yet.
+Promoting either subsegment now would overstate what we actually know.
+
+Stage 21 decision
+-----------------
+- PROMOTE: rank04 recovered main body as new clean track menu preview anchor
+- KEEP SECONDARY: rank07 composite source bundle, with prefix/tail recovered as evidence
+
+Artifacts
+---------
+clean_media/
+recovered_media/
+source_bundles/
+contact_sheets/
+manifests/
+
+Bundle: stage21_bundle.zip

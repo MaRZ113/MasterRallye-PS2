@@ -1,0 +1,8 @@
+rank,domain,candidate,hint,matched_family,reason
+1,43fc96,43fc96_stage44_rank01_pos008_0A91105E_0A93D05E.pss,family_aware_micro_window,,No automatic family match; manual review needed for micro-window scout.
+2,43fc96,43fc96_stage44_rank02_pos014_115FB4F9_116274F9.pss,needs_manual_validation,,Probe did not yield a stable family-aware hint.
+3,43fc96,43fc96_stage44_rank03_pos088_269009D7_2692C9D7.pss,needs_manual_validation,,Probe did not yield a stable family-aware hint.
+4,43fc96,43fc96_stage44_rank04_pos094_43FAB722_43FD7722.pss,needs_manual_validation,,Probe did not yield a stable family-aware hint.
+5,43fc96,43fc96_stage44_rank05_pos0a4_00D2D6E6_00D596E6.pss,needs_manual_validation,,Probe did not yield a stable family-aware hint.
+6,43fc96,43fc96_stage44_rank06_pos0a4_157C7EAB_157F3EAB.pss,needs_manual_validation,,Probe did not yield a stable family-aware hint.
+7,43fc96,43fc96_stage44_rank07_pos0a4_02505BFB_02531BFB.pss,likely_non_fmv_or_audio,,Probe did not yield a stable family-aware hint.

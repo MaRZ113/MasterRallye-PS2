@@ -1,0 +1,47 @@
+43fc6f semantic pass - initial feature extraction
+total_hits=282 filesize=1225915283
+top sig8:
+  0000010c43fc6f92 :: 101
+  0000010c43fc6f91 :: 90
+  0000010c43fc6f8b :: 46
+  0000010c43fc6f85 :: 38
+  0000010c43fc6f25 :: 4
+  0000010c43fc6ff3 :: 3
+top body_prefix:
+  2402 :: 94
+  c900 :: 61
+  c807 :: 40
+  201c :: 33
+  4805 :: 29
+  4039 :: 9
+  2015 :: 9
+  9201 :: 4
+  d6cd :: 3
+top tail_sig8:
+  0000010d43fc7943 :: 79
+  0000010d43fc7743 :: 41
+  0000010d43fc7761 :: 21
+  0000010d43fc7961 :: 15
+  0000010d43fc7543 :: 12
+  0000010d43fc774b :: 8
+  0000010d43fc7b43 :: 7
+  0000010d43fc754b :: 7
+  0000010d43fc794b :: 6
+  0000010d43fc9bb2 :: 5
+top candidate aligned u32 positions (heuristic):
+  pos=0x08C in_range=0.461 align16=0.177 align800=0.031 uniq=44 starts=29f0dc2650120226 | 653fce2e41bda628 | c0e4bbf74e652fa5
+  pos=0x0A4 in_range=0.436 align16=0.081 align800=0.016 uniq=45 starts=94a799b98781aba6 | 805056d15bfc57fa | 8054581924513316
+  pos=0x094 in_range=0.415 align16=0.085 align800=0.000 uniq=43 starts=5c12be0cc0495c0c | 862e38da3f80afed | ffc7b28dffad9375
+  pos=0x088 in_range=0.390 align16=0.164 align800=0.018 uniq=44 starts=a675b685eb6cf69b | 9b2b403f1e23d83e | 0b921084622bdd02
+  pos=0x014 in_range=0.390 align16=0.000 align800=0.000 uniq=24 starts=b2aa40cfd94d8d91 | bdb8ded331a91094 | 476f06334748500c
+  pos=0x058 in_range=0.387 align16=0.101 align800=0.000 uniq=42 starts=7c9493ac3a4c130e | 02a506a12c79b9e4 | 2c260024ed58183f
+  pos=0x114 in_range=0.383 align16=0.130 align800=0.065 uniq=50 starts=ac060a7bf8723e09 | 25a109c3360eb9d9 | 0000000000000000
+  pos=0x118 in_range=0.383 align16=0.111 align800=0.009 uniq=52 starts=3ca3bd41548e4f9c | 843f77ef01503051 | 418dad4dd044ffb1
+  pos=0x024 in_range=0.383 align16=0.056 align800=0.019 uniq=33 starts=68c5137a78c46802 | 3ce4b10843498c9a | 000b75bbdbbea5be
+  pos=0x01C in_range=0.379 align16=0.028 align800=0.028 uniq=20 starts=2d1c042d3800780c | dd50dd0002336c3e | 77fe6424b7679033
+  pos=0x1AC in_range=0.376 align16=0.094 align800=0.000 uniq=54 starts=3109518919ab0000 | 5600888263ff655c | 002a9c014c61073f
+  pos=0x180 in_range=0.372 align16=0.114 align800=0.019 uniq=56 starts=d43c6e44fc425b5c | 0081685700725646 | 04473ce5022dc2ad
+notes:
+  body_prefix is rec[0x08:0x0A], matching prior 43fc65 method.
+  tail_sig8 is nearest 0x0000010d marker within 64 KiB; <none> means no such marker found.
+  candidate_u32_fields are ranked by in-range ratio first, then alignment, then uniqueness.

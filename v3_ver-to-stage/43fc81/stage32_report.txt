@@ -1,0 +1,24 @@
+Stage 32 · family-aware transfer scout for 43fc81
+
+Summary
+- Full TNG.000 integrity rechecked and matched expected size/hash.
+- Selected next unreconciled media-like domain: 43fc81.
+- Total domain hits: 81.
+- Built 7 secondary-layer candidate exports with ffprobe metadata.
+- No clean promotion yet; waiting for manual validation.
+
+Strongest repeated fields
+- 0x014: top support 12, repeated values>=2 16
+- 0x024: top support 12, repeated values>=2 16
+- 0x028: top support 12, repeated values>=2 14
+- 0x01C: top support 7, repeated values>=2 17
+- 0x088: top support 6, repeated values>=2 20
+
+Top candidates
+- rank01: mpeg2video 512x256 dur=14.36 support=12 hint=track_menu_preview_family_01
+- rank02: mpeg2video 512x256 dur=nan support=12 hint=track_menu_preview_family_01
+- rank03: mpeg1video 512x256 dur=11.34 support=6 hint=challenge_preview_like
+- rank04: mpeg1video 512x256 dur=nan support=6 hint=composite_or_hybrid_preview_like
+- rank05: mpeg2video 512x256 dur=10.61 support=4 hint=challenge_preview_like
+- rank06: mpeg2video 512x256 dur=nan support=6 hint=track_menu_preview_family_01
+- rank07: mpeg1video 512x256 dur=11.9 support=3 hint=composite_or_hybrid_preview_like

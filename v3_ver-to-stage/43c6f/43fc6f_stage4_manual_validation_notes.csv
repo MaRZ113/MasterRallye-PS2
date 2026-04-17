@@ -1,0 +1,6 @@
+bank_id,manual_status,manual_note
+BANK_16,validated_preview,User-confirmed clean challenge preview (cand1).
+BANK_14,validated_preview,User-confirmed clean challenge preview (cand3).
+BANK_11,artifact_prone,User reported garbled/unclear playback with artifacts (cand2).
+BANK_03,artifact_prone,User reported garbled/unclear playback with artifacts on the original union cut (cand4).
+BANK_12,artifact_prone,User reported garbled/unclear playback with artifacts (cand5).

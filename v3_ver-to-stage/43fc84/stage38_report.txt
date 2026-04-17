@@ -1,0 +1,24 @@
+Stage 38
+========
+Chosen domain: 43fc84
+Mode: family-aware transfer scout (secondary layer only)
+
+TNG path: /mnt/data/TNG_rebuilt/TNG.000
+TNG size: 1225915283
+Domain hits: 35
+Scout window: 0x2C000 bytes
+
+Summary:
+- 43fc46 was recorded as a dead scout after full manual failure.
+- Stage 38 moves to 43fc84 as the next unresolved 43fc** domain with repeatable 512x256 mpeg2 windows.
+- All outputs in this stage are fixed-size micro-window probe candidates, not clean promotions.
+- Manual review should start with rank01/rank02/rank03.
+
+Top candidates:
+  rank01 43fc84_stage38_rank01_pos148_3603C454_36068454.pss support=9 dur=1.320000 hint=track_menu_preview_family_01?
+  rank02 43fc84_stage38_rank02_pos008_37FA8764_37FD4764.pss support=3 dur=1.040000 hint=track_menu_preview_family_01?
+  rank03 43fc84_stage38_rank03_pos164_3B3DCF88_3B408F88.pss support=3 dur=1.200000 hint=track_menu_preview_family_01?
+  rank04 43fc84_stage38_rank04_pos032_39B0DFED_39B39FED.pss support=3 dur=0.840000 hint=challenge_preview_family_misc?
+  rank05 43fc84_stage38_rank05_pos136_3936BFFA_39397FFA.pss support=3 dur=0.760000 hint=unknown_video_like
+  rank06 43fc84_stage38_rank06_pos028_31F8D0CF_31FB90CF.pss support=2 dur=0.920000 hint=challenge_preview_family_misc?
+  rank07 43fc84_stage38_rank07_pos040_37B488BD_37B748BD.pss support=1 dur=1.160000 hint=challenge_preview_family_misc?

@@ -1,0 +1,3 @@
+source_bundle,source_range_start_hex,source_range_end_hex,split_local_pos_dec,split_abs_start_hex,action,result,output_file,notes
+rank04,0x37D8EA40,0x3802EA40,98558,0x37DA6B3E,trim_leading_foreign_tail,clean_promotion,43fc7f_track_menu_preview_01_trimmed_37DA6B3E_3802EA40.pss,Leading foreign GO Cup tail removed at ffprobe PTS reset / keyframe boundary.
+rank07,0x36F887CC,0x372287CC,1942374,0x37162B32,split_composite_bundle,secondary_recovered_subsegments,43fc7f_composite_bundle_01_prefix_preview_36F887CC_37162B32.pss | 43fc7f_composite_bundle_01_tail_preview_37162B32_372287CC.pss,Composite bundle split at ffprobe PTS reset / keyframe boundary; routing unresolved so kept outside clean layer.

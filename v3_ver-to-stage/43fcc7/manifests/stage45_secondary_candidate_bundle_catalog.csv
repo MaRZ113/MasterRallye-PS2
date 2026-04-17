@@ -1,0 +1,8 @@
+rank,domain,field_offset,start_offset,end_offset,support,video_streams,audio_streams,codec,width,height,duration,filename,contact_sheet
+1,43fcc7,0x008,0x0A0F3BBC,0x0A11FBBC,12,1,0,mpeg2video,512,256,0.760000,43fcc7_stage45_rank01_pos008_0A0F3BBC_0A11FBBC.pss,43fcc7_stage45_rank01_pos008_0A0F3BBC_0A11FBBC.png
+2,43fcc7,0x01C,0x37526070,0x37552070,7,1,0,mpeg2video,512,256,0.880000,43fcc7_stage45_rank02_pos028_37526070_37552070.pss,43fcc7_stage45_rank02_pos028_37526070_37552070.png
+3,43fcc7,0x088,0x3756216A,0x3758E16A,3,1,0,mpeg2video,512,256,0.960000,43fcc7_stage45_rank03_pos136_3756216A_3758E16A.pss,43fcc7_stage45_rank03_pos136_3756216A_3758E16A.png
+4,43fcc7,0x094,0x0D404123,0x0D430123,7,1,0,,0,0,24088.464200,43fcc7_stage45_rank04_pos148_0D404123_0D430123.pss,
+5,43fcc7,0x0A4,0x1D9F99DB,0x1DA259DB,4,1,0,,0,0,0.800000,43fcc7_stage45_rank05_pos164_1D9F99DB_1DA259DB.pss,
+6,43fcc7,0x094,0x1C3F5203,0x1C421203,4,1,0,,0,0,0.000011,43fcc7_stage45_rank06_pos148_1C3F5203_1C421203.pss,
+7,43fcc7,0x08C,0x04B0B6A5,0x04B376A5,3,1,0,,0,0,0.360000,43fcc7_stage45_rank07_pos140_04B0B6A5_04B376A5.pss,

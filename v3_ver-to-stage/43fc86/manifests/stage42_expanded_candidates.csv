@@ -1,0 +1,6 @@
+rank,source_start_hex,source_end_hex,expanded_start_hex,expanded_end_hex,expanded_size_bytes,candidate_file,duration_s,video_codec,width,height,video_streams,audio_streams,probe_ok
+1,34FD27FB,34FFE7FB,34FD2000,351D2000,2097152,/mnt/data/semantic_pass_cross_domain_stage42/candidate_media/43fc86_stage42_rank01_expanded_34FD2000_351D2000.pss,,mpeg2video,512,256,1,0,1
+2,3625B5A0,362875A0,3625B000,3645B000,2097152,/mnt/data/semantic_pass_cross_domain_stage42/candidate_media/43fc86_stage42_rank02_expanded_3625B000_3645B000.pss,,mpeg2video,512,256,1,0,1
+3,36AA429B,36AD029B,36AA4000,36CA4000,2097152,/mnt/data/semantic_pass_cross_domain_stage42/candidate_media/43fc86_stage42_rank03_expanded_36AA4000_36CA4000.pss,13.640000,mpeg2video,512,256,1,0,1
+5,30B67AE2,30B93AE2,30B67000,30D67000,2097152,/mnt/data/semantic_pass_cross_domain_stage42/candidate_media/43fc86_stage42_rank05_expanded_30B67000_30D67000.pss,11.560000,mpeg2video,512,256,1,0,1
+6,350D5479,35101479,350D5000,352D5000,2097152,/mnt/data/semantic_pass_cross_domain_stage42/candidate_media/43fc86_stage42_rank06_expanded_350D5000_352D5000.pss,9.000000,mpeg2video,512,256,1,0,1

@@ -1,0 +1,8 @@
+rank,file,field_pos,start_hex,end_hex,start,end,support,sig8,body_prefix,video,audio,vcodec,width,height,duration,family_hint
+1,43fc84_stage38_rank01_pos148_3603C454_36068454.pss,0x094,3603C454,36068454,906216532,906396756,9,e8,9212,True,False,mpeg2video,512,256,1.320000,track_menu_preview_family_01?
+2,43fc84_stage38_rank02_pos008_37FA8764_37FD4764.pss,0x008,37FA8764,37FD4764,939165540,939345764,3,e9,6487,True,False,mpeg2video,512,256,1.040000,track_menu_preview_family_01?
+3,43fc84_stage38_rank03_pos164_3B3DCF88_3B408F88.pss,0x0A4,3B3DCF88,3B408F88,993906568,994086792,3,e9,521f,True,False,mpeg2video,512,256,1.200000,track_menu_preview_family_01?
+4,43fc84_stage38_rank04_pos032_39B0DFED_39B39FED.pss,0x020,39B0DFED,39B39FED,967892973,968073197,3,e9,5300,True,False,mpeg2video,512,256,0.840000,challenge_preview_family_misc?
+5,43fc84_stage38_rank05_pos136_3936BFFA_39397FFA.pss,0x088,3936BFFA,39397FFA,959889402,960069626,3,e9,5300,True,False,mpeg2video,512,256,0.760000,unknown_video_like
+6,43fc84_stage38_rank06_pos028_31F8D0CF_31FB90CF.pss,0x01C,31F8D0CF,31FB90CF,838389967,838570191,2,e9,521f,True,False,mpeg2video,512,256,0.920000,challenge_preview_family_misc?
+7,43fc84_stage38_rank07_pos040_37B488BD_37B748BD.pss,0x028,37B488BD,37B748BD,934578365,934758589,1,e9,521f,True,False,mpeg2video,512,256,1.160000,challenge_preview_family_misc?

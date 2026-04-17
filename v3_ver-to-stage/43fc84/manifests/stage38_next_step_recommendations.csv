@@ -1,0 +1,4 @@
+priority,action,reason
+1,"Review rank01, rank02, rank03 first",Highest support and clean 512x256 mpeg2 windows
+2,Treat all outputs as micro-window scouts,All candidates are fixed-size probe windows around repeated offsets
+3,"If any candidate is playable, run adaptive expansion in next stage",Likely longer underlying preview beyond scout window

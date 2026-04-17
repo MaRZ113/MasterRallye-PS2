@@ -1,0 +1,2 @@
+reason,implication,stage42_action
+stage41 scout windows were fixed-size micro-probes (~0x2C000 bytes),playable <1s windows can still indicate valid media families,expand only user-confirmed live windows to 0x200000-byte candidates for manual review

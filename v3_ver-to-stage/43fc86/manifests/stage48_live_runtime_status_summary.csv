@@ -1,0 +1,7 @@
+status,family_id,routing_result,hit_count
+unresolved,,unknown_pair,58665
+confirmed_clean,43fc9a_challenge_preview_01,seed_pair_match,99
+confirmed_clean,track_menu_preview_family_01,seed_pair_match,57
+confirmed_clean,43fc7d_challenge_preview_01,seed_pair_match,29
+needs_field_resolution,,ambiguous_43fc86_pair,22
+reject_nonstandard,video_like_nonstandard,seed_pair_match,3

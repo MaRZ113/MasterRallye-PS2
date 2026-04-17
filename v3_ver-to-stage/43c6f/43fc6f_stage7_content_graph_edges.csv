@@ -1,0 +1,8 @@
+source_type,source,target_type,target,media_class,weight_records,bank_id
+branch_family,0000010c43fc6f91|2402,content_label,challenge_preview_01,challenge_preview_fmv,3,BANK_14
+branch_family,0000010c43fc6f92|c900,content_label,challenge_preview_01,challenge_preview_fmv,6,BANK_14
+branch_family,0000010c43fc6f8b|2402,content_label,challenge_preview_02,challenge_preview_fmv,6,BANK_16
+branch_family,0000010c43fc6f92|c807,content_label,challenge_preview_02,challenge_preview_fmv,15,BANK_16
+branch_family,0000010c43fc6f91|201c,content_label,challenge_preview_03,challenge_preview_fmv,12,BANK_17
+branch_family,0000010c43fc6f85|4805,content_label,menu_background_01,menu_background_fmv,6,BANK_20
+branch_family,0000010c43fc6f91|2015,content_label,menu_background_01,menu_background_fmv,4,BANK_20
